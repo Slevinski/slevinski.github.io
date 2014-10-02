@@ -86,23 +86,6 @@ To build the fonts from the sources, you need [FontForge][45] with [Python scrip
 
 To control the different aspect of the automated font creation, customize the files in the `source`  directory and the `tools` directory.  Newly created fonts are written to the `fonts` directory.
 
-
-### Source SVG
-The SignWriting 2010 Fonts are created from individual SVG files.  The SVG files are available in the following zipped directories.  The SVG files are available from the SignWriting 2010 Font project.
-
-#### Individually Sized SVG
-> [SVG1 Unified Glyphs][13]  
-[SVG1 Line Glyphs][14]  
-[SVG1 Filling Glyphs][15]  
-SVG1 Other Glyphs  
-
-#### Mono Sized SVG with viewBox
-
-> [SVG1 Unified Glyphs][16]  
-[SVG1 Line Glyphs][17]  
-[SVG1 Filling Glyphs][18]  
-SVG1 Other Glyphs
-
 ### Tools Directory
 To build individual font files, use the Python script `build.py`.   Use "-h" for help
 
@@ -121,6 +104,22 @@ Several text files are included in the `tools` directory.
 * `custom.txt` - list of custom settings for the entire font.
 * `glyph.txt` - list of glyph settings to apply to each char.
 * `svg1ref.txt` - cross reference file from symbol key to subfont, such as Unified, Line, or Other.
+
+### Source SVG
+The source SVG files required for the build process are available from the [SignWriting 2010 Font][29] project.
+
+#### Individually Sized SVG
+> [SVG1 Unified Glyphs][13]  
+[SVG1 Line Glyphs][14]  
+[SVG1 Filling Glyphs][15]  
+SVG1 Other Glyphs  
+
+#### Mono Sized SVG with viewBox
+
+> [SVG1 Unified Glyphs][16]  
+[SVG1 Line Glyphs][17]  
+[SVG1 Filling Glyphs][18]  
+SVG1 Other Glyphs
 
 - - -
 
@@ -168,10 +167,8 @@ Wikimedia Incubator
 
 The [SignWriting Gadget][38] makes is possible for Wikimedia Incubator to support any sign language with SignWriting Text.
 
-The [ASL Wikipedia][39] has been started and currently has over 50 articles.
-Other sign language projects are ready to start.
+The [ASL Wikipedia][39] has been started and currently has over 50 articles. Other sign language projects are ready to start.
 View the [Test wikis of sign language][40] for the current list.
-
 - - -
 
 draft-slevinski-signwriting-text
