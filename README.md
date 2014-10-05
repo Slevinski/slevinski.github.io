@@ -55,11 +55,13 @@ Encoding and transformation by Stephen E Slevinski Jr.
 The SVGs of the compatibility glyphs for the character set "S1234567890abcdef" are based on [Source Sans Pro][25]
 written by Paul D. Hunt and licensed under [SIL Open Font License][24], version 1.1.
 
-### Test Pages
-There are several prototype test pages available for the SignWritig 2010 fonts.
+### Demo Pages
+The demo pages can be created with the SignWriting 2010 Tools.
+There are 3 types of demo pages available online.
 
-* [Symbol and sign report][27]
-* [Multiple font comparison][28]
+* Unicode 8 demo pages: [view online][47] or [download][48]
+* Unicode Private Use Area demo pages: [view online][49] or [download][50]
+* Symbol Key demo pages: [view online][51] or [download][52]
 
 ### Character Sets
 Three different character sets can be used to access the glyphs.
@@ -86,6 +88,8 @@ To build the fonts from the sources, you need [FontForge][45] with [Python scrip
 
 To control the different aspect of the automated font creation, customize the files in the `source`  directory and the `tools` directory.  Newly created fonts are written to the `fonts` directory.
 
+To create the demo pages, you need pystache for templating.  Demo pages are written to the `demo` directory.
+
 ### Tools Directory
 To build individual font files, use the Python script `build.py`.   Use "-h" for help
 
@@ -97,6 +101,18 @@ To build all of the release font files, use the shell script `release.sh`.
     cd tools
     chmod a+x release.sh
     ./release.sh
+
+To create the demo pages, use the Python script `demo.py`.  Use "-h" for help.
+
+    cd tools
+    python demo.py -h
+
+
+To build the current demo pages used for development, use the shell script `demo.sh`.
+
+    cd tools
+    chmod a+x demo.sh
+    ./demo.sh
 
 Several text files are included in the `tools` directory.
 
@@ -231,3 +247,9 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [44]: https://raw.githubusercontent.com/Slevinski/signwriting_2010_tools/master/source/signwriting_2010_symbolkey.fea
 [45]: http://fontforge.org/
 [46]: http://fontforge.org/python.html
+[47]: http://signpuddle.net/iswa/demo/unicode8
+[48]: http://signpuddle.net/iswa/demo/unicode8.zip
+[49]: http://signpuddle.net/iswa/demo/unicodepua
+[50]: http://signpuddle.net/iswa/demo/unicodepua.zip
+[51]: http://signpuddle.net/iswa/demo/symbolkey
+[52]: http://signpuddle.net/iswa/demo/symbolkey.zip
