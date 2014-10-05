@@ -1,44 +1,39 @@
 <!doctype html>
-<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
-<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on http://github.com/jonrohan -->
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Stephen E Slevinski Jr by Slevinski</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/main.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-  <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen">
-  <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="javascripts/script.js"></script>
+  </head>
+  <body>
 
-  <title>Slevinski.github.io</title>
-  <meta name="description" content="the projects for written sign language with SignWriting Text">
+      <header>
+        <h1>Stephen E Slevinski Jr</h1>
+        <p>the projects for written sign language with SignWriting Text</p>
+      </header>
 
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+      <div id="banner">
+        <span id="logo"></span>
 
-</head>
+        <a href="https://github.com/Slevinski" class="button fork"><strong>View On GitHub</strong></a>
+      </div><!-- end banner -->
 
-<body>
-
-  <div class="wrapper">
-    <header>
-      <h1 class="title">Slevinski.github.io</h1>
-    </header>
-    <div id="container">
-      <p class="tagline">the projects for written sign language with SignWriting Text</p>
-      <div id="main" role="main">
-        <div class="download-bar">
-        <div class="inner">
-          <a href="https://github.com/Slevinski" class="code">View Slevinski on GitHub</a>
-        </div>
-        <span class="blc"></span><span class="trc"></span>
-        </div>
-        <article class="markdown-body">
-          <h1>
-<a name="stephen-e-slevinski-jr" class="anchor" href="#stephen-e-slevinski-jr"><span class="octicon octicon-link"></span></a>Stephen E Slevinski Jr</h1>
-
-<blockquote>
-<p>October 2014  </p>
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+        <hr><blockquote>
+<p>October 2014</p>
 </blockquote>
 
 <h2>
@@ -58,11 +53,10 @@
 
 <ul>
 <li>Wikimedia Incubator</li>
-<li>draft-slevinski-signwriting-text
-- - -</li>
+<li>draft-slevinski-signwriting-text</li>
 </ul>
 </li>
-</ul><h2>
+</ul><hr><h2>
 <a name="signwriting-2010-fonts" class="anchor" href="#signwriting-2010-fonts"><span class="octicon octicon-link"></span></a>SignWriting 2010 Fonts</h2>
 
 <p>Github repo: <a href="https://github.com/Slevinski/signwriting_2010_fonts">signwriting_2010_fonts</a>, currently version 0.9</p>
@@ -112,13 +106,18 @@ Encoding and transformation by Stephen E Slevinski Jr.</p>
 written by Paul D. Hunt and licensed under <a href="http://scripts.sil.org/OFL">SIL Open Font License</a>, version 1.1.</p>
 
 <h3>
-<a name="test-pages" class="anchor" href="#test-pages"><span class="octicon octicon-link"></span></a>Test Pages</h3>
+<a name="demo-pages" class="anchor" href="#demo-pages"><span class="octicon octicon-link"></span></a>Demo Pages</h3>
 
-<p>There are several prototype test pages available for the SignWritig 2010 fonts.</p>
+<p>The demo pages can be created with the SignWriting 2010 Tools.
+There are 3 types of demo pages available online.</p>
 
 <ul>
-<li><a href="http://signpuddle.net/iswa/swfont_test.html">Symbol and sign report</a></li>
-<li><a href="http://signpuddle.net/iswa/swfonts.html">Multiple font comparison</a></li>
+<li>Unicode 8 demo pages: <a href="http://signpuddle.net/iswa/demo/unicode8">view online</a> or <a href="http://signpuddle.net/iswa/demo/unicode8.zip">download</a>
+</li>
+<li>Unicode Private Use Area demo pages: <a href="http://signpuddle.net/iswa/demo/unicodepua">view online</a> or <a href="http://signpuddle.net/iswa/demo/unicodepua.zip">download</a>
+</li>
+<li>Symbol Key demo pages: <a href="http://signpuddle.net/iswa/demo/symbolkey">view online</a> or <a href="http://signpuddle.net/iswa/demo/symbolkey.zip">download</a>
+</li>
 </ul><h3>
 <a name="character-sets" class="anchor" href="#character-sets"><span class="octicon octicon-link"></span></a>Character Sets</h3>
 
@@ -143,6 +142,8 @@ called the <a href="https://github.com/Slevinski/signwriting_2010_fonts">SignWri
 
 <p>To control the different aspect of the automated font creation, customize the files in the <code>source</code>  directory and the <code>tools</code> directory.  Newly created fonts are written to the <code>fonts</code> directory.</p>
 
+<p>To create the demo pages, you need pystache for templating.  Demo pages are written to the <code>demo</code> directory.</p>
+
 <h3>
 <a name="tools-directory" class="anchor" href="#tools-directory"><span class="octicon octicon-link"></span></a>Tools Directory</h3>
 
@@ -157,6 +158,19 @@ python build.py -h
 <pre><code>cd tools
 chmod a+x release.sh
 ./release.sh
+</code></pre>
+
+<p>To create the demo pages, use the Python script <code>demo.py</code>.  Use "-h" for help.</p>
+
+<pre><code>cd tools
+python demo.py -h
+</code></pre>
+
+<p>To build the current demo pages used for development, use the shell script <code>demo.sh</code>.</p>
+
+<pre><code>cd tools
+chmod a+x demo.sh
+./demo.sh
 </code></pre>
 
 <p>Several text files are included in the <code>tools</code> directory.</p>
@@ -256,26 +270,12 @@ The next version is planned for November 2014.</p>
 <a name="epilogue" class="anchor" href="#epilogue"><span class="octicon octicon-link"></span></a>Epilogue</h2>
 
 <p>This is a work in progress. Feedback, bug reports, and patches are welcomed.</p>
-        </article>
-      </div>
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+      </footer>
     </div>
-    <footer>
-      <div class="owner">
-
-      <p><a href="https://github.com/Slevinski" class="avatar"><img src="https://avatars0.githubusercontent.com/u/376945?v=2&amp;s=60" width="48" height="48"></a>View <a href="https://github.com/Slevinski">Slevinski</a> on <a href="https://www.github.com">GitHub</a></p>
-
-      </div>
-      <div class="creds">
-        <small>This page generated using <a href="http://pages.github.com/">GitHub Pages</a><br>theme by <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
-      </div>
-    </footer>
-  </div>
-  <div class="current-section">
-    <a href="#top">Scroll to top</a>
-    <a href="https://github.com/Slevinski/slevinski.github.io/tarball/master" class="tar">tar</a><a href="https://github.com/Slevinski/slevinski.github.io/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
-    <p class="name"></p>
-  </div>
-
-  
-</body>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
 </html>
