@@ -18,35 +18,25 @@ Contents
 
 SignWriting 2010 Fonts
 --------------------------
-Github repo: [signwriting\_2010\_fonts][29], currently version 0.9
+Github repo: [signwriting\_2010\_fonts][29], currently version 0.9.1
 
 SignWriting 2010 is a typeface for written sign languages
 which makes the entire [International SignWriting Alphabet 2010 symbol set][19] available in a TrueType font with OpenType features.
 
-The SignWriting 2010 Fonts are fully functional but not production ready.  
+The SignWriting 2010 Fonts are fully functional and nearly production ready.  The image quality has been perfected for the TrueType fonts, but positioning, alignment, and margin issues still need to be tweaked.
 
-There are several issues with sizing and alignment for the various glyphs.  The font settings and the individual glyph settings can be adjusted in the SignWriting 2010 Tools project and the fonts can quickly be recreated.
+The various settings of the TrueType fonts can be customized with the [SignWriting 2010 Tools][30] project.  
 
-There are a few issues regarding the image quality.  Overall, the TrueType quality is very close to the SVG, but there are obvious differences when the images are zoomed.  There are a handful of symbols that need to be adjusted by hand because the SVG import failed to produce a legible glyph.  These issues will be resolved before the 1.0 release.
-
-
-### Public TrueType Fonts  
-> Reserved Font Name: SignWriting 2010  
+### TrueType Font Downloads
+> Reserved Font Name: [SignWriting 2010][57] with [log report][58]  
 Reserved Font Name: [SignWriting 2010 Filling][1] with [log report][2]  
-Reserved Font Name: SignWriting 2010 Mono  
-Reserved Font Name: [SignWriting 2010 Mono Filling][3] with [log report][4]  
-
-### Development Fonts  
-> Reserved Font Name: [SignWriting 2010 Unified][5] with [log report][6]  
-Reserved Font Name: [SignWriting 2010 Line][7] with [log report][8]  
-Reserved Font Name: SignWriting 2010 Other  
-Reserved Font Name: [SignWriting 2010 Mono Unified][9] with [log report][10]  
-Reserved Font Name: [SignWriting 2010 Mono Line][11] with [log report][12]  
-Reserved Font Name: SignWriting 2010 Other
 
 ### License
 The SignWriting 2010 Fonts are free and open source, released under
 [SIL Open Font License][24], version 1.1.
+
+This Font Software is Copyright (c) 1974-2014  
+Center For Sutton Movement Writing, Inc.
 
 Original symbol design by Valerie Sutton.
 Symbol image refinement in SVG by Adam Frost.
@@ -79,7 +69,7 @@ S10000..S38b07; ISWA 2010 Symbol Keys
 
 SignWriting 2010 Tools
 --------------------------
-Github repo: [signwriting\_2010\_tools][30], currently version 1.0
+Github repo: [signwriting\_2010\_tools][30], currently version 1.2
 
 The SignWriting 2010 Tools are used to build a typeface for written sign languages
 called the [SignWriting 2010 Fonts][29].
@@ -89,6 +79,9 @@ To build the fonts from the sources, you need [FontForge][45] with [Python scrip
 To control the different aspect of the automated font creation, customize the files in the `source`  directory and the `tools` directory.  Newly created fonts are written to the `fonts` directory.
 
 To create the demo pages, you need pystache for templating.  Demo pages are written to the `demo` directory.
+
+To retrace the SVG from the command line, you will need the following command line tools: Inkscape, pngtopnm, mkbitmap, and potrce.
+
 
 ### Tools Directory
 To build individual font files, use the Python script `build.py`.   Use "-h" for help
@@ -117,25 +110,15 @@ To build the current demo pages used for development, use the shell script `demo
 Several text files are included in the `tools` directory.
 
 * `symkeys.txt` - list of the 37,811 symbol keys of the ISWA 2010.
+* `symsizes.txt` - list of the 37,811 symbol keys with their individual sizes
 * `custom.txt` - list of custom settings for the entire font.
 * `glyph.txt` - list of glyph settings to apply to each char.
-* `svg1ref.txt` - cross reference file from symbol key to subfont, such as Unified, Line, or Other.
 
 ### Source SVG
-The source SVG files required for the build process are available from the [SignWriting 2010 Font][29] project.
+The source SVG required to build the TrueType fonts  is available in 2 data files.  These files were created with the SignWriting 2010 Tools by retracing the SVG Refinement using the `retrace.py` script.  These files can be unpacked with the `unpack.py` script.  
 
-#### Individually Sized SVG
-> [SVG1 Unified Glyphs][13]  
-[SVG1 Line Glyphs][14]  
-[SVG1 Filling Glyphs][15]  
-SVG1 Other Glyphs  
-
-#### Mono Sized SVG with viewBox
-
-> [SVG1 Unified Glyphs][16]  
-[SVG1 Line Glyphs][17]  
-[SVG1 Filling Glyphs][18]  
-SVG1 Other Glyphs
+* [SVG Line][55]  
+* [SVG Filling][56]
 
 - - -
 
@@ -253,3 +236,9 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [50]: http://signpuddle.net/iswa/demo/unicodepua.zip
 [51]: http://signpuddle.net/iswa/demo/symbolkey
 [52]: http://signpuddle.net/iswa/demo/symbolkey.zip
+[53]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/source/png_sutton.zip
+[54]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/source/svg_refinement.zip
+[55]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/source/svg_line.zip
+[56]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/source/svg_fill.zip
+[57]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/fonts/SignWriting%202010.ttf
+[58]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/fonts/SignWriting%202010.log
