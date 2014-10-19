@@ -18,14 +18,12 @@ Contents
 
 SignWriting 2010 Fonts
 --------------------------
-Github repo: [signwriting\_2010\_fonts][29], currently version 0.9.1
+Github repo: [signwriting\_2010\_fonts][29], currently version 1.0
 
 SignWriting 2010 is a typeface for written sign languages
 which makes the entire [International SignWriting Alphabet 2010 symbol set][19] available in a TrueType font with OpenType features.
 
-The SignWriting 2010 Fonts are fully functional and nearly production ready.  The image quality has been perfected for the TrueType fonts, but positioning, alignment, and margin issues still need to be tweaked.
-
-The various settings of the TrueType fonts can be customized with the [SignWriting 2010 Tools][30] project.  
+The SignWriting 2010 Fonts are fully functional and production ready.  The image quality and glyph alignment has been perfected. 
 
 ### TrueType Font Downloads
 > Reserved Font Name: [SignWriting 2010][57] with [log report][58]  
@@ -53,6 +51,8 @@ There are 3 types of demo pages available online.
 * Unicode Private Use Area demo pages: [view online][49] or [download][50]
 * Symbol Key demo pages: [view online][51] or [download][52]
 
+Additionally, complete sign images with the TrueType fonts inside of SVGs is working nicely.  View the [codepen][59] example for a working demonstration.
+
 ### Character Sets
 Three different character sets can be used to access the glyphs.
 
@@ -69,7 +69,7 @@ S10000..S38b07; ISWA 2010 Symbol Keys
 
 SignWriting 2010 Tools
 --------------------------
-Github repo: [signwriting\_2010\_tools][30], currently version 1.2
+Github repo: [signwriting\_2010\_tools][30], currently version 1.3
 
 The SignWriting 2010 Tools are used to build a typeface for written sign languages
 called the [SignWriting 2010 Fonts][29].
@@ -80,8 +80,9 @@ To control the different aspect of the automated font creation, customize the fi
 
 To create the demo pages, you need pystache for templating.  Demo pages are written to the `demo` directory.
 
-To retrace the SVG from the command line, you will need the following command line tools: Inkscape, pngtopnm, mkbitmap, and potrce.
+To retrace the SVG from the command line, you will need the following command line tools: Inkscape, pngtopnm, mkbitmap, and potrace.
 
+To unpack the SVG Line and SVG Fill data files, the `unpack.py` tool can be used.
 
 ### Tools Directory
 To build individual font files, use the Python script `build.py`.   Use "-h" for help
@@ -115,7 +116,7 @@ Several text files are included in the `tools` directory.
 * `glyph.txt` - list of glyph settings to apply to each char.
 
 ### Source SVG
-The source SVG required to build the TrueType fonts  is available in 2 data files.  These files were created with the SignWriting 2010 Tools by retracing the SVG Refinement using the `retrace.py` script.  These files can be unpacked with the `unpack.py` script.  
+The source SVG files required to build the fonts are available from the [SignWriting 2010 Fonts][29] project.  These files were created with the SignWriting 2010 Tools by retracing the SVG Refinement using the `retrace.py` script.  To use these files, save them to the `source` directory and unzip.
 
 * [SVG Line][55]  
 * [SVG Filling][56]
@@ -242,3 +243,4 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [56]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/source/svg_fill.zip
 [57]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/fonts/SignWriting%202010.ttf
 [58]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/fonts/SignWriting%202010.log
+[59]: http://codepen.io/Slevinski/pen/exnju
