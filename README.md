@@ -2,11 +2,12 @@ Stephen E Slevinski Jr
 =====================
 _the projects for written sign language with SignWriting Text_
 - - - 
-> October 2014
+> November 2014
 
 Contents
 ---------
 * Github Projects
+  * SignWriting 2010 JavaScript Library
   * SignWriting 2010 Fonts
   * SignWriting 2010 Tools
   * SignWriting Asset Provider
@@ -16,9 +17,27 @@ Contents
   * draft-slevinski-signwriting-text
 - - -
 
+SignWriting 2010 JavaScript Library
+--------------------------
+Github repo: [sw10js][62], currently version 1.0
+
+The JavaScript library leverages the TrueType fonts without any additional requirements. Include the "sw10.js" script or the minified version "sw10.min.js" in any HTML page to access the function library. 
+
+- [SignWriting 2010 JavaScript Library](http://slevinski.github.io/sw10js)  
+- [Guide](http://slevinski.github.io/sw10js/guide.html)  
+- [API](http://slevinski.github.io/sw10js/api.html)  
+- [Testing](http://slevinski.github.io/sw10js/tests)  
+
+### License
+SignWriting 2010 JavaScript Library  
+Copyright (c) 2007-2014, Stephen E Slevinski Jr  
+Licensed under the [MIT License][63]  
+
+- - - 
+
 SignWriting 2010 Fonts
 --------------------------
-Github repo: [signwriting\_2010\_fonts][29], currently version 1.0
+Github repo: [signwriting\_2010\_fonts][29], currently version 1.1
 
 SignWriting 2010 is a typeface for written sign languages
 which makes the entire [International SignWriting Alphabet 2010 symbol set][19] available in a TrueType font with OpenType features.
@@ -28,6 +47,8 @@ The SignWriting 2010 Fonts are fully functional and production ready.  The image
 ### TrueType Font Downloads
 > Reserved Font Name: [SignWriting 2010][57] with [log report][58]  
 Reserved Font Name: [SignWriting 2010 Filling][1] with [log report][2]  
+
+Fonts packaged for iOS: [SignWriting 2010 Configuration Profile][61] 
 
 ### License
 The SignWriting 2010 Fonts are free and open source, released under
@@ -69,7 +90,7 @@ S10000..S38b07; ISWA 2010 Symbol Keys
 
 SignWriting 2010 Tools
 --------------------------
-Github repo: [signwriting\_2010\_tools][30], currently version 1.3
+Github repo: [signwriting\_2010\_tools][30], currently version 1.4
 
 The SignWriting 2010 Tools are used to build a typeface for written sign languages
 called the [SignWriting 2010 Fonts][29].
@@ -176,8 +197,8 @@ draft-slevinski-signwriting-text
 The character encodings used in SignWriting 2010 are defined in an Internet Draft submitted to the IETF: [draft-slevinski-signwriting-text][26].
 The document is improved and resubmitted every 6 months.
 The character design has been stable since January 12, 2012.
-The current version of the Internet Draft is 03.
-The next version is planned for November 2014.
+The current version of the Internet Draft is 04.
+The next version is planned for May 2015.
 
 - - -
 
@@ -244,3 +265,7 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [57]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/fonts/SignWriting%202010.ttf
 [58]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/fonts/SignWriting%202010.log
 [59]: http://codepen.io/Slevinski/pen/exnju
+[60]: https://github.com/Slevinski/sw10js
+[61]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/fonts/SignWriting%202010.mobileconfig
+[62]: http://github.com/Slevinski/sw10js
+[63]: http://www.opensource.org/licenses/mit-license.php
