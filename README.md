@@ -2,7 +2,7 @@ Stephen E Slevinski Jr
 =====================
 _the projects for written sign language with SignWriting Text_
 - - - 
-> November 2014
+> February 2015
 
 Contents
 ---------
@@ -19,7 +19,7 @@ Contents
 
 SignWriting 2010 JavaScript Library
 --------------------------
-Github repo: [sw10js][62], currently version 1.0
+Github repo: [sw10js][62], currently version 1.2.4
 
 The JavaScript library leverages the TrueType fonts without any additional requirements. Include the "sw10.js" script or the minified version "sw10.min.js" in any HTML page to access the function library. 
 
@@ -30,14 +30,14 @@ The JavaScript library leverages the TrueType fonts without any additional requi
 
 ### License
 SignWriting 2010 JavaScript Library  
-Copyright (c) 2007-2014, Stephen E Slevinski Jr  
+Copyright (c) 2007-2015, Stephen E Slevinski Jr  
 Licensed under the [MIT License][63]  
 
 - - - 
 
 SignWriting 2010 Fonts
 --------------------------
-Github repo: [signwriting\_2010\_fonts][29], currently version 1.1
+Github repo: [signwriting\_2010\_fonts][29], currently version 1.1.1
 
 SignWriting 2010 is a typeface for written sign languages
 which makes the entire [International SignWriting Alphabet 2010 symbol set][19] available in a TrueType font with OpenType features.
@@ -75,16 +75,25 @@ There are 3 types of demo pages available online.
 Additionally, complete sign images with the TrueType fonts inside of SVGs is working nicely.  View the [codepen][59] example for a working demonstration.
 
 ### Character Sets
-Three different character sets can be used to access the glyphs.
+The various character sets used to access the symbol glyphs are Unicode compatible.  
 
 1D800..1DAAF; Sutton SignWriting  
-To be published in [Unicode 8][21] in [2015][22].
+To be published in [Unicode 8][64] in [2015][22].  
+Uses 1 to 3 characters per symbol.
 
-FD800..FDFFF; SignWriting Text  
-[Private Use Area characters][26] for 2-dimensional text.
+FD800..FDFFF; SignWriting Text   
+Private Use Area characters.  
+Uses 3 characters per symbol.  Includes characters for structural markers and numbers.
+
+100000...10FFFF; Symbol Code Points  
+Private Use Area characters.  
+Uses 1 character per symbol.
 
 S10000..S38b07; ISWA 2010 Symbol Keys  
+ASCII characters, UTF-8 compatible.  
 [Symbol keys][19] used as glyph names in the font files.
+
+The characters conversions implementation can be found in the [SignWriting 2010 JavaScript Library][60] in the ["sw10.js"][65] file under functions "uni8" for Unicode 8, "pua" for SignWriting Text characters on plane 15, "code" for symbol code points characters on plane 16.  
 
 - - - 
 
@@ -269,3 +278,5 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [61]: https://github.com/Slevinski/signwriting_2010_fonts/raw/master/fonts/SignWriting%202010.mobileconfig
 [62]: http://github.com/Slevinski/sw10js
 [63]: http://www.opensource.org/licenses/mit-license.php
+[64]: http://www.unicode.org/versions/Unicode8.0.0/
+[65]: https://raw.githubusercontent.com/Slevinski/sw10js/gh-pages/sw10.js
