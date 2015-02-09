@@ -35,7 +35,7 @@
         <hr>
 
 <blockquote>
-<p>November 2014</p>
+<p>February 2015</p>
 </blockquote>
 
 <h2>
@@ -65,7 +65,7 @@
 <h2>
 <a id="signwriting-2010-javascript-library" class="anchor" href="#signwriting-2010-javascript-library" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting 2010 JavaScript Library</h2>
 
-<p>Github repo: <a href="http://github.com/Slevinski/sw10js">sw10js</a>, currently version 1.0</p>
+<p>Github repo: <a href="http://github.com/Slevinski/sw10js">sw10js</a>, currently version 1.2.4</p>
 
 <p>The JavaScript library leverages the TrueType fonts without any additional requirements. Include the "sw10.js" script or the minified version "sw10.min.js" in any HTML page to access the function library. </p>
 
@@ -88,7 +88,7 @@
 <a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
 
 <p>SignWriting 2010 JavaScript Library<br>
-Copyright (c) 2007-2014, Stephen E Slevinski Jr<br>
+Copyright (c) 2007-2015, Stephen E Slevinski Jr<br>
 Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">MIT License</a>  </p>
 
 <hr>
@@ -96,7 +96,7 @@ Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">
 <h2>
 <a id="signwriting-2010-fonts" class="anchor" href="#signwriting-2010-fonts" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting 2010 Fonts</h2>
 
-<p>Github repo: <a href="https://github.com/Slevinski/signwriting_2010_fonts">signwriting_2010_fonts</a>, currently version 1.1</p>
+<p>Github repo: <a href="https://github.com/Slevinski/signwriting_2010_fonts">signwriting_2010_fonts</a>, currently version 1.1.1</p>
 
 <p>SignWriting 2010 is a typeface for written sign languages
 which makes the entire <a href="http://signbank.org/iswa">International SignWriting Alphabet 2010 symbol set</a> available in a TrueType font with OpenType features.</p>
@@ -149,16 +149,25 @@ There are 3 types of demo pages available online.</p>
 <h3>
 <a id="character-sets" class="anchor" href="#character-sets" aria-hidden="true"><span class="octicon octicon-link"></span></a>Character Sets</h3>
 
-<p>Three different character sets can be used to access the glyphs.</p>
+<p>The various character sets used to access the symbol glyphs are Unicode compatible.  </p>
 
 <p>1D800..1DAAF; Sutton SignWriting<br>
-To be published in <a href="http://www.unicode.org/alloc/Pipeline.html">Unicode 8</a> in <a href="http://unicode-inc.blogspot.com/2014/08/new-publication-schedule-for-unicode.html">2015</a>.</p>
+To be published in <a href="http://www.unicode.org/versions/Unicode8.0.0/">Unicode 8</a> in <a href="http://unicode-inc.blogspot.com/2014/08/new-publication-schedule-for-unicode.html">2015</a>.<br>
+Uses 1 to 3 characters per symbol.</p>
 
 <p>FD800..FDFFF; SignWriting Text<br>
-<a href="http://tools.ietf.org/html/draft-slevinski-signwriting-text">Private Use Area characters</a> for 2-dimensional text.</p>
+Private Use Area characters.<br>
+Uses 3 characters per symbol.  Includes characters for structural markers and numbers.</p>
+
+<p>100000...10FFFF; Symbol Code Points<br>
+Private Use Area characters.<br>
+Uses 1 character per symbol.</p>
 
 <p>S10000..S38b07; ISWA 2010 Symbol Keys<br>
+ASCII characters, UTF-8 compatible.<br>
 <a href="http://signbank.org/iswa">Symbol keys</a> used as glyph names in the font files.</p>
+
+<p>The characters conversions implementation can be found in the <a href="https://github.com/Slevinski/sw10js">SignWriting 2010 JavaScript Library</a> in the <a href="https://raw.githubusercontent.com/Slevinski/sw10js/gh-pages/sw10.js">"sw10.js"</a> file under functions "uni8" for Unicode 8, "pua" for SignWriting Text characters on plane 15, "code" for symbol code points characters on plane 16.  </p>
 
 <hr>
 
