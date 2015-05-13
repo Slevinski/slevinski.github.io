@@ -2,11 +2,12 @@ Stephen E Slevinski Jr
 =====================
 _the projects for written sign language with SignWriting Text_
 - - - 
-> February 2015
+> May 2015
 
 Contents
 ---------
 * Github Projects
+  * SignMaker 2015
   * SignWriting 2010 JavaScript Library
   * SignWriting 2010 Fonts
   * SignWriting 2010 Tools
@@ -17,9 +18,31 @@ Contents
   * draft-slevinski-signwriting-text
 - - -
 
+SignMaker 2015
+--------------------------
+Github repo: [signmaker][66], currently version 1.0
+
+SignMaker is a standards based editor, utilizing HTML, CSS, JavaScript, SVG, TrueType Fonts, and PNG images.
+Write signs in any sign language with the SignWriting script using the SignWriting 2010 Fonts.
+
+SignMaker is browser based without the need for a server connection. It can be used online or it can be [downloaded](https://github.com/Slevinski/signmaker/archive/gh-pages.zip) and run directly from the user's computer.
+
+The primary online website can be used to create a private dictionary in the browser's LocalStorage or view dozens of sign language dictionaries from around the world.
+ - [SignMaker on SignBank](http://signbank.org/signmaker.html)
+
+The secondary online website can be used to create a private dictionary in the browser's LocalStorage.
+ - [SignMaker on GitHub.io](http://slevinski.github.io/signmaker)
+
+### License
+SignMaker  
+Copyright (c) 2007-2015, Stephen E Slevinski Jr  
+Licensed under the [MIT License][63]  
+
+- - -
+
 SignWriting 2010 JavaScript Library
 --------------------------
-Github repo: [sw10js][62], currently version 1.2.4
+Github repo: [sw10js][62], currently version 1.4.6
 
 The JavaScript library leverages the TrueType fonts without any additional requirements. Include the "sw10.js" script or the minified version "sw10.min.js" in any HTML page to access the function library. 
 
@@ -206,8 +229,8 @@ draft-slevinski-signwriting-text
 The character encodings used in SignWriting 2010 are defined in an Internet Draft submitted to the IETF: [draft-slevinski-signwriting-text][26].
 The document is improved and resubmitted every 6 months.
 The character design has been stable since January 12, 2012.
-The current version of the Internet Draft is 04.
-The next version is planned for May 2015.
+The current version of the Internet Draft is 05.
+The next version is planned for November 2015.
 
 - - -
 
@@ -280,3 +303,4 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [63]: http://www.opensource.org/licenses/mit-license.php
 [64]: http://www.unicode.org/versions/Unicode8.0.0/
 [65]: https://raw.githubusercontent.com/Slevinski/sw10js/gh-pages/sw10.js
+[66]: http://github.com/Slevinski/signmaker
