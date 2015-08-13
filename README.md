@@ -37,9 +37,9 @@ The secondary online website can be used to create a private dictionary in the b
  - [SignMaker on GitHub.io](http://slevinski.github.io/signmaker)
 
 ### License
-SignMaker 
-Copyright (c) 2007-2015, Stephen E Slevinski Jr 
-Licensed under the [MIT License][63] 
+SignMaker  
+Copyright (c) 2007-2015, Stephen E Slevinski Jr  
+Licensed under the [MIT License][63]  
 
 - - -
 
@@ -54,9 +54,9 @@ The SignWriting Character Viewer is composed of an HTML file, a CSS file, and 5 
 
 
 ### License
-SignWriting Character Viewer 
-Copyright (c) 2007-2015, Stephen E Slevinski Jr 
-Licensed under the [MIT License][63] 
+SignWriting Character Viewer  
+Copyright (c) 2007-2015, Stephen E Slevinski Jr  
+Licensed under the [MIT License][63]  
 
 - - -
 
@@ -71,9 +71,9 @@ The JavaScript library leverages the TrueType fonts without any additional requi
 - [Testing](http://slevinski.github.io/sw10js/tests) 
 
 ### License
-SignWriting 2010 JavaScript Library 
-Copyright (c) 2007-2015, Stephen E Slevinski Jr 
-Licensed under the [MIT License][63] 
+SignWriting 2010 JavaScript Library  
+Copyright (c) 2007-2015, Stephen E Slevinski Jr  
+Licensed under the [MIT License][63]  
 
 - - -
 
@@ -86,7 +86,7 @@ which makes the entire [International SignWriting Alphabet 2010 symbol set][19] 
 The SignWriting 2010 Fonts are fully functional and production ready.  The image quality and glyph alignment has been perfected.
 
 ### TrueType Font Downloads
-> Reserved Font Name: [SignWriting 2010][57] with [log report][58] 
+> Reserved Font Name: [SignWriting 2010][57] with [log report][58]  
 Reserved Font Name: [SignWriting 2010 Filling][1] with [log report][2] 
 
 Fonts packaged for iOS: [SignWriting 2010 Configuration Profile][61]
@@ -118,21 +118,21 @@ Additionally, complete sign images with the TrueType fonts inside of SVGs is wor
 ### Character Sets
 The various character sets used to access the symbol glyphs are Unicode compatible. 
 
-1D800..1DAAF; Sutton SignWriting 
-To be published in [Unicode 8][64] in [2015][22]. 
-Uses 1 to 3 characters per symbol.
+1D800..1DAAF; Sutton SignWriting  
+To be published in [Unicode 8][64] in [2015][22].  
+Uses 1 to 3 characters per symbol.  
 
 FD800..FDFFF; SignWriting Text  
-Private Use Area characters. 
-Uses 3 characters per symbol.  Includes characters for structural markers and numbers.
+Private Use Area characters.  
+Uses 3 characters per symbol.  Includes characters for structural markers and numbers.  
 
-100000...10FFFF; Symbol Code Points 
-Private Use Area characters. 
-Uses 1 character per symbol.
+100000...10FFFF; Symbol Code Points  
+Private Use Area characters.  
+Uses 1 character per symbol.  
 
-S10000..S38b07; ISWA 2010 Symbol Keys 
-ASCII characters, UTF-8 compatible. 
-[Symbol keys][19] used as glyph names in the font files.
+S10000..S38b07; ISWA 2010 Symbol Keys  
+ASCII characters, UTF-8 compatible.  
+[Symbol keys][19] used as glyph names in the font files.  
 
 The characters conversions implementation can be found in the [SignWriting 2010 JavaScript Library][60] in the ["sw10.js"][65] file under functions "uni8" for Unicode 8, "pua" for SignWriting Text characters on plane 15, "code" for symbol code points characters on plane 16. 
 
@@ -224,7 +224,7 @@ The next generation SignWriting server code for SVG creation and data processing
 ## SignWriting Icon Server ##
 Github repo: [swis][32], currently version 1.3.0
 
-The current generation SignWriting server code for SVG, PNG, and other image formats.  Currently running on [Wikimedia Labs][34], [SignBank.org][35], and [SignPuddle.com][36]
+The current generation SignWriting server code for SVG, PNG, and other image formats.  Currently running on [Wikimedia Labs][34] and [SignBank.org][35].
 
 
 - - -
@@ -250,24 +250,24 @@ View the [Test wikis of sign language][40] for the current list.
 ## SignWriting Symposium ##
 ### In 2015, there were 12 presentations from 8 countries.
 
-Presentations by Stephen E Slevinski Jr. 
- 1) [SignWriting Stack 2015][70] 
- 2) [SignMaker 2015][71] 
+Presentations by Stephen E Slevinski Jr.  
+ 1) [SignWriting Stack 2015][70]  
+ 2) [SignMaker 2015][71]  
 
 ### In 2014, there were 40 presentations from 12 countries.
 
-Presentations by Stephen E Slevinski Jr. 
- 1) [The SignPuddle Standard for SignWriting Text][72] 
- 2) [Constructing a TrueType Font for the SignWriting Script with Unicode Characters Using the Graphite Rendering System][73] 
- 3) [Digital collaboration with machine-readable sign language text in the SignWriting script][74] 
+Presentations by Stephen E Slevinski Jr.  
+ 1) [The SignPuddle Standard for SignWriting Text][72]  
+ 2) [Constructing a TrueType Font for the SignWriting Script with Unicode Characters Using the Graphite Rendering System][73]  
+ 3) [Digital collaboration with machine-readable sign language text in the SignWriting script][74]  
 
 - - -
 ## Unicode Technical Committee ##
 ### At UTC #144, SignWriting was discussed 3 times at length.
 
-Presentations by Stephen E Slevinski Jr.
-  1) [Issues with SignWriting in Unicode 8][75] 
-  2) [Thanks to the UTC][76] 
+Presentations by Stephen E Slevinski Jr.  
+  1) [Issues with SignWriting in Unicode 8][75]  
+  2) [Thanks to the UTC][76]  
 
 
 
