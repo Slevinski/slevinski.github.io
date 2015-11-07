@@ -1,41 +1,35 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>the projects for written sign language with SignWriting Text</title>
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-dark.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/main.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <title>Stephen E Slevinski Jr by Slevinski</title>
   </head>
+
   <body>
 
-      <header>
+    <header>
+      <div class="container">
         <h1>Stephen E Slevinski Jr</h1>
-        <p>the projects for written sign language with SignWriting Text</p>
-      </header>
+        <h2>the projects for written sign language with SignWriting Text</h2>
 
-      <div id="banner">
-        <span id="logo"></span>
+        <section id="downloads">
+          <a href="https://github.com/Slevinski" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+      </div>
+    </header>
 
-        <a href="https://github.com/Slevinski" class="button fork"><strong>View On GitHub</strong></a>
-      </div><!-- end banner -->
-
-    <div class="wrapper">
-      <nav>
-        <ul></ul>
-      </nav>
-      <section>
+    <div class="container">
+      <section id="main_content">
         <hr>
 
 <blockquote>
-<p>August 2015</p>
+<p>November 2015</p>
 </blockquote>
 
 <h2>
@@ -45,12 +39,12 @@
 <li>GitHub Projects
 
 <ul>
+<li><a href="#signwriting-server">SignWriting Server</a></li>
 <li><a href="#signmaker-2015">SignMaker 2015</a></li>
 <li><a href="#signwriting-character-viewer">SignWriting Character Viewer</a></li>
 <li><a href="#signwriting-2010-javascript-library">SignWriting 2010 JavaScript Library</a></li>
 <li><a href="#signwriting-2010-fonts">SignWriting 2010 Fonts</a></li>
 <li><a href="#signwriting-2010-tools">SignWriting 2010 Tools</a></li>
-<li><a href="#signwriting-asset-provider">SignWriting Asset Provider</a></li>
 <li><a href="#signwriting-icon-server">SignWriting Icon Server</a></li>
 </ul>
 </li>
@@ -70,9 +64,61 @@
 <hr>
 
 <h2>
+<a id="signwriting-server" class="anchor" href="#signwriting-server" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting Server</h2>
+
+<p>Github repo: <a href="http://github.com/Slevinski/swserver">swserver</a>, currently version 1.0.0</p>
+
+<p>The SignWriting Server provides online resources for SignWriting applications and users.  The server accepts HTTP requests and responds with SVG or JSON data. The SignWriting Server is built with the PHP SLIM Framework v2.6.</p>
+
+<p>The primary site can be found on the SignBank server.</p>
+
+<ul>
+<li><a href="http://signbank.org/swserver">http://signbank.org/swserver</a></li>
+</ul>
+
+<p>A mirror site will be available on Wikimedia Labs.</p>
+
+<ul>
+<li><a href="http://swserver.wmflabs.org">http://swserver.wmflabs.org</a></li>
+</ul>
+
+<h3>
+<a id="svg-images" class="anchor" href="#svg-images" aria-hidden="true"><span class="octicon octicon-link"></span></a>SVG images</h3>
+
+<p>The SignWriting server creates SVG images for individual symbols using symbol keys and completed 2-dimensional signs using Formal SignWriting.  Styling strings are supported, offering coloring and sizing customizations.</p>
+
+<ul>
+<li><a href="http://swserver.wmflabs.org/svg/S10000">http://swserver.wmflabs.org/svg/S10000</a></li>
+<li><a href="http://swserver.wmflabs.org/svg/font/S20500">http://swserver.wmflabs.org/svg/font/S20500</a></li>
+<li><a href="http://swserver.wmflabs.org/svg/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489">http://swserver.wmflabs.org/svg/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489</a></li>
+<li><a href="http://swserver.wmflabs.org/svg/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489-CP10G_lightblue_D_x,lightblue_Zx">http://swserver.wmflabs.org/svg/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489-CP10G_lightblue_D_x,lightblue_Zx</a></li>
+</ul>
+
+<h3>
+<a id="query-string-transformation-to-regular-expressions" class="anchor" href="#query-string-transformation-to-regular-expressions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Query string transformation to regular expressions</h3>
+
+<p>Query strings are a concise representation of a much larger and detailed set of regular expressions.
+Each query string is transformed into one or more regular expressions that can be used to search a text of Formal SignWriting.
+Additionally, Formal SignWriting strings can be converted into several types of query strings, each of which can be transformed into regular expressions.</p>
+
+<ul>
+<li><a href="http://swserver.wmflabs.org/regex/Q">http://swserver.wmflabs.org/regex/Q</a></li>
+<li><a href="http://swserver.wmflabs.org/regex/s/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489">http://swserver.wmflabs.org/regex/s/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489</a></li>
+</ul>
+
+<h3>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
+
+<p>SignWriting Server<br>
+Copyright (c) 2007-2015, Stephen E Slevinski Jr<br>
+Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">MIT License</a>  </p>
+
+<hr>
+
+<h2>
 <a id="signmaker-2015" class="anchor" href="#signmaker-2015" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignMaker 2015</h2>
 
-<p>Github repo: <a href="http://github.com/Slevinski/signmaker">signmaker</a>, currently version 1.2.5</p>
+<p>Github repo: <a href="http://github.com/Slevinski/signmaker">signmaker</a>, currently version 1.3.1</p>
 
 <p>SignMaker is a standards based editor, utilizing HTML, CSS, JavaScript, SVG, TrueType Fonts, and PNG images.
 Write signs in any sign language with the SignWriting script using the SignWriting 2010 Fonts.</p>
@@ -92,7 +138,7 @@ Write signs in any sign language with the SignWriting script using the SignWriti
 </ul>
 
 <h3>
-<a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
+<a id="license-1" class="anchor" href="#license-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
 
 <p>SignMaker<br>
 Copyright (c) 2007-2015, Stephen E Slevinski Jr<br>
@@ -115,7 +161,7 @@ Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">
 </ul>
 
 <h3>
-<a id="license-1" class="anchor" href="#license-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
+<a id="license-2" class="anchor" href="#license-2" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
 
 <p>SignWriting Character Viewer<br>
 Copyright (c) 2007-2015, Stephen E Slevinski Jr<br>
@@ -126,7 +172,7 @@ Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">
 <h2>
 <a id="signwriting-2010-javascript-library" class="anchor" href="#signwriting-2010-javascript-library" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting 2010 JavaScript Library</h2>
 
-<p>Github repo: <a href="http://github.com/Slevinski/sw10js">sw10js</a>, currently version 1.5.4</p>
+<p>Github repo: <a href="http://github.com/Slevinski/sw10js">sw10js</a>, currently version 1.6.2</p>
 
 <p>The JavaScript library leverages the TrueType fonts without any additional requirements. Include the "sw10.js" script or the minified version "sw10.min.js" in any HTML page to access the function library.</p>
 
@@ -142,7 +188,7 @@ Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">
 </ul>
 
 <h3>
-<a id="license-2" class="anchor" href="#license-2" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
+<a id="license-3" class="anchor" href="#license-3" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
 
 <p>SignWriting 2010 JavaScript Library<br>
 Copyright (c) 2007-2015, Stephen E Slevinski Jr<br>
@@ -171,7 +217,7 @@ Reserved Font Name: <a href="https://cdn.rawgit.com/Slevinski/signwriting_2010_f
 <p>Fonts packaged for iOS: <a href="https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.mobileconfig">SignWriting 2010 Configuration Profile</a></p>
 
 <h3>
-<a id="license-3" class="anchor" href="#license-3" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
+<a id="license-4" class="anchor" href="#license-4" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
 
 <p>The SignWriting 2010 Fonts are free and open source, released under
 <a href="http://scripts.sil.org/OFL">SIL Open Font License</a>, version 1.1.</p>
@@ -231,7 +277,7 @@ ASCII characters, UTF-8 compatible.<br>
 <h2>
 <a id="signwriting-2010-tools" class="anchor" href="#signwriting-2010-tools" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting 2010 Tools</h2>
 
-<p>Github repo: <a href="https://github.com/Slevinski/signwriting_2010_tools">signwriting_2010_tools</a>, currently version 1.4.1</p>
+<p>Github repo: <a href="https://github.com/Slevinski/signwriting_2010_tools">signwriting_2010_tools</a>, currently version 1.5.1</p>
 
 <p>The SignWriting 2010 Tools are used to build a typeface for written sign languages
 called the <a href="https://github.com/Slevinski/signwriting_2010_fonts">SignWriting 2010 Fonts</a>.</p>
@@ -302,52 +348,11 @@ chmod a+x demo.sh
 <hr>
 
 <h2>
-<a id="signwriting-asset-provider" class="anchor" href="#signwriting-asset-provider" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting Asset Provider</h2>
-
-<p>Github repo: <a href="https://github.com/Slevinski/swap">swap</a>, coming soon...</p>
-
-<p>The next generation SignWriting server code for SVG creation and data processing.  Symbols and signs can be accessed with a simple syntax.  Data from SignPuddle Online can be queried with an API and returns JSON data.</p>
-
-<h3>
-<a id="symbol-images" class="anchor" href="#symbol-images" aria-hidden="true"><span class="octicon octicon-link"></span></a>Symbol Images</h3>
-
-<ul>
-<li><a href="http://signbank.org/swap/api/symbol/S10000">http://signbank.org/swap/api/symbol/S10000</a></li>
-<li><a href="http://signbank.org/swap/api/symbol/5/S10000">http://signbank.org/swap/api/symbol/5/S10000</a></li>
-<li><a href="http://signbank.org/swap/api/symbol/x/S10000">http://signbank.org/swap/api/symbol/x/S10000</a></li>
-<li><a href="http://signbank.org/swap/api/symbol/5/red/blue/S10000">http://signbank.org/swap/api/symbol/5/red/blue/S10000</a></li>
-<li><a href="http://signbank.org/swap/api/symbol/5/FF0000/000/S10000">http://signbank.org/swap/api/symbol/5/FF0000/000/S10000</a></li>
-</ul>
-
-<h3>
-<a id="sign-images" class="anchor" href="#sign-images" aria-hidden="true"><span class="octicon octicon-link"></span></a>Sign Images</h3>
-
-<ul>
-<li><a href="http://signbank.org/swap/api/sign/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489">http://signbank.org/swap/api/sign/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489</a></li>
-<li><a href="http://signbank.org/swap/api/sign/5/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489">http://signbank.org/swap/api/sign/5/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489</a></li>
-<li><a href="http://signbank.org/swap/api/sign/x/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489">http://signbank.org/swap/api/sign/x/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489</a></li>
-<li><a href="http://signbank.org/swap/api/sign/5/red/blue/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489">http://signbank.org/swap/api/sign/5/red/blue/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489</a></li>
-<li><a href="http://signbank.org/swap/api/sign/5/FF0000/000/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489">http://signbank.org/swap/api/sign/5/FF0000/000/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489</a></li>
-</ul>
-
-<h3>
-<a id="api-calls" class="anchor" href="#api-calls" aria-hidden="true"><span class="octicon octicon-link"></span></a>API Calls</h3>
-
-<ul>
-<li><a href="http://signbank.org/swap/api/symbols/S10000S20500">http://signbank.org/swap/api/symbols/S10000S20500</a></li>
-<li><a href="http://signbank.org/swap/api/query/Q">http://signbank.org/swap/api/query/Q</a></li>
-<li><a href="http://signbank.org/swap/api/query/QS10000">http://signbank.org/swap/api/query/QS10000</a></li>
-<li><a href="http://signbank.org/swap/api/query/QS10000S20500">http://signbank.org/swap/api/query/QS10000S20500</a></li>
-</ul>
-
-<hr>
-
-<h2>
 <a id="signwriting-icon-server" class="anchor" href="#signwriting-icon-server" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting Icon Server</h2>
 
 <p>Github repo: <a href="https://github.com/Slevinski/swis">swis</a>, currently version 1.3.0</p>
 
-<p>The current generation SignWriting server code for SVG, PNG, and other image formats.  Currently running on <a href="http://swis.wmflabs.org">Wikimedia Labs</a> and <a href="http://signbank.org/swis">SignBank.org</a>.</p>
+<p>The previous generation SignWriting server code for SVG, PNG, and other image formats.  Currently running on <a href="http://swis.wmflabs.org">Wikimedia Labs</a> and <a href="http://signbank.org/swis">SignBank.org</a>.</p>
 
 <hr>
 
@@ -445,11 +450,8 @@ View the <a href="https://incubator.wikimedia.org/wiki/Category:Incubator:Test_w
 
 <p>This is a work in progress. Feedback, bug reports, and patches are welcomed.</p>
       </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
-      </footer>
     </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
     
   </body>
 </html>
