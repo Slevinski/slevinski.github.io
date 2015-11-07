@@ -1,17 +1,17 @@
 # Stephen E Slevinski Jr
 _the projects for written sign language with SignWriting Text_
 - - -
-> August 2015
+> November 2015
 
 Contents
 ---------
 * GitHub Projects
+  * [SignWriting Server](#signwriting-server)
   * [SignMaker 2015](#signmaker-2015)
   * [SignWriting Character Viewer](#signwriting-character-viewer)
   * [SignWriting 2010 JavaScript Library](#signwriting-2010-javascript-library)
   * [SignWriting 2010 Fonts](#signwriting-2010-fonts)
   * [SignWriting 2010 Tools](#signwriting-2010-tools)
-  * [SignWriting Asset Provider](#signwriting-asset-provider)
   * [SignWriting Icon Server](#signwriting-icon-server)
 * Other Projects
   * [draft-slevinski-signwriting-text](#draft-slevinski-signwriting-text)
@@ -22,8 +22,40 @@ Contents
 
 - - -
 
+## SignWriting Server ##
+Github repo: [swserver][78], currently version 1.0.0
+
+The SignWriting Server provides online resources for SignWriting applications and users.  The server accepts HTTP requests and responds with SVG or JSON data. The SignWriting Server is built with the PHP SLIM Framework v2.6.
+
+The primary site can be found on the SignBank server.
+* http://signbank.org/swserver
+
+A mirror site will be available on Wikimedia Labs.
+* http://swserver.wmflabs.org
+
+
+### SVG images
+The SignWriting server creates SVG images for individual symbols using symbol keys and completed 2-dimensional signs using Formal SignWriting.  Styling strings are supported, offering coloring and sizing customizations.
+* http://swserver.wmflabs.org/svg/S10000
+* http://swserver.wmflabs.org/svg/font/S20500
+* http://swserver.wmflabs.org/svg/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489
+* http://swserver.wmflabs.org/svg/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489-CP10G_lightblue_D_x,lightblue_Zx
+
+### Query string transformation to regular expressions
+Query strings are a concise representation of a much larger and detailed set of regular expressions.
+Each query string is transformed into one or more regular expressions that can be used to search a text of Formal SignWriting.
+Additionally, Formal SignWriting strings can be converted into several types of query strings, each of which can be transformed into regular expressions.
+* http://swserver.wmflabs.org/regex/Q
+* http://swserver.wmflabs.org/regex/s/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489
+
+### License
+SignWriting Server  
+Copyright (c) 2007-2015, Stephen E Slevinski Jr  
+Licensed under the [MIT License][63]  
+
+- - -
 ## SignMaker 2015 ##
-Github repo: [signmaker][66], currently version 1.2.5
+Github repo: [signmaker][66], currently version 1.3.1
 
 SignMaker is a standards based editor, utilizing HTML, CSS, JavaScript, SVG, TrueType Fonts, and PNG images.
 Write signs in any sign language with the SignWriting script using the SignWriting 2010 Fonts.
@@ -42,7 +74,6 @@ Copyright (c) 2007-2015, Stephen E Slevinski Jr
 Licensed under the [MIT License][63]  
 
 - - -
-
 ## SignWriting Character Viewer ##
 Github repo: [SignWriting_Character_Viewer][69], currently version 1.0
 
@@ -59,9 +90,8 @@ Copyright (c) 2007-2015, Stephen E Slevinski Jr
 Licensed under the [MIT License][63]  
 
 - - -
-
 ## SignWriting 2010 JavaScript Library ##
-Github repo: [sw10js][62], currently version 1.5.4
+Github repo: [sw10js][62], currently version 1.6.2
 
 The JavaScript library leverages the TrueType fonts without any additional requirements. Include the "sw10.js" script or the minified version "sw10.min.js" in any HTML page to access the function library.
 
@@ -76,7 +106,6 @@ Copyright (c) 2007-2015, Stephen E Slevinski Jr
 Licensed under the [MIT License][63]  
 
 - - -
-
 ## SignWriting 2010 Fonts ##
 Github repo: [signwriting\_2010\_fonts][29], currently version 1.1.4
 
@@ -137,9 +166,8 @@ ASCII characters, UTF-8 compatible.
 The characters conversions implementation can be found in the [SignWriting 2010 JavaScript Library][60] in the ["sw10.js"][65] file under functions "uni8" for Unicode 8, "pua" for SignWriting Text characters on plane 15, "code" for symbol code points characters on plane 16. 
 
 - - -
-
 ## SignWriting 2010 Tools ##
-Github repo: [signwriting\_2010\_tools][30], currently version 1.4.1
+Github repo: [signwriting\_2010\_tools][30], currently version 1.5.1
 
 The SignWriting 2010 Tools are used to build a typeface for written sign languages
 called the [SignWriting 2010 Fonts][29].
@@ -191,36 +219,8 @@ The source SVG files required to build the fonts are available from the [SignWri
 * [SVG Line][55] 
 * [SVG Filling][56]
 
-- - -
-
-## SignWriting Asset Provider ##
-Github repo: [swap][31], coming soon...
-
-The next generation SignWriting server code for SVG creation and data processing.  Symbols and signs can be accessed with a simple syntax.  Data from SignPuddle Online can be queried with an API and returns JSON data.
-
-### Symbol Images
-* http://signbank.org/swap/api/symbol/S10000
-* http://signbank.org/swap/api/symbol/5/S10000
-* http://signbank.org/swap/api/symbol/x/S10000
-* http://signbank.org/swap/api/symbol/5/red/blue/S10000
-* http://signbank.org/swap/api/symbol/5/FF0000/000/S10000
-
-### Sign Images
-* http://signbank.org/swap/api/sign/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489
-* http://signbank.org/swap/api/sign/5/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489
-* http://signbank.org/swap/api/sign/x/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489
-* http://signbank.org/swap/api/sign/5/red/blue/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489
-* http://signbank.org/swap/api/sign/5/FF0000/000/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489
-
-### API Calls
-* http://signbank.org/swap/api/symbols/S10000S20500
-* http://signbank.org/swap/api/query/Q
-* http://signbank.org/swap/api/query/QS10000
-* http://signbank.org/swap/api/query/QS10000S20500
-
 
 - - -
-
 ## SignWriting Icon Server ##
 Github repo: [swis][32], currently version 1.3.0
 
@@ -228,7 +228,6 @@ The current generation SignWriting server code for SVG, PNG, and other image for
 
 
 - - -
-
 ## draft-slevinski-signwriting-text ##
 The character encodings used in SignWriting 2010 are defined in an Internet Draft submitted to the IETF: [draft-slevinski-signwriting-text][26].
 The document is improved and resubmitted every 6 months.
@@ -246,7 +245,6 @@ The [ASL Wikipedia][39] has been started and currently has over 50 articles. Oth
 View the [Test wikis of sign language][40] for the current list. 
 
 - - -
-
 ## SignWriting Symposium ##
 ### In 2015, there were 12 presentations from 8 countries.
 
@@ -268,8 +266,6 @@ Presentations by Stephen E Slevinski Jr.
 Presentations by Stephen E Slevinski Jr.  
   1) [Issues with SignWriting in Unicode 8][75]  
   2) [Thanks to the UTC][76]  
-
-
 
 - - -
 ## SignWriting font-face Project ##
@@ -296,8 +292,7 @@ The existing SignWriting fonts are based on SignWriting Block Printing: an inter
 
 
 - - -
-Epilogue
-----------
+## Epilogue
 This is a work in progress. Feedback, bug reports, and patches are welcomed.
 
 [1]: https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010%20Filling.ttf
@@ -377,3 +372,4 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [75]: http://www.slideshare.net/StephenSlevinski/sign-writing-in-unicode-8-issues
 [76]: http://www.slideshare.net/StephenSlevinski/thanks-to-the-utc
 [77]: http://www.signwriting.org/symposium/presentation0051.html
+[78]: http://github.com/Slevinski/swserver
