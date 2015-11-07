@@ -224,7 +224,7 @@ The source SVG files required to build the fonts are available from the [SignWri
 ## SignWriting Icon Server ##
 Github repo: [swis][32], currently version 1.3.0
 
-The current generation SignWriting server code for SVG, PNG, and other image formats.  Currently running on [Wikimedia Labs][34] and [SignBank.org][35].
+The previous generation SignWriting server code for SVG, PNG, and other image formats.  Currently running on [Wikimedia Labs][34] and [SignBank.org][35].
 
 
 - - -
