@@ -1,39 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-
+    <meta charset="UTF-8">
     <title>Stephen E Slevinski Jr by Slevinski</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
   </head>
-
   <body>
+    <section class="page-header">
+      <h1 class="project-name">Stephen E Slevinski Jr</h1>
+      <h2 class="project-tagline">the projects for written sign language with SignWriting Text</h2>
+    </section>
 
-    <header>
-      <div class="container">
-        <h1>Stephen E Slevinski Jr</h1>
-        <h2>the projects for written sign language with SignWriting Text</h2>
-
-        <section id="downloads">
-          <a href="https://github.com/Slevinski" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-      </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        <hr>
+    <section class="main-content">
+      <hr>
 
 <blockquote>
-<p>November 2015</p>
+<p>May 2016</p>
 </blockquote>
 
 <h2>
-<a id="contents" class="anchor" href="#contents" aria-hidden="true"><span class="octicon octicon-link"></span></a>Contents</h2>
+<a id="contents" class="anchor" href="#contents" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Contents</h2>
 
 <ul>
 <li>GitHub Projects
@@ -64,26 +54,26 @@
 <hr>
 
 <h2>
-<a id="signwriting-server" class="anchor" href="#signwriting-server" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting Server</h2>
+<a id="signwriting-server" class="anchor" href="#signwriting-server" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>SignWriting Server</h2>
 
-<p>Github repo: <a href="http://github.com/Slevinski/swserver">swserver</a>, currently version 1.0.0</p>
+<p>Github repo: <a href="http://github.com/Slevinski/swserver">swserver</a>, currently version 1.3.0</p>
 
 <p>The SignWriting Server provides online resources for SignWriting applications and users.  The server accepts HTTP requests and responds with SVG or JSON data. The SignWriting Server is built with the PHP SLIM Framework v2.6.</p>
 
-<p>The primary site can be found on the SignBank server.</p>
+<p>The primary site is available on the Center for Sutton Movement Writing server.</p>
 
 <ul>
-<li><a href="http://signbank.org/swserver">http://signbank.org/swserver</a></li>
+<li><a href="https://signpuddle.net">https://signpuddle.net</a></li>
 </ul>
 
-<p>A mirror site will be available on Wikimedia Labs.</p>
+<p>A mirror site is available on Wikimedia Labs.</p>
 
 <ul>
-<li><a href="http://swserver.wmflabs.org">http://swserver.wmflabs.org</a></li>
+<li><a href="https://swserver.wmflabs.org">https://swserver.wmflabs.org</a></li>
 </ul>
 
 <h3>
-<a id="svg-images" class="anchor" href="#svg-images" aria-hidden="true"><span class="octicon octicon-link"></span></a>SVG images</h3>
+<a id="svg-images" class="anchor" href="#svg-images" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>SVG images</h3>
 
 <p>The SignWriting server creates SVG images for individual symbols using symbol keys and completed 2-dimensional signs using Formal SignWriting.  Styling strings are supported, offering coloring and sizing customizations.</p>
 
@@ -95,7 +85,7 @@
 </ul>
 
 <h3>
-<a id="query-string-transformation-to-regular-expressions" class="anchor" href="#query-string-transformation-to-regular-expressions" aria-hidden="true"><span class="octicon octicon-link"></span></a>Query string transformation to regular expressions</h3>
+<a id="query-string-transformation-to-regular-expressions" class="anchor" href="#query-string-transformation-to-regular-expressions" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Query string transformation to regular expressions</h3>
 
 <p>Query strings are a concise representation of a much larger and detailed set of regular expressions.
 Each query string is transformed into one or more regular expressions that can be used to search a text of Formal SignWriting.
@@ -107,18 +97,36 @@ Additionally, Formal SignWriting strings can be converted into several types of 
 </ul>
 
 <h3>
-<a id="license" class="anchor" href="#license" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
+<a id="countries-of-the-world" class="anchor" href="#countries-of-the-world" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Countries of the world</h3>
+
+<p>The countries of the world are described with SVG shapes and flag images.
+Listings of languages and puddle collections are available for each country.</p>
+
+<h3>
+<a id="puddle-collections-and-sign-entries" class="anchor" href="#puddle-collections-and-sign-entries" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Puddle collections and sign entries</h3>
+
+<p>All of the SignPuddle Online data is available as SQLite 3 databases.
+These databases can be downloaded individually.
+The various puddle collections can be listed, limited by sign language or individual code.
+For each sign language, a default public dictionary has been selected so that ISO 639-3 codes can be used rather than a puddle code.
+With a puddle query, individual entries can be access with sign language directly.
+With a puddle search, individual entries can be access with spoken language.
+Additional search options are available for listings of individual signs and terms.
+Additionally, entries can be retrieved by the dates created or updated.</p>
+
+<h3>
+<a id="license" class="anchor" href="#license" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License</h3>
 
 <p>SignWriting Server<br>
-Copyright (c) 2007-2015, Stephen E Slevinski Jr<br>
+Copyright (c) 2007-2016, Stephen E Slevinski Jr<br>
 Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">MIT License</a>  </p>
 
 <hr>
 
 <h2>
-<a id="signmaker-2015" class="anchor" href="#signmaker-2015" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignMaker 2015</h2>
+<a id="signmaker-2015" class="anchor" href="#signmaker-2015" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>SignMaker 2015</h2>
 
-<p>Github repo: <a href="http://github.com/Slevinski/signmaker">signmaker</a>, currently version 1.3.1</p>
+<p>Github repo: <a href="http://github.com/Slevinski/signmaker">signmaker</a>, currently version 1.3.2</p>
 
 <p>SignMaker is a standards based editor, utilizing HTML, CSS, JavaScript, SVG, TrueType Fonts, and PNG images.
 Write signs in any sign language with the SignWriting script using the SignWriting 2010 Fonts.</p>
@@ -138,7 +146,7 @@ Write signs in any sign language with the SignWriting script using the SignWriti
 </ul>
 
 <h3>
-<a id="license-1" class="anchor" href="#license-1" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
+<a id="license-1" class="anchor" href="#license-1" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License</h3>
 
 <p>SignMaker<br>
 Copyright (c) 2007-2015, Stephen E Slevinski Jr<br>
@@ -147,7 +155,7 @@ Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">
 <hr>
 
 <h2>
-<a id="signwriting-character-viewer" class="anchor" href="#signwriting-character-viewer" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting Character Viewer</h2>
+<a id="signwriting-character-viewer" class="anchor" href="#signwriting-character-viewer" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>SignWriting Character Viewer</h2>
 
 <p>Github repo: <a href="https://github.com/Slevinski/SignWriting_Character_Viewer">SignWriting_Character_Viewer</a>, currently version 1.0</p>
 
@@ -161,7 +169,7 @@ Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">
 </ul>
 
 <h3>
-<a id="license-2" class="anchor" href="#license-2" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
+<a id="license-2" class="anchor" href="#license-2" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License</h3>
 
 <p>SignWriting Character Viewer<br>
 Copyright (c) 2007-2015, Stephen E Slevinski Jr<br>
@@ -170,9 +178,9 @@ Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">
 <hr>
 
 <h2>
-<a id="signwriting-2010-javascript-library" class="anchor" href="#signwriting-2010-javascript-library" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting 2010 JavaScript Library</h2>
+<a id="signwriting-2010-javascript-library" class="anchor" href="#signwriting-2010-javascript-library" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>SignWriting 2010 JavaScript Library</h2>
 
-<p>Github repo: <a href="http://github.com/Slevinski/sw10js">sw10js</a>, currently version 1.6.2</p>
+<p>Github repo: <a href="http://github.com/Slevinski/sw10js">sw10js</a>, currently version 1.8.0</p>
 
 <p>The JavaScript library leverages the TrueType fonts without any additional requirements. Include the "sw10.js" script or the minified version "sw10.min.js" in any HTML page to access the function library.</p>
 
@@ -188,16 +196,16 @@ Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">
 </ul>
 
 <h3>
-<a id="license-3" class="anchor" href="#license-3" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
+<a id="license-3" class="anchor" href="#license-3" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License</h3>
 
 <p>SignWriting 2010 JavaScript Library<br>
-Copyright (c) 2007-2015, Stephen E Slevinski Jr<br>
+Copyright (c) 2007-2016, Stephen E Slevinski Jr<br>
 Licensed under the <a href="http://www.opensource.org/licenses/mit-license.php">MIT License</a>  </p>
 
 <hr>
 
 <h2>
-<a id="signwriting-2010-fonts" class="anchor" href="#signwriting-2010-fonts" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting 2010 Fonts</h2>
+<a id="signwriting-2010-fonts" class="anchor" href="#signwriting-2010-fonts" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>SignWriting 2010 Fonts</h2>
 
 <p>Github repo: <a href="https://github.com/Slevinski/signwriting_2010_fonts">signwriting_2010_fonts</a>, currently version 1.1.4</p>
 
@@ -207,7 +215,7 @@ which makes the entire <a href="http://signbank.org/iswa">International SignWrit
 <p>The SignWriting 2010 Fonts are fully functional and production ready.  The image quality and glyph alignment has been perfected.</p>
 
 <h3>
-<a id="truetype-font-downloads" class="anchor" href="#truetype-font-downloads" aria-hidden="true"><span class="octicon octicon-link"></span></a>TrueType Font Downloads</h3>
+<a id="truetype-font-downloads" class="anchor" href="#truetype-font-downloads" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>TrueType Font Downloads</h3>
 
 <blockquote>
 <p>Reserved Font Name: <a href="https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.ttf">SignWriting 2010</a> with <a href="https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.log">log report</a><br>
@@ -217,7 +225,7 @@ Reserved Font Name: <a href="https://cdn.rawgit.com/Slevinski/signwriting_2010_f
 <p>Fonts packaged for iOS: <a href="https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.mobileconfig">SignWriting 2010 Configuration Profile</a></p>
 
 <h3>
-<a id="license-4" class="anchor" href="#license-4" aria-hidden="true"><span class="octicon octicon-link"></span></a>License</h3>
+<a id="license-4" class="anchor" href="#license-4" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>License</h3>
 
 <p>The SignWriting 2010 Fonts are free and open source, released under
 <a href="http://scripts.sil.org/OFL">SIL Open Font License</a>, version 1.1.</p>
@@ -233,24 +241,7 @@ Encoding and transformation by Stephen E Slevinski Jr.</p>
 written by Paul D. Hunt and licensed under <a href="http://scripts.sil.org/OFL">SIL Open Font License</a>, version 1.1.</p>
 
 <h3>
-<a id="demo-pages" class="anchor" href="#demo-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Demo Pages</h3>
-
-<p>The demo pages can be created with the SignWriting 2010 Tools.
-There are 3 types of demo pages available online.</p>
-
-<ul>
-<li>Unicode 8 demo pages: <a href="http://signpuddle.net/iswa/demo/unicode8">view online</a> or <a href="http://signpuddle.net/iswa/demo/unicode8.zip">download</a>
-</li>
-<li>Unicode Private Use Area demo pages: <a href="http://signpuddle.net/iswa/demo/unicodepua">view online</a> or <a href="http://signpuddle.net/iswa/demo/unicodepua.zip">download</a>
-</li>
-<li>Symbol Key demo pages: <a href="http://signpuddle.net/iswa/demo/symbolkey">view online</a> or <a href="http://signpuddle.net/iswa/demo/symbolkey.zip">download</a>
-</li>
-</ul>
-
-<p>Additionally, complete sign images with the TrueType fonts inside of SVGs is working nicely.  View the <a href="http://codepen.io/Slevinski/pen/exnju">codepen</a> example for a working demonstration.</p>
-
-<h3>
-<a id="character-sets" class="anchor" href="#character-sets" aria-hidden="true"><span class="octicon octicon-link"></span></a>Character Sets</h3>
+<a id="character-sets" class="anchor" href="#character-sets" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Character Sets</h3>
 
 <p>The various character sets used to access the symbol glyphs are Unicode compatible. </p>
 
@@ -275,7 +266,7 @@ ASCII characters, UTF-8 compatible.<br>
 <hr>
 
 <h2>
-<a id="signwriting-2010-tools" class="anchor" href="#signwriting-2010-tools" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting 2010 Tools</h2>
+<a id="signwriting-2010-tools" class="anchor" href="#signwriting-2010-tools" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>SignWriting 2010 Tools</h2>
 
 <p>Github repo: <a href="https://github.com/Slevinski/signwriting_2010_tools">signwriting_2010_tools</a>, currently version 1.5.1</p>
 
@@ -293,7 +284,7 @@ called the <a href="https://github.com/Slevinski/signwriting_2010_fonts">SignWri
 <p>To unpack the SVG Line and SVG Fill data files, the <code>unpack.py</code> tool can be used.</p>
 
 <h3>
-<a id="tools-directory" class="anchor" href="#tools-directory" aria-hidden="true"><span class="octicon octicon-link"></span></a>Tools Directory</h3>
+<a id="tools-directory" class="anchor" href="#tools-directory" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Tools Directory</h3>
 
 <p>To build individual font files, use the Python script <code>build.py</code>.   Use "-h" for help</p>
 
@@ -335,7 +326,7 @@ chmod a+x demo.sh
 </ul>
 
 <h3>
-<a id="source-svg" class="anchor" href="#source-svg" aria-hidden="true"><span class="octicon octicon-link"></span></a>Source SVG</h3>
+<a id="source-svg" class="anchor" href="#source-svg" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Source SVG</h3>
 
 <p>The source SVG files required to build the fonts are available from the <a href="https://github.com/Slevinski/signwriting_2010_fonts">SignWriting 2010 Fonts</a> project.  These files were created with the SignWriting 2010 Tools by retracing the SVG Refinement using the <code>retrace.py</code> script.  To use these files, save them to the <code>source</code> directory and unzip.</p>
 
@@ -348,7 +339,7 @@ chmod a+x demo.sh
 <hr>
 
 <h2>
-<a id="signwriting-icon-server" class="anchor" href="#signwriting-icon-server" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting Icon Server</h2>
+<a id="signwriting-icon-server" class="anchor" href="#signwriting-icon-server" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>SignWriting Icon Server</h2>
 
 <p>Github repo: <a href="https://github.com/Slevinski/swis">swis</a>, currently version 1.3.0</p>
 
@@ -357,18 +348,18 @@ chmod a+x demo.sh
 <hr>
 
 <h2>
-<a id="draft-slevinski-signwriting-text" class="anchor" href="#draft-slevinski-signwriting-text" aria-hidden="true"><span class="octicon octicon-link"></span></a>draft-slevinski-signwriting-text</h2>
+<a id="draft-slevinski-signwriting-text" class="anchor" href="#draft-slevinski-signwriting-text" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>draft-slevinski-signwriting-text</h2>
 
 <p>The character encodings used in SignWriting 2010 are defined in an Internet Draft submitted to the IETF: <a href="http://tools.ietf.org/html/draft-slevinski-signwriting-text">draft-slevinski-signwriting-text</a>.
 The document is improved and resubmitted every 6 months.
 The character design has been stable since January 12, 2012.
-The current version of the Internet Draft is 05.
-The next version is planned for November 2015.</p>
+The current version of the Internet Draft is 06.
+The next version is planned for May 2016.</p>
 
 <hr>
 
 <h2>
-<a id="wikimedia-incubator" class="anchor" href="#wikimedia-incubator" aria-hidden="true"><span class="octicon octicon-link"></span></a>Wikimedia Incubator</h2>
+<a id="wikimedia-incubator" class="anchor" href="#wikimedia-incubator" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Wikimedia Incubator</h2>
 
 <blockquote>
 <p>User <a href="https://incubator.wikimedia.org/wiki/User:Slevinski">slevinski</a></p>
@@ -382,17 +373,24 @@ View the <a href="https://incubator.wikimedia.org/wiki/Category:Incubator:Test_w
 <hr>
 
 <h2>
-<a id="signwriting-symposium" class="anchor" href="#signwriting-symposium" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting Symposium</h2>
+<a id="signwriting-symposium" class="anchor" href="#signwriting-symposium" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>SignWriting Symposium</h2>
 
 <h3>
-<a id="in-2015-there-were-12-presentations-from-8-countries" class="anchor" href="#in-2015-there-were-12-presentations-from-8-countries" aria-hidden="true"><span class="octicon octicon-link"></span></a>In 2015, there were 12 presentations from 8 countries.</h3>
+<a id="in-2016-coming-july-18-21" class="anchor" href="#in-2016-coming-july-18-21" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>In 2016, coming July 18-21</h3>
+
+<p>To be presented by Stephen E Slevinski Jr.
+ 1) SignPuddle and the New SignWriting Server
+ 2) SignPuddle 3</p>
+
+<h3>
+<a id="in-2015-there-were-12-presentations-from-8-countries" class="anchor" href="#in-2015-there-were-12-presentations-from-8-countries" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>In 2015, there were 12 presentations from 8 countries.</h3>
 
 <p>Presentations by Stephen E Slevinski Jr.<br>
  1) <a href="http://www.signwriting.org/symposium/presentation0043.html">SignWriting Stack 2015</a><br>
  2) <a href="http://www.signwriting.org/symposium/presentation0049.html">SignMaker 2015</a>  </p>
 
 <h3>
-<a id="in-2014-there-were-40-presentations-from-12-countries" class="anchor" href="#in-2014-there-were-40-presentations-from-12-countries" aria-hidden="true"><span class="octicon octicon-link"></span></a>In 2014, there were 40 presentations from 12 countries.</h3>
+<a id="in-2014-there-were-40-presentations-from-12-countries" class="anchor" href="#in-2014-there-were-40-presentations-from-12-countries" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>In 2014, there were 40 presentations from 12 countries.</h3>
 
 <p>Presentations by Stephen E Slevinski Jr.<br>
  1) <a href="http://www.signwriting.org/symposium/presentation0011.html">The SignPuddle Standard for SignWriting Text</a><br>
@@ -402,10 +400,15 @@ View the <a href="https://incubator.wikimedia.org/wiki/Category:Incubator:Test_w
 <hr>
 
 <h2>
-<a id="unicode-technical-committee" class="anchor" href="#unicode-technical-committee" aria-hidden="true"><span class="octicon octicon-link"></span></a>Unicode Technical Committee</h2>
+<a id="unicode-technical-committee" class="anchor" href="#unicode-technical-committee" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Unicode Technical Committee</h2>
 
 <h3>
-<a id="at-utc-144-signwriting-was-discussed-3-times-at-length" class="anchor" href="#at-utc-144-signwriting-was-discussed-3-times-at-length" aria-hidden="true"><span class="octicon octicon-link"></span></a>At UTC #144, SignWriting was discussed 3 times at length.</h3>
+<a id="utc-148-august-2-5-2016" class="anchor" href="#utc-148-august-2-5-2016" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>UTC #148, August 2-5, 2016</h3>
+
+<p>SignWriting is scheduled to be discussed at UTC #148.</p>
+
+<h3>
+<a id="at-utc-144-signwriting-was-discussed-3-times-at-length" class="anchor" href="#at-utc-144-signwriting-was-discussed-3-times-at-length" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>At UTC #144, SignWriting was discussed 3 times at length.</h3>
 
 <p>Presentations by Stephen E Slevinski Jr.<br>
   1) <a href="http://www.slideshare.net/StephenSlevinski/sign-writing-in-unicode-8-issues">Issues with SignWriting in Unicode 8</a><br>
@@ -414,14 +417,14 @@ View the <a href="https://incubator.wikimedia.org/wiki/Category:Incubator:Test_w
 <hr>
 
 <h2>
-<a id="signwriting-font-face-project" class="anchor" href="#signwriting-font-face-project" aria-hidden="true"><span class="octicon octicon-link"></span></a>SignWriting font-face Project</h2>
+<a id="signwriting-font-face-project" class="anchor" href="#signwriting-font-face-project" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>SignWriting font-face Project</h2>
 
 <p>SignWriting uses a 16-bit font.  Creating the fonts is a complex process that uses a complex tool.  If anyone is interested in font work collaboration, please contact me. </p>
 
 <p>The glyphs of the SignWriting font each have a specific size and shape.  The compatibility of the data between each font-face will depend on the similarity of the glyphs.</p>
 
 <h3>
-<a id="sutton-signwriting-font" class="anchor" href="#sutton-signwriting-font" aria-hidden="true"><span class="octicon octicon-link"></span></a>Sutton SignWriting Font</h3>
+<a id="sutton-signwriting-font" class="anchor" href="#sutton-signwriting-font" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Sutton SignWriting Font</h3>
 
 <p>Planned for 2016, the Sutton SignWriting Font will replace the <a href="https://github.com/Slevinski/signwriting_2010_fonts">SignWriting 2010 Fonts</a> as the standard font set.  The Sutton SignWriting Font is a two-color font.  The two colors are currently supported with 2 TrueType fonts.  It is possible a single font file could support both colors.</p>
 
@@ -432,26 +435,31 @@ View the <a href="https://incubator.wikimedia.org/wiki/Category:Incubator:Test_w
 <p>The baseline is also an issue.  Currently, the glyphs of the SignWriting 2010 Fonts are written under the baseline.  This design reduces the amount of code that needs to be written, but it hides the glyphs when used in normal contexts.</p>
 
 <h3>
-<a id="hamburg-signwriting-font" class="anchor" href="#hamburg-signwriting-font" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hamburg SignWriting Font</h3>
+<a id="hamburg-signwriting-font" class="anchor" href="#hamburg-signwriting-font" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Hamburg SignWriting Font</h3>
 
 <p>During the SignWriting Symposium of 2015, presentation 51 was about designing an alternate SignWriting Font, called <a href="http://www.signwriting.org/symposium/presentation0051.html">SignType</a> using typography design ideas.  Valerie Sutton pointed out several issues with the font, but was interested in the effort.  To be able to fully test the font, it must be usable with existing software.  Towards this end, I hope that we will be able to use the <a href="https://github.com/Slevinski/signwriting_2010_tools">SignWriting 2010 Tools</a> to create a new set of fonts.</p>
 
 <p>The fonts will be moderately compatible with the existing data set of Formal SignWriting, but the font may not be perfectly replaceable due to changes in symbols shape and size.</p>
 
 <h3>
-<a id="handwritten-signwriting-fonts" class="anchor" href="#handwritten-signwriting-fonts" aria-hidden="true"><span class="octicon octicon-link"></span></a>Handwritten SignWriting Fonts</h3>
+<a id="handwritten-signwriting-fonts" class="anchor" href="#handwritten-signwriting-fonts" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Handwritten SignWriting Fonts</h3>
 
 <p>The existing SignWriting fonts are based on SignWriting Block Printing: an international design intended for publishing and computerization.  It should be possible to design a font based on glyphs modeled after a particular style of handwriting.  This would be an involved project with over a thousand hand-crafted glyphs, but automation is possible to create tens of thousands more.</p>
 
 <hr>
 
 <h2>
-<a id="epilogue" class="anchor" href="#epilogue" aria-hidden="true"><span class="octicon octicon-link"></span></a>Epilogue</h2>
+<a id="epilogue" class="anchor" href="#epilogue" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Epilogue</h2>
 
 <p>This is a work in progress. Feedback, bug reports, and patches are welcomed.</p>
-      </section>
-    </div>
 
-    
+      <footer class="site-footer">
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
   </body>
 </html>
