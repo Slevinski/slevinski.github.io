@@ -1,7 +1,7 @@
 # Stephen E Slevinski Jr
 _the projects for written sign language with SignWriting Text_
 - - -
-> November 2015
+> May 2016
 
 Contents
 ---------
@@ -23,15 +23,16 @@ Contents
 - - -
 
 ## SignWriting Server ##
-Github repo: [swserver][78], currently version 1.0.0
+Github repo: [swserver][78], currently version 1.3.0
 
 The SignWriting Server provides online resources for SignWriting applications and users.  The server accepts HTTP requests and responds with SVG or JSON data. The SignWriting Server is built with the PHP SLIM Framework v2.6.
 
-The primary site can be found on the SignBank server.
-* http://signbank.org/swserver
+The primary site is available on the Center for Sutton Movement Writing server.
+* https://signpuddle.net
 
-A mirror site will be available on Wikimedia Labs.
-* http://swserver.wmflabs.org
+A mirror site is available on Wikimedia Labs.
+* https://swserver.wmflabs.org
+
 
 
 ### SVG images
@@ -48,14 +49,28 @@ Additionally, Formal SignWriting strings can be converted into several types of 
 * http://swserver.wmflabs.org/regex/Q
 * http://swserver.wmflabs.org/regex/s/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489
 
+### Countries of the world
+The countries of the world are described with SVG shapes and flag images.
+Listings of languages and puddle collections are available for each country.
+
+### Puddle collections and sign entries
+All of the SignPuddle Online data is available as SQLite 3 databases.
+These databases can be downloaded individually.
+The various puddle collections can be listed, limited by sign language or individual code.
+For each sign language, a default public dictionary has been selected so that ISO 639-3 codes can be used rather than a puddle code.
+With a puddle query, individual entries can be access with sign language directly.
+With a puddle search, individual entries can be access with spoken language.
+Additional search options are available for listings of individual signs and terms.
+Additionally, entries can be retrieved by the dates created or updated.
+
 ### License
 SignWriting Server  
-Copyright (c) 2007-2015, Stephen E Slevinski Jr  
+Copyright (c) 2007-2016, Stephen E Slevinski Jr  
 Licensed under the [MIT License][63]  
 
 - - -
 ## SignMaker 2015 ##
-Github repo: [signmaker][66], currently version 1.3.1
+Github repo: [signmaker][66], currently version 1.3.2
 
 SignMaker is a standards based editor, utilizing HTML, CSS, JavaScript, SVG, TrueType Fonts, and PNG images.
 Write signs in any sign language with the SignWriting script using the SignWriting 2010 Fonts.
@@ -91,7 +106,7 @@ Licensed under the [MIT License][63]
 
 - - -
 ## SignWriting 2010 JavaScript Library ##
-Github repo: [sw10js][62], currently version 1.6.2
+Github repo: [sw10js][62], currently version 1.8.0
 
 The JavaScript library leverages the TrueType fonts without any additional requirements. Include the "sw10.js" script or the minified version "sw10.min.js" in any HTML page to access the function library.
 
@@ -102,7 +117,7 @@ The JavaScript library leverages the TrueType fonts without any additional requi
 
 ### License
 SignWriting 2010 JavaScript Library  
-Copyright (c) 2007-2015, Stephen E Slevinski Jr  
+Copyright (c) 2007-2016, Stephen E Slevinski Jr  
 Licensed under the [MIT License][63]  
 
 - - -
@@ -133,16 +148,6 @@ Encoding and transformation by Stephen E Slevinski Jr.
 
 The SVGs of the compatibility glyphs for the character set "S1234567890abcdef" are based on [Source Sans Pro][25]
 written by Paul D. Hunt and licensed under [SIL Open Font License][24], version 1.1.
-
-### Demo Pages
-The demo pages can be created with the SignWriting 2010 Tools.
-There are 3 types of demo pages available online.
-
-* Unicode 8 demo pages: [view online][47] or [download][48]
-* Unicode Private Use Area demo pages: [view online][49] or [download][50]
-* Symbol Key demo pages: [view online][51] or [download][52]
-
-Additionally, complete sign images with the TrueType fonts inside of SVGs is working nicely.  View the [codepen][59] example for a working demonstration.
 
 ### Character Sets
 The various character sets used to access the symbol glyphs are Unicode compatible. 
@@ -232,8 +237,8 @@ The previous generation SignWriting server code for SVG, PNG, and other image fo
 The character encodings used in SignWriting 2010 are defined in an Internet Draft submitted to the IETF: [draft-slevinski-signwriting-text][26].
 The document is improved and resubmitted every 6 months.
 The character design has been stable since January 12, 2012.
-The current version of the Internet Draft is 05.
-The next version is planned for November 2015.
+The current version of the Internet Draft is 06.
+The next version is planned for May 2016.
 
 - - -
 ## Wikimedia Incubator ##
@@ -246,6 +251,13 @@ View the [Test wikis of sign language][40] for the current list.
 
 - - -
 ## SignWriting Symposium ##
+
+### In 2016, coming July 18-21
+
+To be presented by Stephen E Slevinski Jr.
+ 1) SignPuddle and the New SignWriting Server
+ 2) SignPuddle 3
+ 
 ### In 2015, there were 12 presentations from 8 countries.
 
 Presentations by Stephen E Slevinski Jr.  
@@ -261,6 +273,9 @@ Presentations by Stephen E Slevinski Jr.
 
 - - -
 ## Unicode Technical Committee ##
+### UTC #148, August 2-5, 2016 
+SignWriting is scheduled to be discussed at UTC #148.
+
 ### At UTC #144, SignWriting was discussed 3 times at length.
 
 Presentations by Stephen E Slevinski Jr.  
@@ -341,12 +356,6 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [44]: https://cdn.rawgit.com/Slevinski/signwriting_2010_tools/master/source/signwriting_2010_symbolkey.fea
 [45]: http://fontforge.org/
 [46]: http://fontforge.org/python.html
-[47]: http://signpuddle.net/iswa/demo/unicode8
-[48]: http://signpuddle.net/iswa/demo/unicode8.zip
-[49]: http://signpuddle.net/iswa/demo/unicodepua
-[50]: http://signpuddle.net/iswa/demo/unicodepua.zip
-[51]: http://signpuddle.net/iswa/demo/symbolkey
-[52]: http://signpuddle.net/iswa/demo/symbolkey.zip
 [53]: https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/source/png_sutton.zip
 [54]: https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/source/svg_refinement.zip
 [55]: https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/source/svg_line.zip
