@@ -419,4 +419,4 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [83]: http://www.signwriting.org/symposium/presentation0062.html
 [84]: http://www.signwriting.org/symposium/presentation0064.html
 [85]: https://signpuddle.net
-[86]: https://signpuddle.org
+[86]: http://signpuddle.org
