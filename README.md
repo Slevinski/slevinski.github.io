@@ -1,7 +1,7 @@
 # Stephen E Slevinski Jr
 _the projects for written sign language with SignWriting Text_
 - - -
-> May 2016
+> July 2016
 
 Contents
 ---------
@@ -13,6 +13,10 @@ Contents
   * [SignWriting 2010 Fonts](#signwriting-2010-fonts)
   * [SignWriting 2010 Tools](#signwriting-2010-tools)
   * [SignWriting Icon Server](#signwriting-icon-server)
+* SignPuddle Websites
+  * [SignPuddle.com](#signpuddle-com)
+  * [SignPuddle.org](#signpuddle-org)
+  * [SignPuddle.net](#signpuddle-net)
 * Other Projects
   * [draft-slevinski-signwriting-text](#draft-slevinski-signwriting-text)
   * [SignWriting Symposium](#signwriting-symposium)
@@ -90,23 +94,28 @@ Licensed under the [MIT License][63]
 
 - - -
 ## SignWriting Character Viewer ##
-Github repo: [SignWriting_Character_Viewer][69], currently version 1.0
-
-The SignWriting Character Viewer shows all of the symbols of the International SignWriting Alphabet 2010 using any of the 4 different character encoding forms to access the glyphs of the [SignWriting 2010 Fonts][29].
+Github repo: [SignWriting_Character_Viewer][69], v1 and v2.
 
 The SignWriting Character Viewer is composed of an HTML file, a CSS file, and 5 JavaScript files.  For convenience, these files have been combined into a single file that is just over 100 KB.
-* [SignWriting Character Viewer as single file][68]
-* [SignWriting Character Viewer as multiple files][67]
+
+The SignWriting Character Viewer v1 shows all of the symbols of the International SignWriting Alphabet 2010 using any of the 4 different character encoding forms to access the glyphs of the [SignWriting 2010 Fonts][29].
+* [SignWriting Character Viewer v1 as single file][68]
+* [SignWriting Character Viewer v1 as multiple files][67]
+
+The SignWriting Character Viewer v2 shows all of the symbols of the International SignWriting Alphabet 2010 using a plane 4 encoding proposal for Uniocde 10, without Private Use Area characters and without ligatures.  The topic will be discussed at UTC 148 in August 2016.  [SignWriting in Unicode Next][79].
+* [SignWriting Character Viewer v2 as single file][80]
+* [SignWriting Character Viewer v2 as multiple files][81]
+
 
 
 ### License
 SignWriting Character Viewer  
-Copyright (c) 2007-2015, Stephen E Slevinski Jr  
+Copyright (c) 2007-2016, Stephen E Slevinski Jr  
 Licensed under the [MIT License][63]  
 
 - - -
 ## SignWriting 2010 JavaScript Library ##
-Github repo: [sw10js][62], currently version 1.8.0
+Github repo: [sw10js][62], currently version 1.9.0
 
 The JavaScript library leverages the TrueType fonts without any additional requirements. Include the "sw10.js" script or the minified version "sw10.min.js" in any HTML page to access the function library.
 
@@ -229,35 +238,45 @@ The source SVG files required to build the fonts are available from the [SignWri
 ## SignWriting Icon Server ##
 Github repo: [swis][32], currently version 1.3.0
 
-The previous generation SignWriting server code for SVG, PNG, and other image formats.  Currently running on [Wikimedia Labs][34] and [SignBank.org][35].
+The previous generation SignWriting server code for SVG, PNG, and other image formats.  Currently running on [Wikimedia Labs][34].
 
+- - -
+## SignPuddle com ##
+>[SignPuddle.com][36]
+
+SignPuddle.com is an informational website with links to email, github, codepen, slideshare, linked in, twitter, stockoverflow, and youtube.
+
+- - -
+## SignPuddle net ##
+>[SignPuddle.net][85]
+
+SignPuddle.net is running the [SignWriting Server](#signwriting-server) with the SignPuddle Online data.  Offerse API resources in SVG and JSON for developer integration.
+
+- - -
+## SignPuddle org ##
+>[SignPuddle.org][86]
+
+SignPuddle.org is the main URL for SignPuddle Online.  Version 2 is for production.  Version 3 is an early preview with new technologies and new techniques.
 
 - - -
 ## draft-slevinski-signwriting-text ##
 The character encodings used in SignWriting 2010 are defined in an Internet Draft submitted to the IETF: [draft-slevinski-signwriting-text][26].
 The document is improved and resubmitted every 6 months.
 The character design has been stable since January 12, 2012.
-The current version of the Internet Draft is 06.
-The next version is planned for May 2016.
-
-- - -
-## Wikimedia Incubator ##
->User [slevinski][37]
-
-The [SignWriting Gadget][38] makes is possible for Wikimedia Incubator to support any sign language with SignWriting Text.
-
-The [ASL Wikipedia][39] has been started and currently has over 50 articles. Other sign language projects are ready to start.
-View the [Test wikis of sign language][40] for the current list. 
+The current version of the Internet Draft is 07.
+The next version is planned for November 2016.
 
 - - -
 ## SignWriting Symposium ##
 
-### In 2016, coming July 18-21
+### In 2016, 12 presentations coming July 18-21
 
 To be presented by Stephen E Slevinski Jr.
- 1) SignPuddle and the New SignWriting Server
- 2) SignPuddle 3
- 
+ 1) [Organizing Principles of SignPuddle][82]
+ 2) [SignPuddle 3: Front and Back][83]
+
+Also part of [SignWriting Encyclopedia Projects: Wikipedias in American Sign Language and Tunisian Sign Language][84] 
+
 ### In 2015, there were 12 presentations from 8 countries.
 
 Presentations by Stephen E Slevinski Jr.  
@@ -272,9 +291,21 @@ Presentations by Stephen E Slevinski Jr.
  3) [Digital collaboration with machine-readable sign language text in the SignWriting script][74]  
 
 - - -
+## Wikimedia Incubator ##
+>User [slevinski][37]
+
+The [SignWriting Gadget][38] makes is possible for Wikimedia Incubator to support any sign language with SignWriting Text.
+
+The [ASL Wikipedia][39] has been started and currently has over 50 articles. Other sign language projects are ready to start.
+View the [Test wikis of sign language][40] for the current list. 
+
+- - -
 ## Unicode Technical Committee ##
-### UTC #148, August 2-5, 2016 
-SignWriting is scheduled to be discussed at UTC #148.
+### UTC #148, August 3-5, 2016 
+SignWriting is scheduled to be discussed at UTC #148 with some plenary time with the whole UTC and several ad hoc discussions during the meeting.
+
+To be presented by Stephen E Slevinski Jr.
+ 1) [SignWriting in Unicode Next][79]
 
 ### At UTC #144, SignWriting was discussed 3 times at length.
 
@@ -344,7 +375,6 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [32]: https://github.com/Slevinski/swis
 [33]: https://signbank.org/swap
 [34]: http://swis.wmflabs.org
-[35]: http://signbank.org/swis
 [36]: http://signpuddle.com
 [37]: https://incubator.wikimedia.org/wiki/User:Slevinski
 [38]: https://incubator.wikimedia.org/wiki/User:Slevinski/SignWriting/Incubator#SignWriting_Gadget
@@ -370,7 +400,7 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [64]: http://www.unicode.org/versions/Unicode8.0.0/
 [65]: https://cdn.rawgit.com/Slevinski/sw10js/gh-pages/sw10.js
 [66]: http://github.com/Slevinski/signmaker
-[67]: https://slevinski.github.io/SignWriting_Character_Viewer/
+[67]: https://slevinski.github.io/SignWriting_Character_Viewer/SignWriting_Character_Viewer_dev.html
 [68]: https://slevinski.github.io/SignWriting_Character_Viewer/SignWriting_Character_Viewer.html
 [69]: https://github.com/Slevinski/SignWriting_Character_Viewer
 [70]: http://www.signwriting.org/symposium/presentation0043.html
@@ -382,3 +412,11 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [76]: http://www.slideshare.net/StephenSlevinski/thanks-to-the-utc
 [77]: http://www.signwriting.org/symposium/presentation0051.html
 [78]: http://github.com/Slevinski/swserver
+[79]: http://www.slideshare.net/StephenSlevinski/signwriting-in-unicode-next
+[80]: https://slevinski.github.io/SignWriting_Character_Viewer/SignWriting_Character_Viewer_2.html
+[81]: https://slevinski.github.io/SignWriting_Character_Viewer/SignWriting_Character_Viewer_2_dev.html
+[82]: http://www.signwriting.org/symposium/presentation0055.html
+[83]: http://www.signwriting.org/symposium/presentation0062.html
+[84]: http://www.signwriting.org/symposium/presentation0064.html
+[85]: https://signpuddle.net
+[86]: https://signpuddle.org
