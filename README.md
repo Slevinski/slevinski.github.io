@@ -271,9 +271,9 @@ The next version is planned for November 2016.
 
 ### In 2016, 12 presentations coming July 18-21
 
-To be presented by Stephen E Slevinski Jr.
- 1) [Organizing Principles of SignPuddle][82]
- 2) [SignPuddle 3: Front and Back][83]
+To be presented by Stephen E Slevinski Jr.  
+ 1) [Organizing Principles of SignPuddle][82]  
+ 2) [SignPuddle 3: Front and Back][83]  
 
 Also part of [SignWriting Encyclopedia Projects: Wikipedias in American Sign Language and Tunisian Sign Language][84] 
 
@@ -304,8 +304,8 @@ View the [Test wikis of sign language][40] for the current list.
 ### UTC #148, August 3-5, 2016 
 SignWriting is scheduled to be discussed at UTC #148 with some plenary time with the whole UTC and several ad hoc discussions during the meeting.
 
-To be presented by Stephen E Slevinski Jr.
- 1) [SignWriting in Unicode Next][79]
+To be presented by Stephen E Slevinski Jr.  
+ 1) [SignWriting in Unicode Next][79]  
 
 ### At UTC #144, SignWriting was discussed 3 times at length.
 
