@@ -97,14 +97,15 @@ Licensed under the [MIT License][63]
 Github repo: [SignWriting_Character_Viewer][69], v1 and v2.
 
 The SignWriting Character Viewer is composed of an HTML file, a CSS file, and 5 JavaScript files.  For convenience, these files have been combined into a single file that is just over 100 KB.
-
+* [SignWriting Character Viewer Index][87]  
+ 
 The SignWriting Character Viewer v1 shows all of the symbols of the International SignWriting Alphabet 2010 using any of the 4 different character encoding forms to access the glyphs of the [SignWriting 2010 Fonts][29].
-* [SignWriting Character Viewer v1 as single file][68]
-* [SignWriting Character Viewer v1 as multiple files][67]
+* [SignWriting Character Viewer v1 as single file][68]  
+* [SignWriting Character Viewer v1 as multiple files][67]  
 
 The SignWriting Character Viewer v2 shows all of the symbols of the International SignWriting Alphabet 2010 using a plane 4 encoding proposal for Uniocde 10, without Private Use Area characters and without ligatures.  The topic will be discussed at UTC 148 in August 2016.  [SignWriting in Unicode Next][79].
-* [SignWriting Character Viewer v2 as single file][80]
-* [SignWriting Character Viewer v2 as multiple files][81]
+* [SignWriting Character Viewer v2 as single file][80]  
+* [SignWriting Character Viewer v2 as multiple files][81]  
 
 
 
@@ -272,7 +273,7 @@ The next version is planned for November 2016.
 ### In 2016, 12 presentations coming July 18-21
 
 To be presented by Stephen E Slevinski Jr.  
- 1) [Organizing Principles of SignPuddle][82]  
+ 1) [Moving Forward with Sign Language Projects in Formal SignWriting][82]  
  2) [SignPuddle 3: Front and Back][83]  
 
 Also part of [SignWriting Encyclopedia Projects: Wikipedias in American Sign Language and Tunisian Sign Language][84] 
@@ -420,3 +421,4 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [84]: http://www.signwriting.org/symposium/presentation0064.html
 [85]: https://signpuddle.net
 [86]: http://signpuddle.org
+[87]: https://slevinski.github.io/SignWriting_Character_Viewer
