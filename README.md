@@ -7,9 +7,9 @@ Contents
 ---------
 * GitHub Projects
   * [SignWriting Server](#signwriting-server)
-  * [SignMaker 2015](#signmaker-2015)
   * [SignWriting Character Viewer](#signwriting-character-viewer)
   * [SignWriting 2010 JavaScript Library](#signwriting-2010-javascript-library)
+  * [SignMaker 2015](#signmaker-2015)
   * [SignWriting 2010 Fonts](#signwriting-2010-fonts)
   * [SignWriting 2010 Tools](#signwriting-2010-tools)
   * [SignWriting Icon Server](#signwriting-icon-server)
@@ -73,32 +73,18 @@ Copyright (c) 2007-2016, Stephen E Slevinski Jr
 Licensed under the [MIT License][63]  
 
 - - -
-## SignMaker 2015 ##
-Github repo: [signmaker][66], currently version 1.3.2
-
-SignMaker is a standards based editor, utilizing HTML, CSS, JavaScript, SVG, TrueType Fonts, and PNG images.
-Write signs in any sign language with the SignWriting script using the SignWriting 2010 Fonts.
-
-SignMaker is browser based without the need for a server connection. It can be used online or it can be [downloaded](https://github.com/Slevinski/signmaker/archive/gh-pages.zip) and run directly from the user's computer.
-
-The primary online website can be used to create a private dictionary in the browser's LocalStorage or view dozens of sign language dictionaries from around the world.
- - [SignMaker on SignBank](http://signbank.org/signmaker.html)
-
-The secondary online website can be used to create a private dictionary in the browser's LocalStorage.
- - [SignMaker on GitHub.io](http://slevinski.github.io/signmaker)
-
-### License
-SignMaker  
-Copyright (c) 2007-2015, Stephen E Slevinski Jr  
-Licensed under the [MIT License][63]  
-
-- - -
 ## SignWriting Character Viewer ##
 Github repo: [SignWriting_Character_Viewer][69], v1 and v2.
 
-The SignWriting Character Viewer is composed of an HTML file, a CSS file, and 5 JavaScript files.  For convenience, these files have been combined into a single file that is just over 100 KB.
-* [SignWriting Character Viewer Index][87]  
+The SignWriting Character Viewer shows all of the symbols of the International SignWriting Alphabet 2010 using a variety of character encoding forms to access the glyphs of the [SignWriting 2010 Fonts][29].
  
+The main index page contains links for both version 1 and 2.
+The main index uses the SignWriting 2010 JavaScript library (7 KB zipped) to convert a live Formal SignWriting string into HTML, CSS, SVG and TTF.
+ * [SignWriting Character Viewer Index][87]  
+ * [Available as 2 KB each of CSS, HTML, and custom JavaScript at CodePen.io][88]  
+
+The SignWriting Character Viewer versions 1 and 2 uses HTML, CSS, and JavaScript with TrueType Font files to display .
+
 The SignWriting Character Viewer v1 shows all of the symbols of the International SignWriting Alphabet 2010 using any of the 4 different character encoding forms to access the glyphs of the [SignWriting 2010 Fonts][29].
 * [SignWriting Character Viewer v1 as single file][68]  
 * [SignWriting Character Viewer v1 as multiple files][67]  
@@ -106,8 +92,6 @@ The SignWriting Character Viewer v1 shows all of the symbols of the Internationa
 The SignWriting Character Viewer v2 shows all of the symbols of the International SignWriting Alphabet 2010 using a plane 4 encoding proposal for Uniocde 10, without Private Use Area characters and without ligatures.  The topic will be discussed at UTC 148 in August 2016.  [SignWriting in Unicode Next][79].
 * [SignWriting Character Viewer v2 as single file][80]  
 * [SignWriting Character Viewer v2 as multiple files][81]  
-
-
 
 ### License
 SignWriting Character Viewer  
@@ -128,6 +112,26 @@ The JavaScript library leverages the TrueType fonts without any additional requi
 ### License
 SignWriting 2010 JavaScript Library  
 Copyright (c) 2007-2016, Stephen E Slevinski Jr  
+Licensed under the [MIT License][63]  
+
+- - -
+## SignMaker 2015 ##
+Github repo: [signmaker][66], currently version 1.3.2
+
+SignMaker is a standards based editor, utilizing HTML, CSS, JavaScript, SVG, TrueType Fonts, and PNG images.
+Write signs in any sign language with the SignWriting script using the SignWriting 2010 Fonts.
+
+SignMaker is browser based without the need for a server connection. It can be used online or it can be [downloaded](https://github.com/Slevinski/signmaker/archive/gh-pages.zip) and run directly from the user's computer.
+
+The primary online website can be used to create a private dictionary in the browser's LocalStorage or view dozens of sign language dictionaries from around the world.
+ - [SignMaker on SignBank](http://signbank.org/signmaker.html)
+
+The secondary online website can be used to create a private dictionary in the browser's LocalStorage.
+ - [SignMaker on GitHub.io](http://slevinski.github.io/signmaker)
+
+### License
+SignMaker  
+Copyright (c) 2007-2015, Stephen E Slevinski Jr  
 Licensed under the [MIT License][63]  
 
 - - -
@@ -422,3 +426,4 @@ This is a work in progress. Feedback, bug reports, and patches are welcomed.
 [85]: https://signpuddle.net
 [86]: http://signpuddle.org
 [87]: https://slevinski.github.io/SignWriting_Character_Viewer
+[88]: http://codepen.io/Slevinski/full/XKRPzm/
