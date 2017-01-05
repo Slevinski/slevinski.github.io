@@ -39,6 +39,7 @@ The Formal SignWriting specification is a faithful encoding of Sutton SignWritin
 
 ### Sutton SignWriting Fonts
 The Sutton SignWriting TrueType fonts are available for download and installation. The fonts have been tailored for the Sutton SignWriting JavaScript Library. Install instructions available for Windows, Linux, Mac, and iOS.  
+
 >Sutton SignWriting Fonts  
 Copyright (c) 1974-2016, Center for Sutton Movement Writing, inc  
 Licensed under the SIL Open Font License v1.1  
@@ -47,6 +48,7 @@ Licensed under the SIL Open Font License v1.1
 ### Sutton SignWriting JavaScript Library
 The JavaScript library leverages the TrueType fonts without any additional requirements. 
 Simply include the Sutton SignWriting JavaScript file in any HTML page to access the functions.  
+
 > Sutton SignWriting JavaScript Library  
 Copyright (c) 2007-2016, Stephen E Slevinski Jr  
 Licensed under the MIT License  
@@ -59,26 +61,30 @@ Github repo: [swserver](http://github.com/Slevinski/swserver), currently version
 The SignWriting Server provides online resources for SignWriting applications and users.  The server accepts HTTP requests and responds with SVG or JSON data. The SignWriting Server is built with the PHP SLIM Framework v2.6.
 
 The primary site is available on the Center for Sutton Movement Writing server.
-* https://signpuddle.net
+
+- https://signpuddle.net 
 
 A mirror site is available on Wikimedia Labs.
-* https://swserver.wmflabs.org
+
+- https://swserver.wmflabs.org 
 
 
 
 ### SVG images
 The SignWriting server creates SVG images for individual symbols using symbol keys and completed 2-dimensional signs using Formal SignWriting.  Styling strings are supported, offering coloring and sizing customizations.
-* http://swserver.wmflabs.org/svg/S10000
-* http://swserver.wmflabs.org/svg/font/S20500
-* http://swserver.wmflabs.org/svg/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489
-* http://swserver.wmflabs.org/svg/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489-CP10G_lightblue_D_x,lightblue_Zx
+
+- http://swserver.wmflabs.org/svg/S10000 
+- http://swserver.wmflabs.org/svg/font/S20500 
+- http://swserver.wmflabs.org/svg/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489 
+- http://swserver.wmflabs.org/svg/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489-CP10G_lightblue_D_x,lightblue_Zx 
 
 ### Query string transformation to regular expressions
 Query strings are a concise representation of a much larger and detailed set of regular expressions.
 Each query string is transformed into one or more regular expressions that can be used to search a text of Formal SignWriting.
 Additionally, Formal SignWriting strings can be converted into several types of query strings, each of which can be transformed into regular expressions.
-* http://swserver.wmflabs.org/regex/Q
-* http://swserver.wmflabs.org/regex/s/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489
+
+- http://swserver.wmflabs.org/regex/Q 
+- http://swserver.wmflabs.org/regex/s/M548x514S11010509x487S11018477x487S2df1e453x489S2df06528x489 
 
 ### Countries of the world
 The countries of the world are described with SVG shapes and flag images.
@@ -110,10 +116,12 @@ Write signs in any sign language with the SignWriting script using the SignWriti
 SignMaker is browser based without the need for a server connection. It can be used online or it can be [downloaded](https://github.com/Slevinski/signmaker/archive/gh-pages.zip) and run directly from the user's computer.
 
 The primary online website can be used to create a private dictionary in the browser's LocalStorage or view dozens of sign language dictionaries from around the world.
- - [SignMaker on SignBank](http://signbank.org/signmaker.html)
+
+- [SignMaker on SignBank](http://signbank.org/signmaker.html) 
 
 The secondary online website can be used to create a private dictionary in the browser's LocalStorage.
- - [SignMaker on GitHub.io](http://slevinski.github.io/signmaker)
+
+- [SignMaker on GitHub.io](http://slevinski.github.io/signmaker) 
 
 ### License
 SignMaker  
@@ -134,18 +142,20 @@ Symbol image refinement in SVG by Adam Frost.
 Encoding and transformation by Stephen E Slevinski Jr.
 
 ### Sutton SignWriting TrueType Font Downloads
-* Reserved Font Name: [Sutton SignWriting](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting.log)  
-* Reserved Font Name: [Sutton SignWriting Fill](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingFill.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingFill.log)  
-* Fonts packaged for iOS: [Sutton SignWriting Configuration Profile](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting.mobileconfig)
+
+- Reserved Font Name: [Sutton SignWriting](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting.log) 
+- Reserved Font Name: [Sutton SignWriting Fill](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingFill.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingFill.log) 
+- Fonts packaged for iOS: [Sutton SignWriting Configuration Profile](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting.mobileconfig) 
 
 >Sutton SignWriting Fonts  
 Copyright (c) 1974-2016, Center for Sutton Movement Writing, inc  
 Licensed under the SIL Open Font License v1.1  
 
 ### SignWriting 2010 TrueType Font Downloads
-* Reserved Font Name: [SignWriting 2010](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.log)  
-* Reserved Font Name: [SignWriting 2010 Filling](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010%20Filling.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010%20Filling.log)  
-* Fonts packaged for iOS: [SignWriting 2010 Configuration Profile](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.mobileconfig)
+
+- Reserved Font Name: [SignWriting 2010](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.log) 
+- Reserved Font Name: [SignWriting 2010 Filling](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010%20Filling.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010%20Filling.log) 
+- Fonts packaged for iOS: [SignWriting 2010 Configuration Profile](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.mobileconfig) 
 
 >SignWriting 2010 Fonts  
 Copyright (c) 1974-2016, Center for Sutton Movement Writing, inc  
@@ -233,24 +243,26 @@ View the [Test wikis of sign language](https://incubator.wikimedia.org/wiki/Cate
 The Center for Sutton Movement Writing is preparing an official submission for 17 new control characters to be added to the Sutton SignWriting block to fully support the script with Unicode characters.
 
 We are looking for the support of Unicode voting members.  Please contact us if you can help in any way.
-* Adobe
-* Apple
-* Facebook
-* Google
-* Huawei
-* IBM
-* Microsoft
-* Oracle
-* SAP
-* Symantec
-* Government of Bangladech
-* Government of India
-* Government of Tamil Nadu
-* University of California, Berkeley
+
+- Adobe 
+- Apple 
+- Facebook 
+- Google 
+- Huawei 
+- IBM 
+- Microsoft 
+- Oracle 
+- SAP 
+- Symantec 
+- Government of Bangladesh 
+- Government of India 
+- Government of Tamil Nadu 
+- University of California, Berkeley 
 
 Available resources:
-* Presentation - [SignWriting in Unicode Next](http://www.slideshare.net/StephenSlevinski/signwriting-in-unicode-next)  
-* Internet Draft - [draft-slevinski-formal-signwriting, Unicode Section](https://tools.ietf.org/html/draft-slevinski-formal-signwriting-01#section-4)  
+
+- Presentation - [SignWriting in Unicode Next](http://www.slideshare.net/StephenSlevinski/signwriting-in-unicode-next)  
+- Internet Draft - [draft-slevinski-formal-signwriting, Unicode Section](https://tools.ietf.org/html/draft-slevinski-formal-signwriting-01#section-4)  
 
 ### UTC #148, August 3-5, 2016 
 SignWriting was discussed during UTC #148.
@@ -290,8 +302,9 @@ The SignWriting Character Viewer shows all of the symbols of the International S
  
 The main index page contains links for both version 1 and 2.
 The main index uses the SignWriting 2010 JavaScript library (7 KB zipped) to convert a live Formal SignWriting string into HTML, CSS, SVG and TTF.
- * [SignWriting Character Viewer Index](https://slevinski.github.io/SignWriting_Character_Viewer)  
- * [Available as 2 KB each of CSS, HTML, and custom JavaScript at CodePen.io](http://codepen.io/Slevinski/full/XKRPzm/)  
+
+- [SignWriting Character Viewer Index](https://slevinski.github.io/SignWriting_Character_Viewer)  
+- [Available as 2 KB each of CSS, HTML, and custom JavaScript at CodePen.io](http://codepen.io/Slevinski/full/XKRPzm/)  
 
 The SignWriting Character Viewer versions 1 and 2 use HTML, CSS, and JavaScript with TrueType Font files for display.
 
