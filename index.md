@@ -52,6 +52,7 @@ Copyright (c) 2007-2016, Stephen E Slevinski Jr
 Licensed under the MIT License  
 
 - - -
+
 ## SignWriting Server
 Github repo: [swserver](http://github.com/Slevinski/swserver), currently version 1.4.0
 
@@ -99,6 +100,7 @@ Copyright (c) 2007-2016, Stephen E Slevinski Jr
 Licensed under the MIT License  
 
 - - -
+
 ## SignMaker 2015
 Github repo: [signmaker](http://github.com/Slevinski/signmaker), currently version 1.3.2
 
@@ -119,6 +121,7 @@ Copyright (c) 2007-2015, Stephen E Slevinski Jr
 Licensed under the MIT License  
 
 - - -
+
 ## SignWriting 2010 Fonts
 Github repo: [signwriting\_2010\_fonts](https://github.com/Slevinski/signwriting_2010_fonts), currently version 2.0.1
 
@@ -150,6 +153,7 @@ Licensed under the SIL Open Font License v1.1
 
 
 - - -
+
 ## SignWriting 2010 Tools
 Github repo: [signwriting\_2010\_tools](https://github.com/Slevinski/signwriting_2010_tools), currently version 1.5.1
 
@@ -159,30 +163,35 @@ called the [SignWriting 2010 Fonts](https://github.com/Slevinski/signwriting_201
 To build the fonts from the sources, you need [FontForge](http://fontforge.org/) with [Python scripting](http://fontforge.org/python.html) support.
 
 - - -
+
 ## SignPuddle com
 >[SignPuddle.com](http://signpuddle.com/)
 
 SignPuddle.com is an informational website with links to email, github, codepen, slideshare, linked in, twitter, stockoverflow, and youtube.
 
 - - -
+
 ## SignPuddle net
 >[SignPuddle.net](http://signpuddle.net/)
 
 SignPuddle.net is running the [SignWriting Server](#signwriting-server) with the SignPuddle Online data.  Offers API resources in SVG and JSON for developer integration.
 
 - - -
+
 ## SignPuddle org
 >[SignPuddle.org](http://signpuddle.com/)
 
 SignPuddle.org is the main URL for SignPuddle Online.  Version 2 is for production.  Version 3 is an early preview with new technologies and new techniques.
 
 - - -
+
 ## draft-slevinski-formal-signwriting
 The character encodings and associated technologies used in the Sutton SignWriting Project are defined in an Internet Draft submitted to the IETF: [draft-slevinski-formal-signwriting](http://tools.ietf.org/html/draft-slevinski-formal-signwriting).
 The character design has been stable since January 12, 2012.
 To fully support the Sutton SignWriting script in Unicode, 17 new characters are proposed to be use with the 672 characters that have already been accepted.
 
 - - -
+
 ## SignWriting Symposium
 
 ### In 2016, 12 presentations coming July 18-21
@@ -207,6 +216,7 @@ Presentations by Stephen E Slevinski Jr.
  3) [Digital collaboration with machine-readable sign language text in the SignWriting script](http://www.signwriting.org/symposium/presentation0031.html)  
 
 - - -
+
 ## Wikimedia Incubator
 >User [slevinski](https://incubator.wikimedia.org/wiki/User:Slevinski)
 
@@ -216,6 +226,7 @@ The [ASL Wikipedia](https://incubator.wikimedia.org/wiki/Wp/ase) has been starte
 View the [Test wikis of sign language](https://incubator.wikimedia.org/wiki/Category:Incubator:Test_wikis_of_sign_languages) for the current list. 
 
 - - -
+
 ## Unicode Technical Committee
 ### UTC #152, July 31 to August 4, 2017 
 The Center for Sutton Movement Writing is preparing an official submission for 17 new control characters to be added to the Sutton SignWriting block to fully support the script with Unicode characters.
@@ -252,6 +263,7 @@ Presentations by Stephen E Slevinski Jr.
   2) [Thanks to the UTC](http://www.slideshare.net/StephenSlevinski/thanks-to-the-utc)  
 
 - - -
+
 ## SignWriting font-face Project
 SignWriting uses a 16-bit font.  Creating the fonts is a complex process that uses a complex tool.  If anyone is interested in font work collaboration, please contact me. 
 
@@ -267,6 +279,7 @@ The existing SignWriting fonts are based on SignWriting Block Printing: an inter
 
 
 - - -
+
 ## SignWriting Character Viewer
 > Historical project.  Merged into the Sutton SignWriting Project.  
 
@@ -287,6 +300,7 @@ Copyright (c) 2007-2016, Stephen E Slevinski Jr
 Licensed under the MIT License  
 
 - - -
+
 ## SignWriting 2010 JavaScript Library
 > Historical project.  Merged into the Sutton SignWriting Project.  
 
@@ -305,6 +319,7 @@ Copyright (c) 2007-2016, Stephen E Slevinski Jr
 Licensed under the MIT License  
 
 - - -
+
 ## SignWriting Icon Server
 > Historical project.  Superceeded by the SignWriting Server.  
 
@@ -313,5 +328,6 @@ Github repo: [swis](https://github.com/Slevinski/swis), currently version 1.3.0
 The previous generation SignWriting server code for SVG, PNG, and other image formats.  Currently running on [Wikimedia Labs](http://swis.wmflabs.org/).
 
 - - -
+
 ## Epilogue
 This is a work in progress. Feedback, bug reports, and patches are welcomed.
