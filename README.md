@@ -1,7 +1,7 @@
 # Stephen E Slevinski Jr
-_the projects of written sign language with Formal SignWriting_
+_the projects of written sign language with Sutton SignWriting_
 - - -
-> October 2016
+> January 2017
 
 Contents
 ---------
@@ -29,7 +29,7 @@ Contents
 - - -
 
 ## Sutton SignWriting ##
-Github repo: [SuttonSignWriting](http://github.com/Slevinski/SuttonSignWriting), currently version 1.0.1
+Github repo: [SuttonSignWriting](http://github.com/Slevinski/SuttonSignWriting), currently version 1.1.1
 
 The Sutton SignWriting project is designed for the internet community and includes TrueType Fonts, Scalar Vector Graphics, HTML, CSS, and JavaScript Functions.
 The Formal SignWriting specification is a faithful encoding of Sutton SignWriting that is documented in an Internet Draft submitted to the IETF. 
@@ -55,7 +55,7 @@ Licensed under the MIT License
 
 - - -
 ## SignWriting Server ##
-Github repo: [swserver](http://github.com/Slevinski/swserver), currently version 1.3.0
+Github repo: [swserver](http://github.com/Slevinski/swserver), currently version 1.4.0
 
 The SignWriting Server provides online resources for SignWriting applications and users.  The server accepts HTTP requests and responds with SVG or JSON data. The SignWriting Server is built with the PHP SLIM Framework v2.6.
 
@@ -170,7 +170,7 @@ SignPuddle.com is an informational website with links to email, github, codepen,
 ## SignPuddle net ##
 >[SignPuddle.net](http://signpuddle.net/)
 
-SignPuddle.net is running the [SignWriting Server](#signwriting-server) with the SignPuddle Online data.  Offerse API resources in SVG and JSON for developer integration.
+SignPuddle.net is running the [SignWriting Server](#signwriting-server) with the SignPuddle Online data.  Offers API resources in SVG and JSON for developer integration.
 
 - - -
 ## SignPuddle org ##
@@ -182,6 +182,7 @@ SignPuddle.org is the main URL for SignPuddle Online.  Version 2 is for producti
 ## draft-slevinski-formal-signwriting ##
 The character encodings and associated technologies used in the Sutton SignWriting Project are defined in an Internet Draft submitted to the IETF: [draft-slevinski-formal-signwriting](http://tools.ietf.org/html/draft-slevinski-formal-signwriting).
 The character design has been stable since January 12, 2012.
+To fully support the Sutton SignWriting script in Unicode, 17 new characters are proposed to be use with the 672 characters that have already been accepted.
 
 - - -
 ## SignWriting Symposium ##
@@ -218,13 +219,35 @@ View the [Test wikis of sign language](https://incubator.wikimedia.org/wiki/Cate
 
 - - -
 ## Unicode Technical Committee ##
+### UTC #152, July 31 to August 4, 2017 
+The Center for Sutton Movement Writing is preparing an official submission for 17 new control characters to be added to the Sutton SignWriting block to fully support the script with Unicode characters.
+
+We are looking for the support of Unicode voting members.  Please contact us if you can help in any way.
+* Adobe
+* Apple
+* Facebook
+* Google
+* Huawei
+* IBM
+* Microsoft
+* Oracle
+* SAP
+* Symantec
+* Government of Bangladech
+* Government of India
+* Government of Tamil Nadu
+* University of California, Berkeley
+
+Available resources:
+* Presentation - [SignWriting in Unicode Next](http://www.slideshare.net/StephenSlevinski/signwriting-in-unicode-next)  
+* Internet Draft - [draft-slevinski-formal-signwriting, Unicode Section](https://tools.ietf.org/html/draft-slevinski-formal-signwriting-01#section-4)  
+
 ### UTC #148, August 3-5, 2016 
-SignWriting is scheduled to be discussed at UTC #148 with some plenary time with the whole UTC and several ad hoc discussions during the meeting.
+SignWriting was discussed during UTC #148.
+ 
 
-To be presented by Stephen E Slevinski Jr.  
- 1) [SignWriting in Unicode Next](http://www.slideshare.net/StephenSlevinski/signwriting-in-unicode-next)  
-
-### At UTC #144, SignWriting was discussed 3 times at length.
+### At UTC #144, July 27-31, 2015
+SignWriting was discussed 3 times at length.
 
 Presentations by Stephen E Slevinski Jr.  
   1) [Issues with SignWriting in Unicode 8](http://www.slideshare.net/StephenSlevinski/sign-writing-in-unicode-8-issues)  
