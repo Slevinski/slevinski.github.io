@@ -230,6 +230,7 @@ View the [Test wikis of sign language](https://incubator.wikimedia.org/wiki/Cate
 - - -
 
 ## Unicode Technical Committee
+
 ### UTC #152, July 31 to August 4, 2017 
 The Center for Sutton Movement Writing is preparing an official submission for 17 new control characters to be added to the Sutton SignWriting block to fully support the script with Unicode characters.
 
