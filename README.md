@@ -1,11 +1,12 @@
 # Stephen E Slevinski Jr
 _the projects of written sign language with Sutton SignWriting_
 - - -
-> January 2017
+> August 2017
 
 Contents
 ---------
 * Active GitHub Projects
+  * [SignWriting Looking Glass](#signwriting-looking-glass)
   * [Sutton SignWriting](#sutton-signwriting)
   * [SignWriting Server](#signwriting-server)
   * [SignMaker 2015](#signmaker-2015)
@@ -28,11 +29,19 @@ Contents
 
 - - -
 
-## Sutton SignWriting
-Github repo: [SuttonSignWriting](http://github.com/Slevinski/SuttonSignWriting), currently version 1.1.1
+## SignWriting Looking Glass
+Github repo: coming soon...
 
-The Sutton SignWriting project is designed for the internet community and includes TrueType Fonts, Scalar Vector Graphics, HTML, CSS, and JavaScript Functions.
-The Formal SignWriting specification is a faithful encoding of Sutton SignWriting that is documented in an Internet Draft submitted to the IETF. 
+The SignWriting Looking Glass is a browser extension available for Chrome, Edge, FireFox, and Opera.
+Use Sutton SignWriting in the browser with any website on Windows, Linux, OS X, iOS, and Android.
+
+- - -
+
+## Sutton SignWriting
+Github repo: [SuttonSignWriting](http://github.com/Slevinski/SuttonSignWriting), currently version 1.3.2
+
+The Sutton SignWriting project is designed for the internet community and includes TrueType Fonts, Scalar Vector Graphics, HTML, CSS, and JavaScript Functions. 
+The Formal SignWriting specification is a faithful encoding of Sutton SignWriting that is documented in an Internet Draft submitted to the IETF.
 
 - [The Sutton SignWriting Project](http://slevinski.github.io/SuttonSignWriting) 
 - [Characters](http://slevinski.github.io/SuttonSignWriting/characters) 
@@ -43,7 +52,7 @@ The Formal SignWriting specification is a faithful encoding of Sutton SignWritin
 The Sutton SignWriting TrueType fonts are available for download and installation. The fonts have been tailored for the Sutton SignWriting JavaScript Library. Install instructions available for Windows, Linux, Mac, and iOS.  
 
 >Sutton SignWriting Fonts  
-Copyright (c) 1974-2016, Center for Sutton Movement Writing, inc  
+Copyright (c) 1974-2017, Center for Sutton Movement Writing, inc  
 Licensed under the SIL Open Font License v1.1  
 
 
@@ -52,7 +61,7 @@ The JavaScript library leverages the TrueType fonts without any additional requi
 Simply include the Sutton SignWriting JavaScript file in any HTML page to access the functions.  
 
 > Sutton SignWriting JavaScript Library  
-Copyright (c) 2007-2016, Stephen E Slevinski Jr  
+Copyright (c) 2007-2017, Stephen E Slevinski Jr  
 Licensed under the MIT License  
 
 - - -
@@ -110,7 +119,7 @@ Licensed under the MIT License
 - - -
 
 ## SignMaker 2015
-Github repo: [signmaker](http://github.com/Slevinski/signmaker), currently version 1.3.2
+Github repo: [signmaker](http://github.com/Slevinski/signmaker), currently version 1.4.0
 
 SignMaker is a standards based editor, utilizing HTML, CSS, JavaScript, SVG, TrueType Fonts, and PNG images.
 Write signs in any sign language with the SignWriting script using the SignWriting 2010 Fonts.
@@ -127,17 +136,17 @@ The secondary online website can be used to create a private dictionary in the b
 
 ### License
 SignMaker  
-Copyright (c) 2007-2015, Stephen E Slevinski Jr  
+Copyright (c) 2007-2017, Stephen E Slevinski Jr  
 Licensed under the MIT License  
 
 - - -
 
 ## SignWriting 2010 Fonts
-Github repo: [signwriting\_2010\_fonts](https://github.com/Slevinski/signwriting_2010_fonts), currently version 2.0.1
+Github repo: [signwriting\_2010\_fonts](https://github.com/Slevinski/signwriting_2010_fonts), currently version 2.2.1
 
 SignWriting 2010 is a typeface for written sign languages which makes the entire International SignWriting Alphabet 2010 symbol set available in TrueType fonts.
 
-The Sutton SignWriting fonts are an updates revision of the SignWriting 2010 fonts which fixes the appearance and size for some of the symbols. The fonts are built with the SignWriting 2010 Tools. The Sutton SignWriting Fonts are used in the Sutton SignWriting Project.
+The Sutton SignWriting fonts are an updates revision of the SignWriting 2010 fonts which fixes the appearance and size for some of the symbols. The fonts are built with the SignWriting 2010 Tools. The Sutton SignWriting Fonts are used in the Sutton SignWriting Project and the SignWriting Looking Glass.
 
 Original symbol design by Valerie Sutton.
 Symbol image refinement in SVG by Adam Frost.
@@ -145,32 +154,21 @@ Encoding and transformation by Stephen E Slevinski Jr.
 
 ### Sutton SignWriting TrueType Font Downloads
 
-- Reserved Font Name: [Sutton SignWriting](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting.log) 
+- Reserved Font Name: [Sutton SignWriting Line](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingLine.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingLine.log) 
 - Reserved Font Name: [Sutton SignWriting Fill](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingFill.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingFill.log) 
-- Fonts packaged for iOS: [Sutton SignWriting Configuration Profile](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting.mobileconfig) 
+- Reserved Font Name: [Sutton SignWriting 1D Optimal](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting1dOpt.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting1dOpt.log) 
+- Fonts packaged for OS X and iOS: [Sutton SignWriting Plus Configuration Profile](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingPlus.mobileconfig) 
 
 >Sutton SignWriting Fonts  
-Copyright (c) 1974-2016, Center for Sutton Movement Writing, inc  
+Copyright (c) 1974-2017, Center for Sutton Movement Writing, inc  
 Licensed under the SIL Open Font License v1.1  
-
-### SignWriting 2010 TrueType Font Downloads
-
-- Reserved Font Name: [SignWriting 2010](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.log) 
-- Reserved Font Name: [SignWriting 2010 Filling](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010%20Filling.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010%20Filling.log) 
-- Fonts packaged for iOS: [SignWriting 2010 Configuration Profile](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SignWriting%202010.mobileconfig) 
-
->SignWriting 2010 Fonts  
-Copyright (c) 1974-2016, Center for Sutton Movement Writing, inc  
-Licensed under the SIL Open Font License v1.1  
-
 
 - - -
 
 ## SignWriting 2010 Tools
-Github repo: [signwriting\_2010\_tools](https://github.com/Slevinski/signwriting_2010_tools), currently version 1.5.1
+Github repo: [signwriting\_2010\_tools](https://github.com/Slevinski/signwriting_2010_tools), currently version 2.1.0
 
-The SignWriting 2010 Tools are used to build a typeface for written sign languages
-called the [SignWriting 2010 Fonts](https://github.com/Slevinski/signwriting_2010_fonts).
+The SignWriting 2010 Tools are used to build the [Sutton SignWriting fonts](https://github.com/Slevinski/signwriting_2010_fonts).
 
 To build the fonts from the sources, you need [FontForge](http://fontforge.org/) with [Python scripting](http://fontforge.org/python.html) support.
 
@@ -200,15 +198,14 @@ SignPuddle.org is the main URL for SignPuddle Online.  Version 2 is for producti
 ## draft-slevinski-formal-signwriting
 The character encodings and associated technologies used in the Sutton SignWriting Project are defined in an Internet Draft submitted to the IETF: [draft-slevinski-formal-signwriting](http://tools.ietf.org/html/draft-slevinski-formal-signwriting).
 The character design has been stable since January 12, 2012.
-To fully support the Sutton SignWriting script in Unicode, 17 new characters are proposed to be use with the 672 characters that have already been accepted.
 
 - - -
 
 ## SignWriting Symposium
 
-### In 2016, 12 presentations coming July 18-21
+### In 2016, there were 12 presentations from 7 countries.
 
-To be presented by Stephen E Slevinski Jr.  
+Presented by Stephen E Slevinski Jr.  
  1) [Moving Forward with Sign Language Projects in Formal SignWriting](http://www.signwriting.org/symposium/presentation0055.html)  
  2) [SignPuddle 3: Front and Back](http://www.signwriting.org/symposium/presentation0062.html)  
 
@@ -242,29 +239,10 @@ View the [Test wikis of sign language](https://incubator.wikimedia.org/wiki/Cate
 ## Unicode Technical Committee
 
 ### UTC #152, July 31 to August 4, 2017 
-The Center for Sutton Movement Writing is preparing an official submission for 17 new control characters to be added to the Sutton SignWriting block to fully support the script with Unicode characters.
+Documents submitted by Stephen E Slevinski Jr.  
+  1) [Design Options for Sutton SignWriting with examples and fonts](http://www.unicode.org/L2/L2017/17220-signwriting-design-opt.pdf)  
+  2) [Design Options for Sutton SignWriting Auxiliary](http://www.unicode.org/L2/L2017/17282-signwriting-design-aux.pdf)  
 
-We are looking for the support of Unicode voting members.  Please contact us if you can help in any way.
-
-- Adobe 
-- Apple 
-- Facebook 
-- Google 
-- Huawei 
-- IBM 
-- Microsoft 
-- Oracle 
-- SAP 
-- Symantec 
-- Government of Bangladesh 
-- Government of India 
-- Government of Tamil Nadu 
-- University of California, Berkeley 
-
-Available resources:
-
-- Presentation - [SignWriting in Unicode Next](http://www.slideshare.net/StephenSlevinski/signwriting-in-unicode-next)  
-- Internet Draft - [draft-slevinski-formal-signwriting, Unicode Section](https://tools.ietf.org/html/draft-slevinski-formal-signwriting-01#section-4)  
 
 ### UTC #148, August 3-5, 2016 
 SignWriting was discussed during UTC #148.
