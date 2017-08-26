@@ -206,7 +206,7 @@ The character design has been stable since January 12, 2012.
 ### For 2017 
 
 Prepared by Stephen E Slevinski Jr.  
- 1) A sign by any other name  
+ 1) [A sign by any other name](https://www.slideshare.net/StephenSlevinski/a-sign-by-any-other-name)  
  2) SignWriting in Unicode dot SWU  
  3) SignWriting through the Looking Glass  
 
