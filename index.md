@@ -36,7 +36,7 @@ Use Sutton SignWriting in the browser with any website on Windows, Linux, OS X, 
 - - -
 
 ## Sutton SignWriting
-Github repo: [SuttonSignWriting](http://github.com/Slevinski/SuttonSignWriting), currently version 1.3.2
+Github repo: [SuttonSignWriting](http://github.com/Slevinski/SuttonSignWriting), currently version 2.0.0
 
 The Sutton SignWriting project is designed for the internet community and includes TrueType Fonts, Scalar Vector Graphics, HTML, CSS, and JavaScript Functions. 
 The Formal SignWriting specification is a faithful encoding of Sutton SignWriting that is documented in an Internet Draft submitted to the IETF.
@@ -140,7 +140,7 @@ Licensed under the MIT License
 - - -
 
 ## SignWriting 2010 Fonts
-Github repo: [signwriting\_2010\_fonts](https://github.com/Slevinski/signwriting_2010_fonts), currently version 2.2.1
+Github repo: [signwriting\_2010\_fonts](https://github.com/Slevinski/signwriting_2010_fonts), currently version 3.0.0
 
 SignWriting 2010 is a typeface for written sign languages which makes the entire International SignWriting Alphabet 2010 symbol set available in TrueType fonts.
 
@@ -154,8 +154,10 @@ Encoding and transformation by Stephen E Slevinski Jr.
 
 - Reserved Font Name: [Sutton SignWriting Line](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingLine.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingLine.log) 
 - Reserved Font Name: [Sutton SignWriting Fill](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingFill.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingFill.log) 
-- Reserved Font Name: [Sutton SignWriting 1D Optimal](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting1dOpt.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting1dOpt.log) 
-- Fonts packaged for OS X and iOS: [Sutton SignWriting Plus Configuration Profile](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingPlus.mobileconfig) 
+- Reserved Font Name: [Sutton SignWriting One D](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingOneD.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting1dOpt.log) 
+- Reserved Font Name: [Sutton SignWriting Null](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingNull.ttf) with [log report](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWriting1dOpt.log) 
+- Fonts packaged for OS X and iOS: [Sutton SignWriting Symbol (profile)](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingSymbol.mobileconfig) 
+- Fonts packaged for OS X and iOS: [Sutton SignWriting One (profile)](https://cdn.rawgit.com/Slevinski/signwriting_2010_fonts/master/fonts/SuttonSignWritingOne.mobileconfig) 
 
 >Sutton SignWriting Fonts  
 Copyright (c) 1974-2017, Center for Sutton Movement Writing, inc  
@@ -200,6 +202,13 @@ The character design has been stable since January 12, 2012.
 - - -
 
 ## SignWriting Symposium
+
+### For 2017 
+
+Prepared by Stephen E Slevinski Jr.  
+ 1) A sign by any other name  
+ 2) SignWriting in Unicode dot SWU  
+ 3) SignWriting through the Looking Glass  
 
 ### In 2016, there were 12 presentations from 7 countries.
 
