@@ -1,0 +1,177 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"> 
+  <meta id="idviewport" name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>SteveSlevinski.me Demo</title>
+
+    <style>
+html {
+  box-sizing: border-box;
+  font-size: 1em;
+}
+section {
+  margin: auto;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding: 1em;
+  padding-top: .5em;
+  max-width:780px;
+  width:90%;
+  min-height:200px;
+  background:#FFF;
+}
+section h2 {
+  font-size: 300%;
+}
+section.boxed
+{
+    position:relative;
+    box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+section.boxed:before, section.boxed:after
+{
+        content:"";
+    position:absolute;
+    z-index:-1;
+    box-shadow:0 0 20px rgba(0,0,0,0.8);
+    top:0;
+    bottom:0;
+    left:10px;
+    right:10px;
+    border-radius:100px / 10px;
+}
+section.boxed:after
+{
+    right:10px;
+    left:auto;
+    transform:skew(8deg) rotate(3deg);
+}
+
+div.proimage {
+  float:right;
+}
+div.proimage img {
+  border: 5px solid #3e2b14;
+  padding: 10px;
+  margin: 10px;
+  max-width: 220px;
+  max-height: 220px;
+}
+div.mid{
+  text-align: center;
+}
+
+div#left {
+  float: left;
+  text-align: center;
+  width: 15%;
+}
+div#left a, div#right a {
+  width: 100%;
+}
+div#right {
+  float: right;
+  text-align: center;
+  width: 15%;
+}
+div#header {
+  float: left;
+  text-align: center;
+  width: 70%;
+}
+div#header h1 {
+  font-weight: bold;
+  font-size: 4em;
+  color: #CC293F;
+}
+div#header h1, div#header h2, div#left h1, div#left h2, div#right h1, div#right h2 {
+  margin: 0;
+}
+@media only screen and (max-width: 800px) {
+  div#header {
+    width: 100%;
+    margin-top: 3%;
+  }
+  div#left, div#right {
+    width: 50%;
+  }
+}
+    </style>
+  </head>
+  <body>
+  <div id="left">
+    <a class="block" href="..">
+      <h1>Main</h1>
+      <h2>page</h2>
+    </a>
+  </div>
+  <div id="right">
+    <a class="block" href="https://slevinski.github.io/SuttonSignWriting/components/js.html">
+      <h1>Sutton SignWriting</h1>
+      <h2>JavaScript API</h2>
+    </a>
+  </div>
+  <div id="header">
+    <br><br>
+    <h1>Steve Slevinski</h1>
+    <h2>Demo page</h2>
+  </div>
+
+  <br clear="all">
+
+<section id="standard2010" class="boxed">
+<center>
+  <h2>Simple demonstrations</h2>
+  <h3>with fonts, SVG, JavaScript, HTML and CSS</h3>
+</center>
+<hr>
+<div class="proimage"><a href="fsw.html"><img src="../img/projects/FSWViewer.png" alt="Formal SignWriting (FSW) Viewer"></a></div>
+<h3>Formal SignWriting in ASCII (FSW) Viewer</h3>
+<p>This demo automatically converts Formal SignWriting in ASCII (FSW) into properly formatted SignWriting text using HTML, SVG, CSS, and fonts.
+</p>
+<br clear="both">
+
+<hr>
+
+<div class="proimage"><a href="swu.html"><img src="../img/projects/SWUViewer.png" alt="SignWriting in Unicode (SWU) Viewer"></a></div>
+<h3>SignWriting in Unicode (SWU) Viewer</h3>
+<p>This demo automatically converts SignWriting in Unicode (SWU) into properly formatted SignWriting text using HTML, SVG, CSS, and fonts.
+</p>
+<br clear="both">
+
+<hr>
+
+<div class="proimage"><a href="rain.html"><img src="../img/projects/RainingHandShapes.png" alt="Raining Hand Shapes"></a></div>
+<h3>Raining Hand Shapes</h3>
+<p>This demo uses the Sutton SignWriting Line Font in a JavaScript/Canvas animation with a Matrix style.
+</p>
+<br clear="both">
+
+<hr>
+
+<div class="proimage"><a href="umbrella.html"><img src="../img/projects/UmbrellaSignDrop.png" alt="Umbrella Sign Drop"></a></div>
+<h3>Umbrella Sign Drop</h3>
+<p>This demo uses stand-alone SVG with CSS animation.  It does not require fonts or JavaScript.
+</p>
+<br clear="both">
+
+
+</section>
+
+<br><br>
+
+<hr>
+
+      <footer>
+      <center>
+        <p><a href="..">SteveSlevinski.me</a><br>
+        Demo page<br>
+        Copyright (c) 2018, Steve Slevinski<br>
+        Licenses include the MIT License, Creative Commons BY-SA, Open Font License</p>
+      </center>
+      </footer>
+</body>
+</html>
+
