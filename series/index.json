@@ -1,0 +1,150 @@
+{
+  "generatedAt": "2026-03-31T22:52:20.049Z",
+  "series": [
+    {
+      "slug": "sutton-signwriting-infrastructure-initiative",
+      "title": "Sutton SignWriting Infrastructure Initiative",
+      "subtitle": "Infrastructure, partnership, and sustainability materials",
+      "description": "A series for collaboration, institutional support, international partnership, and long-term SignWriting infrastructure framing.",
+      "accepting_entries": true,
+      "home_doc": "README.md",
+      "kind": "infrastructure-series",
+      "entries": [
+        {
+          "slug": "executive-brief",
+          "legacy_slugs": [],
+          "number": 1,
+          "title": "Executive Brief",
+          "subtitle": "Sutton SignWriting as research infrastructure",
+          "summary": "A concise forwardable presentation for PI and institutional conversations about Sutton SignWriting as existing infrastructure that needs durable support.",
+          "handout": "handout.md",
+          "slide_count": 8
+        },
+        {
+          "slug": "initiative-overview",
+          "legacy_slugs": [],
+          "number": 2,
+          "title": "Initiative Overview",
+          "subtitle": "Research Infrastructure and Collaboration Opportunity",
+          "summary": "A presentation version of the core Sutton SignWriting infrastructure initiative handout.",
+          "handout": "handout.md",
+          "slide_count": 6
+        },
+        {
+          "slug": "infrastructure-and-stewardship",
+          "legacy_slugs": [],
+          "number": 3,
+          "title": "Infrastructure and Stewardship",
+          "subtitle": "Confirmed assets, continuity, and the case for institutional stabilization",
+          "summary": "A presentation defining Sutton SignWriting as existing infrastructure with real assets, active stewardship, and identifiable continuity risks.",
+          "handout": "handout.md",
+          "slide_count": 11
+        },
+        {
+          "slug": "international-shared-support",
+          "legacy_slugs": [],
+          "number": 4,
+          "title": "International Shared Support",
+          "subtitle": "International Shared Support and Partnership Framework",
+          "summary": "A presentation version of the international partnership and country-ambassador handout.",
+          "handout": "handout.md",
+          "slide_count": 5
+        },
+        {
+          "slug": "country-ambassadors",
+          "legacy_slugs": [],
+          "number": 5,
+          "title": "Country Ambassadors",
+          "subtitle": "Country-level outreach, translation, and institutional relationship-building",
+          "summary": "A presentation version of the country ambassador handout.",
+          "handout": "handout.md",
+          "slide_count": 11
+        }
+      ]
+    },
+    {
+      "slug": "the-science-of-sutton-signwriting",
+      "title": "The Science of Sutton SignWriting",
+      "subtitle": "A presentation series about language, literacy, infrastructure, and research",
+      "description": "A growing series that can include presentations, handouts, diagrams, and future contributions from Sutton SignWriting collaborators.",
+      "accepting_entries": true,
+      "home_doc": "README.md",
+      "kind": "research-and-publication-series",
+      "entries": [
+        {
+          "slug": "language-without-sound",
+          "legacy_slugs": [],
+          "number": 1,
+          "title": "Language Without Sound",
+          "subtitle": "Brain Networks, Visual Language, and the Case for SignWriting Infrastructure",
+          "summary": "Presentation 1 in The Science of Sutton SignWriting series.",
+          "handout": "handout.md",
+          "slide_count": 13
+        }
+      ]
+    },
+    {
+      "slug": "university-of-iowa",
+      "title": "University of Iowa",
+      "subtitle": "University-facing outreach and collaboration materials",
+      "description": "A series for faculty, grants, development, and institutional-collaboration framing related to Sutton SignWriting.",
+      "accepting_entries": true,
+      "home_doc": "README.md",
+      "kind": "institutional-series",
+      "entries": [
+        {
+          "slug": "outreach-memo",
+          "legacy_slugs": [],
+          "number": 1,
+          "title": "Outreach Memo",
+          "subtitle": "A concise University of Iowa summary of the full opportunity",
+          "summary": "A short University of Iowa-facing bridge presentation for internal forwarding, summarizing the immediate lab-home need, Steve's practical value, and the larger infrastructure path.",
+          "handout": "handout.md",
+          "slide_count": 7
+        },
+        {
+          "slug": "immediate-lab-home",
+          "legacy_slugs": [],
+          "number": 2,
+          "title": "Immediate Lab Home",
+          "subtitle": "A practical path from 0 percent placement to grants and infrastructure",
+          "summary": "A PI-facing presentation arguing that a lab home now is the first small decision that makes continuity, salary support, DMS collaborations, grant writing, and future infrastructure possible.",
+          "handout": "handout.md",
+          "slide_count": 10
+        },
+        {
+          "slug": "steve-slevinski-value",
+          "legacy_slugs": [
+            "steve-slevinski-background"
+          ],
+          "number": 3,
+          "title": "Steve Slevinski Value",
+          "subtitle": "Practical DMS, repository, and research workflow value for the University of Iowa",
+          "summary": "A University of Iowa-facing presentation focused on Steve Slevinski's immediate operational value through DMS planning, workflow design, code, data shaping, and repository delivery.",
+          "handout": "handout.md",
+          "slide_count": 10
+        },
+        {
+          "slug": "data-management-and-sharing-plan",
+          "legacy_slugs": [],
+          "number": 4,
+          "title": "Data Management and Sharing Plan",
+          "subtitle": "From project systems to repository delivery",
+          "summary": "A University of Iowa-facing workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery.",
+          "handout": "handout.md",
+          "slide_count": 12
+        },
+        {
+          "slug": "sutton-signwriting-infrastructure-initiative",
+          "legacy_slugs": [],
+          "number": 5,
+          "title": "Sutton SignWriting Infrastructure Initiative",
+          "subtitle": "A path to shared research infrastructure at the University of Iowa",
+          "summary": "A University of Iowa-facing presentation about turning Sutton SignWriting from fragile independent stewardship into durable shared research infrastructure.",
+          "handout": "handout.md",
+          "slide_count": 12
+        }
+      ]
+    }
+  ]
+}
