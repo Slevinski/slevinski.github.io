@@ -1,0 +1,192 @@
+{
+  "slug": "immediate-lab-home",
+  "number": 2,
+  "title": "Immediate Lab Home",
+  "subtitle": "A practical path from 0 percent placement to grants and infrastructure",
+  "summary": "A PI-facing presentation arguing that a lab home now is the first small decision that makes continuity, salary support, DMS collaborations, grant writing, and future infrastructure possible.",
+  "synopsis": "This presentation makes the case for the first enabling structure: place Steve Slevinski in a lab now, even at 0 percent if necessary, so that practical work can begin immediately and broader support can grow around that home. It keeps the ask disciplined, shows why the PI benefits, and explains how placement unlocks continuity, future grants, DMS value, and the larger Sutton SignWriting infrastructure path.",
+  "handout": "handout.md",
+  "links": [
+    {
+      "label": "NIH Data Management and Sharing Policy",
+      "href": "https://sharing.nih.gov/data-management-and-sharing-policy",
+      "description": "NIH guidance that supports the case for practical DMS planning and execution help."
+    },
+    {
+      "label": "NIMH Data Archive",
+      "href": "https://nda.nih.gov/",
+      "description": "Example external repository showing the complexity of real repository delivery work."
+    }
+  ],
+  "slides": [
+    {
+      "id": "why-now",
+      "title": "Why This Matters Now",
+      "kicker": "1",
+      "summary": "The immediate need is a lab home now because that first institutional placement creates continuity, lowers the activation energy for support, and makes every larger step more credible.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the immediate timing and opportunity.",
+      "bullets": [
+        "A lab home is needed now",
+        "That home creates the base for everything that follows"
+      ],
+      "speech": "This conversation is happening now because the immediate need is not a fully built center. It is a lab home. A lab placement creates continuity, gives the work an institutional base, and makes the next steps far more credible.",
+      "notes": "Open with practical urgency and make the first ask feel modest.",
+      "mermaid": "graph TD\n  A[Immediate Need] --> B[Immediate Lab Home]\n  B --> C[Institutional Base]\n  C --> D[Future Growth]"
+    },
+    {
+      "id": "what-zero-percent-means",
+      "title": "What 0 Percent Means",
+      "kicker": "2",
+      "summary": "Zero percent support still matters because the first step is affiliation and placement, even if salary support, grants, or donations arrive later.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the meaning of 0 percent support.",
+      "bullets": [
+        "Placement comes first",
+        "Funding can grow around the placement",
+        "The first ask is smaller than the long-term vision"
+      ],
+      "speech": "Starting at 0 percent does not mean the work lacks value. It means the institutional home comes first and the funding structure grows around it. That makes the initial decision smaller, clearer, and more realistic.",
+      "notes": "Reassure the PI that the initial move is structural, not immediately financial.",
+      "image_prompt_concrete": "Clean academic diagram showing a small first step labeled lab home leading to larger steps labeled salary support, grants, and infrastructure, minimal white background",
+      "image_prompt_abstract": "A single foothold growing into a structured pathway of connected platforms, calm strategic visual"
+    },
+    {
+      "id": "why-a-pi-benefits",
+      "title": "Why A PI Benefits",
+      "kicker": "3",
+      "summary": "A PI benefits because Steve adds practical capacity to the lab through DMS support, workflow cleanup, documentation, code, and repository-facing execution rather than only symbolic affiliation.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for PI benefits.",
+      "bullets": [
+        "Immediate DMS and repository value",
+        "Cross-project technical and workflow support",
+        "A platform for future grants and collaborations"
+      ],
+      "speech": "This is not only an act of generosity. A PI gains practical help with DMS planning, project workflows, repository preparation, and future grant development. The lab becomes a place where useful work starts happening immediately.",
+      "notes": "Keep the value local to the PI's projects, deadlines, and team needs.",
+      "mermaid": "graph LR\n  A[Lab Home] --> B[DMS Help]\n  A --> C[Repository Support]\n  A --> D[Grant Development]\n  A --> E[Future Collaborations]"
+    },
+    {
+      "id": "what-steve-brings-now",
+      "title": "What Steve Brings Immediately",
+      "kicker": "4",
+      "summary": "What Steve brings now is help in the messy middle between project systems, data organization, technical workflows, standards, and final repository delivery.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for Steve's immediate value.",
+      "bullets": [
+        "DMS planning",
+        "Workflow design",
+        "Data shaping and validation",
+        "Repository delivery support"
+      ],
+      "speech": "Steve's immediate value is practical. He can help teams shape a DMS Plan, understand the workflow, organize and validate data, and help carry the project from local systems toward repository delivery.",
+      "notes": "Describe him as a working collaborator who can make real progress quickly.",
+      "image_prompt_concrete": "Research operations infographic showing REDCap, spreadsheets, scripts, and repository icons connected by one technical coordinator, professional university style",
+      "image_prompt_abstract": "Streams of messy data becoming ordered and deliverable through one guiding pathway"
+    },
+    {
+      "id": "support-lanes",
+      "title": "The Support Lanes",
+      "kicker": "5",
+      "summary": "The model works because several support lanes can reinforce each other: lab placement first, direct support where possible, grants under a PI, and complementary gifts or donations.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for support lanes.",
+      "bullets": [
+        "Lab home",
+        "Salary support",
+        "Grants",
+        "Gifts and donations"
+      ],
+      "speech": "The plan does not depend on one funding source solving everything immediately. The lab home is first. Partial salary support can come through advocates and collaborators. Grants can be written under the PI. Gifts and donations can provide continuity and bridge support through that same home.",
+      "notes": "Make the structure feel coherent, staged, and low-friction.",
+      "mermaid": "graph LR\n  A[Lab Home] --> B[Partial Salary Support]\n  A --> C[Grant Writing Under PI]\n  A --> D[Gifts and Donations]\n  B --> E[Continuity]\n  C --> E\n  D --> E"
+    },
+    {
+      "id": "why-others-matter",
+      "title": "Why Other University Connections Matter",
+      "kicker": "6",
+      "summary": "The lab home is the anchor, but broader University relationships matter because placement in one lab can create outward-facing value across research support, accessibility, and collaboration.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for broader University connections.",
+      "bullets": [
+        "Connect with researchers who need DMS help",
+        "Get into code and data workflows",
+        "Help teams reach the repository of choice",
+        "Build future collaborators"
+      ],
+      "speech": "A lab home is the anchor, but it should not be the only relationship. Steve also wants to connect with others across the University to help with DMS work, get into code and data workflows, support repository delivery, and identify collaborators for future grants.",
+      "notes": "Help the PI see that saying yes creates institutional leverage, not just private benefit.",
+      "image_prompt_concrete": "University collaboration network with one lab hub connected to research teams, code workflows, and external repositories, professional academic diagram",
+      "image_prompt_abstract": "A central node in a university network radiating lines to teams, data systems, and repositories"
+    },
+    {
+      "id": "grant-path",
+      "title": "The Grant Path",
+      "kicker": "7",
+      "summary": "Once Steve is housed in a lab, the grant story becomes structurally credible because proposals can point to a real base, clear collaborators, and an existing pattern of useful work.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for grant path.",
+      "bullets": [
+        "Write grants under the PI",
+        "Fund Steve's role",
+        "Support software and stewardship",
+        "Grow Sutton SignWriting infrastructure"
+      ],
+      "speech": "Once there is a lab home, grants can be written under that PI. That makes it possible to fund Steve's role, support DMS and repository work, strengthen software stewardship, and build toward Sutton SignWriting as shared research infrastructure.",
+      "notes": "Keep the future concrete and tied to the first step.",
+      "mermaid": "graph LR\n  A[Lab Home] --> B[Grant Writing]\n  B --> C[Steve's Role]\n  B --> D[DMS and Repository Work]\n  B --> E[SignWriting Infrastructure]"
+    },
+    {
+      "id": "donations-lane",
+      "title": "Gifts And Donations",
+      "kicker": "8",
+      "summary": "Gifts and donations can serve as a complementary support lane routed through the PI or institution, but they should strengthen the model rather than replace the core research structure.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for gifts and donations lane.",
+      "bullets": [
+        "Continuity support",
+        "Bridge support",
+        "Infrastructure support",
+        "Complementary to grants, not a substitute"
+      ],
+      "speech": "There is also an altruistic lane through gifts and donations. Routed through the PI, this support can help continuity, bridge funding, and infrastructure needs. It should be framed as complementary to grants, not as a replacement for research funding.",
+      "notes": "Present this as disciplined and secondary, not the central solution.",
+      "image_prompt_concrete": "Academic funding pathways diagram showing grants as primary lane and gifts and donations as complementary lane, clean institutional style",
+      "image_prompt_abstract": "Two streams of support feeding one growing structure, one broad and one narrow"
+    },
+    {
+      "id": "low-risk-high-upside",
+      "title": "Low Risk, High Upside",
+      "kicker": "9",
+      "summary": "The initial ask is intentionally small, but the upside is strategic because one low-risk placement can unlock collaboration, grants, support pathways, and institutional continuity.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for low-risk high-upside framing.",
+      "bullets": [
+        "Small first decision",
+        "Immediate practical value",
+        "Room for future growth"
+      ],
+      "speech": "The strongest way to understand this is as a low-risk, high-upside step. The first decision is simply to provide a lab home. That creates immediate practical value and leaves room for salary support, grants, and infrastructure to grow over time.",
+      "notes": "This is the calming slide that helps the audience feel the asymmetry of risk and upside.",
+      "image_prompt_concrete": "Minimalist decision slide showing small input arrow leading to large tree of outcomes, academic and polished",
+      "image_prompt_abstract": "A small doorway opening into a large structured landscape of future possibilities"
+    },
+    {
+      "id": "clear-ask",
+      "title": "The Immediate Ask",
+      "kicker": "10",
+      "summary": "The ask is straightforward: provide the lab home now so the practical work can continue and the broader support structure can be built from a stable base.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the immediate ask.",
+      "bullets": [
+        "Place Steve in the lab now",
+        "Let funding grow around that home",
+        "Use the lab home to build grants, collaborations, and infrastructure"
+      ],
+      "speech": "The immediate ask is straightforward: provide the lab home now. That one decision makes it possible to build the rest of the structure around it, including salary support, DMS collaborations, grant writing, and the long-term Sutton SignWriting Infrastructure Initiative.",
+      "notes": "End with a clean, confident ask and no unnecessary complexity.",
+      "mermaid": "graph LR\n  A[Immediate Ask<br/>Lab Home Now] --> B[Continuity]\n  A --> C[Salary Support]\n  A --> D[Grants]\n  A --> E[Collaborations]\n  A --> F[Infrastructure]"
+    }
+  ]
+}

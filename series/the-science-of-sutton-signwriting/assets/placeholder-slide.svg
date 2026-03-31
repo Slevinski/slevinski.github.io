@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Presentation placeholder</title>
+  <desc id="desc">Abstract placeholder image for a Sutton SignWriting presentation slide.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="55%" stop-color="#164e63" />
+      <stop offset="100%" stop-color="#0f766e" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.18)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0.06)" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)" />
+  <circle cx="1240" cy="220" r="180" fill="rgba(251,191,36,0.18)" />
+  <circle cx="310" cy="690" r="240" fill="rgba(56,189,248,0.16)" />
+  <rect x="120" y="110" width="1360" height="680" rx="42" fill="url(#panel)" stroke="rgba(255,255,255,0.18)" />
+  <path d="M280 575 C420 420, 590 400, 725 480 S1000 650, 1180 520 1335 315, 1420 355" fill="none" stroke="rgba(255,255,255,0.50)" stroke-width="16" stroke-linecap="round" />
+  <circle cx="420" cy="460" r="18" fill="#f8fafc" />
+  <circle cx="720" cy="490" r="18" fill="#f8fafc" />
+  <circle cx="980" cy="575" r="18" fill="#f8fafc" />
+  <circle cx="1240" cy="430" r="18" fill="#f8fafc" />
+  <text x="180" y="240" fill="#f8fafc" font-size="62" font-family="'Trebuchet MS', 'Gill Sans', sans-serif" font-weight="700">Replace With Slide Image</text>
+  <text x="180" y="315" fill="rgba(248,250,252,0.86)" font-size="34" font-family="'Trebuchet MS', 'Gill Sans', sans-serif">This placeholder can be overwritten later with a diagram, chart, or photo.</text>
+</svg>

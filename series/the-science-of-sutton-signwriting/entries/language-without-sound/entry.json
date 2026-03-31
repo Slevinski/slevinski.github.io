@@ -1,0 +1,298 @@
+{
+  "slug": "language-without-sound",
+  "number": 1,
+  "title": "Language Without Sound",
+  "subtitle": "Brain Networks, Visual Language, and the Case for SignWriting Infrastructure",
+  "summary": "Presentation 1 in The Science of Sutton SignWriting series.",
+  "synopsis": "Language is not tied to sound. Signed language reveals the modality-independent nature of human language. Sutton SignWriting provides the written infrastructure needed to turn that insight into literacy, research, and measurable evidence.",
+  "cover_image": "/series/the-science-of-sutton-signwriting/entries/language-without-sound/cover.jpg",
+  "cover_image_alt": "Cover image for Language Without Sound in The Science of Sutton SignWriting series.",
+  "handout": "handout.md",
+  "addendum": "addendum.md",
+  "publication_plan": {
+    "series": "The Science of Sutton SignWriting",
+    "artifact_types": [
+      "presentation",
+      "handout"
+    ],
+    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
+    "zenodo_record_title_suggestion": "Language Without Sound: Brain Networks, Visual Language, and SignWriting",
+    "citation_stub": "Slevinski, S. (2026). Language Without Sound: Brain Networks, Visual Language, and SignWriting. The Science of Sutton SignWriting."
+  },
+  "related_identifiers": [
+    {
+      "relation": "is-related-to",
+      "target": "Formal SignWriting DOI",
+      "note": "Do not reuse the Formal SignWriting DOI. Link this work as a related scientific framing artifact."
+    }
+  ],
+  "slides": [
+    {
+      "id": "language-in-the-brain",
+      "title": "Language in the Brain",
+      "kicker": "1",
+      "summary": "Language is not sound. It is a brain system.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for language networks in the brain.",
+      "image_prompts": {
+        "concrete": "Scientific brain illustration with Broca's area and Wernicke's area labeled, arrows from ear and eyes converging on a common language network, clean academic slide graphic, white background",
+        "abstract": "Glowing brain network with multiple streams of input merging into one center of meaning, no text, no sound waves, elegant scientific abstraction"
+      },
+      "bullets": [
+        "Distributed neural network",
+        "Broca's area: production",
+        "Wernicke's area: comprehension",
+        "Shared across speech and sign"
+      ],
+      "speech": "Most people think language is basically speech. We talk, we listen, and that feels so natural that we start to believe language belongs to the mouth and the ear. But the brain tells a different story. Language is really a network. Broca's area helps us produce language. Wernicke's area helps us understand it. And the larger point is that this system can work with sound or with vision. Language is not sound. Language is something the brain builds.",
+      "notes": "Human language is not tied to speech. It is a function of distributed neural systems.\n\nTwo key regions traditionally associated with language include:\n\n**Broca's area**  \nInvolved in language production, sequencing, and motor planning for speech and signing\n\n**Wernicke's area**  \nInvolved in language comprehension and meaning\n\nModern neuroscience shows that language is networked and modality-independent. Whether language is received through sound or vision, the brain organizes it using shared high-level systems.\n\nOn this slide, show a brain image on one side and keep the text minimal on the other. This is your framing slide, so let the core sentence carry the weight: **Language is not sound.**",
+      "mermaid": "graph TD\n  A[Language] --> B[Brain Network]\n  B --> C[Broca's Area<br/>Production]\n  B --> D[Wernicke's Area<br/>Comprehension]\n  E[Sound Input] --> B\n  F[Visual Input] --> B\n\n  classDef core fill:white,color:black,stroke:black,stroke-width:3px;\n  classDef input fill:white,color:black,stroke:blue,stroke-width:2px;\n  class A,B,C,D core;\n  class E,F input;"
+    },
+    {
+      "id": "spoken-language-pathway",
+      "title": "Spoken Language Pathway (Established Science)",
+      "kicker": "2",
+      "summary": "Spoken language begins with sensory preprocessing before meaning.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the spoken language pathway.",
+      "image_prompts": {
+        "concrete": "Educational neuroscience diagram of spoken language processing, ear receiving sound, auditory cortex sorting speech from noise, language centers activating speech production, clear labels, realistic but simplified",
+        "abstract": "Sound waves transforming into organized neural patterns and then into spoken expression, luminous scientific concept art"
+      },
+      "bullets": [
+        "Sound -> Ear -> Auditory cortex -> Language -> Speech",
+        "Preprocessing before meaning",
+        "Hearing and language develop together"
+      ],
+      "speech": "In spoken language, the process starts with sound, but sound is not language yet. First, the ear picks it up. Then the auditory cortex begins sorting it out. It separates useful patterns from background noise and starts organizing what matters. Only after that does the brain connect those patterns to meaning. And when we speak, the brain has to send language back out through the motor system to the mouth and vocal cords. So even in speech, language is not just sound. It is a built pathway.",
+      "notes": "In spoken language development:\n\n- Sound enters through the ear\n- The auditory cortex preprocesses patterns, distinguishing speech from noise\n- Signals pass to language networks for meaning\n- Production pathways activate motor systems such as the mouth and vocal cords\n\nLanguage learning emerges through co-development:\n\n- sensory systems, including hearing\n- language networks for meaning and structure\n\nThese systems grow independently, connect, and refine together.\n\nUse this slide to establish that preprocessing matters. That will help later when you argue for visual preprocessing in sign language.",
+      "mermaid": "graph TD\n  A[Sound] --> B[Ear]\n  B --> C[Auditory Cortex]\n  C --> D[Pattern Detection]\n  D --> E[Language Network]\n  E --> F[Meaning]\n  E --> G[Production Planning]\n  G --> H[Motor Cortex]\n  H --> I[Mouth and Vocal Cords]\n\n  classDef sensory fill:white,color:black,stroke:blue,stroke-width:2px;\n  classDef language fill:white,color:black,stroke:purple,stroke-width:2px;\n  classDef output fill:white,color:black,stroke:red,stroke-width:2px;\n  class A,B,C,D sensory;\n  class E,F,G language;\n  class H,I output;"
+    },
+    {
+      "id": "visual-language-pathway",
+      "title": "Visual Language Pathway (Sign Language)",
+      "kicker": "3",
+      "summary": "Sign language shows that language does not require sound.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the visual language pathway.",
+      "image_prompts": {
+        "concrete": "Person signing with overlays showing handshape, movement arrows, facial expression, and visual cortex leading into language centers, clean scientific infographic",
+        "abstract": "Streams of light shaped like hands and facial patterns entering a brain through the eyes, transforming into meaning, elegant nonverbal language concept"
+      },
+      "bullets": [
+        "Vision -> Visual cortex -> Language",
+        "Handshape",
+        "Movement",
+        "Facial expression",
+        "Spatial structure"
+      ],
+      "speech": "Sign language shows us something profound: language does not need sound. In sign, the eye does the first part of the work that the ear does in speech. The brain takes in handshape, movement, facial expression, and space. The visual cortex organizes those patterns, and then the language network gives them meaning. At the language level, this is not a lesser system. It is a full language system using a different route in.",
+      "notes": "Sign languages demonstrate that language does not require sound.\n\nIn signed language development:\n\n- Visual input, including handshape, movement, and facial expression, is processed in the visual cortex\n- Structured patterns are passed to language networks\n- Language emerges through visual-linguistic mapping\n\nThis pathway is:\n\n- fully expressive\n- neurologically equivalent at the language level\n- dependent on early exposure\n\nThis is a strong place for a side-by-side comparison with Slide 2: ear versus eye.",
+      "mermaid": "graph TD\n  A[Handshape] --> D[Visual Cortex]\n  B[Movement] --> D\n  C[Facial Expression] --> D\n  E[Spatial Structure] --> D\n  D --> F[Pattern Recognition]\n  F --> G[Language Network]\n  G --> H[Meaning]\n  G --> I[Production Planning]\n  I --> J[Motor Cortex]\n  J --> K[Hands]\n  J --> L[Facial Expression]\n  J --> M[Body]\n\n  classDef visual fill:white,color:black,stroke:blue,stroke-width:2px;\n  classDef language fill:white,color:black,stroke:purple,stroke-width:2px;\n  classDef output fill:white,color:black,stroke:red,stroke-width:2px;\n  class A,B,C,D,E,F visual;\n  class G,H,I language;\n  class J,K,L,M output;"
+    },
+    {
+      "id": "brain-plasticity",
+      "title": "Brain Plasticity and Deaf Development",
+      "kicker": "4",
+      "summary": "The brain develops language through accessible input, not through a specific sensory channel.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for brain plasticity and Deaf development.",
+      "image_prompts": {
+        "concrete": "Brain scan style illustration showing auditory regions responding to visual language in a deaf signer, academic and respectful, high contrast neuroscience visual",
+        "abstract": "Neural pathways rewiring and lighting up in new directions, a brain adapting to visual language, scientific but poetic"
+      },
+      "bullets": [
+        "The brain adapts to available input",
+        "The brain can reorganize around visual input",
+        "Language depends on access, not sound"
+      ],
+      "speech": "One of the most important lessons from deaf development is that the brain adapts. If auditory input is not available, the brain does not simply wait around for sound. It reorganizes. Regions that are usually associated with hearing can become involved in visual processing. That teaches us something fundamental: the brain develops language through access to language, not loyalty to a particular sensory channel.",
+      "notes": "Research shows strong evidence for cross-modal plasticity:\n\n- In deaf individuals, the brain can reorganize around visual input, including in regions usually associated with auditory processing\n- The brain adapts to the available sensory input\n\nThis highlights a critical principle:\n\n> The brain develops language through accessible input, not through a specific sensory channel.\n\nThis is a good slide for one memorable sentence on screen: **The brain is waiting for language, not for sound.**",
+      "mermaid": "graph TD\n  A[Early Deaf Development] --> B{What input is accessible?}\n  B --> C[Auditory input is limited or unavailable]\n  B --> D[Visual signed language is accessible]\n  C --> E[Brain adapts to available channels]\n  D --> F[Visual language pathway is reinforced]\n  E --> G[Cross-modal plasticity]\n  F --> G\n  G --> H[Language networks develop through access]\n  H --> I[Meaning, learning, and communication growth]\n\n  classDef access fill:white,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef adaptation fill:white,color:black,stroke:#7c3aed,stroke-width:2px;\n  classDef outcome fill:white,color:black,stroke:#059669,stroke-width:2px;\n  class A,B,C,D access;\n  class E,F,G adaptation;\n  class H,I outcome;"
+    },
+    {
+      "id": "language-access",
+      "title": "Language Access and Critical Periods",
+      "kicker": "5",
+      "summary": "The central issue is not hearing. The central issue is access to language.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for language access and critical periods.",
+      "image_prompts": {
+        "concrete": "Child development infographic comparing early access to spoken or signed language versus inaccessible language input, respectful educational style",
+        "abstract": "Two branching developmental pathways, one bright and connected, one dim and fragmented, representing language access versus deprivation"
+      },
+      "bullets": [
+        "Early exposure matters",
+        "Accessible input supports development",
+        "Inaccessible input risks deprivation"
+      ],
+      "speech": "The central issue is not hearing. The central issue is access to language. If a child has language they can actually receive, spoken or signed, then development can move forward. If language is present around them but not accessible to them, that is a very different situation. The risk is not simply delayed speech. The risk is language deprivation during a critical period of brain development.",
+      "notes": "Language acquisition depends on early exposure.\n\n- When accessible language, spoken or signed, is available, typical language development can proceed\n- When language is inaccessible, language deprivation can produce long-term cognitive effects\n\nThis is not a hearing issue. It is a language access issue.\n\nThis slide should feel ethically serious. Minimal text. Give the audience time to absorb it.",
+      "mermaid": "graph TD\n  A[Early Childhood] --> B[Accessible Language]\n  A --> C[Inaccessible Language]\n  B --> D[Language Acquisition]\n  D --> E[Typical Development]\n  C --> F[Language Deprivation Risk]\n  F --> G[Long-Term Effects]\n\n  classDef good fill:white,color:black,stroke:green,stroke-width:3px;\n  classDef risk fill:white,color:black,stroke:red,stroke-width:3px;\n  class B,D,E good;\n  class C,F,G risk;"
+    },
+    {
+      "id": "reading-and-the-brain",
+      "title": "Reading and the Brain",
+      "kicker": "6",
+      "summary": "Reading is learned by repurposing visual systems.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for reading and the brain.",
+      "image_prompts": {
+        "concrete": "Brain illustration highlighting the Visual Word Form Area with written words entering through the eyes and leading to meaning, professional educational style",
+        "abstract": "Letters dissolving into neural patterns inside the visual cortex, reading as an act of transformed perception"
+      },
+      "bullets": [
+        "Reading is learned",
+        "Visual systems are repurposed",
+        "Vision can connect directly to meaning"
+      ],
+      "speech": "Reading feels natural once we know how to do it, but it is not built in. The brain has to learn it. It repurposes visual systems that were already useful for seeing the world and trains them to recognize written symbols. Over time, reading becomes more efficient. The eye sees a pattern, and the brain moves toward meaning. That matters because it shows how literacy can reorganize perception itself.",
+      "notes": "Reading is not innate. It is learned by repurposing visual systems.\n\nA key region involved is the:\n\n**Visual Word Form Area**\n\nThis region:\n\n- specializes in recognizing written symbols\n- develops through experience\n- reflects neuronal recycling, the repurposing of existing visual systems\n\nEarly reading often uses phonological strategies, linking letters to sounds, but skilled reading becomes increasingly direct from vision to meaning.\n\nThis slide is a bridge from general literacy science to SignWriting literacy.",
+      "mermaid": "graph TD\n  A[Visual System] --> B[Pattern Recognition]\n  B --> C[Visual Word Form Area]\n  C --> D[Written Symbols]\n  D --> E[Words]\n  E --> F[Meaning]\n\n  classDef visual fill:white,color:black,stroke:blue,stroke-width:2px;\n  classDef reading fill:white,color:black,stroke:purple,stroke-width:2px;\n  class A,B,C visual;\n  class D,E,F reading;"
+    },
+    {
+      "id": "visual-language-literacy-gap",
+      "title": "Visual Language Literacy Gap",
+      "kicker": "7",
+      "summary": "Signed languages have lacked the same kind of written infrastructure available to spoken languages.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the visual language literacy gap.",
+      "image_prompts": {
+        "concrete": "Comparison visual showing a video timeline on one side and editable written text on the other, highlighting the limitations of video for long-form revision and analysis",
+        "abstract": "A flowing stream of visual language trapped in a timeline versus arranged into structured, editable form"
+      },
+      "bullets": [
+        "Historically: video is linear",
+        "Editing is hard",
+        "Analysis is hard",
+        "Result: fewer literacy tools, less structured data, less research infrastructure"
+      ],
+      "speech": "Spoken languages usually have writing systems that make literacy, revision, and analysis possible. Signed languages have often had to rely on video. Video is valuable, but it is linear. It is harder to edit, harder to search, harder to reorganize, and harder to analyze at scale. That creates a real gap. Without a native-friendly writing system, there are fewer literacy tools, less structured data, and less research infrastructure.",
+      "notes": "While spoken languages have well-developed writing systems, signed languages have historically relied on:\n\n- video, which is linear and difficult to edit and analyze\n- transcription systems not designed for native use\n\nThis creates a gap:\n\n- limited literacy tools\n- limited structured data\n- limited research infrastructure\n\nThis is a strong place for a simple visual comparison: timeline versus editable page.",
+      "mermaid": "graph TD\n  A[Signed Languages] --> B[Video]\n  A --> C[Transcription Systems]\n  B --> D[Linear and Hard to Edit]\n  C --> E[Not Designed for Native Use]\n  D --> F[Literacy Gap]\n  E --> F\n  F --> G[Limited Tools]\n  F --> H[Limited Data]\n  F --> I[Limited Research Infrastructure]"
+    },
+    {
+      "id": "sutton-signwriting",
+      "title": "Sutton SignWriting",
+      "kicker": "8",
+      "summary": "A writing system for signed languages.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for Sutton SignWriting.",
+      "image_prompts": {
+        "concrete": "Page of Sutton SignWriting symbols with examples of handshape, movement, and facial expression, clean real-world educational layout, international and modern",
+        "abstract": "Hand movements turning into structured written symbols on a page, visual language crystallizing into literacy"
+      },
+      "bullets": [
+        "Handshape",
+        "Movement",
+        "Facial expression",
+        "Structured and editable",
+        "Used internationally"
+      ],
+      "speech": "Sutton SignWriting offers something signed languages have long needed: a real writing system built for visual language. It can directly represent handshape, movement, facial expression, and other parts of signed expression. That means sign language can move into written form in a way that is structured, editable, and shareable. It is not just a record. It is literacy.",
+      "notes": "Sutton SignWriting is a standardized system for writing signed languages.\n\nIt enables:\n\n- direct representation of handshape, movement, and facial expression\n- written literacy in signed languages\n- structured, editable, and shareable text\n\nIt is actively used internationally, including large-scale adoption in Brazil.\n\nIf possible, include a real SignWriting example here. This is the first moment many people will see it as writing rather than as an idea.",
+      "mermaid": "graph LR\n  A[Sutton SignWriting] --> B[Handshape]\n  A --> C[Movement]\n  A --> D[Facial Expression]\n  A --> E[Written Literacy]\n  A --> F[Structured Text]\n  A --> G[Shareable and Editable]\n  A --> H[International Use]"
+    },
+    {
+      "id": "why-signwriting-matters-for-science",
+      "title": "Why SignWriting Matters for Science",
+      "kicker": "9",
+      "summary": "SignWriting is not just a writing system. It is research infrastructure.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for SignWriting as scientific infrastructure.",
+      "image_prompts": {
+        "concrete": "Research lab scene combining SignWriting text, eye-tracking setup, brain imaging visuals, and language modeling data on screens, realistic academic environment",
+        "abstract": "A network of signs, eyes, brain scans, and data streams connected into one research ecosystem"
+      },
+      "bullets": [
+        "Cognitive studies",
+        "Neuroscience research",
+        "AI and translation",
+        "Literacy research"
+      ],
+      "speech": "SignWriting matters scientifically because it makes visual language measurable in new ways. Once sign language can exist as structured written text, researchers can ask sharper questions. How does the brain read visual language? What does eye-tracking show? What does brain imaging show? What kinds of datasets become possible for AI and translation? SignWriting turns broad ideas into testable research.",
+      "notes": "SignWriting is not just a writing system. It is research infrastructure.\n\nIt enables:\n\n**Cognitive Studies**\n\n- How does the brain read visual language?\n- Does visual language develop distinct neural pathways?\n\n**Neuroscience Research**\n\n- Eye-tracking of sign reading\n- Brain imaging of visual-language processing\n\n**AI and Language Modeling**\n\n- Structured representation of signed language\n- Training data for translation systems\n\n**Literacy Research**\n\n- Visual versus phonological reading pathways\n- Development of non-auditory literacy systems\n\nThis is your bridge from language science to grant language. Say \"research infrastructure\" clearly.",
+      "mermaid": "graph LR\n  A[SignWriting] --> B[Cognitive Studies]\n  A --> C[Neuroscience Research]\n  A --> D[AI and Language Modeling]\n  A --> E[Literacy Research]\n\n  B --> B1[How does the brain read visual language?]\n  C --> C1[Eye-tracking]\n  C --> C2[Brain Imaging]\n  D --> D1[Structured Representation]\n  D --> D2[Translation Data]\n  E --> E1[Visual vs Phonological Pathways]"
+    },
+    {
+      "id": "established-science-vs-research-opportunity",
+      "title": "Established Science vs Research Opportunity",
+      "kicker": "10",
+      "summary": "Separate what is already established from what still needs to be tested.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for established science versus research opportunity.",
+      "image_prompts": {
+        "concrete": "Academic infographic split into established findings and open research questions, clear modern science presentation style",
+        "abstract": "A completed structure beside an unfinished blueprint, representing known science and new discovery"
+      },
+      "bullets": [
+        "Established: language is modality-independent",
+        "Established: sign engages language networks",
+        "Established: brain plasticity supports visual processing",
+        "Open: reading visual-spatial writing, bypassing phonology, learner differences, best literacy pathways"
+      ],
+      "speech": "A useful way to present this topic is to separate what is already established from what still needs to be tested. We are not starting from nothing. We already know that language is not tied to sound, that sign languages engage core language networks, and that the brain can adapt visually. The opportunity now is to investigate the next layer: how visual-spatial writing is read, whether phonology can be bypassed more fully, and how different learners develop different pathways.",
+      "notes": "**Established:**\n\n- Language is modality-independent\n- Sign languages engage core language networks\n- Brain plasticity supports visual language processing\n\n**Open Questions, Enabled by Infrastructure:**\n\n- How does the brain read visual-spatial writing systems?\n- Can visual language bypass phonological mediation entirely?\n- How do native signers versus late learners differ neurologically?\n- What are optimal literacy pathways for signed languages?\n\nThis slide builds credibility. It shows you are not overclaiming.",
+      "mermaid": "graph LR\n  A[Science of SignWriting] --> B[Established Science]\n  A --> C[Research Opportunity]\n\n  B --> B1[Language is modality-independent]\n  B --> B2[Sign engages language networks]\n  B --> B3[Brain plasticity supports visual processing]\n\n  C --> C1[Reading visual-spatial writing]\n  C --> C2[Bypassing phonological mediation]\n  C --> C3[Native vs late learner differences]\n  C --> C4[Optimal literacy pathways]"
+    },
+    {
+      "id": "infrastructure-need",
+      "title": "Infrastructure Need",
+      "kicker": "11",
+      "summary": "SignWriting already matters. The question is whether institutions will help carry it forward.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for infrastructure need.",
+      "image_prompts": {
+        "concrete": "Global SignWriting infrastructure concept with websites, databases, education use, and a visible weak point showing fragile support, professional academic advocacy visual",
+        "abstract": "A widely used bridge supported by too few pillars, suggesting the need for stronger foundations"
+      },
+      "bullets": [
+        "Current reality: global use, limited maintenance, vulnerable systems, limited institutional support",
+        "Needed next: academic collaboration, research integration, funding support"
+      ],
+      "speech": "SignWriting is already functioning as infrastructure for a real community of users. That is the good news. The problem is that it is fragile. It depends on limited independent maintenance and has been vulnerable to instability. If this work is going to support education, research, and long-term innovation, it needs institutional backing. That means collaboration, integration, and funding.",
+      "notes": "SignWriting is already used globally but is currently:\n\n- maintained by limited independent resources\n- vulnerable to outages and instability\n- lacking institutional integration\n\nTo move forward, it requires:\n\n- academic collaboration\n- research integration\n- funding support through NIH, NSF, NEH, and international channels\n\nUse this slide to pivot from science to the practical case for support.",
+      "mermaid": "graph TD\n  A[Global SignWriting Use] --> B[Limited Independent Maintenance]\n  B --> C[Vulnerability and Outage Risk]\n  C --> D[Need for Institutional Integration]\n  D --> E[Academic Collaboration]\n  D --> F[Research Integration]\n  D --> G[Funding Support]"
+    },
+    {
+      "id": "strategic-opportunity",
+      "title": "Strategic Opportunity",
+      "kicker": "12",
+      "summary": "SignWriting can serve multiple disciplines at once as shared research infrastructure.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for strategic opportunity.",
+      "image_prompts": {
+        "concrete": "Interdisciplinary research network diagram featuring linguists, neuroscientists, AI researchers, educators, and Deaf community users connected through SignWriting platforms",
+        "abstract": "A central hub radiating connections to science, education, accessibility, and technology, bright and forward-looking"
+      },
+      "bullets": [
+        "Supports: linguistics, neuroscience, AI, education",
+        "Aligns with: accessibility, language equity, international collaboration"
+      ],
+      "speech": "The strongest case for SignWriting is not narrow. It is broad. This is not only about one writing system or one community. SignWriting can support work in linguistics, neuroscience, AI, education, accessibility, and language equity. That makes it strategically valuable. It is the kind of shared infrastructure that can serve multiple disciplines at once.",
+      "notes": "SignWriting can function as shared research infrastructure.\n\nIt:\n\n- supports interdisciplinary work across linguistics, neuroscience, AI, and education\n- aligns with accessibility and language equity priorities\n- enables new forms of data collection and experimentation\n\nThis slide should feel optimistic and forward-looking after the fragility slide.",
+      "mermaid": "graph LR\n  A[SignWriting as Shared Research Infrastructure] --> B[Linguistics]\n  A --> C[Neuroscience]\n  A --> D[AI]\n  A --> E[Education]\n  A --> F[Accessibility]\n  A --> G[Language Equity]\n  A --> H[International Collaboration]"
+    },
+    {
+      "id": "conclusion-contact-collaboration",
+      "title": "Conclusion / Contact / Collaboration",
+      "kicker": "13",
+      "summary": "Language is not sound. Sign language reveals this. SignWriting makes it measurable.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the conclusion and collaboration close.",
+      "image_prompts": {
+        "concrete": "Closing slide image showing brain, signing hands, and written SignWriting symbols connected in one clean composition, polished academic keynote style",
+        "abstract": "A final image of meaning emerging from silence: brain networks, hands, and written symbols united in light, elegant and hopeful"
+      },
+      "bullets": [
+        "Language is structure, meaning, and connection in the brain",
+        "Sign language reveals this",
+        "SignWriting makes it measurable",
+        "Seeking: Principal Investigators, grant collaborators, research integration partners"
+      ],
+      "speech": "The main idea is simple. Language is not sound. It is structure, meaning, and connection within the brain. Sign language makes that visible. SignWriting makes it measurable. And once something becomes measurable, it can become teachable, researchable, and fundable in new ways. That is why this matters, and that is why collaboration is needed.",
+      "notes": "Language is not sound.  \nIt is structure, meaning, and connection within the brain.\n\nSign language reveals this clearly.  \nSignWriting makes it measurable.\n\nWith the right infrastructure, we can move from theory to evidence and expand our understanding of human language itself.\n\n**Sutton SignWriting Infrastructure Initiative**  \nUniversity of Iowa\n\nSeeking:\n\n- Principal Investigators\n- Grant collaborators\n- Research integration partners\n\nEnd with a pause after \"Language is not sound.\" Then say the next line more slowly.",
+      "mermaid": "graph TD\n  A[Language is not sound] --> B[Sign Language Reveals This]\n  B --> C[SignWriting Makes It Measurable]\n  C --> D[Research Infrastructure]\n  D --> E[Theory to Evidence]\n  E --> F[Collaboration Opportunity]\n\n  classDef core fill:white,color:black,stroke:black,stroke-width:3px;\n  classDef finish fill:white,color:black,stroke:green,stroke-width:2px;\n  class A,B,C core;\n  class D,E,F finish;"
+    }
+  ]
+}

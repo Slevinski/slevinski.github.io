@@ -1,0 +1,191 @@
+{
+  "slug": "infrastructure-and-stewardship",
+  "number": 3,
+  "title": "Infrastructure and Stewardship",
+  "subtitle": "Confirmed assets, continuity, and the case for institutional stabilization",
+  "summary": "A presentation defining Sutton SignWriting as existing infrastructure with real assets, active stewardship, and identifiable continuity risks.",
+  "synopsis": "This presentation moves the infrastructure conversation from general concern to concrete authority. It shows that Sutton SignWriting already includes domains, servers, software, datasets, and standards under active stewardship, and argues that the central challenge is now stabilization, documentation, and institutionalization rather than initial creation.",
+  "handout": "handout.md",
+  "addendum": "addendum.md",
+  "slides": [
+    {
+      "id": "from-fragility-to-stewardship",
+      "title": "From Fragility to Stewardship",
+      "kicker": "1",
+      "summary": "The central issue is no longer whether SignWriting infrastructure exists, but whether it will be stabilized and institutionally supported.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for infrastructure and stewardship overview.",
+      "bullets": [
+        "Existing infrastructure, not a speculative project",
+        "Active stewardship with identifiable responsibilities",
+        "Need for stabilization, documentation, and institutionalization"
+      ],
+      "speech": "This presentation reframes the infrastructure conversation. Sutton SignWriting is not an idea waiting to become real. The infrastructure already exists across domains, software, data, standards, and public systems. The question now is whether that infrastructure will continue under a fragile maintenance model or be stabilized through stronger stewardship and institutional support.",
+      "notes": "Open by changing the audience's mental model from invention to stewardship. This deck should feel authoritative, specific, and calm.",
+      "mermaid": "graph TD\n  A[Existing Infrastructure] --> B[Active Stewardship]\n  B --> C[Current Fragility]\n  C --> D[Need for Institutional Stabilization]\n  D --> E[Durable Continuity]"
+    },
+    {
+      "id": "why-authority-matters",
+      "title": "Why This Needs a More Concrete Inventory",
+      "kicker": "2",
+      "summary": "Public descriptions are useful, but the stewardship case becomes stronger when the actual asset classes and responsibilities are named directly.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for internal authority and asset inventory.",
+      "bullets": [
+        "Public visibility is only part of the story",
+        "Internal stewardship knowledge changes the institutional reading",
+        "Concrete inventory turns concern into credibility"
+      ],
+      "speech": "A public-facing description can say that SignWriting matters and appears to be fragile. That is helpful, but it stops short of authority. Once the real asset classes are named directly, including domains, servers, code, data, and standards, the conversation changes. A PI or administrator can see that this is real infrastructure already in operation.",
+      "notes": "This slide explains why the deck exists. It should sound like clarification, not escalation.",
+      "mermaid": "graph TD\n  A[Public Description] --> B[Important but Incomplete]\n  C[Internal Asset Knowledge] --> D[Concrete Stewardship View]\n  B --> E[General Concern]\n  D --> F[Institutional Credibility]"
+    },
+    {
+      "id": "domains-and-web",
+      "title": "Domains and Web Infrastructure",
+      "kicker": "3",
+      "summary": "The infrastructure includes a coordinated portfolio of domains and public web entry points that already serve SignWriting users, tools, and historical material.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for domain and web infrastructure.",
+      "bullets": [
+        "SignWriting, SignPuddle, SignBank, and related domains",
+        "Public presence, application entry points, and archives",
+        "Renewal, DNS, hosting, uptime, and migration responsibilities"
+      ],
+      "speech": "The domain layer alone shows that this is already a living web infrastructure. The ecosystem includes SignWriting, SignPuddle, SignBank, Sutton SignWriting, Valerie Sutton, and related historical and project domains. These are not decorative assets. They are entry points for tools, documentation, archives, and public continuity, and they require active stewardship.",
+      "notes": "Mention examples without reading the whole list aloud. The point is coordinated scope, not memorization.",
+      "mermaid": "graph LR\n  A[Domain Portfolio] --> B[Public Sites]\n  A --> C[Application Entry Points]\n  A --> D[Standards and Documentation]\n  A --> E[Historical Archives]\n  B --> F[Stewardship Responsibilities]\n  C --> F\n  D --> F\n  E --> F"
+    },
+    {
+      "id": "servers-and-platform",
+      "title": "Server and Platform Infrastructure",
+      "kicker": "4",
+      "summary": "SignWriting depends on long-running servers and mixed hosting environments that need continuity, backup planning, and modernization.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for server and platform infrastructure.",
+      "bullets": [
+        "Legacy and active production systems",
+        "Static and dynamic hosting environments",
+        "Immediate concerns: backup, disaster recovery, migration, deployment knowledge"
+      ],
+      "speech": "Behind the public websites is a real platform layer made up of legacy servers, active production systems, and a mixed architecture across older and newer environments. These systems support dictionary services, archival content, downloads, and developer resources. Their current value is clear, but so is the need for backup, recovery planning, and migration documentation.",
+      "notes": "This is the operational-risk slide. Keep it practical and avoid drifting into low-level implementation details.",
+      "mermaid": "graph LR\n  A[Legacy Systems] --> D[Service Continuity]\n  B[Active Production Systems] --> D\n  C[Platform V3 Redevelopment] --> D\n  D --> E[Backup and Recovery]\n  D --> F[Migration Planning]\n  D --> G[Deployment Documentation]"
+    },
+    {
+      "id": "software-and-code",
+      "title": "Software and Code Infrastructure",
+      "kicker": "5",
+      "summary": "The codebase is a mature, cross-language technical environment with active development, production use, and long-term maintenance value.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for software and code infrastructure.",
+      "bullets": [
+        "Core libraries in JavaScript, Python, and PHP",
+        "Rendering, fonts, web components, APIs, and platform work",
+        "Open-source, production-used, and actively maintained"
+      ],
+      "speech": "The software layer is not a prototype environment. It includes core libraries, rendering systems, fonts, web components, APIs, and platform work across multiple languages. Organized through the Sutton SignWriting GitHub ecosystem and related repositories, this body of code is both operational and extensible. It represents a mature technical foundation.",
+      "notes": "This slide should make technical seriousness visible. Say 'mature technical foundation' clearly.",
+      "mermaid": "graph LR\n  A[Code Infrastructure] --> B[Libraries]\n  A --> C[Rendering and Fonts]\n  A --> D[Clients and Components]\n  A --> E[APIs and Platform]\n  B --> F[Production Use]\n  C --> F\n  D --> F\n  E --> F"
+    },
+    {
+      "id": "data-and-corpora",
+      "title": "Data and Corpus Assets",
+      "kicker": "6",
+      "summary": "The ecosystem includes rare large-scale written signed-language data accumulated across dictionaries, SPML files, lexical resources, and texts.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for data and corpus assets.",
+      "bullets": [
+        "SignPuddle dictionaries and SPML files",
+        "Millions of sign entries across languages",
+        "Lexical, textual, educational, and religious materials"
+      ],
+      "speech": "One of the most significant parts of the infrastructure is the accumulated SignWriting data itself. This includes SignPuddle dictionaries, SPML files, millions of sign entries, lexical resources, and literature collections. Preserved across multiple migrations, this is a rare large-scale corpus of written signed language and an important research asset as well as a stewardship responsibility.",
+      "notes": "Make the audience feel the corpus value. This is where infrastructure becomes scholarship and preservation at the same time.",
+      "mermaid": "graph LR\n  A[SignPuddle Dictionaries] --> E[Corpus Assets]\n  B[SPML Files] --> E\n  C[Lexical and Textual Resources] --> E\n  D[Educational and Religious Literature] --> E\n  E --> F[Preservation]\n  E --> G[Standardization]\n  E --> H[Research Access]"
+    },
+    {
+      "id": "standards-layer",
+      "title": "Standards and Encoding Infrastructure",
+      "kicker": "7",
+      "summary": "ISWA 2010, FSW, SWU, fonts, and rendering systems form a stable technical framework for machine-readable SignWriting.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for standards and encoding infrastructure.",
+      "bullets": [
+        "ISWA 2010 symbol layer",
+        "FSW and SWU formal encodings",
+        "Fonts and rendering systems for production use"
+      ],
+      "speech": "The standards layer is one of the clearest signs that this work has already become durable infrastructure. ISWA 2010, Formal SignWriting in ASCII, SignWriting in Unicode, and the associated font and rendering systems make SignWriting machine-readable, searchable, sortable, and processable. This is a complete technical framework, not an informal notation experiment.",
+      "notes": "Connect this slide to the standards pages on the site if useful. It helps show depth beyond the current presentation.",
+      "mermaid": "graph TD\n  A[ISWA 2010] --> B[Formal Model]\n  B --> C[FSW]\n  B --> D[SWU]\n  C --> E[Software and Search]\n  D --> F[Unicode Workflows]\n  A --> G[Fonts and Rendering]\n  G --> E\n  G --> F"
+    },
+    {
+      "id": "continuity-and-lineage",
+      "title": "Stewardship Continuity",
+      "kicker": "8",
+      "summary": "The infrastructure already has an identifiable stewardship lineage, but the continuity model remains too informal for assets of this scope.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for stewardship continuity and lineage.",
+      "bullets": [
+        "Valerie Sutton: originator and foundational system design",
+        "Steve Slevinski: technical steward, encoding architect, and maintainer",
+        "Next-generation continuity path exists but needs formal support"
+      ],
+      "speech": "There is already a recognizable continuity chain behind this infrastructure. Valerie Sutton originated the system and its foundational design. Steve Slevinski has carried the technical stewardship, encoding work, and operational maintenance. A next-generation continuity path exists, but it remains too informal for infrastructure with this many public systems, standards, and datasets.",
+      "notes": "This is the human continuity slide. Keep it institutional and stewardship-focused rather than personal or territorial.",
+      "mermaid": "graph TD\n  A[Valerie Sutton] --> B[Foundational System Design]\n  B --> C[Steve Slevinski]\n  C --> D[Technical Stewardship]\n  D --> E[Next-Generation Continuity Path]\n  E --> F[Need for Formal Institutional Support]"
+    },
+    {
+      "id": "risk-profile",
+      "title": "Risk Profile",
+      "kicker": "9",
+      "summary": "The main risks are concentrated knowledge, too few maintainers, incomplete documentation, and limited institutional redundancy.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for infrastructure risk profile.",
+      "bullets": [
+        "Operational knowledge concentration",
+        "Small maintainer base",
+        "Documentation and preservation gaps",
+        "Lack of institutional redundancy"
+      ],
+      "speech": "With a more internal view, the risk profile can be stated clearly. The main issues are concentrated operational knowledge, dependence on a very small number of maintainers, incomplete documentation, and limited institutional redundancy. These are common infrastructure risks when systems grow in value faster than their administrative support.",
+      "notes": "Frame the risk as structural, not as individual failure. The phrase 'grown in value faster than its institutional support' is worth emphasizing.",
+      "mermaid": "graph LR\n  A[Concentrated Knowledge] --> E[Fragility]\n  B[Few Maintainers] --> E\n  C[Incomplete Documentation] --> E\n  D[Limited Redundancy] --> E\n  E --> F[Preservation Risk]\n  E --> G[Service Risk]"
+    },
+    {
+      "id": "institutional-question",
+      "title": "What a Host Institution Would Actually Be Doing",
+      "kicker": "10",
+      "summary": "A host institution would not be funding an idea from zero; it would be stabilizing and extending an existing globally used infrastructure system.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for host institution role.",
+      "bullets": [
+        "Lower startup cost than greenfield infrastructure",
+        "Higher grant readiness and collaboration potential",
+        "Immediate value in preservation, continuity, and research use"
+      ],
+      "speech": "This level of asset maturity changes the institutional question. A host institution would not be funding an idea or starting from zero. It would be stabilizing and extending an existing globally used infrastructure system. That lowers startup cost while increasing grant readiness, collaboration potential, and research applicability.",
+      "notes": "This is the mental-model shift slide. It should feel decisive and reassuring.",
+      "mermaid": "graph LR\n  A[Existing Assets] --> B[Host Institution]\n  B --> C[Stabilization]\n  B --> D[Documentation]\n  B --> E[Research Integration]\n  B --> F[Grant Readiness]\n  C --> G[Durable Infrastructure]"
+    },
+    {
+      "id": "bottom-line",
+      "title": "Bottom Line",
+      "kicker": "11",
+      "summary": "The real task is not creation but stabilization, documentation, and institutionalization of infrastructure that already exists.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for bottom line of stewardship case.",
+      "bullets": [
+        "Domains",
+        "Servers",
+        "Software",
+        "Datasets",
+        "Standards"
+      ],
+      "speech": "The bottom line is straightforward. SignWriting infrastructure already exists across domains, servers, software systems, datasets, and standards. The task now is not creation. It is stabilization, documentation, and institutionalization. That is the stewardship challenge, and it is also the institutional opportunity.",
+      "notes": "End with the exact triad: stabilization, documentation, and institutionalization.",
+      "mermaid": "graph TD\n  A[Domains] --> F[Existing Infrastructure]\n  B[Servers] --> F\n  C[Software] --> F\n  D[Datasets] --> F\n  E[Standards] --> F\n  F --> G[Stabilization]\n  F --> H[Documentation]\n  F --> I[Institutionalization]"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "slug": "initiative-overview",
+  "number": 2,
+  "title": "Initiative Overview",
+  "subtitle": "Research Infrastructure and Collaboration Opportunity",
+  "summary": "A presentation version of the core Sutton SignWriting infrastructure initiative handout.",
+  "synopsis": "This presentation frames Sutton SignWriting as globally used but institutionally fragile infrastructure and explains why research collaboration, grant alignment, and durable administrative support are needed to move from independent maintenance to long-term sustainability.",
+  "handout": "handout.md",
+  "slides": [
+    {
+      "id": "overview",
+      "title": "Sutton SignWriting Infrastructure Initiative",
+      "kicker": "1",
+      "summary": "Sutton SignWriting is globally used language infrastructure that needs durable institutional support.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for initiative overview.",
+      "bullets": [
+        "Standardized writing system for signed languages",
+        "Used in education, research, and communication",
+        "Supports literacy, accessibility, and linguistic analysis"
+      ],
+      "speech": "Sutton SignWriting is a standardized system for writing signed languages, used internationally in education, research, and communication. It enables direct written representation of signed languages, supporting literacy, accessibility, and linguistic analysis.",
+      "notes": "Open with the system itself before talking about fragility."
+    },
+    {
+      "id": "current-situation",
+      "title": "Current Situation",
+      "kicker": "2",
+      "summary": "The infrastructure is important, but its maintenance model is fragile.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for current situation.",
+      "bullets": [
+        "Globally used system",
+        "Independently maintained",
+        "Recent outage exposed vulnerability"
+      ],
+      "speech": "SignWriting functions as critical infrastructure for a global user base but depends on individual maintenance and limited resources. A recent outage disrupted educational programs in Brazil, highlighting both its importance and its vulnerability.",
+      "notes": "Keep the outage example concrete without making the whole talk Brazil-only."
+    },
+    {
+      "id": "opportunity",
+      "title": "Opportunity",
+      "kicker": "3",
+      "summary": "The initiative is seeking a PI or academic collaborator to connect the work to research and funding structures.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for collaboration opportunity.",
+      "bullets": [
+        "Language and literacy development",
+        "Accessibility and Deaf education",
+        "Linguistics and visual-spatial language systems",
+        "AI and multimodal language representation"
+      ],
+      "speech": "This initiative seeks a Principal Investigator or academic collaborator to help integrate SignWriting into a research and funding framework. SignWriting can serve as shared research infrastructure, enabling new studies and external funding.",
+      "notes": "This is the grant and academic invitation slide."
+    },
+    {
+      "id": "collaboration-focus",
+      "title": "Collaboration Focus",
+      "kicker": "4",
+      "summary": "There are several clear lanes for collaboration and support.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for collaboration focus.",
+      "bullets": [
+        "Grant development",
+        "Gift and donation support",
+        "Research integration",
+        "Institutional support"
+      ],
+      "speech": "The collaboration focus includes grant development through NIH, NSF, NEH, and international proposals; University of Iowa administered giving; research integration in literacy, cognition, and AI; and partial staff support tied to existing labs and institutional structures.",
+      "notes": "Use this slide to show the work is practical, not abstract."
+    },
+    {
+      "id": "platform-and-value",
+      "title": "Platform Development and Institutional Value",
+      "kicker": "5",
+      "summary": "Platform V3 and international use make this a strong institutional opportunity.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for platform development and institutional value.",
+      "bullets": [
+        "Structured registration for students, teachers, and researchers",
+        "Anonymized demographic data for research",
+        "Support for institutional and educational use",
+        "Foundation for AI and translation pipelines"
+      ],
+      "speech": "SignWriting Platform V3 is intended to provide structured user registration, anonymized demographic data for research, support for institutional and educational use, and a foundation for AI and translation pipelines. That gives institutions access to a globally used linguistic system with strong research and accessibility value.",
+      "notes": "This is the future-facing systems slide."
+    },
+    {
+      "id": "call-to-collaborate",
+      "title": "Call to Collaborate",
+      "kicker": "6",
+      "summary": "The initiative is seeking faculty collaborators and institutional alignment.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for call to collaborate.",
+      "bullets": [
+        "PI or co-investigator roles",
+        "Grant proposal development",
+        "Gift and donation pathway support",
+        "Research-program integration"
+      ],
+      "speech": "We are seeking faculty interested in serving as PI or co-investigator, developing grant proposals, helping shape gift and donation pathways through the University of Iowa, and integrating SignWriting into research programs.",
+      "notes": "End with a clear ask."
+    }
+  ]
+}

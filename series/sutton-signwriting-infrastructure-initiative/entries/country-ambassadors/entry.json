@@ -1,0 +1,178 @@
+{
+  "slug": "country-ambassadors",
+  "number": 5,
+  "title": "Country Ambassadors",
+  "subtitle": "Country-level outreach, translation, and institutional relationship-building",
+  "summary": "A presentation version of the country ambassador handout.",
+  "synopsis": "This presentation introduces a volunteer-first country ambassador model for Sutton SignWriting, showing how trusted local people can strengthen outreach, translation, institutional relationships, and future support structures while staying within clear role boundaries.",
+  "handout": "handout.md",
+  "slides": [
+    {
+      "id": "why-role-needed",
+      "title": "Why This Role Is Needed",
+      "kicker": "1",
+      "summary": "Country-level outreach is hard to centralize well, and local context matters.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for why the ambassador role is needed.",
+      "bullets": [
+        "University structures vary by country",
+        "Languages and communication norms differ",
+        "Funding realities and local institutional pathways differ"
+      ],
+      "speech": "International outreach is difficult to centralize well. Each country has different university structures, languages and communication norms, funding realities and economic conditions, and SignWriting communities, leaders, and institutional pathways.",
+      "notes": "Start with the reason the role exists at all."
+    },
+    {
+      "id": "role-summary",
+      "title": "Role Summary",
+      "kicker": "2",
+      "summary": "A country ambassador is a trusted local volunteer who helps connect the initiative to institutions and communities.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for ambassador role summary.",
+      "bullets": [
+        "Trusted local connector",
+        "Volunteer-first role",
+        "May later grow into stipend-supported service work"
+      ],
+      "speech": "A Country Ambassador is a trusted local volunteer who helps connect the Sutton SignWriting initiative with institutions, educators, researchers, and community leaders in a specific country. This begins as a volunteer service role and may later evolve into a paid stipend position for clearly defined services.",
+      "notes": "Keep it relational and practical."
+    },
+    {
+      "id": "core-goals",
+      "title": "Core Goals",
+      "kicker": "3",
+      "summary": "Ambassadors help build local trust, improve communication, and strengthen support efforts.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for ambassador goals.",
+      "bullets": [
+        "Identify universities and institutional contacts",
+        "Improve cultural and linguistic appropriateness",
+        "Gather letters of support and collaboration interest"
+      ],
+      "speech": "Country ambassadors help identify universities and institutional contacts, make outreach more culturally and linguistically appropriate, explain local conditions and needs, build trust with educational and research partners, and strengthen the case for grants, gifts, and donations through the University of Iowa.",
+      "notes": "This is the value proposition."
+    },
+    {
+      "id": "responsibilities",
+      "title": "Typical Responsibilities",
+      "kicker": "4",
+      "summary": "The work is mostly local mapping, communication, introductions, and follow-up.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for typical responsibilities.",
+      "bullets": [
+        "Map universities, schools, and organizations",
+        "Identify faculty, administrators, and champions",
+        "Translate or adapt outreach materials"
+      ],
+      "speech": "Responsibilities may include mapping relevant universities, schools, programs, and community organizations; identifying local champions; helping translate or adapt outreach materials; making introductions; sharing local feedback; and documenting visible SignWriting use and impact in the country.",
+      "notes": "These are concrete activities, not prestige titles."
+    },
+    {
+      "id": "not-the-role",
+      "title": "What Ambassadors Are Not",
+      "kicker": "5",
+      "summary": "This role should not be confused with formal institutional authority.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for ambassador role limits.",
+      "bullets": [
+        "No legal or financial commitments",
+        "No independent institutional negotiation",
+        "No payroll or payment intermediary role"
+      ],
+      "speech": "Country ambassadors are not expected to make legal or financial commitments on behalf of the project, independently negotiate institutional agreements, serve as payroll or payment intermediaries, or represent the University of Iowa in a formal administrative capacity unless specifically authorized.",
+      "notes": "These guardrails matter."
+    },
+    {
+      "id": "volunteer-first",
+      "title": "Volunteer-First Model",
+      "kicker": "6",
+      "summary": "Start simply and visibly, then learn from a small pilot before expanding.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for volunteer-first model.",
+      "bullets": [
+        "Start with volunteer appointments",
+        "Define country scope clearly",
+        "Provide shared messaging and outreach materials"
+      ],
+      "speech": "The initial ambassador structure should be simple: start with volunteer appointments, define country scope clearly, agree on reasonable expected activities, provide shared messaging and outreach materials, and recognize contributions visibly and respectfully.",
+      "notes": "Keep the barrier to entry low."
+    },
+    {
+      "id": "path-to-stipends",
+      "title": "Path to Stipends",
+      "kicker": "7",
+      "summary": "As institutional support grows, modest service-based stipends may become appropriate.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for path to stipends.",
+      "bullets": [
+        "Translation and localization work",
+        "Outreach coordination",
+        "Documentation of local use cases and partnerships"
+      ],
+      "speech": "As institutional support grows, ambassadors may be eligible for modest stipends tied to clearly defined services such as translation, localization, outreach coordination, event facilitation, and documentation of national use cases and partnerships.",
+      "notes": "Compensation should be thoughtful and country-sensitive."
+    },
+    {
+      "id": "selection-criteria",
+      "title": "Selection Criteria",
+      "kicker": "8",
+      "summary": "Strong ambassadors combine community trust, communication skill, and reliability.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for selection criteria.",
+      "bullets": [
+        "Trusted standing in local communities",
+        "Strong communication skills",
+        "Familiarity with universities and institutional networks"
+      ],
+      "speech": "Strong ambassadors are likely to have trusted standing in local SignWriting or Deaf education communities, strong communication skills, familiarity with local universities or institutional networks, the ability to work across language and cultural boundaries, and reliability in documenting conversations and follow-up.",
+      "notes": "This should read like a real selection guide."
+    },
+    {
+      "id": "initial-countries",
+      "title": "Initial Countries",
+      "kicker": "9",
+      "summary": "A practical first cohort can start with a few countries where use and interest are already visible.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for initial countries.",
+      "bullets": [
+        "Brazil",
+        "Mexico",
+        "South Korea",
+        "Additional countries with visible use and institutional interest"
+      ],
+      "speech": "A practical first cohort could include Brazil, Mexico, South Korea, and additional countries where active SignWriting use and institutional interest are already visible.",
+      "notes": "This is the pilot scope."
+    },
+    {
+      "id": "central-support",
+      "title": "Support Needed From the Central Team",
+      "kicker": "10",
+      "summary": "The central project needs to provide materials, tracking, and coordination support.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for central team support.",
+      "bullets": [
+        "Short ambassador description",
+        "Simple onboarding note",
+        "Localized outreach templates",
+        "Shared contact and follow-up tracker"
+      ],
+      "speech": "To make the model work, the central project should provide a short ambassador description, a simple onboarding note, outreach templates that can be localized, a shared contact and follow-up tracker, and a clear explanation of how ambassador work connects to grants, gifts, donations, and partnerships.",
+      "notes": "The role depends on good support materials."
+    },
+    {
+      "id": "recommended-next-step",
+      "title": "Recommended Next Step",
+      "kicker": "11",
+      "summary": "Recruit a small pilot group of ambassadors in three to five countries and test the model before expanding.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for recommended next step.",
+      "bullets": [
+        "Recruit a pilot group",
+        "Test the model",
+        "Expand after learning from real use"
+      ],
+      "speech": "Recruit a small pilot group of ambassadors in three to five countries and test the model before expanding further.",
+      "notes": "Finish with a manageable next action."
+    }
+  ]
+}

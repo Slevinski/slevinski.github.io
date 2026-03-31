@@ -1,0 +1,90 @@
+{
+  "slug": "international-shared-support",
+  "number": 4,
+  "title": "International Shared Support",
+  "subtitle": "International Shared Support and Partnership Framework",
+  "summary": "A presentation version of the international partnership and country-ambassador handout.",
+  "synopsis": "This presentation explains why Sutton SignWriting needs an international support model that combines University of Iowa institutional backing, cross-country partner relationships, and locally grounded ambassadors to demonstrate real-world value and strengthen long-term stewardship.",
+  "handout": "handout.md",
+  "slides": [
+    {
+      "id": "international-overview",
+      "title": "International Shared Support",
+      "kicker": "1",
+      "summary": "SignWriting is used internationally and needs a support model that matches that reality.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for international shared support.",
+      "bullets": [
+        "Education, research, and communication use",
+        "Active relationships in Brazil, Mexico, South Korea, and beyond",
+        "Shared infrastructure with international dependence"
+      ],
+      "speech": "Sutton SignWriting is used internationally, with active relationships and visible impact across multiple countries. Students, teachers, researchers, and institutions depend on its tools, websites, and data resources.",
+      "notes": "Frame this as global infrastructure rather than a local project."
+    },
+    {
+      "id": "support-model",
+      "title": "Proposed Support Model",
+      "kicker": "2",
+      "summary": "The preferred support model combines institutional backing, international partnership, and country ambassadors.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the proposed support model.",
+      "bullets": [
+        "University of Iowa grants, gifts, and donations",
+        "International partner relationships",
+        "Country ambassadors",
+        "Shared institutional participation"
+      ],
+      "speech": "The preferred model combines grants, gifts, and donations administered through the University of Iowa, international partner relationships that demonstrate impact, country ambassadors who support local outreach, and shared institutional participation instead of dependence on a single maintainer.",
+      "notes": "This is the model slide. Keep it simple and memorable."
+    },
+    {
+      "id": "partner-value",
+      "title": "Why International Participation Matters",
+      "kicker": "3",
+      "summary": "International relationships demonstrate educational reliance, research value, and readiness for collaboration.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for partner value.",
+      "bullets": [
+        "Real-world educational reliance",
+        "Cross-country research value",
+        "Demand for stable stewardship",
+        "Readiness for multi-institution collaboration"
+      ],
+      "speech": "International relationships matter for more than outreach. They show real-world educational reliance, cross-country research value, accessibility relevance, and readiness for multi-institution collaboration.",
+      "notes": "Brazil is the strongest example, but not the only one."
+    },
+    {
+      "id": "partner-participation",
+      "title": "How Partners Can Participate",
+      "kicker": "4",
+      "summary": "Partners can participate through support letters, introductions, collaboration, and country-level help.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for partner participation.",
+      "bullets": [
+        "Letters of support and statements of use",
+        "Introductions to faculty and administrators",
+        "Collaboration on international proposals",
+        "Volunteer country ambassadors"
+      ],
+      "speech": "Partner institutions do not all need to contribute in the same way. Participation may include letters of support, statements of educational or research use, introductions to institutional contacts, collaboration on proposals, and help identifying volunteer country ambassadors.",
+      "notes": "This should make participation feel flexible and approachable."
+    },
+    {
+      "id": "uiowa-role",
+      "title": "University of Iowa Role and Next Steps",
+      "kicker": "5",
+      "summary": "The University of Iowa provides the strongest current institutional home for this work.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for University of Iowa role.",
+      "bullets": [
+        "Grant framing and institutional collaboration",
+        "Administration of gifts and donations",
+        "Research integration and PI alignment",
+        "Long-term stewardship and reporting"
+      ],
+      "speech": "The University of Iowa provides the strongest current home because it can support grant framing, gifts and donations, research integration, PI alignment, and long-term stewardship. Near-term goals include identifying institutional contacts, gathering letters of support, and mapping country-level outreach priorities.",
+      "notes": "End with next steps, not just abstract framing."
+    }
+  ]
+}

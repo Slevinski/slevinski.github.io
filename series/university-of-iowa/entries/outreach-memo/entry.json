@@ -1,0 +1,129 @@
+{
+  "slug": "outreach-memo",
+  "number": 1,
+  "title": "Outreach Memo",
+  "subtitle": "A concise University of Iowa summary of the full opportunity",
+  "summary": "A short University of Iowa-facing bridge presentation for internal forwarding, summarizing the immediate lab-home need, Steve's practical value, and the larger infrastructure path.",
+  "synopsis": "This presentation is the concise bridge document for faculty, grants staff, development staff, and other internal stakeholders who need the whole opportunity explained quickly. It summarizes the immediate structure, why Steve Slevinski is useful now, how DMS and repository work creates present value, how Sutton SignWriting becomes a longer-term infrastructure opportunity, and which next conversations should happen with whom.",
+  "handout": "handout.md",
+  "slides": [
+    {
+      "id": "one-slide-summary",
+      "title": "University of Iowa Outreach Memo",
+      "kicker": "1",
+      "summary": "The shortest version of the case is simple: place Steve in a lab now, use his practical project value immediately, and let the larger infrastructure opportunity grow from a real institutional base.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the outreach memo overview.",
+      "bullets": [
+        "Lab home under a PI",
+        "Immediate DMS and repository value",
+        "Grant path to shared research infrastructure"
+      ],
+      "speech": "The University of Iowa opportunity can be stated simply. The immediate goal is a lab home under a PI. That creates a place for practical DMS and repository work right now, and it also creates the structure from which grants, collaborators, and Sutton SignWriting shared research infrastructure can grow.",
+      "notes": "This slide should let a busy reader understand the full argument in under a minute.",
+      "mermaid": "graph TD\n  A[Lab Home Under PI] --> B[Immediate DMS and Repository Value]\n  B --> C[Grant Writing and Collaboration]\n  C --> D[Shared Research Infrastructure]"
+    },
+    {
+      "id": "why-now",
+      "title": "Why Now",
+      "kicker": "2",
+      "summary": "The timing matters because the work is already active, the need is current, and a durable next structure is more credible when built now rather than after momentum is lost.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for why now.",
+      "bullets": [
+        "The current structure is too fragile",
+        "A near-term PI path exists now",
+        "The next step is small but strategically important"
+      ],
+      "speech": "This moment matters because the work already has real value but still lacks a durable institutional structure. A near-term PI path now makes the next step much more credible. The point is not to solve everything at once. The point is to secure the right first structure.",
+      "notes": "Keep the urgency grounded in continuity, not alarm.",
+      "image_prompt_concrete": "A strategic timing slide showing a narrow opening for action leading to a more stable long-term path, clean academic style",
+      "image_prompt_abstract": "A brief opening in a wall leading to a brighter structured corridor"
+    },
+    {
+      "id": "steves-role",
+      "title": "Why Steve Matters Now",
+      "kicker": "3",
+      "summary": "Steve's role is immediately useful because he can help with DMS planning, workflow design, data shaping, code, and repository delivery in the places where research teams often get stuck.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for Steve's immediate value.",
+      "bullets": [
+        "DMS planning and execution",
+        "Workflow and code support",
+        "Repository-facing technical delivery"
+      ],
+      "speech": "Steve matters now because he can create immediate practical value. He can help with Data Management and Sharing Plans, workflow design, code and data shaping, and the difficult path from project systems to repository delivery. That makes him useful to real projects immediately, not only to future plans.",
+      "notes": "This is the slide that turns abstract support into a concrete personnel case.",
+      "mermaid": "graph LR\n  A[Steve Slevinski] --> B[DMS Planning]\n  A --> C[Workflow and Code]\n  A --> D[Repository Delivery]"
+    },
+    {
+      "id": "why-uiowa-fits",
+      "title": "Why UIowa Fits",
+      "kicker": "4",
+      "summary": "UIowa is a strong fit because this work sits at the intersection of accessibility, literacy, language science, data stewardship, and collaborative research support.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for why UIowa fits.",
+      "bullets": [
+        "Accessibility and language equity",
+        "Literacy and Deaf education",
+        "Research systems and data workflows",
+        "International collaboration"
+      ],
+      "speech": "This opportunity fits the University of Iowa because it crosses multiple strengths at once: accessibility, language equity, literacy, Deaf education, research systems, and international collaboration. It is an unusually strong fit for an academic home that can connect both mission and operations.",
+      "notes": "Make the institutional alignment feel natural and multi-unit.",
+      "image_prompt_concrete": "University of Iowa research alignment diagram connecting accessibility, literacy, data workflows, and global collaboration",
+      "image_prompt_abstract": "Several institutional values flowing together into one central opportunity"
+    },
+    {
+      "id": "infrastructure-opportunity",
+      "title": "The Larger Opportunity",
+      "kicker": "5",
+      "summary": "Beyond the immediate placement, the larger opportunity is to help turn Sutton SignWriting from fragile independent maintenance into durable shared research infrastructure.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the larger infrastructure opportunity.",
+      "bullets": [
+        "Already globally used",
+        "Still structurally fragile",
+        "Grant-fundable across multiple research lanes"
+      ],
+      "speech": "Beyond the immediate practical work, there is a larger opportunity. Sutton SignWriting already has global use, but its structure is still too fragile. With the right home and the right support, it can become grant-funded shared research infrastructure with educational, scientific, and collaborative value.",
+      "notes": "Keep the larger mission secondary to the practical case, but make it feel real.",
+      "mermaid": "graph TD\n  A[Global Use] --> B[Current Fragility]\n  B --> C[Institutional Home]\n  C --> D[Grant-Funded Infrastructure]"
+    },
+    {
+      "id": "support-structure",
+      "title": "What Support Looks Like",
+      "kicker": "6",
+      "summary": "The support model is layered and realistic: a lab home provides the base, salary support enables current work, grants build the larger structure, and gifts or donations can complement the whole effort.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for support structure.",
+      "bullets": [
+        "Lab home under a PI",
+        "Partial salary support where possible",
+        "Grant writing under the PI",
+        "Gifts and donations as a complementary lane"
+      ],
+      "speech": "Support does not need to come from one place all at once. The strongest structure is layered. The lab home comes first. Partial salary support helps create continuity. Grants under the PI support longer-term growth. Gifts and donations can provide continuity and bridge support as a complementary lane.",
+      "notes": "This slide should help a forwarder see several reasonable next lanes instead of one all-or-nothing ask.",
+      "mermaid": "graph LR\n  A[Lab Home] --> B[Partial Salary Support]\n  A --> C[Grant Writing]\n  A --> D[Gifts and Donations]\n  B --> E[Continuity]\n  C --> E\n  D --> E"
+    },
+    {
+      "id": "next-conversations",
+      "title": "Recommended Next Conversations",
+      "kicker": "7",
+      "summary": "The right next step is not one generic meeting, but a routed conversation about lab placement, project support, infrastructure development, or philanthropic interest depending on the audience.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for recommended next conversations.",
+      "bullets": [
+        "PI and faculty collaborators",
+        "Advocates for partial salary support",
+        "Researchers who need DMS and repository help",
+        "Grants and development staff"
+      ],
+      "speech": "The next conversations should be practical. Some conversations are about a PI and lab home. Some are about salary support. Some are about active DMS and repository needs. Others are about grant writing or development pathways. The memo helps route each conversation into the right next step.",
+      "notes": "Close with practical routing language so this deck can be forwarded easily.",
+      "image_prompt_concrete": "Decision-routing slide showing four conversation lanes: PI, salary support, research support, and grants/development",
+      "image_prompt_abstract": "One central hub branching into four purposeful next-step paths"
+    }
+  ]
+}
