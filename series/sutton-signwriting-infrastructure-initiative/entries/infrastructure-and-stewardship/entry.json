@@ -4,7 +4,7 @@
   "title": "Infrastructure and Stewardship",
   "subtitle": "Confirmed assets, continuity, and the case for institutional stabilization",
   "summary": "A presentation defining Sutton SignWriting as existing infrastructure with real assets, active stewardship, and identifiable continuity risks.",
-  "synopsis": "This presentation moves the infrastructure conversation from general concern to concrete authority. It shows that Sutton SignWriting already includes domains, servers, software, datasets, and standards under active stewardship, and argues that the central challenge is now stabilization, documentation, and institutionalization rather than initial creation.",
+  "synopsis": "The infrastructure conversation becomes stronger when it moves from general concern to concrete authority. Sutton SignWriting already includes domains, servers, software, datasets, and standards under active stewardship, and the central challenge is now stabilization, documentation, and institutionalization rather than initial creation.",
   "handout": "handout.md",
   "addendum": "addendum.md",
   "slides": [
@@ -20,8 +20,8 @@
         "Active stewardship with identifiable responsibilities",
         "Need for stabilization, documentation, and institutionalization"
       ],
-      "speech": "This presentation reframes the infrastructure conversation. Sutton SignWriting is not an idea waiting to become real. The infrastructure already exists across domains, software, data, standards, and public systems. The question now is whether that infrastructure will continue under a fragile maintenance model or be stabilized through stronger stewardship and institutional support.",
-      "notes": "Open by changing the audience's mental model from invention to stewardship. This deck should feel authoritative, specific, and calm.",
+      "speech": "The infrastructure conversation changes once the starting point is stated clearly. Sutton SignWriting is not an idea waiting to become real. The infrastructure already exists across domains, software, data, standards, and public systems. The question now is whether that infrastructure will continue under a fragile maintenance model or be stabilized through stronger stewardship and institutional support.",
+      "notes": "Change the audience's mental model from invention to stewardship. Keep the tone authoritative, specific, and calm.",
       "mermaid": "graph TD\n  A[Existing Infrastructure] --> B[Active Stewardship]\n  B --> C[Current Fragility]\n  C --> D[Need for Institutional Stabilization]\n  D --> E[Durable Continuity]"
     },
     {
@@ -37,7 +37,7 @@
         "Concrete inventory turns concern into credibility"
       ],
       "speech": "A public-facing description can say that SignWriting matters and appears to be fragile. That is helpful, but it stops short of authority. Once the real asset classes are named directly, including domains, servers, code, data, and standards, the conversation changes. A PI or administrator can see that this is real infrastructure already in operation.",
-      "notes": "This slide explains why the deck exists. It should sound like clarification, not escalation.",
+      "notes": "This is clarification, not escalation.",
       "mermaid": "graph TD\n  A[Public Description] --> B[Important but Incomplete]\n  C[Internal Asset Knowledge] --> D[Concrete Stewardship View]\n  B --> E[General Concern]\n  D --> F[Institutional Credibility]"
     },
     {
@@ -85,7 +85,7 @@
         "Open-source, production-used, and actively maintained"
       ],
       "speech": "The software layer is not a prototype environment. It includes core libraries, rendering systems, fonts, web components, APIs, and platform work across multiple languages. Organized through the Sutton SignWriting GitHub ecosystem and related repositories, this body of code is both operational and extensible. It represents a mature technical foundation.",
-      "notes": "This slide should make technical seriousness visible. Say 'mature technical foundation' clearly.",
+      "notes": "Make the technical seriousness visible. Say 'mature technical foundation' clearly.",
       "mermaid": "graph LR\n  A[Code Infrastructure] --> B[Libraries]\n  A --> C[Rendering and Fonts]\n  A --> D[Clients and Components]\n  A --> E[APIs and Platform]\n  B --> F[Production Use]\n  C --> F\n  D --> F\n  E --> F"
     },
     {
@@ -101,7 +101,7 @@
         "Lexical, textual, educational, and religious materials"
       ],
       "speech": "One of the most significant parts of the infrastructure is the accumulated SignWriting data itself. This includes SignPuddle dictionaries, SPML files, millions of sign entries, lexical resources, and literature collections. Preserved across multiple migrations, this is a rare large-scale corpus of written signed language and an important research asset as well as a stewardship responsibility.",
-      "notes": "Make the audience feel the corpus value. This is where infrastructure becomes scholarship and preservation at the same time.",
+      "notes": "Make the corpus value felt. Here, infrastructure becomes scholarship and preservation at the same time.",
       "mermaid": "graph LR\n  A[SignPuddle Dictionaries] --> E[Corpus Assets]\n  B[SPML Files] --> E\n  C[Lexical and Textual Resources] --> E\n  D[Educational and Religious Literature] --> E\n  E --> F[Preservation]\n  E --> G[Standardization]\n  E --> H[Research Access]"
     },
     {
@@ -166,7 +166,7 @@
         "Immediate value in preservation, continuity, and research use"
       ],
       "speech": "This level of asset maturity changes the institutional question. A host institution would not be funding an idea or starting from zero. It would be stabilizing and extending an existing globally used infrastructure system. That lowers startup cost while increasing grant readiness, collaboration potential, and research applicability.",
-      "notes": "This is the mental-model shift slide. It should feel decisive and reassuring.",
+      "notes": "Make the mental-model shift feel decisive and reassuring.",
       "mermaid": "graph LR\n  A[Existing Assets] --> B[Host Institution]\n  B --> C[Stabilization]\n  B --> D[Documentation]\n  B --> E[Research Integration]\n  B --> F[Grant Readiness]\n  C --> G[Durable Infrastructure]"
     },
     {

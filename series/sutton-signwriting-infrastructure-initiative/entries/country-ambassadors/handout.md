@@ -1,6 +1,6 @@
 # Country Ambassadors
 
-Purpose: define a lightweight international ambassador model to support outreach, communication, and institutional relationship-building in each country.
+A lightweight international ambassador model can support outreach, communication, and institutional relationship-building in each country.
 
 ## Why This Role Is Needed
 

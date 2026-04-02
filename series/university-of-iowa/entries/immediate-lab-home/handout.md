@@ -4,13 +4,13 @@
 
 ## Core message
 
-The first move should be small, practical, and immediate:
+The first move is small, practical, and immediate:
 
 - place Steve Slevinski in a PI's lab now
 - begin at 0 percent salary support if necessary
 - use that placement to create institutional continuity and a credible base for the next steps
 
-This handout is not asking the University of Iowa to fund a fully developed center all at once.
+The University of Iowa is not being asked to fund a fully developed center all at once.
 
 It is asking for the first enabling structure:
 
@@ -181,7 +181,7 @@ Steve's practical usefulness can create relationships across the University thro
 - repository delivery work
 - technical collaboration around data organization and validation
 
-This lane matters because it creates value before the larger SignWriting infrastructure vision needs to be fully developed.
+That lane creates value before the larger SignWriting infrastructure vision needs to be fully developed.
 
 ### Lane 4: Grant writing under the PI
 
@@ -197,15 +197,13 @@ Once Steve is institutionally based, grants can be written under the PI to suppo
 
 There is also a complementary continuity lane through gifts and donations.
 
-This lane can support:
+It can support:
 
 - bridge support
 - continuity support
 - infrastructure support
 
-This lane should be kept disciplined.
-
-It is best understood as complementary to grants and salary support, not as a substitute for them.
+It works best as a disciplined complement to grants and salary support, not as a substitute for them.
 
 ## Why broader University relationships matter
 
@@ -219,7 +217,7 @@ That matters for several reasons:
 - some units may be able to contribute salary support or project-based support
 - broader usefulness increases the credibility of later grant language
 
-So the lab home should be understood as:
+The lab home is:
 
 - the first relationship
 - the administrative and academic base
@@ -263,7 +261,7 @@ The weakest framing would be:
 
 The order matters.
 
-The first story should be:
+Lead with:
 
 > place Steve now, let useful work begin, and let the structure grow from there
 
@@ -291,7 +289,7 @@ If there is a lab home now, then:
 - grant writing becomes more credible
 - the broader Sutton SignWriting Infrastructure Initiative becomes more realistic
 
-This is why the lab home matters so much.
+That is why the lab home matters so much.
 
 It is not the end goal.
 

@@ -4,7 +4,7 @@
   "title": "Executive Brief",
   "subtitle": "Sutton SignWriting as research infrastructure",
   "summary": "A concise forwardable presentation for PI and institutional conversations about Sutton SignWriting as existing infrastructure that needs durable support.",
-  "synopsis": "This presentation condenses the infrastructure case into a short executive framing. It explains what Sutton SignWriting is, why its existing asset base matters, what support gap remains, and what a PI or host institution would unlock by giving the work a stable research home.",
+  "synopsis": "A short executive framing of the infrastructure case. It explains what Sutton SignWriting is, why its existing asset base matters, what support gap remains, and what a PI or host institution would unlock by giving the work a stable research home.",
   "handout": "handout.md",
   "slides": [
     {
@@ -19,8 +19,8 @@
         "PI-facing and institution-facing framing",
         "Forwardable summary of the larger initiative"
       ],
-      "speech": "This executive brief is meant to make the infrastructure case quickly. Sutton SignWriting should be understood not only as a writing system, but as emerging research infrastructure. That framing is useful for conversations with a PI, lab, or institutional home that could anchor the next stage of development.",
-      "notes": "Open simply and clearly. This deck is meant to be skimmed or forwarded, so the framing needs to land fast.",
+      "speech": "The infrastructure case can be stated quickly. Sutton SignWriting is not only a writing system. It is emerging research infrastructure. That framing matters because it fits the kinds of conversations a PI, lab, or institutional home can act on.",
+      "notes": "Open simply and clearly so the framing lands fast.",
       "mermaid": "graph LR\n  A[Writing System] --> C[Research Infrastructure]\n  B[Technical Ecosystem] --> C\n  C --> D[PI or Institutional Home]"
     },
     {
@@ -53,8 +53,8 @@
         "ISWA 2010, FSW, SWU, fonts, and libraries",
         "Datasets, dictionaries, and written materials"
       ],
-      "speech": "The existing asset base is one of the strongest reasons this should be treated seriously. The ecosystem already includes public domains, production tools, formal encoding standards, fonts, software libraries, packages, and accumulated datasets and written materials. This is not a speculative or early-stage system. It is a mature distributed platform developed over more than two decades.",
-      "notes": "This is the 'this already exists' slide. Say that phrase directly.",
+      "speech": "The existing asset base is one of the strongest reasons to take this seriously. The ecosystem already includes public domains, production tools, formal encoding standards, fonts, software libraries, packages, and accumulated datasets and written materials. This is not a speculative or early-stage system. It is a mature distributed platform developed over more than two decades.",
+      "notes": "Say directly that this already exists.",
       "mermaid": "graph LR\n  A[Domains and Sites] --> F[Existing Asset Base]\n  B[Tools and Applications] --> F\n  C[Standards and Encodings] --> F\n  D[Code and Libraries] --> F\n  E[Datasets and Dictionaries] --> F"
     },
     {
@@ -88,7 +88,7 @@
         "Cross-linguistic comparison and documentation"
       ],
       "speech": "Positioning SignWriting as infrastructure changes what becomes possible. A stable infrastructure layer would support corpus development, reproducible datasets, machine learning and computational linguistics, research into visual language processing and literacy, and cross-linguistic comparison and documentation. Without infrastructure, these remain isolated efforts. With infrastructure, they become scalable research programs.",
-      "notes": "This is where the deck moves from stewardship to academic upside. Use the phrase 'scalable research programs.'",
+      "notes": "Move from stewardship to academic upside here. Use the phrase 'scalable research programs.'",
       "mermaid": "graph LR\n  A[Stable Infrastructure] --> B[Corpora]\n  A --> C[Reusable Datasets]\n  A --> D[Computational Research]\n  A --> E[Visual Language Studies]\n  A --> F[Cross-Linguistic Documentation]"
     },
     {
@@ -122,7 +122,7 @@
         "Partnerships across linguistics, education, CS, and neuroscience"
       ],
       "speech": "A host institution would be building on an existing technical and data foundation, not initiating a new system. With a stable home, the project could transition from informal stewardship to formal infrastructure. That would enable coordinated development, systematic documentation, grant preparation grounded in real assets, interdisciplinary partnerships, and long-term preservation planning.",
-      "notes": "This is the practical upside slide. It should sound concrete enough for a PI to imagine ownership.",
+      "notes": "Make the practical upside concrete enough for a PI to imagine ownership.",
       "mermaid": "graph LR\n  A[PI or Host Institution] --> B[Institutional Anchoring]\n  A --> C[Research Framing]\n  A --> D[Grant Development]\n  A --> E[Program Integration]\n  B --> F[Formal Infrastructure]"
     },
     {
@@ -138,7 +138,7 @@
         "Durable institutional support is the missing layer"
       ],
       "speech": "The most compelling framing is simple. Sutton SignWriting already exists as a working, globally used system with software, data, and standards. What it lacks is durable institutional support. With the right home, it becomes infrastructure that others can rely on, build on, and fund against with confidence.",
-      "notes": "End with the simplest version of the case. This should feel easy to forward after hearing.",
+      "notes": "End with the simplest version of the case so it feels easy to forward after hearing.",
       "mermaid": "graph TD\n  A[Working Global System] --> B[Durable Institutional Support]\n  B --> C[Infrastructure Others Can Rely On]\n  C --> D[Research, Funding, and Growth]"
     }
   ]

@@ -1,55 +1,166 @@
-# Language Without Sound References
+# Language Without Sound References and Evidence Notes
 
-_Prepared 2026-03-30_
+**Brain networks, pathway expansion, literacy, and the case for SignWriting infrastructure**
 
-## Purpose
+_Prepared 2026-04-02_
 
-This addendum is designed to accompany **Language Without Sound** as its reference companion.
+This document identifies what is firmly established, what follows from it, where the structural gap lies for signed languages, what SignWriting already demonstrates, and where the evidence remains promising but incomplete.
 
-It serves three purposes:
+## I. What is strongly established
 
-- gather the core references behind the presentation in one printable place
-- strengthen the bibliography behind the talk with additional relevant scholarship
-- identify where the literature is already strong and where it remains uneven
+### 1. Language is not tied to sound
 
-This addendum should be treated as a companion scholarly artifact to the presentation and handout. It is meant to be printable, shareable, and available in Markdown as a curated bibliography and evidence note.
+**Strength: Strong**
 
-## Scope and caution
+The broad scientific claim underlying the project is well supported.
 
-The SignWriting literature is real, international, and more substantial than many people initially assume, but it is uneven in type and quality.
+The relevant findings include:
 
-It includes:
+- sign languages are established natural languages
+- signed languages recruit core language networks in the brain
+- phonology is not limited to sound
+- early access to natural language matters whether the language is signed or spoken
+- reading and language processing can be studied in both modality-general and modality-specific ways
 
-- peer-reviewed journal articles
-- conference papers
-- edited-volume chapters
-- dissertations and master's theses
-- software and standards documents
-- technical reports and archival bibliographies
-- symposium and workshop materials
+The strongest formulation here is:
 
-The strongest claims concern:
+> human language depends on accessible linguistic input, not on one privileged sensory channel
 
-- the existence of SignWriting as a sustained object of scholarly work
-- its use in linguistic, orthographic, software, and computational research
-- its role in literacy and classroom-oriented work at small and medium scales
-- the broader scientific legitimacy of signed language as language
+### 2. Language development and literacy development are not the same event
 
-The weakest claims are broad population-scale claims about educational outcomes or literacy superiority. The literature supports possibility, use, and relevance more strongly than it supports large-scale causal outcome claims.
+**Strength: Strong**
 
-## Evidence summary
+The evidence strongly supports a developmental distinction between:
+
+- early language acquisition
+- later literacy acquisition
+
+Language must first reach the learner in an accessible form.
+
+Literacy then expands that language system by adding durable symbolic routes for reading and writing.
+
+The strongest supported statement here is:
+
+> literacy builds on language; it does not substitute for missing language access
+
+### 3. Literacy is a learned symbolic expansion
+
+**Strength: Strong**
+
+The literacy literature supports the following claims:
+
+- reading is learned rather than innate
+- print reading recruits and reorganizes existing perception-language systems
+- Braille demonstrates that literacy can be built through touch
+- durable symbol systems support revision, comparison, reuse, and accumulation in ways recordings alone do not
+
+This matters because the argument about SignWriting is not only about representation.
+
+It is about what becomes possible when a language acquires durable symbolic pathways.
+
+## II. What follows from that science
+
+If the previous claims are accepted, several consequences follow.
+
+### 1. Pathway type matters more than modality prestige
+
+The scientifically useful distinction is not between:
+
+- spoken language as normal
+- all other forms as deviations
+
+The better distinction is between pathway types:
+
+- language input pathways
+- language output pathways
+- literacy input pathways
+- literacy output pathways
+
+This framework lets spoken, signed, and tactile cases be compared without presupposing that speech is the standard against which all else must be measured.
+
+### 2. Braille proves modality flexibility at the literacy level
+
+Braille is especially important in this project because it demonstrates two things at once:
+
+- literacy does not require vision
+- durable symbolic systems reorganize what the brain can do with language
+
+Braille should still be described carefully.
+
+It is typically a tactile writing system rather than a separate language.
+
+But it remains one of the strongest demonstrations that literacy can be built through more than one sensory route.
+
+### 3. Writing changes use, organization, and scalability
+
+The literature on reading, writing, corpora, annotation, and computation all point in the same direction:
+
+- writable systems support repeated revision
+- writable systems support comparison across time and speakers
+- writable systems support search, reuse, and accumulation
+- writable systems support structured data for science and technology
+
+This bridge from literacy to infrastructure matters because the same symbolic properties that support reading and writing also support corpora, annotation, search, comparison, and computation.
+
+## III. Where the structural gap lies
+
+### 1. Signed languages are fully linguistic but often lack equally mature written pathways
+
+The clearest formulation is:
+
+> signed languages have often lacked widely adopted, durable, native-facing written infrastructure comparable to the writing systems available for many spoken languages
+
+### 2. Video is essential, but it is not the same as writing
+
+**Strength: Conceptually strong**
+
+Video is indispensable for signed languages.
+
+It preserves performance, timing, movement, and expression extremely well.
+
+But it remains time-based and linear.
+
+That makes it much weaker than writable text for tasks such as:
+
+- close editing
+- repeated comparison
+- searching
+- structured annotation
+- routine revision
+- everyday literacy practice
+
+The clearest formulation is:
+
+> video preserves language well, but it does not itself create a direct read-write symbolic pathway comparable to literacy
+
+### 3. Research transcription and everyday writing are not the same
+
+Some sign-language notation and transcription systems are excellent for linguistic description and researcher-facing analysis.
+
+That is a genuine scholarly strength.
+
+But many such systems were not designed to function as ordinary reading and writing systems for routine native use.
+
+The distinction is therefore:
+
+- transcription can support analysis
+- writing systems can support literacy, text production, and structured reuse
+
+This distinction matters because the present argument concerns not only analysis, but also durable reading and writing pathways.
+
+## IV. What SignWriting already demonstrates
 
 ### 1. SignWriting is a sustained object of research
 
 **Strength: Strong**
 
-Support:
+Support includes:
 
 - dedicated research archive
 - dedicated publications archive
 - historical dissertation and thesis lists
-- symposium archive spanning multiple years and countries
-- international dissertation and thesis production across Jordan, Brazil, France, Italy, Malta, Nicaragua, the United States, and the United Kingdom
+- symposium archives spanning multiple years and countries
+- international dissertation and thesis production across multiple languages and institutions
 
 Core links:
 
@@ -58,90 +169,232 @@ Core links:
 - https://www.signwriting.org/library/history/publications/dissertations.html
 - https://m.signwriting.org/library-symposium.html
 
-Interpretation:
+Together, these materials show durable scholarly presence across countries, languages, and institutional settings.
 
-Even before asking whether every study is equally strong, the existence of a persistent international research record matters. SignWriting is not merely a community practice or a one-off notation proposal. It has sustained scholarly presence across multiple countries, languages, and disciplinary contexts.
-
-### 2. SignWriting has been used for linguistic analysis and orthography work
+### 2. SignWriting already supports writing-system, software, and standards work
 
 **Strength: Strong**
 
-Support:
+Support includes:
 
 - comparative work on sign-language scripts
-- dissertation work on LIS, Maltese Sign Language, and LIBRAS
-- grammar-focused and notation-focused scholarship
-- research on expressive viewpoint and language ideology in writing signed languages
-
-Interpretation:
-
-This literature supports the claim that SignWriting is relevant to orthography, linguistic description, and the broader problem of how signed languages may be represented in durable written form.
-
-### 3. SignWriting has meaningful software, encoding, and computational relevance
-
-**Strength: Strong**
-
-Support:
-
 - Unicode proposal and follow-on technical work
 - digital editor and tool development
 - corpus construction
 - sign-language processing work
 - machine translation using Formal SignWriting representations
-- evaluation work explicitly designed for SignWriting strings
-- current formal standardization work through the IETF Formal SignWriting Internet-Drafts
+- evaluation work designed for SignWriting strings
+- current standardization work through the IETF Formal SignWriting Internet-Drafts
 
-Interpretation:
+This is one of the strongest parts of the case for SignWriting as infrastructure rather than only pedagogy.
 
-This is one of the strongest areas for framing SignWriting as research infrastructure. Recent work in NLP, representation, deep learning, machine translation, and evaluation gives the computational case real contemporary momentum.
+### 3. SignWriting already supports a plausible infrastructure layer
 
-### 4. SignWriting has been used in literacy and educational studies
+The best-supported current claims are infrastructural rather than population-scale educational.
+
+SignWriting already meets many of the criteria of infrastructure, even without formal institutional support.
+
+SignWriting already provides, or has already supported:
+
+- readable and writable sign text
+- structured and searchable representations
+- corpora and lexicons
+- software tooling
+- computational representation
+- standards-oriented technical work
+
+That is enough to justify describing it as infrastructure in practice, not only as a notation proposal.
+
+## V. What remains promising, but still limited
+
+### 1. Educational outcomes
 
 **Strength: Moderate to Strong**
 
-Support:
+The literature supports:
 
-- multiple theses and dissertations
-- classroom-oriented and case-study literature
-- bilingual education work
-- educational technology studies
-- game-based learning examples
+- feasibility
+- actual use
+- pedagogical relevance
+- classroom experimentation
+- small- and medium-scale educational benefit
 
-Caution:
+But the current record is still limited by:
 
-- much of this literature is still small-scale
-- large controlled outcome studies remain limited
-- the evidence is strongest for feasibility, pedagogical relevance, and case-based benefit rather than large-scale generalization
+- small samples
+- case-based designs
+- uneven outcome measures
+- limited large controlled studies
 
-Interpretation:
+The disciplined formulation remains:
 
-The educational record is meaningful and should not be understated, but it is best presented with discipline. The literature clearly supports use, experimentation, and educational interest. It supports strong hypotheses better than sweeping universal claims.
+> the literature supports feasibility, use, and scientific relevance more strongly than broad claims of large-scale literacy superiority
 
-### 5. The broader "language without sound" claim is strongly supported
+### 2. Neuroscience of written signed language
 
-**Strength: Strong**
+**Strength: Emerging**
 
-Support:
+The broader neuroscience base for signed language is strong.
 
-- sign languages are established natural languages
-- signed languages recruit core language networks in the brain
-- phonology is not limited to sound
-- early access to natural language matters whether the language is signed or spoken
-- reading and language processing can be studied in modality-general and modality-specific ways
+The broader neuroscience base for reading and Braille is strong.
 
-Interpretation:
+The specific neuroscience of reading written sign systems is still developing.
 
-The larger scientific framing of **Language Without Sound** is well supported. SignWriting is not being proposed in a vacuum. It sits on top of a strong scientific base showing that language is modality-independent and that signed language is fully language.
+This is an opportunity, not a weakness in the overall framework.
 
-## Open research questions
+It means the strongest current argument is:
 
-These questions are especially useful for framing the initiative as future-facing rather than merely preservational:
+- signed language is fully language
+- literacy is a real second developmental layer
+- SignWriting creates a plausible written pathway worth studying directly
 
-- How can written sign systems best support literacy and bilingual education?
+### 3. Tactile integration
+
+Touch belongs in the argument, but with precision.
+
+- tactile signing is a language-access pathway
+- Braille is typically a tactile writing system
+- DeafBlind tactile language and literacy routes are real, but more variable and less fully mapped than the strongest spoken, signed, and Braille baselines
+
+The strongest scientifically supported statement is:
+
+> human language pathways can be reached through audition, vision, and touch
+
+More specific claims should be framed carefully:
+
+- it is well supported that blind Braille readers recruit touch-based and occipital reading networks
+- it is well supported that deaf signers recruit core language networks through vision
+- it is promising but less fully mapped how DeafBlind tactile language users recruit language networks across different tactile systems
+- it is too strong to say that skilled reading simply eliminates phonological mediation; the safer claim is that skilled reading can become less dependent on overt phonological mediation
+
+## VI. Comparative cases and what they show
+
+The case structure is selective rather than exhaustive.
+
+### 1. Hearing child with spoken language and print literacy
+
+**What it shows**
+
+- language develops first
+- print adds durable literacy later
+
+**Evidence status**
+
+**Strongly supported**
+
+### 2. Deaf child with early sign language
+
+**What it shows**
+
+- language does not depend on sound
+- full language can develop through vision
+
+**Evidence status**
+
+**Strongly supported**
+
+### 3. Blind child with spoken language and Braille literacy
+
+**What it shows**
+
+- literacy does not depend on vision
+- durable symbolic pathways can be tactile
+
+**Evidence status**
+
+**Strongly supported**
+
+### 4. Deaf child with early sign language plus a written sign pathway
+
+**What it shows**
+
+- the question is no longer only language access
+- the question becomes whether signed language can gain its own durable reading and writing pathways
+
+**Evidence status**
+
+**Conceptually strong; large-scale outcome evidence still limited**
+
+### 5. Language present in the environment, but not fully accessible
+
+**What it shows**
+
+- social availability is not the same as perceptual access
+- later literacy cannot simply repair missing early language access
+
+**Evidence status**
+
+**Strongly supported for deprivation risk**
+
+### 6. Supporting emergence cases
+
+Homesign and Nicaraguan Sign Language remain useful supporting comparisons.
+
+They show:
+
+- resilience under constraint
+- pressure toward language-making
+- the difference between individual communicative invention and shared community language growth
+
+They are best treated as supporting comparisons rather than central literacy cases.
+
+## VII. What becomes possible once signed language is writable
+
+If signed language gains durable readable and writable pathways, then the following become much more tractable:
+
+### Cognition and neuroscience
+
+- direct study of visual-spatial reading
+- comparison of visual, tactile, and spoken literacy pathways
+- experimental work using controlled written stimuli
+
+### Literacy and education
+
+- reading and writing instruction within signed language
+- bilingual education questions
+- durable teaching materials
+- better comparisons between different literacy routes
+
+### Linguistics and language documentation
+
+- textual comparison
+- lexicon building
+- annotation systems
+- corpora and archival continuity
+
+### AI and language technology
+
+- machine-readable sign representations
+- datasets and evaluation methods
+- translation and language-modeling pipelines
+- long-term interoperability through standards
+
+The argument therefore does not stop at orthography.
+
+It extends toward infrastructure.
+
+## VIII. Working formulations
+
+The strongest framing lines remain:
+
+- "The brain is waiting for accessible language, not for one privileged sensory channel."
+- "Language comes first; literacy expands it."
+- "Braille shows that literacy can become tactile."
+- "Video preserves language well, but it does not itself create a direct read-write symbolic pathway."
+- "SignWriting matters because it can add readable and writable pathways for signed language."
+- "The literature supports feasibility, use, and scientific relevance more strongly than broad claims of large-scale literacy superiority."
+
+## IX. Open research questions
+
+These questions are especially useful for future-facing framing:
+
+- How does adding a readable and writable sign pathway change literacy development for signers?
 - What is the relationship between written sign representation and reading development?
+- How do tactile writing and tactile signing compare with visual sign reading at the neural and behavioral levels?
 - How can SignWriting be used as an input, output, or intermediate representation in NLP systems?
 - What shared infrastructure would most effectively support corpora, lexicons, annotation, and standards work?
 - How might written sign systems interact with modality-specific and modality-general language pathways in the brain?
+- What written supports are most effective for DeafBlind learners across tactile and mixed-modality environments?
 - What kinds of datasets and evaluation metrics best capture visual-spatial language structure in SignWriting representations?
 - How can formal specifications such as FSW and SWU best support interoperability, archival use, and long-term computational work?
 
@@ -193,7 +446,7 @@ These questions are especially useful for framing the initiative as future-facin
 - Stumpf, M. R. (2005). *Aprendizagem de escrita de língua de sinais pelo sistema SignWriting: Língua de sinais no papel e no computador* [Doctoral dissertation, Universidade Federal do Rio Grande do Sul]. https://www.lume.ufrgs.br/handle/10183/5429
 - Thiessen, S. M. (2011). *A grammar of SignWriting* [Master's thesis, University of North Dakota]. https://commons.und.edu/theses/4458/
 
-### Non-SignWriting references for language, phonology, and the brain
+### Non-SignWriting references for language, phonology, reading, and the brain
 
 - Brentari, D. (Ed.). (2010). *Sign languages*. Cambridge University Press. https://doi.org/10.1017/CBO9780511712203
 - Campbell, R., MacSweeney, M., & Waters, D. (2008). Sign language and the brain: A review. *Journal of Deaf Studies and Deaf Education, 13*(1), 3-20. https://doi.org/10.1093/deafed/enm035
@@ -201,33 +454,28 @@ These questions are especially useful for framing the initiative as future-facin
 - Emmorey, K. (2002). *Language, cognition, and the brain: Insights from sign language research*. Lawrence Erlbaum Associates. https://psycnet.apa.org/record/2002-07249-000
 - Emmorey, K., Mehta, S., & Grabowski, T. J. (2007). The neural correlates of sign versus word production. *NeuroImage, 36*(1), 202-208. https://doi.org/10.1016/j.neuroimage.2007.02.040
 - Emmorey, K., Weisberg, J., McCullough, S., & Petrich, J. A. F. (2013). Mapping the reading circuitry for skilled deaf readers: An fMRI study of semantic and phonological processing. *Brain and Language, 126*(2), 169-180. https://doi.org/10.1016/j.bandl.2013.05.001
+- Goldin-Meadow, S., Namboodiripad, S., Mylander, C., Ozyurek, A., & Sancar, B. (2015). The resilience of structure built around the predicate: Homesign gesture systems in Turkish and American deaf children. *Journal of Cognition and Development, 16*(1), 87-126. https://pubmed.ncbi.nlm.nih.gov/25663828/
 - Hickok, G., & Poeppel, D. (2004). Dorsal and ventral streams: A framework for understanding aspects of the functional anatomy of language. *Cognition, 92*(1-2), 67-99. https://doi.org/10.1016/j.cognition.2003.10.011
 - Hickok, G., & Poeppel, D. (2007). The cortical organization of speech processing. *Nature Reviews Neuroscience, 8*, 393-402. https://doi.org/10.1038/nrn2113
 - MacSweeney, M., Woll, B., Campbell, R., McGuire, P. K., David, A. S., Williams, S. C. R., Suckling, J., Calvert, G. A., & Brammer, M. J. (2002). Neural systems underlying British Sign Language and audio-visual English processing in native users. *Brain, 125*(7), 1583-1593. https://doi.org/10.1093/brain/awf153
 - Newport, E. L. (1990). Maturational constraints on language learning. *Cognitive Science, 14*(1), 11-28. https://doi.org/10.1207/s15516709cog1401_2
+- Obretenova, S., Halko, M. A., Plow, E. B., Pascual-Leone, A., & Merabet, L. B. (2010). Neuroplasticity associated with tactile language communication in a deaf-blind subject. *Frontiers in Human Neuroscience, 3*, 60. https://doi.org/10.3389/neuro.09.060.2009
+- Pénicaud, S., Klein, D., Zatorre, R. J., Chen, J.-K., Witcher, P., Hyde, K., & Mayberry, R. I. (2013). Structural brain changes linked to delayed first language acquisition in congenitally deaf individuals. *NeuroImage, 66*, 42-49. https://doi.org/10.1016/j.neuroimage.2012.09.076
 - Petitto, L. A., Langdon, C., Stone, A., Andriola, D., Kartheiser, G., & Cochran, C. (2016). Visual sign phonology: Insights into human reading and language from a natural soundless phonology. *WIREs Cognitive Science, 7*(6), 366-381. https://doi.org/10.1002/wcs.1404
 - Petitto, L. A., Zatorre, R. J., Gauna, K., Nikelski, E. J., Dostie, D., & Evans, A. C. (2000). Speech-like cerebral activity in profoundly deaf people processing signed languages: Implications for the neural basis of human language. *Proceedings of the National Academy of Sciences, 97*(25), 13961-13966. https://doi.org/10.1073/pnas.97.25.13961
+- Reich, L., Szwed, M., Cohen, L., & Amedi, A. (2011). A ventral visual stream reading center independent of visual experience. *Current Biology, 21*(5), 363-368. https://doi.org/10.1016/j.cub.2011.01.040
+- Sadato, N., Pascual-Leone, A., Grafman, J., Ibanez, V., Deiber, M.-P., Dold, G., & Hallett, M. (1996). Activation of the primary visual cortex by Braille reading in blind subjects. *Nature, 380*, 526-528. https://doi.org/10.1038/380526a0
 - Sandler, W., & Lillo-Martin, D. (2006). *Sign language and linguistic universals*. Cambridge University Press. https://doi.org/10.1017/CBO9781139163910
+- Senghas, A., & Coppola, M. (2001). Children creating language: How Nicaraguan Sign Language acquired a spatial grammar. *Psychological Science, 12*(4), 323-328. https://doi.org/10.1111/1467-9280.00359
 - Saur, D., Kreher, B. W., Schnell, S., Kummerer, D., Kellmeyer, P., Vry, M.-S., Umarova, R., Musso, M., Glauche, V., Abel, S., Huber, W., Rijntjes, M., & Weiller, C. (2008). Ventral and dorsal pathways for language. *Proceedings of the National Academy of Sciences, 105*(46), 18035-18040. https://doi.org/10.1073/pnas.0805234105
 
-## Integration note for presentation framing
+## Use
 
-These references strengthen several parts of **Language Without Sound**:
-
-- **Evidence summary #1** is reinforced by wider dissertation geography and long-duration archival continuity.
-- **Evidence summary #3** is strengthened by clear recent computational momentum in corpora, machine translation, evaluation, deep learning, and Formal SignWriting standardization.
-- **Evidence summary #4** is strengthened by additional bilingual-education, case-based, and educational-technology work.
-- The **working scientific framing** remains strongest when SignWriting is presented as enabling infrastructure rather than as a solved educational intervention.
-
-## Working note
-
-This document should be treated as a curated, high-confidence addendum rather than a claim to have captured every SignWriting reference ever published.
-
-It is already strong enough to support:
+This reference set is strong enough to support:
 
 - PI conversations
 - collaborator outreach
-- research framing for **Language Without Sound**
+- scientific framing for **Language Without Sound**
 - grant-aligned discussion of SignWriting as shared research infrastructure
 
 For formal publication or submission, a second verification pass would still be worthwhile, especially for dissertations and archive-cited technical works whose metadata may need local confirmation.

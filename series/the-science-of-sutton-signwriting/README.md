@@ -2,82 +2,102 @@
 
 *A research and publication series*
 
-The Science of Sutton SignWriting is the umbrella home for presentations, handouts, diagrams, datasets, and future studies about the cognitive, neurological, educational, and computational study of visual language and its written form.
+The Science of Sutton SignWriting is a research series about language beyond sound, literacy beyond print, and the scientific value of making signed language writable.
 
-## What this series is for
+It brings together presentations, handouts, diagrams, datasets, and future studies on the cognitive, neurological, educational, and computational study of signed language and SignWriting.
+
+## What this series studies
+
+The central questions of the series are:
+
+- How does the brain build language when the input is signed, tactile, or otherwise non-auditory?
+- How does literacy expand language by adding durable symbolic pathways for reading and writing?
+- What changes when signed language gains readable and writable forms of its own?
+- What kinds of infrastructure are needed to support corpora, experiments, standards, and long-term research?
+
+The series treats SignWriting not only as a writing system, but as a scientific and technical resource that can support language research, literacy work, and shared infrastructure.
+
+## What this series contains
+
+The series can include:
+
+- presentations
+- handouts
+- evidence notes and addenda
+- diagrams and visual models
+- datasets and technical supplements
+- future papers or collaborator contributions that fit the series scope
+
+## Why the series matters
 
 This series gives the work a stable intellectual home.
 
-It is meant to support:
+It connects several ideas that are often discussed separately:
 
-- public presentations
-- citable handouts and reports
-- future academic papers
-- diagrams and supporting datasets
-- contributions from additional presenters over time
+- language is not tied to sound
+- literacy is a second developmental layer that adds durable symbolic pathways
+- signed languages benefit from written pathways just as spoken and tactile literacies do
+- SignWriting makes new forms of research, comparison, annotation, and computation possible
 
-## How the series should be organized
-
-There are two different kinds of “home” for this work:
-
-- the repo and `sgnw-client` provide the working and public web home
-- Zenodo should provide the DOI and publication home
-
-Those two layers should reinforce each other rather than compete.
-
-## Publication model
-
-The recommended structure is:
-
-- one umbrella series: **The Science of Sutton SignWriting**
-- one DOI-bearing record per artifact
-
-That means:
-
-- a presentation can have its own DOI-bearing record
-- a handout can have its own DOI-bearing record
-- later datasets, diagrams, or reports can also have their own records
-
-The series itself should act as the identity and grouping layer, while each publication remains a distinct scholarly artifact.
-
-## Relationship to Formal SignWriting
-
-This series should not reuse the Formal SignWriting DOI.
-
-Instead, the relationship should be framed as a stack:
-
-1. Formal SignWriting as technical and standards infrastructure
-2. Language Without Sound as scientific framing
-3. future studies as evidence and validation
-
-That lets citations form a meaningful network instead of collapsing different artifact types into one record.
+Taken together, those ideas support a broader claim: signed language writing is not only a pedagogical question. It is also a scientific, technical, and infrastructural one.
 
 ## First entry
 
 **Presentation 1:** *Language Without Sound*
 
-This opening presentation frames:
+This opening entry introduces the main scientific frame:
 
 - language as modality-independent
-- signed language as full language
-- SignWriting as literacy and research infrastructure
+- early access to language as the central developmental issue
+- literacy as durable symbolic pathway expansion
+- SignWriting as a plausible written layer for signed language
+- infrastructure as the next step once signed language becomes writable
 
 ## Recommended reading order
 
-For a new scientific collaborator, the clearest path is:
+For a new scientific collaborator, a clear path through the material is:
 
-1. **Language Without Sound presentation** for the public framing
-2. **Language Without Sound handout** for careful reading and sharing
-3. **Language Without Sound addendum** for references, extensions, and scholarly depth
-4. **Series overview** for contribution model, publication structure, and future entries
+1. **Language Without Sound presentation** for the main spoken argument
+2. **Language Without Sound handout** for a careful written version
+3. **Language Without Sound addendum** for references, evidence notes, and research depth
+4. later series entries as the scientific and infrastructural agenda expands
 
-## Future contributors
+## Relationship to Formal SignWriting
 
-This series should remain open to additional entries from other contributors, provided they fit the series purpose and are curated as part of the Sutton SignWriting effort.
+The series stands beside, rather than inside, the Formal SignWriting technical record.
 
-## Recommended next publication steps
+The relationship is best understood as a stack:
 
-- create a Zenodo community for the series
-- publish the first presentation and handout as distinct records if needed
-- relate those records to the Formal SignWriting DOI
-- use the repo and `sgnw-client` as the living web edition
+1. **Formal SignWriting** as technical and standards infrastructure
+2. **The Science of Sutton SignWriting** as scientific framing and research development
+3. future studies, datasets, and collaborations as evidence-building artifacts
+
+This keeps technical specification, scientific framing, and later evidence in meaningful relation without collapsing them into one artifact.
+
+## Publication structure
+
+The series functions as the umbrella identity.
+
+Individual artifacts remain separately citable.
+
+That means:
+
+- a presentation can stand on its own
+- a handout can stand on its own
+- an addendum, dataset, diagram set, or report can also stand on its own
+- the series ties them together as one coherent scholarly program
+
+The working web edition lives in the repo and public series viewers.
+
+The DOI layer can live in Zenodo or a comparable archival publication home.
+
+## Future direction
+
+As the series grows, it can reasonably extend into:
+
+- literacy studies
+- neuroscience and cognition
+- comparative tactile and visual pathway work
+- corpora and annotation systems
+- AI and language technology
+- institutional and infrastructural research partnerships

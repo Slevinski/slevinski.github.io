@@ -4,7 +4,7 @@
 
 ## Core message
 
-A Data Management and Sharing Plan should be understood as a living workflow, not as a compliance attachment that sits quietly in a proposal file.
+A Data Management and Sharing Plan is a living workflow, not a compliance attachment that sits quietly in a proposal file.
 
 Its real purpose is to describe what will actually happen to the data over time:
 
@@ -26,7 +26,7 @@ He helps researchers and project teams move from local project systems toward a 
 - validated
 - delivered
 
-This handout is meant to clarify why the DMS Plan is not just a writing exercise. It is the beginning of a practical operational path.
+A DMS Plan is not just a writing exercise. It begins a practical operational path.
 
 ## Why this matters now
 
@@ -182,7 +182,7 @@ For repositories such as NDA, this may include:
 - resolving errors discovered during validation
 - managing recurring submissions and updates
 
-This is why repository delivery should not be treated as a final small step.
+Repository delivery is not a final small step.
 
 It often requires additional structure, additional documentation, and additional technical review late in the process.
 
@@ -198,7 +198,7 @@ Depending on the project, relevant standards may include:
 - repeatable naming conventions
 - consistent file layout and organization rules
 
-The goal is not to impose formality for its own sake.
+The aim is not to impose formality for its own sake.
 
 The goal is to make the data:
 
@@ -250,7 +250,7 @@ For repositories such as NDA, the work often includes:
 - correcting validation failures
 - coordinating recurring submission cycles
 
-This is why the DMS Plan should be understood as operational and not merely descriptive.
+The DMS Plan is operational, not merely descriptive.
 
 A good DMS Plan should anticipate:
 

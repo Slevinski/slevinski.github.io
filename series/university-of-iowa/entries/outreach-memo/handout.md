@@ -4,11 +4,9 @@
 
 ## Purpose
 
-This memo is the short internal-facing summary for University of Iowa faculty, research staff, grants staff, development staff, and other stakeholders who need the whole opportunity explained quickly and clearly.
+For University of Iowa faculty, research staff, grants staff, development staff, and other stakeholders who need the whole opportunity explained quickly and clearly, this memo provides a short internal-facing summary.
 
-Its job is not to replace the other decks.
-
-Its job is to:
+In short form, it:
 
 - summarize the whole structure
 - explain why the opportunity matters now
@@ -16,7 +14,7 @@ Its job is to:
 - clarify the larger SignWriting infrastructure opportunity
 - route people into the right next conversation
 
-This should be the easiest deck to forward internally when someone needs the short version first.
+It is the easiest internal link to forward when someone needs the short version first.
 
 ## One-paragraph summary
 
@@ -26,9 +24,7 @@ The immediate opportunity is to secure a lab home under a PI so that Steve Slevi
 
 This is timely because the work already matters, but the current structure is still too fragile.
 
-The goal is not to fully solve everything in one move.
-
-The goal is to take the right first step:
+The first step is:
 
 - secure a lab home
 - create institutional continuity
@@ -131,7 +127,7 @@ Gifts and donations can provide:
 - bridge support
 - infrastructure support
 
-These should be treated as complementary to grants, not as the primary funding model.
+They remain complementary to grants rather than the primary funding model.
 
 ## Why this layered model matters
 
@@ -170,7 +166,7 @@ Some people need to think about:
 
 The memo should help each reader identify which lane they belong in.
 
-## How this memo should be used
+## Best use
 
 This memo works best as:
 
@@ -178,9 +174,7 @@ This memo works best as:
 - a short entry point before a longer deck
 - a bridge between practical support and long-term infrastructure discussion
 
-It should not be overloaded with too much detail.
-
-Instead, it should make it easy for someone to say:
+It works best when it stays light on detail and makes it easy for someone to say:
 
 - “I understand the opportunity”
 - “I understand why this matters now”

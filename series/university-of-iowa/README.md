@@ -19,6 +19,8 @@ Each one has a specific job, audience, and level of detail.
 - **Steve Slevinski Value** — the immediate operational-value deck focused on DMS, workflow support, code, structure, and repository delivery
 - **Data Management and Sharing Plan** — the most detailed workflow deck explaining the messy middle from project systems to repository delivery
 - **Sutton SignWriting Infrastructure Initiative** — the longer-horizon infrastructure deck focused on existing global value, current fragility, and the case for durable institutional stewardship
+- **Infrastructure Core and Philanthropy** — the philanthropic and development-facing deck focused on establishing a durable institutional core for staffing, continuity, and global coordination
+- **Relevant Precedents and Institutional Pathways** — the precedent-focused deck showing how comparable university, archive, and sign-language models support the Iowa path
 
 ## Series role
 
@@ -39,3 +41,5 @@ The strongest default order is:
 3. **Steve Slevinski Value** for salary support, leadership, or collaborator conversations centered on practical usefulness
 4. **Data Management and Sharing Plan** for researchers, labs, and teams that need to understand the operational value in detail
 5. **Sutton SignWriting Infrastructure Initiative** once the practical base is established and the longer-term opportunity is under discussion
+6. **Infrastructure Core and Philanthropy** when the conversation shifts toward development, donor framing, and the case for durable philanthropic support
+7. **Relevant Precedents and Institutional Pathways** when the conversation needs external examples, comparable models, or evidence that the proposal follows a recognizable institutional path

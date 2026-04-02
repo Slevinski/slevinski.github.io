@@ -1,0 +1,277 @@
+{
+  "slug": "infrastructure-core-and-philanthropy",
+  "number": 6,
+  "title": "Infrastructure Core and Philanthropy",
+  "subtitle": "A durable University of Iowa home for global SignWriting infrastructure",
+  "summary": "A University of Iowa-facing presentation framing the Sutton SignWriting Infrastructure Core as a philanthropic opportunity that complements the lab-home, operational-value, and grant-development structure.",
+  "synopsis": "The long-term infrastructure conversation becomes clearer for development, institutional strategy, and philanthropic audiences when it starts with what already exists. Sutton SignWriting already functions as globally used language infrastructure, the current stewardship model is too fragile, and a focused philanthropic investment at the University of Iowa could establish a durable core for continuity, staffing, global coordination, and future research integration.",
+  "handout": "handout.md",
+  "addendum": "addendum.md",
+  "powerpoint": "Sutton_SignWriting_Infrastructure_Core_and_Philanthropy.pptx",
+  "links": [
+    {
+      "label": "Sutton SignWriting",
+      "href": "https://www.signwriting.org/",
+      "description": "Overview of Sutton SignWriting as a writing system and global ecosystem."
+    },
+    {
+      "label": "University of Iowa",
+      "href": "https://uiowa.edu/",
+      "description": "Institutional home proposed for the infrastructure core."
+    }
+  ],
+  "slides": [
+    {
+      "id": "title",
+      "title": "Sutton SignWriting Infrastructure Core and Philanthropy",
+      "kicker": "1",
+      "summary": "An already-real global language infrastructure can become durable through institutional support.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for Infrastructure Core and Philanthropy title slide.",
+      "bullets": [
+        "Existing global infrastructure",
+        "Current fragility",
+        "A durable institutional path"
+      ],
+      "speech": "The practical opportunity is simple: take something that already exists, already matters globally, and make it durable.",
+      "notes": "Open calmly and frame the opportunity before moving into scale or need."
+    },
+    {
+      "id": "what-this-is",
+      "title": "What This Is",
+      "kicker": "2",
+      "summary": "The proposal is not about inventing a new system, but about stabilizing an existing, globally used infrastructure through an institutional core.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for what this proposal is.",
+      "bullets": [
+        "Not a new invention",
+        "Existing global system",
+        "Needs institutional stability"
+      ],
+      "speech": "This is not about creating something from scratch. It is about stabilizing something that already exists.",
+      "notes": "Keep the distinction between invention and stabilization very clear.",
+      "mermaid": "graph TD\n  A[Existing Global Use] --> B[Fragile Maintenance]\n  B --> C[Institutional Core]\n  C --> D[Durable Infrastructure]"
+    },
+    {
+      "id": "what-signwriting-is",
+      "title": "What SignWriting Is",
+      "kicker": "3",
+      "summary": "SignWriting is a writing system for signed languages that enables literacy, structure, research use, and machine-readable data.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for what SignWriting is.",
+      "bullets": [
+        "Writing system for signed languages",
+        "Enables literacy and structure",
+        "Supports research and data"
+      ],
+      "speech": "SignWriting makes signed language writable. That changes what becomes possible in education, research, and data.",
+      "notes": "Orient quickly for listeners who are new to SignWriting."
+    },
+    {
+      "id": "why-it-matters",
+      "title": "Why It Matters",
+      "kicker": "4",
+      "summary": "SignWriting matters across literacy, accessibility, language science, and the data infrastructure needed to support signed language text.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for why SignWriting matters.",
+      "bullets": [
+        "Literacy",
+        "Accessibility",
+        "Language science",
+        "Research infrastructure"
+      ],
+      "speech": "It touches multiple domains at once, which is why it belongs in an infrastructure conversation.",
+      "notes": "Keep the framing broad, credible, and concise.",
+      "mermaid": "graph LR\n  A[SignWriting] --> B[Literacy]\n  A --> C[Accessibility]\n  A --> D[Linguistics]\n  A --> E[Data Infrastructure]"
+    },
+    {
+      "id": "fragility-problem",
+      "title": "The Fragility Problem",
+      "kicker": "5",
+      "summary": "The system is already real and useful, which is exactly why dependence on too few maintainers and no durable home has become a continuity risk.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the fragility problem.",
+      "bullets": [
+        "Too few maintainers",
+        "No institutional home",
+        "Continuity risk"
+      ],
+      "speech": "The system already matters. That is exactly why fragility is now a problem.",
+      "notes": "Create urgency without dramatizing beyond the facts.",
+      "mermaid": "graph TD\n  A[Real Use] --> B[Few Maintainers]\n  B --> C[Fragility]\n  C --> D[Risk to Continuity]"
+    },
+    {
+      "id": "the-opportunity",
+      "title": "The Opportunity",
+      "kicker": "6",
+      "summary": "A focused infrastructure core offers a small, high-leverage intervention that can provide continuity and unlock broader research growth.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the infrastructure opportunity.",
+      "bullets": [
+        "Establish infrastructure core",
+        "Provide continuity",
+        "Enable research and growth"
+      ],
+      "speech": "This is a small, high-leverage intervention.",
+      "notes": "Let the scale feel disciplined rather than grandiose."
+    },
+    {
+      "id": "what-the-core-includes",
+      "title": "What the Core Includes",
+      "kicker": "7",
+      "summary": "The proposed core would support standards, software, datasets, and global coordination as an integrated stewardship unit.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for what the infrastructure core includes.",
+      "bullets": [
+        "Standards",
+        "Software",
+        "Data",
+        "Coordination"
+      ],
+      "speech": "The Infrastructure Core would provide stewardship across standards, software, data, and coordination rather than treating each as a separate problem.",
+      "notes": "Make the core feel concrete and operational.",
+      "mermaid": "graph TD\n  A[Infrastructure Core] --> B[Standards]\n  A --> C[Software]\n  A --> D[Datasets]\n  A --> E[Global Coordination]"
+    },
+    {
+      "id": "staffing-model",
+      "title": "Staffing Model",
+      "kicker": "8",
+      "summary": "The staffing plan is intentionally focused: technical leadership, PI partnership, continuity support, operations, and research assistance.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for staffing model.",
+      "bullets": [
+        "Technical lead plus PI",
+        "Assistant plus succession path",
+        "Lab manager plus research support"
+      ],
+      "speech": "This is not a large center. It is a focused, durable team.",
+      "notes": "Emphasize restraint and feasibility."
+    },
+    {
+      "id": "global-layer",
+      "title": "Global Layer",
+      "kicker": "9",
+      "summary": "Country ambassadors extend the core by building local relationships, cultural adaptation, and international access around the institutional home.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the global ambassador layer.",
+      "bullets": [
+        "Country ambassadors",
+        "Local relationships",
+        "Cultural adaptation"
+      ],
+      "speech": "The ambassador layer gives the core real international reach through local relationships, cultural adaptation, and on-the-ground institutional awareness.",
+      "notes": "Keep the model practical and relationship-based.",
+      "mermaid": "graph TD\n  A[Core Team] --> B[Country Ambassadors]\n  B --> C[Universities]\n  B --> D[Communities]\n  B --> E[Researchers]"
+    },
+    {
+      "id": "philanthropy-role",
+      "title": "Philanthropy Role",
+      "kicker": "10",
+      "summary": "Philanthropy is especially well suited to provide continuity, stability, and long-horizon support where grants alone do not cover the full stewardship burden.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for philanthropy role.",
+      "bullets": [
+        "Continuity",
+        "Stability",
+        "Independence",
+        "Long-term impact"
+      ],
+      "speech": "Philanthropy is uniquely powerful at this point in the structure.",
+      "notes": "Position philanthropy as complementary and strategic."
+    },
+    {
+      "id": "what-a-gift-enables",
+      "title": "What a Gift Enables",
+      "kicker": "11",
+      "summary": "A significant gift can establish core staffing, continuity, global coordination, and the shared infrastructure needed for lasting research readiness.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for what a gift enables.",
+      "bullets": [
+        "Core staffing",
+        "Infrastructure",
+        "Global coordination",
+        "Symposium"
+      ],
+      "speech": "A gift at the right scale can create staffing, continuity, coordination, and event capacity that are durable rather than temporary.",
+      "notes": "Keep the tone concrete and future-facing."
+    },
+    {
+      "id": "symposium",
+      "title": "Symposium",
+      "kicker": "12",
+      "summary": "An annual SignWriting symposium would create visibility, legitimacy, and a recurring international gathering point for research, education, and community use.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for annual symposium concept.",
+      "bullets": [
+        "Annual global gathering",
+        "Research plus education",
+        "Hybrid participation"
+      ],
+      "speech": "A symposium creates visibility, collaboration, and legitimacy while making the infrastructure feel publicly real and globally connected.",
+      "notes": "Treat the symposium as a multiplier, not a side event."
+    },
+    {
+      "id": "layered-model",
+      "title": "Layered Model",
+      "kicker": "13",
+      "summary": "The strongest structure is layered: lab home, operational value, grant development, and philanthropy working together rather than competing.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the layered support model.",
+      "bullets": [
+        "Lab home",
+        "Operational value",
+        "Grants",
+        "Philanthropy"
+      ],
+      "speech": "No single lane has to do everything. This is layered and realistic.",
+      "notes": "Connect this deck back to the rest of the University of Iowa series.",
+      "mermaid": "graph TD\n  A[Lab Home] --> B[Operational Value]\n  B --> C[Grants]\n  C --> D[Philanthropy]\n  D --> E[Durable Infrastructure]"
+    },
+    {
+      "id": "why-iowa",
+      "title": "Why Iowa",
+      "kicker": "14",
+      "summary": "The University of Iowa is well positioned because the proposal aligns accessibility, linguistics, research data infrastructure, and collaboration.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for why Iowa fits.",
+      "bullets": [
+        "Accessibility",
+        "Linguistics",
+        "Data infrastructure",
+        "Collaboration"
+      ],
+      "speech": "The University of Iowa is uniquely positioned because this work lives at the intersection of accessibility, language research, education, and research infrastructure.",
+      "notes": "Make the institutional fit feel natural and specific."
+    },
+    {
+      "id": "the-outcome",
+      "title": "The Outcome",
+      "kicker": "15",
+      "summary": "With support, the result is durable infrastructure, global impact, and stewardship that can outlast any single individual or moment.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the long-term outcome.",
+      "bullets": [
+        "Durable infrastructure",
+        "Global impact",
+        "Long-term stewardship"
+      ],
+      "speech": "This creates something that lasts.",
+      "notes": "Keep the close focused on durability and value."
+    },
+    {
+      "id": "closing",
+      "title": "Closing",
+      "kicker": "16",
+      "summary": "The closing argument is that this is a rare chance to stabilize and extend a working global system before fragility causes avoidable loss.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for closing slide.",
+      "bullets": [
+        "Rare timing",
+        "Existing value",
+        "Decades of future continuity"
+      ],
+      "speech": "This is a rare opportunity to take something that already works and make sure it continues to work for decades.",
+      "notes": "End with calm confidence rather than urgency."
+    }
+  ]
+}

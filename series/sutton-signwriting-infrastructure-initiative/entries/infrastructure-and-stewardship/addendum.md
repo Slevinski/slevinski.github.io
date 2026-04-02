@@ -2,7 +2,7 @@
 
 _Companion addendum for **Infrastructure and Stewardship**_
 
-## Purpose
+## Snapshot Purpose
 
 This one-page snapshot is designed for fast reading.
 
@@ -13,7 +13,7 @@ It distills the larger handout into a compact institutional view of:
 * where the main risks sit
 * what a host institution would actually be taking on
 
-The goal is to help a PI, administrator, or collaborator understand in a few minutes that Sutton SignWriting is already operating as infrastructure.
+A PI, administrator, or collaborator should be able to see in a few minutes that Sutton SignWriting is already operating as infrastructure.
 
 ## Snapshot Summary
 

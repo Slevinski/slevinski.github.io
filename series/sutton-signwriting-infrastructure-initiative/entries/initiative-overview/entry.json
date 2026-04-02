@@ -3,8 +3,8 @@
   "number": 2,
   "title": "Initiative Overview",
   "subtitle": "Research Infrastructure and Collaboration Opportunity",
-  "summary": "A presentation version of the core Sutton SignWriting infrastructure initiative handout.",
-  "synopsis": "This presentation frames Sutton SignWriting as globally used but institutionally fragile infrastructure and explains why research collaboration, grant alignment, and durable administrative support are needed to move from independent maintenance to long-term sustainability.",
+  "summary": "A concise overview of Sutton SignWriting as globally used but institutionally fragile research infrastructure.",
+  "synopsis": "Sutton SignWriting is globally used but institutionally fragile infrastructure. This deck explains why research collaboration, grant alignment, and durable administrative support are needed to move from independent maintenance to long-term sustainability.",
   "handout": "handout.md",
   "slides": [
     {
@@ -67,7 +67,7 @@
         "Institutional support"
       ],
       "speech": "The collaboration focus includes grant development through NIH, NSF, NEH, and international proposals; University of Iowa administered giving; research integration in literacy, cognition, and AI; and partial staff support tied to existing labs and institutional structures.",
-      "notes": "Use this slide to show the work is practical, not abstract."
+      "notes": "Show that the work is practical, not abstract."
     },
     {
       "id": "platform-and-value",

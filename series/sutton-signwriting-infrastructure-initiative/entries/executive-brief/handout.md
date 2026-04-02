@@ -4,9 +4,9 @@
 
 _Draft updated 2026-03-31_
 
-## Purpose
+## Executive Frame
 
-This brief outlines why Sutton SignWriting is best understood not only as a writing system, but as emerging research infrastructure. It is intended to support conversations with a potential PI, lab, or institutional home that could anchor its development.
+Sutton SignWriting is not only a writing system. It is emerging research infrastructure. That framing fits conversations with a potential PI, lab, or institutional home that could anchor its development.
 
 ## What Sutton SignWriting Is
 

@@ -1,10 +1,10 @@
 # Infrastructure and Stewardship
 
-Purpose: strengthen the Sutton SignWriting infrastructure case by moving from a general description of fragility to a clearer statement of what assets already exist, how they are currently maintained, and why institutional stewardship is now the central need.
+The Sutton SignWriting infrastructure case becomes stronger when it moves from a general description of fragility to a clearer statement of what assets already exist, how they are currently maintained, and why institutional stewardship is now the central need.
 
 ## Overview
 
-Sutton SignWriting should be understood as existing infrastructure, not a speculative project.
+Sutton SignWriting is existing infrastructure, not a speculative project.
 
 The system already includes:
 
@@ -18,7 +18,7 @@ The challenge is no longer whether these things can be created.
 
 The challenge is whether they will be stabilized, documented, and institutionally supported before the maintenance burden outgrows the current stewardship model.
 
-## Why This Handout Matters
+## Why This Matters
 
 Many infrastructure descriptions stop at the public-facing level.
 
@@ -30,7 +30,7 @@ They say:
 
 That is useful, but incomplete.
 
-This handout goes one level deeper by clarifying that the SignWriting ecosystem is already a functioning technical environment with identifiable stewardship, accumulated assets, and visible continuity responsibilities.
+The SignWriting ecosystem is already a functioning technical environment with identifiable stewardship, accumulated assets, and visible continuity responsibilities.
 
 That shift matters because it changes the institutional question.
 
@@ -40,7 +40,7 @@ The issue is whether an institution will help stabilize and extend infrastructur
 
 ## Confirmed Stewardship and Asset Inventory
 
-This inventory is intended as an internal-facing supplement to the outward initiative framing.
+The inventory also works as an internal-facing supplement to the outward initiative framing.
 
 It clarifies that the SignWriting ecosystem is not hypothetical.
 It is an existing infrastructure with identifiable technical ownership, maintenance responsibilities, and continuity pathways.
@@ -191,7 +191,7 @@ Stewardship responsibilities include:
 * supporting implementation across tools and languages
 * preserving the link between formal standards and production systems
 
-This standards layer is one of the clearest reasons the infrastructure should be treated as durable scholarly and technical work.
+This standards layer is one of the clearest reasons to treat the infrastructure as durable scholarly and technical work.
 
 ## Stewardship Continuity
 
@@ -253,7 +253,7 @@ This reduces startup cost and increases:
 
 ## Relationship to Platform V3
 
-Platform V3 should be understood as the next architectural layer, not as the starting point.
+Platform V3 is the next architectural layer, not the starting point.
 
 The existing infrastructure already includes domains, systems, code, data, and standards.
 Platform V3 is the opportunity to:

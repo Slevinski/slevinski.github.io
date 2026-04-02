@@ -4,7 +4,7 @@
   "title": "Data Management and Sharing Plan",
   "subtitle": "From project systems to repository delivery",
   "summary": "A University of Iowa-facing workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery.",
-  "synopsis": "This presentation reframes the Data Management and Sharing Plan as an operational workflow rather than a compliance attachment. It explains the messy middle between local project systems and external repository delivery, including source data, raw structured data, derivatives, standards, validation, timing pressure, and the practical roles Steve Slevinski can play in both planning and execution.",
+  "synopsis": "The Data Management and Sharing Plan becomes useful when treated as an operational workflow rather than a compliance attachment. The deck follows the messy middle between local project systems and external repository delivery, including source data, raw structured data, derivatives, standards, validation, timing pressure, and the practical roles Steve Slevinski can play in both planning and execution.",
   "handout": "handout.md",
   "links": [
     {
@@ -28,7 +28,7 @@
       "id": "dms-is-a-workflow",
       "title": "A DMS Plan Is A Workflow",
       "kicker": "1",
-      "summary": "The DMS Plan should be understood as a living workflow guide for what will actually happen to the data from collection through organization, transformation, documentation, and sharing.",
+      "summary": "A DMS Plan is a living workflow guide for what will actually happen to the data from collection through organization, transformation, documentation, and sharing.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the DMS plan as a workflow.",
       "bullets": [
@@ -195,7 +195,7 @@
         "Focused effort at key moments"
       ],
       "speech": "Data management work is rarely evenly distributed across the life of a project. It often spikes around repository deadlines, annual reporting, or sudden needs for analysis and sharing. That is one reason DMS support matters. Projects need help when pressure is high, not only when planning is easy.",
-      "notes": "Use this slide to justify sustained execution support.",
+      "notes": "This is the operational argument for sustained execution support.",
       "image_prompt_concrete": "A timeline with quiet periods interrupted by large peaks labeled repository deadline, annual review, and urgent analysis need",
       "image_prompt_abstract": "A calm line interrupted by sharp peaks of effort and urgency"
     },

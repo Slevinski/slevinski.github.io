@@ -4,7 +4,7 @@
   "title": "Sutton SignWriting Infrastructure Initiative",
   "subtitle": "A path to shared research infrastructure at the University of Iowa",
   "summary": "A University of Iowa-facing presentation about turning Sutton SignWriting from fragile independent stewardship into durable shared research infrastructure.",
-  "synopsis": "This presentation explains the larger infrastructure mission. Sutton SignWriting is already functioning as globally used infrastructure for signed language literacy, education, and research, but it remains structurally fragile. The presentation emphasizes existing value, current continuity risk, stewardship needs, and the case for institutionally housed, grant-supported infrastructure at the University of Iowa.",
+  "synopsis": "Sutton SignWriting is already functioning as globally used infrastructure for signed language literacy, education, and research, but it remains structurally fragile. The deck emphasizes existing value, current continuity risk, stewardship needs, and the case for institutionally housed, grant-supported infrastructure at the University of Iowa.",
   "handout": "handout.md",
   "links": [
     {
@@ -36,7 +36,7 @@
         "Grant-funded and collaboration-ready",
         "Built for long-term educational and research use"
       ],
-      "speech": "The Sutton SignWriting Infrastructure Initiative is a path to move from fragile independent stewardship toward durable shared research infrastructure. The goal is not only to preserve what exists, but to create a stronger institutional base for research, education, software stewardship, and future growth.",
+      "speech": "The Sutton SignWriting Infrastructure Initiative moves from fragile independent stewardship toward durable shared research infrastructure. It does more than preserve what exists. It creates a stronger institutional base for research, education, software stewardship, and future growth.",
       "notes": "Open with the mission clearly and confidently.",
       "mermaid": "graph TD\n  A[Fragile Independent Maintenance] --> B[Institutional Home]\n  B --> C[Grant Funding]\n  C --> D[Durable Shared Research Infrastructure]"
     },
@@ -191,7 +191,7 @@
         "Long-term continuity beyond one moment"
       ],
       "speech": "Durable infrastructure requires more than enthusiasm. It requires stewardship, documentation, continuity, and future-facing implementation work. The point is not only to keep systems alive in the short term, but to make them maintainable and usable across time.",
-      "notes": "This slide keeps the audience thinking about institution-building, not heroics.",
+      "notes": "Keep the audience thinking about institution-building, not heroics.",
       "image_prompt_concrete": "Academic infrastructure stewardship visual showing software, documentation, maintainers, and continuity planning as coordinated elements",
       "image_prompt_abstract": "A durable scaffold supporting both current systems and future growth"
     },
@@ -207,7 +207,7 @@
         "Salary support where project work justifies it",
         "Gifts and donations for continuity and bridge support"
       ],
-      "speech": "The strongest funding model is layered. Grants should be the primary lane for research and infrastructure development. Salary support can be justified where real project work is happening. Gifts and donations can provide continuity and bridge support. These lanes work best together rather than in competition.",
+      "speech": "A layered funding model is strongest. Grants are the primary lane for research and infrastructure development. Salary support makes sense where real project work is happening. Gifts and donations can provide continuity and bridge support. These lanes work best together rather than in competition.",
       "notes": "Keep gifts secondary but legitimate.",
       "mermaid": "graph LR\n  A[Grants] --> D[Infrastructure Funding]\n  B[Salary Support] --> D\n  C[Gifts and Donations] --> D\n  D --> E[Durable Initiative]"
     },

@@ -3,8 +3,8 @@
   "number": 4,
   "title": "International Shared Support",
   "subtitle": "International Shared Support and Partnership Framework",
-  "summary": "A presentation version of the international partnership and country-ambassador handout.",
-  "synopsis": "This presentation explains why Sutton SignWriting needs an international support model that combines University of Iowa institutional backing, cross-country partner relationships, and locally grounded ambassadors to demonstrate real-world value and strengthen long-term stewardship.",
+  "summary": "An international support model combining University of Iowa backing, partner relationships, and country ambassadors.",
+  "synopsis": "Sutton SignWriting needs an international support model that combines University of Iowa institutional backing, cross-country partner relationships, and locally grounded ambassadors to demonstrate real-world value and strengthen long-term stewardship.",
   "handout": "handout.md",
   "slides": [
     {
@@ -68,7 +68,7 @@
         "Volunteer country ambassadors"
       ],
       "speech": "Partner institutions do not all need to contribute in the same way. Participation may include letters of support, statements of educational or research use, introductions to institutional contacts, collaboration on proposals, and help identifying volunteer country ambassadors.",
-      "notes": "This should make participation feel flexible and approachable."
+      "notes": "Make participation feel flexible and approachable."
     },
     {
       "id": "uiowa-role",

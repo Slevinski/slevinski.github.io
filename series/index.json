@@ -1,5 +1,4 @@
 {
-  "generatedAt": "2026-03-31T22:52:20.049Z",
   "series": [
     {
       "slug": "sutton-signwriting-infrastructure-initiative",
@@ -26,7 +25,7 @@
           "number": 2,
           "title": "Initiative Overview",
           "subtitle": "Research Infrastructure and Collaboration Opportunity",
-          "summary": "A presentation version of the core Sutton SignWriting infrastructure initiative handout.",
+          "summary": "A concise overview of Sutton SignWriting as globally used but institutionally fragile research infrastructure.",
           "handout": "handout.md",
           "slide_count": 6
         },
@@ -46,7 +45,7 @@
           "number": 4,
           "title": "International Shared Support",
           "subtitle": "International Shared Support and Partnership Framework",
-          "summary": "A presentation version of the international partnership and country-ambassador handout.",
+          "summary": "An international support model combining University of Iowa backing, partner relationships, and country ambassadors.",
           "handout": "handout.md",
           "slide_count": 5
         },
@@ -56,7 +55,7 @@
           "number": 5,
           "title": "Country Ambassadors",
           "subtitle": "Country-level outreach, translation, and institutional relationship-building",
-          "summary": "A presentation version of the country ambassador handout.",
+          "summary": "A volunteer-first country ambassador model for outreach, translation, and institutional relationship-building.",
           "handout": "handout.md",
           "slide_count": 11
         }
@@ -65,8 +64,8 @@
     {
       "slug": "the-science-of-sutton-signwriting",
       "title": "The Science of Sutton SignWriting",
-      "subtitle": "A presentation series about language, literacy, infrastructure, and research",
-      "description": "A growing series that can include presentations, handouts, diagrams, and future contributions from Sutton SignWriting collaborators.",
+      "subtitle": "Language, literacy, brain pathways, and SignWriting as research infrastructure",
+      "description": "A research and publication series on the science of signed language, written sign, literacy, and the infrastructure needed to study them well.",
       "accepting_entries": true,
       "home_doc": "README.md",
       "kind": "research-and-publication-series",
@@ -76,10 +75,10 @@
           "legacy_slugs": [],
           "number": 1,
           "title": "Language Without Sound",
-          "subtitle": "Brain Networks, Visual Language, and the Case for SignWriting Infrastructure",
+          "subtitle": "Brain networks, pathway expansion, literacy, and the case for SignWriting infrastructure",
           "summary": "Presentation 1 in The Science of Sutton SignWriting series.",
           "handout": "handout.md",
-          "slide_count": 13
+          "slide_count": 14
         }
       ]
     },
@@ -141,6 +140,26 @@
           "title": "Sutton SignWriting Infrastructure Initiative",
           "subtitle": "A path to shared research infrastructure at the University of Iowa",
           "summary": "A University of Iowa-facing presentation about turning Sutton SignWriting from fragile independent stewardship into durable shared research infrastructure.",
+          "handout": "handout.md",
+          "slide_count": 12
+        },
+        {
+          "slug": "infrastructure-core-and-philanthropy",
+          "legacy_slugs": [],
+          "number": 6,
+          "title": "Infrastructure Core and Philanthropy",
+          "subtitle": "A durable University of Iowa home for global SignWriting infrastructure",
+          "summary": "A University of Iowa-facing presentation framing the Sutton SignWriting Infrastructure Core as a philanthropic opportunity that complements the lab-home, operational-value, and grant-development structure.",
+          "handout": "handout.md",
+          "slide_count": 16
+        },
+        {
+          "slug": "relevant-precedents-and-institutional-pathways",
+          "legacy_slugs": [],
+          "number": 7,
+          "title": "Relevant Precedents and Institutional Pathways",
+          "subtitle": "What comparable university models suggest for SignWriting at Iowa",
+          "summary": "A University of Iowa-facing presentation using language, archive, sign-language, and data-infrastructure precedents to show that SignWriting follows a recognizable institutional path rather than requiring a speculative leap.",
           "handout": "handout.md",
           "slide_count": 12
         }

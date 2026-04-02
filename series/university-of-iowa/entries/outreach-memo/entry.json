@@ -4,7 +4,7 @@
   "title": "Outreach Memo",
   "subtitle": "A concise University of Iowa summary of the full opportunity",
   "summary": "A short University of Iowa-facing bridge presentation for internal forwarding, summarizing the immediate lab-home need, Steve's practical value, and the larger infrastructure path.",
-  "synopsis": "This presentation is the concise bridge document for faculty, grants staff, development staff, and other internal stakeholders who need the whole opportunity explained quickly. It summarizes the immediate structure, why Steve Slevinski is useful now, how DMS and repository work creates present value, how Sutton SignWriting becomes a longer-term infrastructure opportunity, and which next conversations should happen with whom.",
+  "synopsis": "A concise bridge for faculty, grants staff, development staff, and other internal stakeholders who need the whole opportunity explained quickly. It summarizes the immediate structure, why Steve Slevinski is useful now, how DMS and repository work creates present value, how Sutton SignWriting becomes a longer-term infrastructure opportunity, and which next conversations should happen with whom.",
   "handout": "handout.md",
   "slides": [
     {
@@ -20,7 +20,7 @@
         "Grant path to shared research infrastructure"
       ],
       "speech": "The University of Iowa opportunity can be stated simply. The immediate goal is a lab home under a PI. That creates a place for practical DMS and repository work right now, and it also creates the structure from which grants, collaborators, and Sutton SignWriting shared research infrastructure can grow.",
-      "notes": "This slide should let a busy reader understand the full argument in under a minute.",
+      "notes": "A busy reader should be able to understand the full argument in under a minute.",
       "mermaid": "graph TD\n  A[Lab Home Under PI] --> B[Immediate DMS and Repository Value]\n  B --> C[Grant Writing and Collaboration]\n  C --> D[Shared Research Infrastructure]"
     },
     {
@@ -104,7 +104,7 @@
         "Gifts and donations as a complementary lane"
       ],
       "speech": "Support does not need to come from one place all at once. The strongest structure is layered. The lab home comes first. Partial salary support helps create continuity. Grants under the PI support longer-term growth. Gifts and donations can provide continuity and bridge support as a complementary lane.",
-      "notes": "This slide should help a forwarder see several reasonable next lanes instead of one all-or-nothing ask.",
+      "notes": "Make the layered support lanes easy to see so the ask does not feel all-or-nothing.",
       "mermaid": "graph LR\n  A[Lab Home] --> B[Partial Salary Support]\n  A --> C[Grant Writing]\n  A --> D[Gifts and Donations]\n  B --> E[Continuity]\n  C --> E\n  D --> E"
     },
     {

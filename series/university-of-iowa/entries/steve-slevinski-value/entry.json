@@ -7,7 +7,7 @@
   "title": "Steve Slevinski Value",
   "subtitle": "Practical DMS, repository, and research workflow value for the University of Iowa",
   "summary": "A University of Iowa-facing presentation focused on Steve Slevinski's immediate operational value through DMS planning, workflow design, code, data shaping, and repository delivery.",
-  "synopsis": "This presentation explains why Steve Slevinski should be supported first as practical research capacity. It focuses on immediate usefulness in the messy middle between project systems and repository delivery, showing how Steve helps projects with DMS planning, workflow design, structure, validation, and execution. The broader Sutton SignWriting infrastructure lane remains present, but only as a secondary strategic upside after the practical value is clear.",
+  "synopsis": "Steve Slevinski is best supported first as practical research capacity. The deck focuses on immediate usefulness in the messy middle between project systems and repository delivery, showing how Steve helps projects with DMS planning, workflow design, structure, validation, and execution. The broader Sutton SignWriting infrastructure lane remains present, but only as a secondary strategic upside after the practical value is clear.",
   "handout": "handout.md",
   "links": [
     {
@@ -86,7 +86,7 @@
         "Repository preparation and validation"
       ],
       "speech": "Steve's value is not abstract. It shows up in report design, data dictionaries, scripting, restructuring, validation, and repeatable workflows that help projects move from local complexity toward something usable and shareable.",
-      "notes": "This is where the technical credibility should become unmistakable.",
+      "notes": "Technical credibility should become unmistakable here.",
       "image_prompt_concrete": "Screens showing REDCap reports, CSV tables, scripts, and validation outputs in a professional research operations environment",
       "image_prompt_abstract": "Clean geometric forms representing code, tables, and workflow logic locking into place"
     },
@@ -155,7 +155,7 @@
         "Greater continuity for active projects",
         "A stronger base for future grants"
       ],
-      "speech": "Salary support should be understood as buying real capacity. It increases availability, supports deeper technical engagement, improves continuity for active projects, and creates a stronger institutional base for future grant activity.",
+      "speech": "Salary support buys real capacity. It increases availability, supports deeper technical engagement, improves continuity for active projects, and creates a stronger institutional base for future grant activity.",
       "notes": "Keep this practical, direct, and free of rescue framing.",
       "mermaid": "graph LR\n  A[Salary Support] --> B[Availability]\n  A --> C[Execution Capacity]\n  A --> D[Continuity]\n  A --> E[Grant Readiness]"
     },
@@ -171,7 +171,7 @@
         "Strategic: grant-ready collaboration base",
         "Secondary upside: stronger footing for Sutton SignWriting"
       ],
-      "speech": "The immediate case is practical support for active projects. The strategic upside is that this also creates a stronger base for grant development, future collaboration, and, secondarily, a more stable footing for Sutton SignWriting as shared research infrastructure. That larger benefit is real, but it should be understood as an added upside, not the first reason to say yes.",
+      "speech": "Start with practical support for active projects. The strategic upside is that this also creates a stronger base for grant development, future collaboration, and, secondarily, a more stable footing for Sutton SignWriting as shared research infrastructure. That larger benefit is real, but it works best as an added upside, not the first reason to say yes.",
       "notes": "The broader mission belongs here: late, secondary, and credible.",
       "image_prompt_concrete": "Two-tiered strategy slide with immediate project support on the first level and longer-term infrastructure opportunity above it",
       "image_prompt_abstract": "A sturdy lower platform supporting a higher emerging structure"

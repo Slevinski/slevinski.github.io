@@ -159,7 +159,7 @@ It is often where:
 
 Steve can help projects through that process.
 
-That is why his value should be understood as execution value as well as planning value.
+His value includes execution as well as planning.
 
 ## Why this can matter across multiple projects
 
@@ -179,7 +179,7 @@ Salary or institutional support for Steve therefore makes sense as support for a
 - repository-facing technical support
 - structure and validation support
 
-This is why the role can be framed as shared capacity rather than as one more isolated personnel ask.
+That makes the role shared capacity rather than one more isolated personnel ask.
 
 ## Research credibility and scale
 
@@ -241,7 +241,7 @@ The University benefits because:
 
 ## Why salary support makes sense
 
-Salary support should be framed as buying useful operational capacity.
+Salary support buys useful operational capacity.
 
 It supports:
 
@@ -251,7 +251,7 @@ It supports:
 - more capacity for detailed execution, not only high-level advice
 - stronger groundwork for future grants and institutional partnerships
 
-This is why the argument for support should not be reduced to retention alone.
+The argument for support is larger than retention alone.
 
 It is really an argument for retaining and expanding a function that helps research projects succeed.
 

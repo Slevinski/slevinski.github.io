@@ -3,8 +3,8 @@
   "number": 5,
   "title": "Country Ambassadors",
   "subtitle": "Country-level outreach, translation, and institutional relationship-building",
-  "summary": "A presentation version of the country ambassador handout.",
-  "synopsis": "This presentation introduces a volunteer-first country ambassador model for Sutton SignWriting, showing how trusted local people can strengthen outreach, translation, institutional relationships, and future support structures while staying within clear role boundaries.",
+  "summary": "A volunteer-first country ambassador model for outreach, translation, and institutional relationship-building.",
+  "synopsis": "A volunteer-first country ambassador model can strengthen outreach, translation, institutional relationships, and future support structures while staying within clear role boundaries.",
   "handout": "handout.md",
   "slides": [
     {
@@ -125,7 +125,7 @@
         "Familiarity with universities and institutional networks"
       ],
       "speech": "Strong ambassadors are likely to have trusted standing in local SignWriting or Deaf education communities, strong communication skills, familiarity with local universities or institutional networks, the ability to work across language and cultural boundaries, and reliability in documenting conversations and follow-up.",
-      "notes": "This should read like a real selection guide."
+      "notes": "Make this read like a real selection guide."
     },
     {
       "id": "initial-countries",

@@ -18,7 +18,7 @@ The point is to create a structure capable of supporting:
 - documentation and standards continuity
 - long-term institutional stability
 
-This is a mission-driven effort, but it should also be understood as a practical institutional opportunity.
+This is a mission-driven effort, but it is also a practical institutional opportunity.
 
 ## What Sutton SignWriting is
 
@@ -88,7 +88,7 @@ That creates opportunities for:
 - future AI and translation work
 - new collaborative research workflows
 
-This multi-lane value is one reason the initiative should be treated as infrastructure and not left in a fragile maintenance state.
+That multi-lane value makes the initiative infrastructure rather than a fragile maintenance project.
 
 ## Current global reality
 
@@ -233,8 +233,6 @@ With stewardship, the initiative becomes:
 - more useful to others
 - easier to integrate into broader academic and technical work
 
-This point should be emphasized carefully.
-
 The issue is not drama.
 
 The issue is that meaningful infrastructure eventually becomes vulnerable if it relies on too narrow a maintenance base for too long.
@@ -268,9 +266,9 @@ Gifts and donations can provide:
 - continuity support
 - infrastructure support
 
-This lane matters, but it should remain complementary and disciplined.
+The lane matters, but it remains complementary and disciplined.
 
-It should support continuity, not replace institutional or grant logic.
+It supports continuity rather than replacing institutional or grant logic.
 
 ## Why this initiative is worth building
 
