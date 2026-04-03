@@ -1,6 +1,27 @@
 {
   "series": [
     {
+      "slug": "dms-plan",
+      "title": "DMS Plan",
+      "subtitle": "Data management, workflow design, and repository delivery",
+      "description": "A series for operational DMS planning, data workflow design, and the path from project systems to repository-ready delivery.",
+      "accepting_entries": true,
+      "home_doc": "README.md",
+      "kind": "operations-and-workflow-series",
+      "entries": [
+        {
+          "slug": "data-management-and-sharing-plan",
+          "legacy_slugs": [],
+          "number": 1,
+          "title": "Data Management and Sharing Plan",
+          "subtitle": "From project systems to repository delivery",
+          "summary": "An operational workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery.",
+          "handout": "handout.md",
+          "slide_count": 12
+        }
+      ]
+    },
+    {
       "slug": "sutton-signwriting-infrastructure-initiative",
       "title": "Sutton SignWriting Infrastructure Initiative",
       "subtitle": "Infrastructure, partnership, and sustainability materials",
@@ -79,6 +100,16 @@
           "summary": "Presentation 1 in The Science of Sutton SignWriting series.",
           "handout": "handout.md",
           "slide_count": 14
+        },
+        {
+          "slug": "the-shape-of-writing",
+          "legacy_slugs": [],
+          "number": 2,
+          "title": "The Shape of Writing",
+          "subtitle": "Point, line, plane, and the case for spatial literacy infrastructure",
+          "summary": "Presentation 2 in The Science of Sutton SignWriting series.",
+          "handout": "handout.md",
+          "slide_count": 12
         }
       ]
     },
@@ -122,16 +153,6 @@
           "summary": "A University of Iowa-facing presentation focused on Steve Slevinski's immediate operational value through DMS planning, workflow design, code, data shaping, and repository delivery.",
           "handout": "handout.md",
           "slide_count": 10
-        },
-        {
-          "slug": "data-management-and-sharing-plan",
-          "legacy_slugs": [],
-          "number": 4,
-          "title": "Data Management and Sharing Plan",
-          "subtitle": "From project systems to repository delivery",
-          "summary": "A University of Iowa-facing workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery.",
-          "handout": "handout.md",
-          "slide_count": 12
         },
         {
           "slug": "sutton-signwriting-infrastructure-initiative",

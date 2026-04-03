@@ -1,9 +1,9 @@
 {
   "slug": "data-management-and-sharing-plan",
-  "number": 4,
+  "number": 1,
   "title": "Data Management and Sharing Plan",
   "subtitle": "From project systems to repository delivery",
-  "summary": "A University of Iowa-facing workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery.",
+  "summary": "An operational workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery.",
   "synopsis": "The Data Management and Sharing Plan becomes useful when treated as an operational workflow rather than a compliance attachment. The deck follows the messy middle between local project systems and external repository delivery, including source data, raw structured data, derivatives, standards, validation, timing pressure, and the practical roles Steve Slevinski can play in both planning and execution.",
   "handout": "handout.md",
   "links": [
@@ -18,9 +18,9 @@
       "description": "Repository example showing the practical demands of data dictionaries, validation, and recurring submissions."
     },
     {
-      "label": "BIDS Starter Kit",
-      "href": "https://bids-standard.github.io/bids-starter-kit/",
-      "description": "A practical introduction to the Brain Imaging Data Structure standard."
+      "label": "Brain Imaging Data Structure (BIDS)",
+      "href": "https://bids.neuroimaging.io/",
+      "description": "The central hub for the BIDS standard, including specifications, tools, and guidelines for organizing and sharing neuroimaging datasets."
     }
   ],
   "slides": [

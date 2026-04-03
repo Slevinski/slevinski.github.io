@@ -1,0 +1,11 @@
+{
+  "slug": "dms-plan",
+  "title": "DMS Plan",
+  "subtitle": "Data management, workflow design, and repository delivery",
+  "description": "A series for operational DMS planning, data workflow design, and the path from project systems to repository-ready delivery.",
+  "accepting_entries": true,
+  "kind": "operations-and-workflow-series",
+  "home_doc": "README.md",
+  "show_overview": false,
+  "show_entry_numbers": false
+}

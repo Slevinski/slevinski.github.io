@@ -53,6 +53,18 @@ This opening entry introduces the main scientific frame:
 - SignWriting as a plausible written layer for signed language
 - infrastructure as the next step once signed language becomes writable
 
+## Second entry
+
+**Presentation 2:** *The Shape of Writing*
+
+This second entry extends the series from language science into writing theory:
+
+- writing as geometry rather than as line by default
+- point, line, and plane as dominant spatial tendencies
+- SignWriting as a plane-based writing system
+- Formal SignWriting as a computational encoding of spatial writing
+- research and infrastructure implications once the plane can be encoded
+
 ## Recommended reading order
 
 For a new scientific collaborator, a clear path through the material is:
@@ -60,7 +72,10 @@ For a new scientific collaborator, a clear path through the material is:
 1. **Language Without Sound presentation** for the main spoken argument
 2. **Language Without Sound handout** for a careful written version
 3. **Language Without Sound addendum** for references, evidence notes, and research depth
-4. later series entries as the scientific and infrastructural agenda expands
+4. **The Shape of Writing presentation** for the writing-theory extension
+5. **The Shape of Writing handout** for the core point-line-plane argument
+6. **The Shape of Writing addendum** for technical and interpretive depth
+7. later series entries as the scientific and infrastructural agenda expands
 
 ## Relationship to Formal SignWriting
 
@@ -96,6 +111,7 @@ The DOI layer can live in Zenodo or a comparable archival publication home.
 As the series grows, it can reasonably extend into:
 
 - literacy studies
+- writing-system typology and geometry
 - neuroscience and cognition
 - comparative tactile and visual pathway work
 - corpora and annotation systems

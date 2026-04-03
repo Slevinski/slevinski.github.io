@@ -431,7 +431,7 @@ These questions are especially useful for future-facing framing:
 - Parton, B. S. (2006). Sign language recognition and translation: A multidisciplined approach from the field of artificial intelligence. *Journal of Deaf Studies and Deaf Education, 11*(1), 94-101. https://doi.org/10.1093/deafed/enj003
 - Sevilla, A. F. G. (2020). Tools for the use of SignWriting as a language resource. In *Proceedings of the LREC 2020 9th Workshop on the Representation and Processing of Sign Languages*. https://aclanthology.org/2020.signlang-1.33/
 - Sevilla, A. F. G., Diaz Esteban, A., & Lahoz-Bengoechea, J. M. (2023). Building the VisSE corpus of Spanish SignWriting. *Language Resources and Evaluation*. https://doi.org/10.1007/s10579-023-09694-9
-- Slevinski, S. E. (2025). *Formal SignWriting* (Internet-Draft draft-slevinski-formal-signwriting-10). IETF. https://datatracker.ietf.org/doc/html/draft-slevinski-formal-signwriting
+- Slevinski, S. E. (2025). *Formal SignWriting* (Internet-Draft draft-slevinski-formal-signwriting-10). IETF. https://datatracker.ietf.org/doc/html/draft-slevinski-formal-signwriting. Archive DOI: https://doi.org/10.5281/zenodo.17553763
 
 ### Educational and thesis-level SignWriting work
 
