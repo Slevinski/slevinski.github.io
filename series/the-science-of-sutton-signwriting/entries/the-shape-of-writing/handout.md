@@ -25,6 +25,8 @@ Two claims guide this presentation:
 - writing is not inherently linear
 - signed languages need durable plane-based writing if they are to gain the same kind of readable, writable, editable, and searchable infrastructure that line-based languages have long had
 
+The point-line-plane framework is offered here as an analytic lens for writing geometry, not as an exhaustive taxonomy of all scripts.
+
 ## Writing as geometry
 
 One useful way to think about writing systems is geometric.

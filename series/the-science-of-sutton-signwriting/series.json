@@ -2,14 +2,14 @@
   "slug": "the-science-of-sutton-signwriting",
   "title": "The Science of Sutton SignWriting",
   "subtitle": "Language, literacy, brain pathways, and SignWriting as research infrastructure",
-  "description": "A research and publication series on the science of signed language, written sign, literacy, and the infrastructure needed to study them well.",
+  "description": "A research series on the science of signed language, written sign, literacy, and the infrastructure needed to study them well.",
   "accepting_entries": true,
-  "kind": "research-and-publication-series",
+  "kind": "research-series",
   "home_doc": "README.md",
   "publication_strategy": {
-    "web_home": "repo-and-sgnw-client",
+    "web_home": "repo-and-steveslevinski-me",
     "doi_home": "zenodo-community",
     "artifact_model": "one-record-per-artifact",
-    "notes": "The series serves as the umbrella scholarly identity, while presentations, handouts, reports, and datasets remain distinct citable artifacts."
+    "notes": "The series serves as the umbrella research identity, while presentations, handouts, evidence notes, reports, and datasets remain distinct citable artifacts in a modular, expandable record."
   }
 }

@@ -1,0 +1,120 @@
+{
+  "slug": "formal-signwriting",
+  "number": 1,
+  "title": "Formal SignWriting",
+  "subtitle": "The two-part word, spatial text, and the core model",
+  "summary": "Canonical opening statement of the two-part word, spatial text, and durable computational sign text.",
+  "synopsis": "Formal SignWriting models a sign as a structured word with a required spatial signbox and an optional temporal prefix. This opening entry states the core model in its smallest stable form and shows how theory-based sequence and spatial composition survive together in one processable textual form.",
+  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+  "cover_image_alt": "Cover image for Formal SignWriting in the Formal SignWriting series.",
+  "handout": "handout.md",
+  "secondary_artifact": {
+    "file": "technical-notes.md",
+    "label": "Technical Notes",
+    "slug": "technical-notes"
+  },
+  "publication_plan": {
+    "series": "Formal SignWriting",
+    "artifact_types": [
+      "presentation",
+      "handout",
+      "technical-notes"
+    ],
+    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
+    "zenodo_record_title_suggestion": "Formal SignWriting: The Two-Part Word, Spatial Text, and the Core Model",
+    "citation_stub": "Slevinski, S. (2026). Formal SignWriting: The Two-Part Word, Spatial Text, and the Core Model. Formal SignWriting."
+  },
+  "related_identifiers": [
+    {
+      "relation": "is-related-to",
+      "target": "Formal SignWriting Internet-Draft DOI",
+      "note": "The Internet-Draft remains a related historical artifact rather than the primary living home."
+    }
+  ],
+  "slides": [
+    {
+      "id": "technical-home",
+      "title": "Formal SignWriting as Spatial Text",
+      "kicker": "1",
+      "summary": "Formal SignWriting treats written sign as durable text rather than transient display.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for Formal SignWriting as a technical home.",
+      "image_prompts": {
+        "concrete": "Scholarly technical title slide showing a SignWriting signbox, structured code text, and a clear spatial text architecture, white background, elegant and modern",
+        "abstract": "A spatial sign crystallizing into one durable textual form, calm and academic"
+      },
+      "bullets": [
+        "Durable computational text",
+        "Visible writing carried as text",
+        "Time and space together",
+        "Architecture before output"
+      ],
+      "speech": "Formal SignWriting begins from a direct technical claim: written sign can be carried as durable text without flattening away its spatial form. Sign text has to remain visible as writing, yet still be processable for storage, validation, search, rendering, and transformation. The model therefore aims at text that is faithful to the writing system and stable enough to anchor the rest of the technical architecture.",
+      "notes": "Open with the core technical claim, not publication history.\n- written sign can remain visible and textual at once\n- the model must preserve both writing and processability\n- frame the whole talk as an explanation of how that is achieved",
+      "mermaid": "flowchart TD\n  A[Written sign] --> B[Formal SignWriting]\n  B --> C[Durable text]\n  B --> D[Visible written form]\n  B --> E[Processable structure]\n  C --> F[Storage]\n  C --> G[Interchange]\n  D --> H[Readable sign text]\n  E --> I[Validation]\n  E --> J[Search]\n  E --> K[Rendering]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D,E node;\n  class F,G,H,I,J,K out;"
+    },
+    {
+      "id": "two-part-word",
+      "title": "A Sign Is a Two-Part Word",
+      "kicker": "2",
+      "summary": "The central explanatory move is simple: a sign is a two-part word of time and space.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the two-part word model.",
+      "image_prompts": {
+        "concrete": "Clean technical diagram showing one Formal SignWriting word split into temporal prefix and spatial signbox, white background, standards-style clarity",
+        "abstract": "One encoded word dividing into a linear stream and a spatial field, scholarly and precise"
+      },
+      "bullets": [
+        "Optional temporal prefix",
+        "Required spatial signbox",
+        "Sequence preserved when present",
+        "Composition preserved"
+      ],
+      "speech": "The core technical claim is that a sign can be represented as a structured word with a required signbox and an optional temporal prefix. The signbox preserves the two-dimensional written composition. When present, the prefix preserves a one-dimensional sequence written according to a theory of sorting or analysis. This is not a compromise between time and space. It is the mechanism that lets the model carry both kinds of information in one durable textual architecture, and it is the smallest statement from which the later layers follow.",
+      "notes": "This is the central explanatory slide.\n- keep the word visible as one unit with two parts\n- emphasize that the signbox is required and the prefix is optional\n- avoid treating the prefix and signbox as competing descriptions",
+      "mermaid": "flowchart LR\n  A[Formal SignWriting word]\n  subgraph P[Temporal prefix]\n    B[One-dimensional sequence]\n    C[Ordering preserved]\n  end\n  subgraph S[Spatial signbox]\n    D[Two-dimensional placement]\n    E[Composition preserved]\n  end\n  A --> B\n  A --> D\n  B --> C\n  D --> E\n  C --> F[One word carrying time and space]\n  E --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef part fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,F core;\n  class B,C,D,E part;"
+    },
+    {
+      "id": "why-both-layers",
+      "title": "Time and Space Survive Together",
+      "kicker": "3",
+      "summary": "Formal SignWriting works because it does not force spatial writing into a purely linear account.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for time and space in Formal SignWriting.",
+      "image_prompts": {
+        "concrete": "Academic comparison slide showing what is lost in sequence-only versus space-only representations and what is preserved by Formal SignWriting, restrained modern design",
+        "abstract": "Two incomplete halves joining into one complete technical model of writing"
+      },
+      "bullets": [
+        "Sequence supports sorting and analysis",
+        "Signbox can stand alone as a valid sign",
+        "Both layers remain processable",
+        "The model stays theory agnostic"
+      ],
+      "speech": "If we keep only sequence, we lose too much of the written form. If we keep only spatial arrangement, we lose too much technical tractability. Formal SignWriting matters because it preserves both. A sequence-only fragment is not a valid full sign, while a signbox-only sign can still preserve spatial composition even though it cannot be sorted in a useful way by sequence. The temporal prefix primarily supports sorting and can also carry linguistic analysis, but it is written according to a theory rather than derived automatically from the signbox. Formal SignWriting stays neutral about which theory is used.",
+      "notes": "Connect this slide to concrete technical consequences.\n- sequence supports sorting first and analysis second\n- sequence alone is not a full sign\n- a signbox can preserve spatial composition without useful sequence sorting\n- both are needed for later grammar, search, and rendering",
+      "mermaid": "flowchart LR\n  subgraph L[Incomplete reductions]\n    A[Sequence only] --> B[Sorting and comparison]\n    A --> C[Written form lost]\n    D[Space only] --> E[Visible composition]\n    D --> F[Processing lost]\n  end\n  subgraph R[Formal SignWriting]\n    G[Temporal prefix] --> I[Sequence preserved]\n    H[Spatial signbox] --> J[Composition preserved]\n    I --> K[Processable writing]\n    J --> K\n  end\n\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,D,C,F risk;\n  class G,H core;\n  class B,E,I,J,K out;"
+    },
+    {
+      "id": "series-architecture",
+      "title": "The Technical Order",
+      "kicker": "4",
+      "summary": "Once the two-part word is clear, the rest of the model follows in a stable technical order.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the Formal SignWriting series architecture.",
+      "image_prompts": {
+        "concrete": "Technical roadmap graphic showing the two-part word leading to encoding, geometry, grammar, search, rendering, styling, and implementation, clean academic diagram",
+        "abstract": "One core idea branching into a complete technical architecture"
+      },
+      "bullets": [
+        "FSW and SWU",
+        "Geometry of the signbox",
+        "Grammar and search",
+        "Rendering, styling, and practice"
+      ],
+      "speech": "Once the two-part word is established, the rest of Formal SignWriting falls into a natural order. Encodings preserve the model. Geometry explains the signbox. Grammar states valid structure. Search exploits structured text. Rendering realizes visible output. Styling customizes that output. Practice keeps the whole system moving through real software and data workflows. The order matters because the center should stay stable even as the perimeter keeps growing.",
+      "notes": "Finish by showing layer order, not publication order.\n- encoding\n- geometry\n- grammar\n- search\n- rendering and styling\n- implementation practice",
+      "mermaid": "flowchart TD\n  A[Two-part word] --> B[Encodings]\n  A --> C[Geometry]\n  B --> D[FSW and SWU]\n  C --> E[Shape of a sign]\n  D --> F[Grammar]\n  E --> F\n  F --> G[Searching signed text]\n  F --> H[Rendering]\n  H --> I[Styling]\n  G --> J[Practice]\n  H --> J\n  I --> J\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,F core;\n  class B,C,D,E,G,H,I node;\n  class J out;"
+    }
+  ]
+}

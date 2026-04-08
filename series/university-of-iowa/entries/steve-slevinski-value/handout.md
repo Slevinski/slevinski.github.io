@@ -15,15 +15,11 @@ It is practical, present-tense, and useful now:
 - technical support in code, structure, and validation
 - help moving real project data toward real repository delivery
 
-The larger strategic upside is real.
-
-Over time, Steve's work can help create stronger collaboration, stronger grant language, and stronger footing for Sutton SignWriting infrastructure.
-
-But that is not the first thing people need to believe.
-
 The first case is simpler:
 
 > Steve helps research teams move from fragmented systems and good intentions to structured workflow execution and successful delivery.
+
+This document stays on that practical case.
 
 ## The problem Steve helps solve
 
@@ -172,14 +168,14 @@ The same kind of capacity can help multiple research teams because the underlyin
 - mixed systems create repeated workflow problems
 - documentation and structure are rarely finished automatically
 
-Salary or institutional support for Steve therefore makes sense as support for a reusable cross-project function:
+This kind of work is best understood as a reusable cross-project function:
 
 - DMS planning support
 - workflow design support
 - repository-facing technical support
 - structure and validation support
 
-That makes the role shared capacity rather than one more isolated personnel ask.
+That makes the role shared capacity rather than one more isolated project favor.
 
 ## Research credibility and scale
 
@@ -239,47 +235,30 @@ The University benefits because:
 - future grants can grow around visible operational value
 - research teams gain access to someone who already understands the hard middle layer between policy and delivery
 
-## Why salary support makes sense
+## Why this should be treated as shared capacity
 
-Salary support buys useful operational capacity.
+The operational case here is stronger when it is framed as shared research capacity.
 
-It supports:
+That means recognizing the value of:
 
 - stronger continuity across projects
 - more day-to-day availability for DMS and workflow work
 - better follow-through on repository preparation
 - more capacity for detailed execution, not only high-level advice
-- stronger groundwork for future grants and institutional partnerships
+- clearer institutional visibility for a function multiple teams can use
 
-The argument for support is larger than retention alone.
+The key point is to name the function clearly:
 
-It is really an argument for retaining and expanding a function that helps research projects succeed.
+it helps research projects succeed.
 
-## Immediate value versus strategic value
+## Practical value, clearly named
 
-There are two levels of value here, and they should be kept in the right order.
-
-### Immediate value
-
-The immediate value is:
+This document is about:
 
 - DMS planning
 - workflow design
 - technical execution
 - repository delivery
-
-This is the first story.
-
-### Strategic value
-
-The strategic value is:
-
-- broader collaboration
-- stronger future grant language
-- better institutional footing for Sutton SignWriting infrastructure
-- a larger long-term research and stewardship story
-
-This second lane matters, but it works best when the immediate practical usefulness is already visible and credible.
 
 ## Recommended framing
 
@@ -288,12 +267,7 @@ The strongest explanation of Steve's value is:
 - he solves present-tense workflow problems
 - he helps projects move toward successful delivery
 - he reduces friction in the most difficult middle layer of research data operations
-
-The weakest explanation would be:
-
-- leading first with the broader mission before the practical value is visible
-- making support sound speculative instead of operational
-- talking as if the role is mainly inspirational rather than useful
+- he can be used as a practical University resource for this work
 
 ## Closing
 
@@ -304,10 +278,6 @@ Steve Slevinski should be taken seriously because he brings a rare combination o
 - technical execution capacity
 - repository delivery focus
 
-That is already enough to justify serious institutional support.
-
-If supported well, that same operational value can also become the basis for wider collaboration, stronger grants, and longer-term infrastructure growth.
-
-But the first reason to support Steve is the simplest one:
+The first reason to engage Steve is the simplest one:
 
 he helps research teams finish hard things that matter.

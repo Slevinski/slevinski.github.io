@@ -1,0 +1,110 @@
+{
+  "slug": "the-shape-of-a-sign",
+  "number": 3,
+  "title": "The Shape of a Sign",
+  "subtitle": "Symbols, coordinates, centering, and the signbox",
+  "summary": "Canonical statement of symbols, coordinates, centering, and signbox structure.",
+  "synopsis": "A Formal SignWriting word is not complete until its symbols, coordinates, signbox behavior, tight bounding boxes, and centering logic are understood. This entry states the spatial layer in its smallest stable form and shows how the signbox becomes tractable as geometry carried in text.",
+  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+  "cover_image_alt": "Cover image for The Shape of a Sign in the Formal SignWriting series.",
+  "handout": "handout.md",
+  "secondary_artifact": {
+    "file": "technical-notes.md",
+    "label": "Technical Notes",
+    "slug": "technical-notes"
+  },
+  "publication_plan": {
+    "series": "Formal SignWriting",
+    "artifact_types": [
+      "presentation",
+      "handout",
+      "technical-notes"
+    ],
+    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
+    "zenodo_record_title_suggestion": "The Shape of a Sign: Symbols, Coordinates, Centering, and the Signbox",
+    "citation_stub": "Slevinski, S. (2026). The Shape of a Sign: Symbols, Coordinates, Centering, and the Signbox. Formal SignWriting."
+  },
+  "slides": [
+    {
+      "id": "spatial-model",
+      "title": "The Signbox Is a Geometry",
+      "kicker": "1",
+      "summary": "The signbox is where Formal SignWriting becomes visibly and technically spatial.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the signbox as a geometry.",
+      "image_prompts": {
+        "concrete": "Technical diagram of a SignWriting signbox with symbols arranged spatially and labeled as geometry plus text, scholarly and clean",
+        "abstract": "A spatial field of symbols forming one coherent written object"
+      },
+      "bullets": [
+        "Spatial signbox",
+        "Visible written form",
+        "Geometry plus text",
+        "The sign as an arranged object"
+      ],
+      "speech": "This entry states the spatial layer of the model. Formal SignWriting is not only a grammar of symbols. It is also a geometry of placement, tight bounding boxes, and normalization. The signbox becomes technically tractable once those pieces are kept in view together, and that spatial layer remains stable even as rendering and implementation continue to grow around it.",
+      "notes": "Use this as the spatial counterpart to the opening deck.",
+      "mermaid": "flowchart TD\n  A[Signbox]\n  A --> B[Symbols]\n  A --> C[Coordinates]\n  A --> D[Tight bounding boxes]\n  B --> E[Visible written form]\n  C --> E\n  D --> E\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,E core;\n  class B,C,D node;"
+    },
+    {
+      "id": "symbols-and-classes",
+      "title": "Symbol Classes Define Technical Roles",
+      "kicker": "2",
+      "summary": "Symbol classes matter because they support different jobs in writing, centering, search, and rendering.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for symbol classes in Formal SignWriting.",
+      "image_prompts": {
+        "concrete": "Scholarly classification slide showing grouped SignWriting symbol families with labels for writing, location, and punctuation, clean white background",
+        "abstract": "Distinct families of symbols organizing themselves into technical roles"
+      },
+      "bullets": [
+        "Writing symbols",
+        "Detailed location symbols",
+        "Punctuation symbols",
+        "Ranges with technical consequences"
+      ],
+      "speech": "Symbol classes are not only a catalog. Different symbol ranges support different technical behavior. Some belong directly in the spatial signbox, some help with sequence and location handling, and some matter especially for centering, rendering, or punctuation. The spatial layer becomes much more legible once those roles are named instead of treated as a flat inventory.",
+      "notes": "This is the right place to make symbol classes feel architectural.",
+      "mermaid": "flowchart TD\n  A[Symbol inventory]\n  A --> B[Writing symbols]\n  A --> C[Detailed location]\n  A --> D[Punctuation]\n  B --> E[Core sign composition]\n  C --> F[Sequence and location handling]\n  D --> G[Text and sentence structure]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A core;\n  class B,C,D node;\n  class E,F,G out;"
+    },
+    {
+      "id": "coordinates-and-bounds",
+      "title": "Coordinates Turn Space Into Data",
+      "kicker": "3",
+      "summary": "Coordinates, tight bounding boxes, and maximum coordinates make the signbox usable in software.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for coordinates and tight bounding boxes in the signbox.",
+      "image_prompts": {
+        "concrete": "Technical diagram of a SignWriting signbox with coordinate labels, tight bounding boxes, and axis-style annotations, precise and academic",
+        "abstract": "Spatial placement becoming measurable and computational"
+      },
+      "bullets": [
+        "Symbol placement",
+        "Top-left coordinates",
+        "Bounding boxes",
+        "Maximum coordinates",
+        "Normalization inputs"
+      ],
+      "speech": "Coordinates are not incidental metadata. They are the mechanism that makes spatial relation processable. Each placed symbol gives a top-left coordinate, while preprocessing supplies the symbol size needed to build a tight bounding box and determine maximum coordinates. That is how the signbox becomes usable for layout, sizing, rendering, and later search workflows. Visible arrangement becomes stable technical structure only once those calculations are explicit.",
+      "notes": "This slide should connect the visual geometry to practical software behavior.",
+      "mermaid": "flowchart TD\n  A[Placed symbols] --> B[Top-left coordinates]\n  A --> C[Symbol bounding boxes]\n  B --> D[Sign bounding box]\n  C --> D\n  D --> E[Maximum coordinates]\n  E --> F[Layout and rendering behavior]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,D,E core;\n  class B,C,F node;"
+    },
+    {
+      "id": "centering-and-normalization",
+      "title": "Centering Makes Signs Travel Well",
+      "kicker": "4",
+      "summary": "Normalization is one of the strongest technical moves in the system.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for centering and normalization.",
+      "bullets": [
+        "hcenter and vcenter filters",
+        "Fallback to all symbols",
+        "Shift to the normalized center",
+        "Foundation for later layers"
+      ],
+      "speech": "Centering is one of the strongest technical moves in Formal SignWriting. Horizontal centering uses `hcenter` symbols when available, and vertical centering uses `vcenter` symbols when available, with fallback to all symbols when those ranges are absent. The sign is temporarily expanded into tight bounding boxes, the midpoint is calculated from the relevant extents, and all coordinates are shifted together. Without that normalization, too much of the system becomes fragile or inconsistent. With it, the spatial layer becomes much more portable across search, rendering, and implementation.",
+      "notes": "This is where the deck should start pointing forward to search, rendering, and implementation.",
+      "mermaid": "flowchart TD\n  A[Unnormalized sign] --> B[Centering rules]\n  B --> C[Normalized sign]\n  C --> D[Stable layout]\n  C --> E[Stable search]\n  C --> F[Stable rendering]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class B,C core;\n  class D,E,F out;"
+    }
+  ]
+}

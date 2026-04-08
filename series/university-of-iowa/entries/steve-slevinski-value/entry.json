@@ -7,7 +7,7 @@
   "title": "Steve Slevinski Value",
   "subtitle": "Practical DMS, repository, and research workflow value for the University of Iowa",
   "summary": "A University of Iowa-facing presentation focused on Steve Slevinski's immediate operational value through DMS planning, workflow design, code, data shaping, and repository delivery.",
-  "synopsis": "Steve Slevinski is best supported first as practical research capacity. The deck focuses on immediate usefulness in the messy middle between project systems and repository delivery, showing how Steve helps projects with DMS planning, workflow design, structure, validation, and execution. The broader Sutton SignWriting infrastructure lane remains present, but only as a secondary strategic upside after the practical value is clear.",
+  "synopsis": "Steve Slevinski is best understood first as practical research capacity. The deck focuses on immediate usefulness in the messy middle between project systems and repository delivery, showing how Steve helps projects with DMS planning, workflow design, structure, validation, and execution.",
   "handout": "handout.md",
   "links": [
     {
@@ -36,7 +36,7 @@
       ],
       "speech": "Steve Slevinski brings immediate practical value to research teams. He can help investigators build and maintain a Data Management and Sharing Plan, work through complex data workflows, and support the path from project systems to repository delivery.",
       "notes": "Open with immediate usefulness rather than the larger mission.",
-      "mermaid": "graph LR\n  A[DMS Plan] --> B[Workflow Design]\n  B --> C[Data Shaping]\n  C --> D[Repository Delivery]"
+      "mermaid": "graph TD\n  A[DMS Plan] --> B[Workflow Design]\n  B --> C[Data Shaping]\n  C --> D[Repository Delivery]"
     },
     {
       "id": "the-messy-middle",
@@ -144,53 +144,53 @@
     },
     {
       "id": "salary-support-case",
-      "title": "Why Salary Support Makes Sense",
+      "title": "Why This Should Be Treated As Shared Capacity",
       "kicker": "8",
-      "summary": "Salary support buys real capacity, availability, continuity, and technical follow-through so useful work can happen when projects actually need it.",
+      "summary": "This work is stronger when it is understood as shared operational capacity that multiple projects can use rather than as one isolated personnel request.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for salary support case.",
+      "image_alt": "Placeholder image for shared operational capacity.",
       "bullets": [
-        "Deeper day-to-day availability",
-        "More direct technical execution",
-        "Greater continuity for active projects",
-        "A stronger base for future grants"
+        "Useful across more than one project",
+        "Improves continuity for active work",
+        "Strengthens technical follow-through",
+        "Makes the function visible institutionally"
       ],
-      "speech": "Salary support buys real capacity. It increases availability, supports deeper technical engagement, improves continuity for active projects, and creates a stronger institutional base for future grant activity.",
-      "notes": "Keep this practical, direct, and free of rescue framing.",
-      "mermaid": "graph LR\n  A[Salary Support] --> B[Availability]\n  A --> C[Execution Capacity]\n  A --> D[Continuity]\n  A --> E[Grant Readiness]"
+      "speech": "The operational case is stronger when this work is treated as shared capacity. More than one project can benefit from DMS planning, workflow cleanup, validation, and repository delivery support. The point is to name a useful function clearly and show why it matters across active research work.",
+      "notes": "Keep the slide on function and institutional usefulness, not on funding mechanics.",
+      "mermaid": "graph LR\n  A[Shared Capacity] --> B[Availability]\n  A --> C[Execution Capacity]\n  A --> D[Continuity]\n  A --> E[Cross-Project Use]"
     },
     {
       "id": "immediate-and-strategic",
-      "title": "Immediate Value and Strategic Value",
+      "title": "Practical Value, Clearly Named",
       "kicker": "9",
-      "summary": "The immediate pitch is practical support for current research work, while the strategic upside is broader infrastructure growth that can emerge from that base.",
+      "summary": "The strongest case here is straightforward: Steve provides practical support for active research work that needs structure, follow-through, and successful delivery.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for immediate and strategic value.",
+      "image_alt": "Placeholder image for clearly naming practical research value.",
       "bullets": [
-        "Immediate: DMS and repository help",
-        "Strategic: grant-ready collaboration base",
-        "Secondary upside: stronger footing for Sutton SignWriting"
+        "DMS planning and refinement",
+        "Workflow design across messy systems",
+        "Technical execution and repository delivery"
       ],
-      "speech": "Start with practical support for active projects. The strategic upside is that this also creates a stronger base for grant development, future collaboration, and, secondarily, a more stable footing for Sutton SignWriting as shared research infrastructure. That larger benefit is real, but it works best as an added upside, not the first reason to say yes.",
-      "notes": "The broader mission belongs here: late, secondary, and credible.",
-      "image_prompt_concrete": "Two-tiered strategy slide with immediate project support on the first level and longer-term infrastructure opportunity above it",
-      "image_prompt_abstract": "A sturdy lower platform supporting a higher emerging structure"
+      "speech": "The practical case is already strong on its own. Steve helps with DMS planning, workflow design, technical execution, and repository delivery. That combination is useful because it turns hard middle-stage project work into clearer structure, better follow-through, and more reliable completion.",
+      "notes": "Keep the slide concrete and affirmative.",
+      "image_prompt_concrete": "Clean academic slide showing DMS planning, workflow design, and repository delivery as one practical support function",
+      "image_prompt_abstract": "Three aligned channels converging into one clear delivery path"
     },
     {
       "id": "closing-ask",
       "title": "Closing Ask",
       "kicker": "10",
-      "summary": "The closing ask is to use Steve for practical DMS and repository work now and to support deeper engagement where that capacity will matter most.",
+      "summary": "The closing ask is to use Steve as a practical University resource for DMS planning, workflow design, and repository delivery where that help is needed.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the closing ask.",
       "bullets": [
         "Use Steve as a practical University resource",
-        "Include salary support where deeper work is needed",
-        "Let immediate utility create long-term opportunity"
+        "Use him for DMS, workflow, and repository problems",
+        "Use him where projects need execution support"
       ],
-      "speech": "The closing ask is straightforward. Use Steve as a practical University resource for DMS planning, workflow design, and repository delivery. Where deeper involvement is needed, include salary support. That support creates immediate project value and also leaves open a longer-term opportunity for stronger collaboration and infrastructure growth.",
-      "notes": "End with usefulness first and future second.",
-      "mermaid": "graph TD\n  A[Use Steve Now] --> B[Better Project Delivery]\n  B --> C[Salary Support Where Needed]\n  C --> D[Long-Term Opportunity]"
+      "speech": "The closing ask is straightforward. Use Steve as a practical University resource for DMS planning, workflow design, and repository delivery where that help is needed. The value of the role is simple: it helps research teams move difficult work toward successful completion.",
+      "notes": "End with disciplined usefulness.",
+      "mermaid": "graph TD\n  A[Use Steve Now] --> B[Better Project Delivery]\n  B --> C[Clearer DMS Workflows]\n  C --> D[Successful Repository Outcomes]"
     }
   ]
 }

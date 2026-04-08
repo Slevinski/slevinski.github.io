@@ -1,4 +1,4 @@
-# Immediate Lab Home
+# Lab Home
 
 **A practical case for placing Steve Slevinski in a PI's lab now**
 
@@ -17,6 +17,10 @@ It is asking for the first enabling structure:
 > a lab home that makes the rest of the work possible
 
 That one decision changes the environment around the work. It gives Steve an academic base, gives other collaborators a place to connect, and makes future grant writing, salary support, and infrastructure planning far more credible.
+
+This document stays intentionally narrow.
+
+Its job is to explain the PI decision clearly and keep the first step easy to understand.
 
 ## Why this matters now
 
@@ -47,13 +51,11 @@ What it actually means here is:
 
 This is a reduced-friction model.
 
-It does **not** mean:
+The immediate ask is disciplined:
 
-- that the work lacks value
-- that Steve would remain unsupported indefinitely
-- that no funding strategy exists
-
-It means that the immediate ask is being disciplined.
+- the work already has value
+- support can grow around the placement
+- the first institutional step remains smaller than the full future structure
 
 The larger structure can then grow around that base through several reinforcing lanes:
 
@@ -75,21 +77,13 @@ The PI is being asked to provide:
 
 This is important because it keeps the ask clear.
 
-The PI is **not** being asked to:
-
-- immediately finance a large new initiative alone
-- personally fund the whole long-term vision
-- commit to a mature infrastructure center on day one
-
 The ask is:
 
 > provide the first real home so useful work can begin now and broader support can grow around it
 
 ## Why a PI benefits
 
-The strongest version of this proposal is not charity and not abstract goodwill.
-
-It is a practical value proposition for the PI and lab.
+The strongest version of this proposal is a practical value proposition for the PI and lab.
 
 ### Immediate benefit
 
@@ -102,6 +96,8 @@ Steve can help with current and near-term research needs, especially:
 - standards guidance where structured data and documentation are needed
 
 This means the lab gains useful operational capacity rather than only taking on an additional administrative relationship.
+
+The fuller operational case belongs in **Steve Slevinski Value**.
 
 ### Medium-term benefit
 
@@ -134,12 +130,10 @@ The case for a lab home is stronger because Steve already brings practical value
 
 His near-term usefulness includes:
 
-- shaping Data Management and Sharing Plans into real workflows
-- organizing and restructuring data from mixed systems
-- helping teams understand source data, raw structured data, and derivatives
-- supporting dictionaries, naming standards, and validation logic
-- assisting with repository-facing data preparation
-- helping projects through recurring submission cycles and deadline pressure
+- shaping DMS plans into real workflows
+- helping teams organize data from mixed systems
+- supporting validation, naming, and repository preparation
+- helping projects finish difficult delivery work under real deadlines
 
 This is especially relevant for projects that use combinations of:
 
@@ -155,6 +149,8 @@ The practical value here is not theoretical. It is the kind of work that helps p
 ## The support model
 
 The long-term strength of this plan comes from having several reinforcing lanes instead of one all-or-nothing lane.
+
+These lanes matter because placement does not have to carry the whole future by itself.
 
 ### Lane 1: Lab home
 
@@ -245,19 +241,13 @@ This is exactly the kind of situation where a modest first institutional decisio
 
 ## Recommended framing for conversation
 
-The strongest framing for a PI conversation is:
+The clearest framing for a PI conversation is:
 
 - this is a practical first move
 - the work already has immediate utility
 - the placement lowers friction for everything that follows
 - outside support can grow around the lab home
 - the PI does not need to solve the entire future on day one
-
-The weakest framing would be:
-
-- leading with the full future vision before establishing the first small step
-- making the ask sound emotionally large or administratively vague
-- asking people to believe in the entire infrastructure future before they can understand the immediate value
 
 The order matters.
 

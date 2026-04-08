@@ -1,6 +1,8 @@
 # Infrastructure and Stewardship
 
-The Sutton SignWriting infrastructure case becomes stronger when it moves from a general description of fragility to a clearer statement of what assets already exist, how they are currently maintained, and why institutional stewardship is now the central need.
+Sutton SignWriting already operates as infrastructure.
+
+This document names the main assets, stewardship responsibilities, and continuity risks so a PI, administrator, or collaborator can see what would actually be stabilized by a host institution.
 
 ## Overview
 
@@ -17,33 +19,6 @@ The system already includes:
 The challenge is no longer whether these things can be created.
 
 The challenge is whether they will be stabilized, documented, and institutionally supported before the maintenance burden outgrows the current stewardship model.
-
-## Why This Matters
-
-Many infrastructure descriptions stop at the public-facing level.
-
-They say:
-
-* the system exists
-* it is used internationally
-* it appears important
-
-That is useful, but incomplete.
-
-The SignWriting ecosystem is already a functioning technical environment with identifiable stewardship, accumulated assets, and visible continuity responsibilities.
-
-That shift matters because it changes the institutional question.
-
-The issue is no longer whether an institution would be funding an idea.
-
-The issue is whether an institution will help stabilize and extend infrastructure that is already in operation.
-
-## Confirmed Stewardship and Asset Inventory
-
-The inventory also works as an internal-facing supplement to the outward initiative framing.
-
-It clarifies that the SignWriting ecosystem is not hypothetical.
-It is an existing infrastructure with identifiable technical ownership, maintenance responsibilities, and continuity pathways.
 
 ## Domains and Web Infrastructure
 
@@ -114,6 +89,24 @@ Immediate stewardship concerns include:
 * reduction of single-person operational dependency
 
 This is exactly the kind of infrastructure that becomes more valuable as its maintenance risk becomes more visible.
+
+## Concrete Operational Pressure
+
+The continuity risk is no longer only theoretical.
+
+Recent international work has already exposed where the pressure is felt.
+
+In South Korea, preparation for the February 6, 2025 launch of the Korean Sign Language Nuri Dictionary depended on SignPuddle 2 on the legacy server to author signs for a public institutional dictionary.
+
+That work appears to have pushed the old system hard enough to expose scaling weaknesses in save operations and concurrent use.
+
+Direct support was needed during the launch period, including two days of vacation time taken to keep the work moving.
+
+In Brazil, prior outages were felt immediately in an active user community that depends on the system for ongoing work.
+
+More recently, repeated bot pressure and CPU-heavy requests have continued to cause temporary service interruptions on the legacy server.
+
+These incidents matter because they show that infrastructure fragility is already interrupting real international work, not merely raising abstract maintenance concerns.
 
 ## Software and Code Infrastructure
 

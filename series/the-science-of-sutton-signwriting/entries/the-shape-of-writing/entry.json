@@ -8,12 +8,17 @@
   "cover_image": "/series/the-science-of-sutton-signwriting/entries/the-shape-of-writing/cover.png",
   "cover_image_alt": "Cover image for The Shape of Writing in The Science of Sutton SignWriting series.",
   "handout": "handout.md",
-  "addendum": "addendum.md",
+  "secondary_artifact": {
+    "file": "evidence-notes.md",
+    "label": "Evidence Notes",
+    "slug": "evidence-notes"
+  },
   "publication_plan": {
     "series": "The Science of Sutton SignWriting",
     "artifact_types": [
       "presentation",
-      "handout"
+      "handout",
+      "evidence-notes"
     ],
     "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
     "zenodo_record_title_suggestion": "The Shape of Writing: Point, Line, Plane, and the Case for Spatial Literacy Infrastructure",

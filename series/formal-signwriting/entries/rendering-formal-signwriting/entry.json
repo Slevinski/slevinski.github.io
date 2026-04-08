@@ -1,0 +1,109 @@
+{
+  "slug": "rendering-formal-signwriting",
+  "number": 6,
+  "title": "Rendering Formal SignWriting",
+  "subtitle": "SVG, fonts, layout, and output models",
+  "summary": "Canonical statement of SVG, fonts, layout, and output models kept distinct from canonical text.",
+  "synopsis": "Formal SignWriting needs a clear distinction between canonical text and presentation layer. This entry states the rendering layer in its smallest stable form and explains SVG, fonts, standalone graphics, and web layout as rendering consequences of the model, while keeping styling as a separate presentation topic.",
+  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+  "cover_image_alt": "Cover image for Rendering Formal SignWriting in the Formal SignWriting series.",
+  "handout": "handout.md",
+  "secondary_artifact": {
+    "file": "technical-notes.md",
+    "label": "Technical Notes",
+    "slug": "technical-notes"
+  },
+  "publication_plan": {
+    "series": "Formal SignWriting",
+    "artifact_types": [
+      "presentation",
+      "handout",
+      "technical-notes"
+    ],
+    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
+    "zenodo_record_title_suggestion": "Rendering Formal SignWriting: Styling, SVG, Fonts, and Web Output",
+    "citation_stub": "Slevinski, S. (2026). Rendering Formal SignWriting: Styling, SVG, Fonts, and Web Output. Formal SignWriting."
+  },
+  "slides": [
+    {
+      "id": "rendering-layer",
+      "title": "Rendering Is Downstream",
+      "kicker": "1",
+      "summary": "Rendering is a technical consequence of the model rather than the model itself.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for rendering as a layer.",
+      "image_prompts": {
+        "concrete": "Technical rendering slide showing encoded text becoming SVG and browser output, clean academic software style, white background",
+        "abstract": "Structured sign text resolving into visible graphical form"
+      },
+      "bullets": [
+        "SVG and font-based rendering",
+        "Standalone graphics",
+        "HTML and CSS layout",
+        "Canonical text versus output models"
+      ],
+      "speech": "This slide separates canonical text from presentation. Formal SignWriting can be rendered and displayed in multiple ways, but those outputs remain downstream from the underlying text model. Styling matters here, but its detailed definition belongs in its own layer rather than being confused with the encoding itself. Rendering is the visible consequence of the model, not the definition of the model.",
+      "notes": "Keep the distinction between text and rendering very explicit.",
+      "mermaid": "flowchart LR\n  A[Canonical text] --> B[Parsed sign structure]\n  B --> C[Rendering engine]\n  C --> D[SVG or font output]\n  D --> E[Screen]\n  D --> F[Print]\n  G[Styling layer] --> C\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C core;\n  class D,G node;\n  class E,F out;"
+    },
+    {
+      "id": "svg-and-fonts",
+      "title": "Multiple Output Paths, One Source Text",
+      "kicker": "2",
+      "summary": "Rendering needs practical output models that preserve copyable text and visible form together.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for multiple rendering output paths.",
+      "image_prompts": {
+        "concrete": "Rendering architecture slide showing one Formal SignWriting source producing font based SVG, standalone SVG, and PNG outputs, elegant technical style",
+        "abstract": "One source text unfolding into several visible output formats"
+      },
+      "bullets": [
+        "Font-based SVG",
+        "Stand-alone SVG",
+        "PNG as derivative output",
+        "Visible graphics from canonical text"
+      ],
+      "speech": "Formal SignWriting rendering is not a single mechanism. It includes font-based SVG, stand-alone SVG assembled from graphic resources, and derivative bitmap output. The key architectural point is that these are all realizations of the text model rather than replacements for it. The source text stays stable while the output path can vary.",
+      "notes": "Show multiple output paths without losing the core distinction.",
+      "mermaid": "flowchart TD\n  A[Canonical sign text] --> B[SVG with hidden copyable text]\n  A --> C[Stand-alone SVG from graphic resources]\n  A --> D[PNG derivative]\n  B --> E[Font-based path]\n  C --> F[Font-independent path]\n  E --> G[Visible screen display]\n  F --> G\n  B --> H[Copyable textual payload]\n  C --> H\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C core;\n  class D,E,F node;\n  class G,H out;"
+    },
+    {
+      "id": "layout-and-lanes",
+      "title": "Layout Is Where Rendering Gets Real",
+      "kicker": "3",
+      "summary": "Rendering has to solve layout questions that arise from vertical writing, sign sizing, and lane alignment.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for lane-aware layout and rendering.",
+      "image_prompts": {
+        "concrete": "Web layout slide showing vertical columns of SignWriting with lanes, centering, and responsive page behavior, clean publication-quality design",
+        "abstract": "Vertical sign text finding order and balance on a page"
+      },
+      "bullets": [
+        "Vertical writing flow",
+        "Lane-aware layout",
+        "Sizing and centering",
+        "HTML and CSS integration"
+      ],
+      "speech": "Rendering becomes interesting when signs move from isolated examples into real text layout. Lane-aware vertical flow, centering, sizing, and web layout are all part of how the model becomes usable in actual interfaces and documents. This is where the rendering layer proves that it can scale from one sign to a readable passage.",
+      "notes": "Tie rendering to real page behavior, not only isolated SVG.",
+      "mermaid": "flowchart LR\n  A[Rendered signs] --> B[Vertical writing flow]\n  A --> C[Lane alignment]\n  A --> D[Sign sizing and centering]\n  B --> E[Readable passage]\n  C --> E\n  D --> E\n  E --> F[Responsive screen layout]\n  E --> G[Printable page layout]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,E core;\n  class B,C,D node;\n  class F,G out;"
+    },
+    {
+      "id": "rendering-boundary",
+      "title": "Rendering Needs a Boundary",
+      "kicker": "4",
+      "summary": "A strong rendering architecture preserves canonical text while allowing multiple output strategies.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for rendering boundaries.",
+      "bullets": [
+        "Do not confuse rendering with encoding",
+        "Do not confuse rendering with styling",
+        "Preserve copyable text",
+        "Keep outputs downstream from the model"
+      ],
+      "speech": "Rendering becomes cleaner when its boundary is explicit. It should realize the text model, not redefine it. It should work with styling, not collapse into styling. And it should keep the encoded text durable even when the visible output changes across platforms and generations. That boundary is what lets the rendering layer stay flexible without making the model unstable.",
+      "notes": "End on architectural discipline.",
+      "mermaid": "flowchart LR\n  A[Encoding] --> B[Grammar]\n  B --> C[Canonical sign text]\n  C --> D[Rendering]\n  E[Styling] --> D\n  D --> F[Visible output]\n  C --> G[Copyable durable text]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D core;\n  class E,F node;\n  class G out;"
+    }
+  ]
+}

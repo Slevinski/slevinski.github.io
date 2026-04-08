@@ -15,7 +15,7 @@ Its real purpose is to describe what will actually happen to the data over time:
 - how it will be validated
 - how it will be shared
 
-That is where Steve Slevinski adds value.
+That is where Steve Slevinski adds practical value.
 
 He helps researchers and project teams move from local project systems toward a dataset that can be:
 
@@ -74,7 +74,37 @@ The DMS Plan should stay connected to:
 - the standards that matter for the project
 - the destination repository and its specific demands
 
-Steve helps teams make that guide real instead of merely aspirational.
+That is how the guide stays real instead of merely aspirational.
+
+## Builder plus review service
+
+This service is live now.
+
+The process is simple:
+
+- use the DMS Builder to start a plan, update an existing plan, or prepare a plan for review
+- work through the sections and questions it provides
+- generate the markdown draft
+- send Steve both the generated markdown and the real DMS Plan as it currently exists
+- get review, comments, and practical guidance on what is missing, unclear, or not yet aligned to the real workflow
+
+The DMS Builder does **not** create a finished DMS Plan by itself.
+
+Its job is more modest and more useful:
+
+- provide the sections a plan needs
+- surface the questions a team should answer
+- make review easier and more structured
+- help projects revisit a plan as the workflow changes
+
+It is useful for researchers and project teams who need a clearer path from planning to delivery.
+
+If the service helps, a short reply is always appreciated:
+
+- ask a question
+- request a review
+- share a short success story
+- send comments on the Builder or the review process
 
 ## The real DMS environment
 
@@ -95,7 +125,7 @@ This matters because the work is not about one person cleaning one folder.
 
 It is about understanding how these pieces connect, where the hidden structure problems are, and what has to be built between collection and sharing.
 
-Steve helps the project team understand and shape that path.
+This work helps the project team understand and shape that path.
 
 ## The actual data lifecycle
 
@@ -207,7 +237,7 @@ The goal is to make the data:
 - easier to revisit later
 - easier to finish successfully
 
-Steve can help teams decide which structures matter and how to use them coherently.
+This work can help teams decide which structures matter and how to use them coherently.
 
 ## Tools and workflows
 
@@ -231,7 +261,7 @@ For example:
 - CSV workflows may help with portability and repository preparation
 - Bash and Python may become necessary when the work is too repetitive or too complex for manual handling
 
-Steve can help shape and support these workflows so they become:
+The goal is to shape and support these workflows so they become:
 
 - clearer
 - more repeatable
@@ -259,7 +289,7 @@ A good DMS Plan should anticipate:
 - what repository constraints are likely to matter
 - where labor and responsibility will fall
 
-Steve can help teams do more than discuss those questions. He can help carry the work through.
+The point is to do more than discuss those questions and actually carry the work through.
 
 ## Timing and project pressure
 
@@ -276,26 +306,27 @@ A team may appear to be doing fine during quiet periods and then struggle when a
 
 That is one reason this work matters so much.
 
-Steve's role can be valuable both in:
+This kind of support can be valuable both in:
 
 - planning ahead while the project still has time
 - helping the project respond effectively when pressure rises
 
-## Two support lanes
+## Two ways this work helps
 
-Steve can help at two levels.
+This work usually helps in one of two ways.
 
 ### Planning support
 
 This includes:
 
 - understanding NIH expectations
+- using the DMS Builder to surface the right sections and questions
 - shaping the language of the DMS Plan
 - identifying realistic workflows
 - selecting standards and repository targets
 - updating the plan as the project changes
 
-### Funded execution support
+### Hands-on project support
 
 This includes:
 
@@ -311,9 +342,9 @@ A better plan improves execution.
 
 Execution reveals what the plan needs to say.
 
-## Why Steve's role matters in this workflow
+## Why this role matters in the workflow
 
-Steve's value is that he helps make the data path practical.
+The value here is making the data path practical.
 
 That means:
 
@@ -322,7 +353,7 @@ That means:
 - helping build the structure in between
 - supporting both workflow design and actual delivery
 
-In short, he helps bridge the messy middle.
+In short, this role helps bridge the messy middle.
 
 This matters because many projects do not fail for lack of scientific purpose.
 
@@ -333,21 +364,7 @@ They struggle because:
 - the transformations are too manual
 - the repository-facing structure is discovered too late
 
-Steve helps reduce that risk.
-
-## Recommended framing
-
-The strongest way to frame this work is:
-
-- a DMS Plan is only useful if it remains connected to reality
-- reality means mixed systems, uneven structure, documentation needs, and recurring deadlines
-- Steve helps teams turn that reality into a structured path toward successful repository delivery
-
-The weakest framing would be:
-
-- reducing the DMS Plan to a compliance form
-- treating repository delivery as an afterthought
-- assuming that good scientific intent is enough without operational structure
+This kind of support helps reduce that risk.
 
 ## Closing
 
@@ -357,7 +374,7 @@ It should be thought of as a practical guide for the entire path from source sys
 
 That path is where many teams struggle.
 
-Steve Slevinski helps researchers and project teams:
+This work helps researchers and project teams:
 
 - understand the real data environment
 - build needed structure
@@ -365,4 +382,4 @@ Steve Slevinski helps researchers and project teams:
 - validate outputs
 - deliver to the repository of choice
 
-That is why this work matters, and that is why Steve's role is immediately useful now.
+That is why this work matters.

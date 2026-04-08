@@ -4,7 +4,11 @@
 
 ## Core message
 
-The Sutton SignWriting Infrastructure Initiative is a path to move Sutton SignWriting from fragile independent stewardship toward durable shared research infrastructure.
+Assume the immediate practical case for Steve Slevinski and a lab home is already understood.
+
+The question in this document is the longer-term institutional one:
+
+how does Sutton SignWriting move from fragile independent stewardship toward durable shared research infrastructure?
 
 The point is not only to preserve what already exists.
 
@@ -24,9 +28,9 @@ This is a mission-driven effort, but it is also a practical institutional opport
 
 Sutton SignWriting is a writing system for signed languages.
 
-Its importance is not limited to symbolic representation.
+Its importance here is functional rather than symbolic.
 
-It matters because it makes signed language:
+It makes signed language:
 
 - writable
 - editable
@@ -45,6 +49,8 @@ Once signed language can exist in stable written form, it becomes easier to:
 - support linguistic, cognitive, and technical study
 
 That is why this work matters not only culturally and educationally, but scientifically and infrastructurally as well.
+
+The fuller scientific argument belongs in the science series.
 
 ## Why this initiative matters
 
@@ -137,12 +143,7 @@ The University of Iowa is a strong fit because this initiative sits at the inter
 
 This makes UIowa compelling because the work can connect with several institutional strengths at once rather than depending on only one disciplinary lane.
 
-It is also a strong fit because the initiative can be understood both as:
-
-- mission-aligned work
-- practical research infrastructure work
-
-That combination makes institutional support easier to justify.
+It is also a strong fit because the initiative can be understood as both mission-aligned work and practical research infrastructure.
 
 ## What shared research infrastructure means here
 
@@ -160,11 +161,7 @@ It means:
 
 The goal is to create something that others can reliably build on.
 
-That is why the language of infrastructure matters.
-
-Without that framing, the work can be misunderstood as a private effort or a narrow advocacy project.
-
-With that framing, it becomes possible to discuss:
+That infrastructure framing matters because it makes it possible to discuss:
 
 - stewardship
 - institutional housing
@@ -211,6 +208,8 @@ It needs:
 - an academic base
 - real relationships
 - visible practical work
+
+Those practical components are covered elsewhere in the Iowa series. Here they matter mainly because they make the infrastructure ask credible.
 
 ## Stewardship and continuity
 

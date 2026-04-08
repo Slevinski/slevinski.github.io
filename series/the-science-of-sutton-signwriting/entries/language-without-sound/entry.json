@@ -4,16 +4,21 @@
   "title": "Language Without Sound",
   "subtitle": "Brain networks, pathway expansion, literacy, and the case for SignWriting infrastructure",
   "summary": "Presentation 1 in The Science of Sutton SignWriting series.",
-  "synopsis": "Language is not tied to sound. Spoken, signed, tactile, and written pathways together reveal the modality-independent nature of human language. Sutton SignWriting provides a durable written pathway for signed language and opens the door to literacy, research, and shared infrastructure.",
+  "synopsis": "Language is not tied to sound. Spoken, signed, tactile, and written pathways together show that human language is not reducible to one privileged sensory channel. Sutton SignWriting provides a durable written pathway for signed language and opens the door to literacy, research, and shared infrastructure.",
   "cover_image": "/series/the-science-of-sutton-signwriting/entries/language-without-sound/cover.jpg",
   "cover_image_alt": "Cover image for Language Without Sound in The Science of Sutton SignWriting series.",
   "handout": "handout.md",
-  "addendum": "addendum.md",
+  "secondary_artifact": {
+    "file": "evidence-notes.md",
+    "label": "Evidence Notes",
+    "slug": "evidence-notes"
+  },
   "publication_plan": {
     "series": "The Science of Sutton SignWriting",
     "artifact_types": [
       "presentation",
-      "handout"
+      "handout",
+      "evidence-notes"
     ],
     "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
     "zenodo_record_title_suggestion": "Language Without Sound: Brain Networks, Pathway Expansion, Literacy, and the Case for SignWriting Infrastructure",
@@ -252,9 +257,9 @@
         "Open questions define the research agenda",
         "Rigor comes from keeping those levels separate"
       ],
-      "speech": "I want to be disciplined about what can be claimed strongly and what should remain an open question. Some parts of this argument are already well established. Language is modality-independent. Sign languages recruit core language networks. Plasticity supports visual and tactile routes. Those findings are strong enough to justify taking the topic seriously.\n\nThe next layer is the research agenda. How does the brain read visual-spatial writing? How do tactile and visual literacy pathways compare? What changes when signers gain direct written access to their own language? Which written supports help which learners most? Keeping the foundation separate from the frontier does not weaken the case. It is what makes the case scientifically credible.",
+      "speech": "I want to be disciplined about what can be claimed strongly and what should remain an open question. Some parts of this argument are already well established. Human language is not reducible to sound. Sign languages recruit core language networks. Plasticity supports visual and tactile routes. Those findings are strong enough to justify taking the topic seriously.\n\nThe next layer is the research agenda. How does the brain read visual-spatial writing? How do tactile and visual literacy pathways compare? What changes when signers gain direct written access to their own language? Which written supports help which learners most? Keeping the foundation separate from the frontier does not weaken the case. It is what makes the case scientifically credible.",
       "notes": "Main point:\n- separate strong foundations from genuine open questions\n- established science gives the project legitimacy\n- open questions explain why building infrastructure is worthwhile now\n\nThis slide is where rigor becomes persuasive. Avoid sounding defensive; sound precise.\n\nTransition:\n- If the scientific case is real, continuity becomes the practical issue.",
-      "mermaid": "flowchart LR\n  A[Scientific Case] --> B[Established Science]\n  A --> C[Open Research Opportunity]\n\n  B --> B1[Language is modality-independent]\n  B --> B2[Sign engages core language networks]\n  B --> B3[Plasticity supports visual and tactile routes]\n  B --> D[Credible foundation]\n\n  C --> C1[Reading visual-spatial writing]\n  C --> C2[Tactile vs visual literacy routes]\n  C --> C3[Native vs later learner differences]\n  C --> C4[Best supports for different learners]\n  C --> E[Research agenda worth building]\n\n  classDef base fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  classDef open fill:#fefce8,color:black,stroke:#ca8a04,stroke-width:2px;\n  classDef outcome fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  class B,B1,B2,B3,D base;\n  class C,C1,C2,C3,C4,E open;\n  class A outcome;"
+      "mermaid": "flowchart LR\n  A[Scientific Case] --> B[Established Science]\n  A --> C[Open Research Opportunity]\n\n  B --> B1[Language is not reducible to sound]\n  B --> B2[Sign engages core language networks]\n  B --> B3[Plasticity supports visual and tactile routes]\n  B --> D[Credible foundation]\n\n  C --> C1[Reading visual-spatial writing]\n  C --> C2[Tactile vs visual literacy routes]\n  C --> C3[Native vs later learner differences]\n  C --> C4[Best supports for different learners]\n  C --> E[Research agenda worth building]\n\n  classDef base fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  classDef open fill:#fefce8,color:black,stroke:#ca8a04,stroke-width:2px;\n  classDef outcome fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  class B,B1,B2,B3,D base;\n  class C,C1,C2,C3,C4,E open;\n  class A outcome;"
     },
     {
       "id": "infrastructure-need",

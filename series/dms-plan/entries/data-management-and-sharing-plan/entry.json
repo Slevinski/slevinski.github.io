@@ -3,14 +3,34 @@
   "number": 1,
   "title": "Data Management and Sharing Plan",
   "subtitle": "From project systems to repository delivery",
-  "summary": "An operational workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery.",
-  "synopsis": "The Data Management and Sharing Plan becomes useful when treated as an operational workflow rather than a compliance attachment. The deck follows the messy middle between local project systems and external repository delivery, including source data, raw structured data, derivatives, standards, validation, timing pressure, and the practical roles Steve Slevinski can play in both planning and execution.",
+  "summary": "An operational workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery, with a live Builder-plus-review service that helps teams start, update, and review plans.",
+  "synopsis": "The Data Management and Sharing Plan becomes useful when treated as an operational workflow rather than a compliance attachment. The deck follows the messy middle between local project systems and external repository delivery, including source data, raw structured data, derivatives, standards, validation, timing pressure, and the practical forms of support that matter in both planning and execution. It also presents a live Builder-plus-review service: the Builder helps teams work through sections and questions, generate markdown, and prepare an actual plan for expert review rather than pretending to automate the entire process.",
   "handout": "handout.md",
   "links": [
+    {
+      "label": "DMS Builder",
+      "href": "#page/dms-builder",
+      "description": "Interactive builder for starting, updating, and refining a working DMS draft."
+    },
+    {
+      "label": "DMS Review",
+      "href": "#page/dms-review",
+      "description": "Review service page for DMS questions, plan review requests, comments, and success stories."
+    },
+    {
+      "label": "NIH Grants",
+      "href": "https://grants.nih.gov/",
+      "description": "NIH grant context and funding guidance connected to DMS requirements."
+    },
     {
       "label": "NIH Data Management and Sharing Policy",
       "href": "https://sharing.nih.gov/data-management-and-sharing-policy",
       "description": "NIH policy guidance for planning, managing, and sharing research data."
+    },
+    {
+      "label": "Create a DMS Plan",
+      "href": "https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan",
+      "description": "Official NIH guidance for writing a Data Management and Sharing Plan."
     },
     {
       "label": "NIMH Data Archive",
@@ -42,18 +62,19 @@
     },
     {
       "id": "current-reality",
-      "title": "The Current Reality",
+      "title": "Why This Matters Now",
       "kicker": "2",
-      "summary": "The current reality is that Steve is already doing this work independently by helping teams turn DMS language into practical structures, workflows, and deliverables.",
+      "summary": "Many teams already know they need a DMS Plan and know where they are headed. The hard part is the messy middle between project systems and repository delivery.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the current reality of DMS support.",
       "bullets": [
-        "Independent practical support",
-        "Planning plus execution",
-        "Focus on the data path, not institutional history"
+        "Teams know they need a DMS Plan",
+        "Teams often know the destination repository",
+        "The hard part is everything in between",
+        "That middle work needs structure and support"
       ],
-      "speech": "The current reality is straightforward. Steve Slevinski is moving forward independently and helping researchers make the DMS Plan real in practice. The focus here is not institutional history. The focus is the actual path from project systems to external sharing.",
-      "notes": "Keep the tone current-focused and credible.",
+      "speech": "Many teams already know they need a Data Management and Sharing Plan. Many also know where they are ultimately headed, whether that is NDA or another repository. The hard part is everything in between. That middle work includes gathering files from multiple systems, deciding what counts as source data, cleaning and normalizing structure, building documentation and dictionaries, harmonizing variables, validating delivery packages, and preparing repository-facing outputs. This is the messy middle of research data work, and the plan only becomes meaningful when that middle layer is understood and supported.",
+      "notes": "Use the handout logic here.\n- teams know they need a plan\n- teams often know the repository\n- the hard part is the messy middle\n- support is needed between project systems and delivery",
       "image_prompt_concrete": "Professional academic slide showing a researcher, project team, and data pathway to repository delivery, clean white background",
       "image_prompt_abstract": "A clear pathway emerging from a dense field of inputs toward a defined destination"
     },
@@ -142,7 +163,7 @@
         "Repository-specific dictionary alignment",
         "Consistent naming and repeatable layouts"
       ],
-      "speech": "Standards matter because they make a dataset more understandable and more transferable. Depending on the project, this may mean BIDS, CSV plus data dictionary, repository-specific variables, or other structured layouts. Steve can help teams decide which structures matter and how to use them coherently.",
+      "speech": "Standards matter because they make a dataset more understandable and more transferable. Depending on the project, this may mean BIDS, CSV plus data dictionary, repository-specific variables, or other structured layouts. The practical question is which structures matter for the project and how to use them coherently.",
       "notes": "Make standards feel enabling and practical.",
       "mermaid": "graph LR\n  A[Local Data] --> B[Standards]\n  B --> C[BIDS]\n  B --> D[CSV plus Dictionary]\n  B --> E[Repository Structure]\n  C --> F[Reusable Data]\n  D --> F\n  E --> F"
     },
@@ -159,7 +180,7 @@
         "CSV workflows",
         "Bash and Python for repeated transformations"
       ],
-      "speech": "The DMS Plan becomes real through practical tools and workflows. REDCap, Excel, CSV files, Bash, Python, and careful documentation are often where the actual work happens. Steve can help shape those workflows conceptually and, when funded, help carry them out in detail.",
+      "speech": "The DMS Plan becomes real through practical tools and workflows. REDCap, Excel, CSV files, Bash, Python, and careful documentation are often where the actual work happens. The work here is to shape those workflows coherently and carry them out in enough detail to support delivery.",
       "notes": "Ground this in recognizable work products.",
       "image_prompt_concrete": "A research operations workstation showing reports, spreadsheets, scripts, and documentation assembled into one repeatable workflow",
       "image_prompt_abstract": "Rows of structured modules clicking into a process chain"
@@ -200,34 +221,34 @@
       "image_prompt_abstract": "A calm line interrupted by sharp peaks of effort and urgency"
     },
     {
-      "id": "two-support-lanes",
-      "title": "Two Support Lanes",
+      "id": "two-working-modes",
+      "title": "Two Working Modes",
       "kicker": "11",
-      "summary": "Steve can help in two support lanes: lighter planning and workflow guidance for teams that need structure, and deeper funded execution for projects that need substantial hands-on delivery work.",
+      "summary": "This work helps in two practical ways: planning and workflow guidance for teams that need structure, and hands-on project help for teams that need substantial delivery work.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for two support lanes.",
+      "image_alt": "Placeholder image for two working modes.",
       "bullets": [
-        "Abstract: planning, review, workflow design, repository guidance",
-        "Funded: restructuring, validation, harmonization, delivery work",
+        "Planning: Builder, review, workflow design, repository guidance",
+        "Hands-on: restructuring, validation, harmonization, delivery work",
         "Both lanes help the project move forward"
       ],
-      "speech": "There are two support lanes. In the planning lane, Steve helps teams understand where they are, what the DMS Plan should say, and what the workflow needs next. In the funded execution lane, he helps do the actual work of organizing, validating, harmonizing, and preparing data for delivery.",
-      "notes": "Present a useful support model without sounding transactional.",
-      "mermaid": "graph LR\n  A[Project Need] --> B[Planning Lane]\n  A --> C[Execution Lane]\n  B --> D[Updated DMS Plan]\n  C --> E[Deliverable Data]\n  D --> F[Successful Project Progress]\n  E --> F"
+      "speech": "There are two practical ways this work helps. In the planning mode, teams can use the Builder to work through the right sections and questions, generate markdown, and prepare a real plan for review. That review process helps clarify where the project is, what the DMS Plan should say, and what the workflow needs next. In the hands-on mode, the work shifts to organizing, validating, harmonizing, and preparing data for delivery.",
+      "notes": "Present a clear service model.\n- Builder plus review in the planning mode\n- hands-on delivery work in the execution mode",
+      "mermaid": "graph TD\n  A[Project Need] --> B[Planning Mode]\n  A --> C[Hands-on Mode]\n  B --> D[Builder and Review]\n  D --> E[Updated DMS Plan]\n  C --> F[Deliverable Data]\n  E --> G[Successful Project Progress]\n  F --> G"
     },
     {
       "id": "core-message",
       "title": "Core Message",
       "kicker": "12",
-      "summary": "The core message is that a DMS Plan is a living guide to real work, and Steve helps make that work practical from early planning through repository delivery.",
+      "summary": "The core message is that a DMS Plan is a living guide to real work, and this service helps make that work practical from early planning through repository delivery.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the core DMS message.",
       "bullets": [
         "A DMS Plan is only useful if it matches reality",
         "Projects need help in the messy middle",
-        "Steve can help from structure through repository delivery"
+        "Practical support can carry the work from structure through repository delivery"
       ],
-      "speech": "The core message is simple. A Data Management and Sharing Plan is only useful if it matches reality. The hardest work sits in the messy middle between project systems and repository delivery. Steve Slevinski helps make that path practical, structured, and finishable.",
+      "speech": "The core message is simple. A Data Management and Sharing Plan is only useful if it matches reality. The hardest work sits in the messy middle between project systems and repository delivery. This service helps make that path practical, structured, and finishable.",
       "notes": "End with calm confidence and operational clarity.",
       "image_prompt_concrete": "A clean final slide showing the complete path from local project systems to successful repository delivery, polished academic style",
       "image_prompt_abstract": "A complete pathway illuminated from start to finish"

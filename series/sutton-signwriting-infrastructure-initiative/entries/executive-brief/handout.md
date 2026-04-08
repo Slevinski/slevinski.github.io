@@ -2,11 +2,15 @@
 
 ## Executive Brief
 
-_Draft updated 2026-03-31_
-
 ## Executive Frame
 
 Sutton SignWriting is not only a writing system. It is emerging research infrastructure. That framing fits conversations with a potential PI, lab, or institutional home that could anchor its development.
+
+## Mission Statement
+
+The mission of this project is to give Sutton SignWriting a durable academic home so its existing standards, tools, datasets, and research pathways can be stabilized, studied, preserved, and extended.
+
+In practical terms, that means moving from informal stewardship of a globally used system to durable institutional care that can support research, preservation, and future growth.
 
 ## What Sutton SignWriting Is
 
@@ -14,7 +18,7 @@ Sutton SignWriting is a system for writing signed languages using a structured v
 
 It is:
 
-* modality-independent and visual rather than auditory
+* not reducible to sound and visually structured
 * expressive enough to represent full signed languages
 * used internationally across education, research, and community contexts
 * supported by a technical ecosystem of tools, encodings, and data
@@ -72,6 +76,23 @@ A stable infrastructure layer would support:
 Without infrastructure, these remain isolated efforts.
 With infrastructure, they become scalable research programs.
 
+The strongest current empirical base for that work is Brazil.
+
+The public record now supports treating Brazil as the clearest documented center of SignWriting use, teaching, and research, rather than only as one encouraging example among many.
+
+It is also the strongest currently documented large-scale real-world context for studying signed-language literacy through SignWriting.
+
+South Korea adds a different kind of strength.
+
+It provides a current official institutional proof point through the Korean Sign Language Nuri Dictionary, showing that SignWriting already appears inside public dictionary infrastructure connected to a national-language institution.
+
+That matters because it gives the infrastructure case a real evidence base:
+
+* real institutions
+* real learner populations
+* real written materials
+* real research and curricular history
+
 ## Why Now
 
 Several factors make this a timely opportunity:
@@ -81,7 +102,9 @@ Several factors make this a timely opportunity:
 * maturing technical tooling around SignWriting
 * a visible, if under-supported, global user base
 
-In addition, the technical foundation has reached a level of maturity where it can support broader research use, including corpus development, computational analysis, and integration with modern data workflows. This creates a narrow window where institutional support can convert existing work into stable, grant-ready infrastructure.
+In addition, the technical foundation has reached a level of maturity where it can support broader research use, including corpus development, computational analysis, and integration with modern data workflows. The research path is also clearer than before: reading and literacy studies, Brazil-grounded empirical work, South Korea as a current institutional proof point, and infrastructure-plus-dataset development can now be described as one connected program rather than as separate hopes.
+
+This creates a narrow window where institutional support can convert existing work into stable, grant-ready infrastructure.
 
 ## What a PI or Host Institution Would Unlock
 
@@ -95,6 +118,7 @@ This would enable:
 * systematic documentation and onboarding
 * preparation of grant proposals grounded in real assets
 * partnerships across linguistics, education, computer science, and neuroscience
+* translation and access to especially important international SignWriting works
 * long-term preservation planning
 
 The role of a PI or host lab would be to:
@@ -103,16 +127,6 @@ The role of a PI or host lab would be to:
 * guide research framing and publication
 * lead or co-lead grant development
 * support integration into existing research programs
-
-## What This Is Not
-
-This is not:
-
-* a request to invent a new writing system
-* a speculative or untested idea
-* a short-term software project
-
-It is the recognition of an existing system that has reached the point where it can support, and benefit from, formal research infrastructure.
 
 ## Closing
 

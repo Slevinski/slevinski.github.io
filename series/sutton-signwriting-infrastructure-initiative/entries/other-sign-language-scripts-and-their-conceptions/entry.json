@@ -1,0 +1,146 @@
+{
+  "slug": "other-sign-language-scripts-and-their-conceptions",
+  "number": 7,
+  "title": "Other Sign Language Scripts and Their Conceptions",
+  "subtitle": "ASL-phabet, HamNoSys, ASLwrite, and what they imply about written sign language",
+  "summary": "A concise infrastructure-facing presentation naming a few prominent sign-language script conceptions without turning them into the center of the SignWriting case.",
+  "synopsis": "SignWriting does not exist in a vacuum. A small number of other visible systems emerged from different communities and for different purposes: alphabetic literacy instruction, analytic notation, and alternate plane-based script design. This deck names those systems briefly, clarifies the different jobs they were built to do, and explains why SignWriting remains the most complete path forward for durable writing, software, standards, and long-term infrastructure.",
+  "handout": "handout.md",
+  "secondary_artifact": {
+    "file": "comparison-notes.md",
+    "label": "Comparison Notes",
+    "slug": "comparison-notes"
+  },
+  "slides": [
+    {
+      "id": "why-name-other-scripts",
+      "title": "Why Name Other Scripts",
+      "kicker": "1",
+      "summary": "A serious infrastructure proposal should acknowledge the most visible other script conceptions without letting them define the agenda.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for why other scripts should be named.",
+      "bullets": [
+        "The field is not empty",
+        "A few systems are visible enough to deserve naming",
+        "Naming them does not make them the center of the case"
+      ],
+      "speech": "SignWriting should not be framed as if it were the only attempt to write signed language. A small number of other systems are visible enough to deserve acknowledgment. Naming them clarifies the landscape. It also lets the SignWriting case remain constructive rather than reactive.",
+      "notes": "Set a calm tone. This is about orientation, not rivalry.",
+      "mermaid": "graph LR\n  A[Live Script Landscape] --> B[Name Serious Alternatives]\n  B --> C[Clarify Different Conceptions]\n  C --> D[Keep SignWriting as the Constructive Center]"
+    },
+    {
+      "id": "different-conceptions",
+      "title": "Different Conceptions of Signed Writing",
+      "kicker": "2",
+      "summary": "The visible systems differ not only in symbols, but in what they think writing signed language is for.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for different conceptions of signed writing.",
+      "bullets": [
+        "Alphabetic instruction",
+        "Scholarly notation",
+        "Plane-based script design",
+        "Durable writing and infrastructure"
+      ],
+      "speech": "The central difference is not just graphic style. It is conception. One system may treat signed writing primarily as an alphabetic teaching device. Another may function mainly as notation for linguistic description. Another may pursue a full plane-based script. SignWriting adds yet another layer by becoming not only a script, but also an infrastructure with encodings, standards, and software.",
+      "notes": "This is the typology slide, not a ranking slide. Emphasize that the systems came from different communities and design pressures.",
+      "mermaid": "graph TD\n  A[Signed Writing] --> B[Alphabetic Conception]\n  A --> C[Notation Conception]\n  A --> D[Plane-Based Script Conception]\n  D --> E[Handwriting and Script Culture]\n  A --> F[Infrastructure Conception]"
+    },
+    {
+      "id": "aslphabet",
+      "title": "ASL-phabet",
+      "kicker": "3",
+      "summary": "ASL-phabet is the most visible linear alphabetic conception in current US discourse and deserves explicit acknowledgment as part of the educational landscape.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for ASL-phabet.",
+      "bullets": [
+        "Linear alphabetic conception",
+        "Educational and literacy-oriented claims",
+        "Word-centered instructional use rather than a broad public script ecosystem",
+        "Visible enough in US academic settings to warrant mention"
+      ],
+      "speech": "ASL-phabet matters because it is visible, institutionally ambitious, and pitched as a literacy-oriented solution for signed language. It represents a linear alphabetic conception of what writing signed language should be. It is especially associated with educational claims and word-centered instructional use, which is different from building a broad public writing ecosystem around ordinary reading, writing, software, standards, and long-term continuity.",
+      "notes": "Be fair and brief. Acknowledge prominence without making it the agenda setter. Distinguish literacy tool from full public script ecosystem."
+    },
+    {
+      "id": "hamnosys",
+      "title": "HamNoSys",
+      "kicker": "4",
+      "summary": "HamNoSys is best understood as a notation-centered conception that grew out of linguistic representation needs rather than ordinary public writing.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for HamNoSys.",
+      "bullets": [
+        "Widely recognized notation name",
+        "Analytic and representational strength",
+        "Developed for linguistic representation rather than native-facing literacy culture",
+        "Different from a general native-facing writing system"
+      ],
+      "speech": "HamNoSys deserves acknowledgment because it is one of the best-known names in sign-language notation. Its strengths are analytic precision and representational detail. That matters for scholarship, but it came from a linguistic-notation tradition rather than a public script tradition. It is therefore different in purpose from an everyday writable system with broad educational and infrastructural ambitions.",
+      "notes": "Distinguish notation from ordinary writing without dismissing notation. Mention purpose and community of origin."
+    },
+    {
+      "id": "aslwrite",
+      "title": "ASLwrite",
+      "kicker": "5",
+      "summary": "ASLwrite is a second plane-based script worth naming, especially because it keeps handwriting, script culture, and spatial writing alive as live questions.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for ASLwrite.",
+      "bullets": [
+        "Plane-based writing script",
+        "Handwriting-friendly orientation",
+        "Community-driven alternate spatial script design",
+        "Early, partial encoding experiments rather than a mature public text workflow"
+      ],
+      "speech": "ASLwrite matters because it shows that SignWriting is not the only serious plane-based answer to signed writing. It also keeps the question of handwriting alive in a constructive way. As a community-driven alternate spatial script design, it is useful to acknowledge on its own terms. At the same time, its encoding path should not be overstated. What is visible so far looks early, partial, and highly specialized rather than a mature public text workflow with broad tooling, editors, or a clear implementation path.",
+      "notes": "Name it respectfully and on its own terms. Keep the tone friendly and forward-looking."
+    },
+    {
+      "id": "signwriting",
+      "title": "What SignWriting Adds",
+      "kicker": "6",
+      "summary": "SignWriting brings together plane-based writing, computational encoding, standards, software, and a real handwriting tradition in one unusually complete ecosystem.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for what SignWriting adds.",
+      "bullets": [
+        "Plane-based writing for natural signed language",
+        "Formal SignWriting as the public computational model, realized in FSW and SWU",
+        "Handwriting traditions including shorthand, cursive, and block print",
+        "Standards, software, datasets, and continuity work",
+        "A public technical ecosystem already large enough to need stewardship"
+      ],
+      "speech": "What makes SignWriting distinctive is not just that it is plane-based. It is that the writing system, its formal computational model, its encodings, its software, its standards, and its public technical ecosystem all exist together. Formal SignWriting matters here as the public computable model, with FSW and SWU carrying that model into plain text. SignWriting also has its own handwriting tradition, including shorthand, cursive, and block printing, even if that tradition has not yet reached its full future scale. That combination is what makes it an infrastructure question rather than only a script-design question.",
+      "notes": "This is the positive center slide. Make the shift from script to infrastructure explicit."
+    },
+    {
+      "id": "where-sgnw-fits",
+      "title": "Where Sgnw Fits",
+      "kicker": "7",
+      "summary": "The Sgnw script code belongs at the language-tag layer, while Formal SignWriting and its encodings belong lower in the technical stack.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for where Sgnw fits in standards.",
+      "bullets": [
+        "ISO 15924 Sgnw identifies SignWriting as a script",
+        "BCP 47 tags such as ase-Sgnw identify language plus script",
+        "FSW and SWU are two encodings of Formal SignWriting, not two different scripts",
+        "Encoding choice belongs in the format or protocol, not in the script subtag"
+      ],
+      "speech": "This standards distinction is worth stating clearly. Sgnw is the script code. A tag such as ase-Sgnw says American Sign Language written in SignWriting. It does not decide whether the text is carried in FSW or SWU. That encoding choice belongs lower in the technical stack, where Formal SignWriting defines the computable model and FSW and SWU provide two equivalent encodings. If someone devises another way to serialize SignWriting, that would still be an encoding question rather than a reason to change the script code.",
+      "notes": "Keep the levels clean. Script code names the writing system. Formal SignWriting names the computable model used here. FSW and SWU name two canonical encodings of that model."
+    },
+    {
+      "id": "why-it-matters",
+      "title": "Why This Matters for the Initiative",
+      "kicker": "8",
+      "summary": "The existence of multiple script conceptions shows that the field is alive, while SignWriting remains the strongest path for building durable public infrastructure.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for why this matters for the initiative.",
+      "bullets": [
+        "Acknowledge the landscape honestly",
+        "Stay constructive rather than reactive",
+        "Build the strongest durable path forward"
+      ],
+      "speech": "The point of naming other scripts is not to turn this initiative into a competition deck. It is to show that the field is real, active, and conceptually plural. Once that is clear, the work can return to its main task: building the strongest durable path forward for SignWriting as writing, software, standards, research support, and long-term public infrastructure.",
+      "notes": "End by returning to building, not arguing.",
+      "mermaid": "graph LR\n  A[Active Script Landscape] --> B[Honest Acknowledgment]\n  B --> C[Constructive SignWriting Program]\n  C --> D[Durable Writing Infrastructure]"
+    }
+  ]
+}

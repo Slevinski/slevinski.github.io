@@ -1,0 +1,109 @@
+{
+  "slug": "searching-signed-text",
+  "number": 5,
+  "title": "Searching Signed Text",
+  "subtitle": "Query language, matching, ranges, variance, and search logic",
+  "summary": "Canonical statement of query language, matching, ranges, variance, and signed-text search.",
+  "synopsis": "Formal SignWriting supports serious search because its query language, matching logic, ranges, and variance rules can be treated as part of a coherent technical model. This entry states the matching layer in its smallest stable form and shows how signed text becomes searchable without confusing search with grammar or rendering.",
+  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+  "cover_image_alt": "Cover image for Searching Signed Text in the Formal SignWriting series.",
+  "handout": "handout.md",
+  "secondary_artifact": {
+    "file": "technical-notes.md",
+    "label": "Technical Notes",
+    "slug": "technical-notes"
+  },
+  "publication_plan": {
+    "series": "Formal SignWriting",
+    "artifact_types": [
+      "presentation",
+      "handout",
+      "technical-notes"
+    ],
+    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
+    "zenodo_record_title_suggestion": "Searching Signed Text: Query Language, Matching, Ranges, Variance, and Search Logic",
+    "citation_stub": "Slevinski, S. (2026). Searching Signed Text: Query Language, Matching, Ranges, Variance, and Search Logic. Formal SignWriting."
+  },
+  "slides": [
+    {
+      "id": "search-layer",
+      "title": "Search Is Part of the Model",
+      "kicker": "1",
+      "summary": "Search is a first-class technical consequence of the model rather than an afterthought.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for search in Formal SignWriting.",
+      "image_prompts": {
+        "concrete": "Technical search architecture slide showing Formal SignWriting text, query strings, and result matching across a corpus, clean software-research style",
+        "abstract": "Encoded signs radiating into structured search paths and results"
+      },
+      "bullets": [
+        "Query language",
+        "Matching and filtering",
+        "Ranges and variance",
+        "Transformations from text to search"
+      ],
+      "speech": "Searching deserves its own technical treatment. Formal SignWriting does not become searchable by accident. The query language, matching logic, range handling, and variance rules all work together as part of the system's search architecture. Search is not an add-on. It is one of the clearest consequences of making signed text durable and structured.",
+      "notes": "Make the search model feel central, not auxiliary.",
+      "mermaid": "flowchart LR\n  A[Signed corpus] --> B[Structured query]\n  B --> C[Matcher]\n  C --> D[Matched signs]\n  C --> E[Matched lines]\n  D --> F[Lexicon and corpus work]\n  E --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C core;\n  class D,E node;\n  class F out;"
+    },
+    {
+      "id": "query-language",
+      "title": "A Query Language for Spatial Text",
+      "kicker": "2",
+      "summary": "Search needs a compact syntax that can express exact, general, and location-aware requests.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for a query language for signed text.",
+      "image_prompts": {
+        "concrete": "Search syntax slide showing query fragments for temporal prefix, signbox, and coordinate-aware search, precise educational layout",
+        "abstract": "Compact search language branching into multiple kinds of request"
+      },
+      "bullets": [
+        "Temporal-prefix search",
+        "Spatial-signbox search",
+        "Exact and generalized symbol keys",
+        "Coordinate-aware search forms"
+      ],
+      "speech": "The query language matters because searching signed text is not only a matter of plain substring matching. The system needs a compact syntax that can refer to sequence, signbox content, exact forms, generalized forms, and optionally to coordinates as well. That compactness is one of the signs that search belongs to the model rather than to a loose implementation layer.",
+      "notes": "Show that query is an operational language built on the model.",
+      "mermaid": "flowchart TD\n  A[Query language]\n  A --> B[Temporal prefix]\n  A --> C[Signbox content]\n  C --> D[Exact symbol key]\n  C --> E[Generalized symbol key]\n  C --> F[Coordinate-aware pattern]\n  B --> G[Ordering constraints]\n  D --> H[Precise request]\n  E --> I[Broader request]\n  F --> J[Location-sensitive request]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,C core;\n  class B,D,E,F,G node;\n  class H,I,J out;"
+    },
+    {
+      "id": "variance-ranges",
+      "title": "Tolerance Without Vagueness",
+      "kicker": "3",
+      "summary": "Search becomes practical when it can tolerate controlled variation without collapsing into vagueness.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for search ranges and variance.",
+      "image_prompts": {
+        "concrete": "Technical search slide illustrating exact match, range match, and coordinate variance around a sign, clean corpus-research style",
+        "abstract": "A tight search radius expanding carefully without losing shape"
+      },
+      "bullets": [
+        "Symbol ranges",
+        "Number ranges",
+        "Location variance",
+        "Controlled generalization"
+      ],
+      "speech": "Formal SignWriting search is powerful because it supports bounded flexibility. Search can express exact forms, but it can also express ranges, coordinate neighborhoods, and controlled generalization. That makes the system useful for corpora, lexicons, and exploratory analysis rather than only perfect-match lookup. The key is disciplined tolerance, not vagueness.",
+      "notes": "Keep the emphasis on disciplined variance.",
+      "mermaid": "flowchart LR\n  A[Exact sign form]\n  A --> B[Exact match]\n  A --> C[Symbol range]\n  A --> D[Number range]\n  A --> E[Coordinate variance]\n  C --> F[Controlled generalization]\n  D --> F\n  E --> F\n  F --> G[Useful exploratory search]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,F core;\n  class B,C,D,E node;\n  class G out;"
+    },
+    {
+      "id": "transform-search",
+      "title": "Search Is a Reproducible Pipeline",
+      "kicker": "4",
+      "summary": "Search is a pipeline that turns encoded text into structured matching behavior.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for text to query to results.",
+      "bullets": [
+        "Text to query",
+        "Query to regular expression",
+        "Matching across corpora",
+        "Search as reproducible workflow"
+      ],
+      "speech": "Transformations belong here because search is a pipeline. Existing Formal SignWriting text can be transformed into query forms, and queries can be transformed into regular expressions or equivalent matching logic. This is where the model becomes useful for reproducible corpus work and software workflows, and where the matching layer proves that it is more than a convenience feature.",
+      "notes": "End by connecting search to real data practices.",
+      "mermaid": "flowchart TD\n  A[Formal SignWriting text] --> B[Derived query]\n  B --> C[Regular expression or matcher]\n  C --> D[Matching signs]\n  C --> E[Matching lines]\n  D --> F[Counts concordances filtering]\n  E --> F\n  F --> G[Reproducible corpus workflow]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C core;\n  class D,E,F node;\n  class G out;"
+    }
+  ]
+}

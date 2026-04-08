@@ -15,9 +15,100 @@
           "number": 1,
           "title": "Data Management and Sharing Plan",
           "subtitle": "From project systems to repository delivery",
-          "summary": "An operational workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery.",
+          "summary": "An operational workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery, with a live Builder-plus-review service that helps teams start, update, and review plans.",
           "handout": "handout.md",
           "slide_count": 12
+        }
+      ]
+    },
+    {
+      "slug": "formal-signwriting",
+      "title": "Formal SignWriting",
+      "subtitle": "Plain-text encodings, grammar, search, rendering, styling, and implementation of written sign text",
+      "description": "A technical publication series on the Formal SignWriting model as durable computational text for written sign language, with a clear distinction between canonical text and presentation markup.",
+      "accepting_entries": true,
+      "home_doc": "README.md",
+      "kind": "technical-and-publication-series",
+      "entries": [
+        {
+          "slug": "formal-signwriting",
+          "legacy_slugs": [],
+          "number": 1,
+          "title": "Formal SignWriting",
+          "subtitle": "The two-part word, spatial text, and the core model",
+          "summary": "Canonical opening statement of the two-part word, spatial text, and durable computational sign text.",
+          "handout": "handout.md",
+          "slide_count": 4
+        },
+        {
+          "slug": "fsw-and-swu",
+          "legacy_slugs": [],
+          "number": 2,
+          "title": "FSW and SWU",
+          "subtitle": "Plain-text encodings, character sets, and conversion",
+          "summary": "Plain-text encodings, character sets, conversion, and canonical text boundaries.",
+          "handout": "handout.md",
+          "slide_count": 4
+        },
+        {
+          "slug": "the-shape-of-a-sign",
+          "legacy_slugs": [],
+          "number": 3,
+          "title": "The Shape of a Sign",
+          "subtitle": "Symbols, coordinates, centering, and the signbox",
+          "summary": "Canonical statement of symbols, coordinates, centering, and signbox structure.",
+          "handout": "handout.md",
+          "slide_count": 4
+        },
+        {
+          "slug": "grammar-of-formal-signwriting",
+          "legacy_slugs": [],
+          "number": 4,
+          "title": "Grammar of Formal SignWriting",
+          "subtitle": "Token patterns, syntax, and valid structure",
+          "summary": "Token patterns, syntax, regular expressions, and well-formed Formal SignWriting text.",
+          "handout": "handout.md",
+          "slide_count": 4
+        },
+        {
+          "slug": "searching-signed-text",
+          "legacy_slugs": [],
+          "number": 5,
+          "title": "Searching Signed Text",
+          "subtitle": "Query language, matching, ranges, variance, and search logic",
+          "summary": "Canonical statement of query language, matching, ranges, variance, and signed-text search.",
+          "handout": "handout.md",
+          "slide_count": 4
+        },
+        {
+          "slug": "rendering-formal-signwriting",
+          "legacy_slugs": [],
+          "number": 6,
+          "title": "Rendering Formal SignWriting",
+          "subtitle": "SVG, fonts, layout, and output models",
+          "summary": "Canonical statement of SVG, fonts, layout, and output models kept distinct from canonical text.",
+          "handout": "handout.md",
+          "slide_count": 4
+        },
+        {
+          "slug": "styling-signs",
+          "legacy_slugs": [],
+          "number": 7,
+          "title": "Styling Signs",
+          "subtitle": "The style string as light markup for customization and rich presentation",
+          "summary": "The style string as optional light markup for customization and rich presentation.",
+          "handout": "handout.md",
+          "slide_count": 4
+        },
+        {
+          "slug": "formal-signwriting-in-practice",
+          "legacy_slugs": [],
+          "number": 8,
+          "title": "Formal SignWriting in Practice",
+          "subtitle": "Libraries, datasets, transformations, and implementation pathways",
+          "summary": "Canonical statement of libraries, datasets, transformations, and real implementation pathways.",
+          "handout": "handout.md",
+          "slide_count": 4
         }
       ]
     },
@@ -36,7 +127,7 @@
           "number": 1,
           "title": "Executive Brief",
           "subtitle": "Sutton SignWriting as research infrastructure",
-          "summary": "A concise forwardable presentation for PI and institutional conversations about Sutton SignWriting as existing infrastructure that needs durable support.",
+          "summary": "A concise forwardable presentation that states the mission, institutional problem, and opportunity around Sutton SignWriting infrastructure.",
           "handout": "handout.md",
           "slide_count": 8
         },
@@ -46,7 +137,7 @@
           "number": 2,
           "title": "Initiative Overview",
           "subtitle": "Research Infrastructure and Collaboration Opportunity",
-          "summary": "A concise overview of Sutton SignWriting as globally used but institutionally fragile research infrastructure.",
+          "summary": "A collaboration-facing overview of the partnerships, program lanes, and institutional value around Sutton SignWriting infrastructure.",
           "handout": "handout.md",
           "slide_count": 6
         },
@@ -61,9 +152,49 @@
           "slide_count": 11
         },
         {
-          "slug": "international-shared-support",
+          "slug": "brazil-as-the-empirical-center-of-signwriting",
           "legacy_slugs": [],
           "number": 4,
+          "title": "Brazil as the Empirical Center of SignWriting",
+          "subtitle": "Documented institutional density, research opportunity, and why Brazil matters",
+          "summary": "A compact evidence brief showing why Brazil is the strongest documented empirical center for SignWriting use, instruction, and future research.",
+          "handout": "handout.md",
+          "slide_count": 7
+        },
+        {
+          "slug": "south-korea-as-a-current-institutional-proof-point",
+          "legacy_slugs": [],
+          "number": 5,
+          "title": "South Korea as a Current Institutional Proof Point",
+          "subtitle": "National dictionary publication, current institutional use, and why Korea matters now",
+          "summary": "A compact evidence brief showing that SignWriting is already present inside a public Korean Sign Language dictionary published by the National Institute of Korean Language.",
+          "handout": "handout.md",
+          "slide_count": 7
+        },
+        {
+          "slug": "research-program-for-literacy-without-sound",
+          "legacy_slugs": [],
+          "number": 6,
+          "title": "Research Program for Literacy Without Sound",
+          "subtitle": "What gets studied next, why Brazil matters, and what infrastructure makes it possible",
+          "summary": "A practical infrastructure-facing brief that turns the science framing into a buildable SignWriting research program without turning the project into a comparison contest.",
+          "handout": "handout.md",
+          "slide_count": 11
+        },
+        {
+          "slug": "other-sign-language-scripts-and-their-conceptions",
+          "legacy_slugs": [],
+          "number": 7,
+          "title": "Other Sign Language Scripts and Their Conceptions",
+          "subtitle": "ASL-phabet, HamNoSys, ASLwrite, and what they imply about written sign language",
+          "summary": "A concise infrastructure-facing presentation naming a few prominent sign-language script conceptions without turning them into the center of the SignWriting case.",
+          "handout": "handout.md",
+          "slide_count": 8
+        },
+        {
+          "slug": "international-shared-support",
+          "legacy_slugs": [],
+          "number": 8,
           "title": "International Shared Support",
           "subtitle": "International Shared Support and Partnership Framework",
           "summary": "An international support model combining University of Iowa backing, partner relationships, and country ambassadors.",
@@ -73,7 +204,7 @@
         {
           "slug": "country-ambassadors",
           "legacy_slugs": [],
-          "number": 5,
+          "number": 9,
           "title": "Country Ambassadors",
           "subtitle": "Country-level outreach, translation, and institutional relationship-building",
           "summary": "A volunteer-first country ambassador model for outreach, translation, and institutional relationship-building.",
@@ -86,10 +217,10 @@
       "slug": "the-science-of-sutton-signwriting",
       "title": "The Science of Sutton SignWriting",
       "subtitle": "Language, literacy, brain pathways, and SignWriting as research infrastructure",
-      "description": "A research and publication series on the science of signed language, written sign, literacy, and the infrastructure needed to study them well.",
+      "description": "A research series on the science of signed language, written sign, literacy, and the infrastructure needed to study them well.",
       "accepting_entries": true,
       "home_doc": "README.md",
-      "kind": "research-and-publication-series",
+      "kind": "research-series",
       "entries": [
         {
           "slug": "language-without-sound",
@@ -128,15 +259,15 @@
           "number": 1,
           "title": "Outreach Memo",
           "subtitle": "A concise University of Iowa summary of the full opportunity",
-          "summary": "A short University of Iowa-facing bridge presentation for internal forwarding, summarizing the immediate lab-home need, Steve's practical value, and the larger infrastructure path.",
+          "summary": "A short University of Iowa-facing routing memo for internal forwarding, summarizing the opportunity and directing readers to the right next conversation.",
           "handout": "handout.md",
-          "slide_count": 7
+          "slide_count": 5
         },
         {
-          "slug": "immediate-lab-home",
+          "slug": "lab-home",
           "legacy_slugs": [],
           "number": 2,
-          "title": "Immediate Lab Home",
+          "title": "Lab Home",
           "subtitle": "A practical path from 0 percent placement to grants and infrastructure",
           "summary": "A PI-facing presentation arguing that a lab home now is the first small decision that makes continuity, salary support, DMS collaborations, grant writing, and future infrastructure possible.",
           "handout": "handout.md",
@@ -157,7 +288,7 @@
         {
           "slug": "sutton-signwriting-infrastructure-initiative",
           "legacy_slugs": [],
-          "number": 5,
+          "number": 4,
           "title": "Sutton SignWriting Infrastructure Initiative",
           "subtitle": "A path to shared research infrastructure at the University of Iowa",
           "summary": "A University of Iowa-facing presentation about turning Sutton SignWriting from fragile independent stewardship into durable shared research infrastructure.",
@@ -167,17 +298,17 @@
         {
           "slug": "infrastructure-core-and-philanthropy",
           "legacy_slugs": [],
-          "number": 6,
+          "number": 5,
           "title": "Infrastructure Core and Philanthropy",
           "subtitle": "A durable University of Iowa home for global SignWriting infrastructure",
           "summary": "A University of Iowa-facing presentation framing the Sutton SignWriting Infrastructure Core as a philanthropic opportunity that complements the lab-home, operational-value, and grant-development structure.",
           "handout": "handout.md",
-          "slide_count": 16
+          "slide_count": 17
         },
         {
           "slug": "relevant-precedents-and-institutional-pathways",
           "legacy_slugs": [],
-          "number": 7,
+          "number": 6,
           "title": "Relevant Precedents and Institutional Pathways",
           "subtitle": "What comparable university models suggest for SignWriting at Iowa",
           "summary": "A University of Iowa-facing presentation using language, archive, sign-language, and data-infrastructure precedents to show that SignWriting follows a recognizable institutional path rather than requiring a speculative leap.",

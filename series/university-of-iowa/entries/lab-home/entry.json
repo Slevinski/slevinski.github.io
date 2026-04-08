@@ -1,10 +1,10 @@
 {
-  "slug": "immediate-lab-home",
+  "slug": "lab-home",
   "number": 2,
-  "title": "Immediate Lab Home",
+  "title": "Lab Home",
   "subtitle": "A practical path from 0 percent placement to grants and infrastructure",
   "summary": "A PI-facing presentation arguing that a lab home now is the first small decision that makes continuity, salary support, DMS collaborations, grant writing, and future infrastructure possible.",
-  "synopsis": "Place Steve Slevinski in a lab now, even at 0 percent if necessary, so that practical work can begin immediately and broader support can grow around that home. The ask stays disciplined, the PI benefit stays clear, and placement becomes the first structure that unlocks continuity, future grants, DMS value, and the larger Sutton SignWriting infrastructure path.",
+  "synopsis": "Place Steve Slevinski in a lab now, even at 0 percent if necessary, so that practical work can begin immediately and broader support can grow around that home. The deck keeps the PI ask narrow and disciplined: placement first, broader support second, and the larger infrastructure story only as the consequence of making the right first move.",
   "handout": "handout.md",
   "links": [
     {
@@ -21,18 +21,18 @@
   "slides": [
     {
       "id": "why-now",
-      "title": "Why This Matters Now",
+      "title": "The First Step",
       "kicker": "1",
-      "summary": "The immediate need is a lab home now because that first institutional placement creates continuity, lowers the activation energy for support, and makes every larger step more credible.",
+      "summary": "The immediate need is not a mature center. It is a lab home now, because that first institutional placement creates continuity and makes every larger step more credible.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the immediate timing and opportunity.",
       "bullets": [
         "A lab home is needed now",
         "That home creates the base for everything that follows"
       ],
-      "speech": "This conversation is happening now because the immediate need is not a fully built center. It is a lab home. A lab placement creates continuity, gives the work an institutional base, and makes the next steps far more credible.",
-      "notes": "Open with practical urgency and make the first ask feel modest.",
-      "mermaid": "graph TD\n  A[Immediate Need] --> B[Immediate Lab Home]\n  B --> C[Institutional Base]\n  C --> D[Future Growth]"
+      "speech": "This conversation is happening now because the immediate need is not a fully built center. It is a lab home. A lab placement creates continuity, gives the work an institutional base, and makes the next steps far more credible. This deck stays on that first institutional decision.",
+      "notes": "Open with practical urgency, make the first ask feel modest, and keep the deck narrowly PI-facing.",
+      "mermaid": "graph TD\n  A[Immediate Need] --> B[Lab Home]\n  B --> C[Institutional Base]\n  C --> D[Future Growth]"
     },
     {
       "id": "what-zero-percent-means",
@@ -63,7 +63,7 @@
         "Cross-project technical and workflow support",
         "A platform for future grants and collaborations"
       ],
-      "speech": "This is not only an act of generosity. A PI gains practical help with DMS planning, project workflows, repository preparation, and future grant development. The lab becomes a place where useful work starts happening immediately.",
+      "speech": "This is not only an act of generosity. A PI gains practical help with DMS planning, project workflows, repository preparation, and future grant development. The lab becomes a place where useful work starts happening immediately, and the broader operational case can be developed further through Steve Slevinski Value.",
       "notes": "Keep the value local to the PI's projects, deadlines, and team needs.",
       "mermaid": "graph LR\n  A[Lab Home] --> B[DMS Help]\n  A --> C[Repository Support]\n  A --> D[Grant Development]\n  A --> E[Future Collaborations]"
     },

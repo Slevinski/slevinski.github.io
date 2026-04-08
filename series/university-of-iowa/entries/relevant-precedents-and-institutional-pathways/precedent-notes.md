@@ -1,6 +1,6 @@
-# Relevant Precedents and Institutional Pathways Addendum
+# Relevant Precedents and Institutional Pathways Precedent Notes
 
-_Companion addendum for **Relevant Precedents and Institutional Pathways**_
+_Institutional examples and precedent framing behind the Iowa case_
 
 Each example below plays a different role in the larger argument, and each precedent is strongest in a different place.
 

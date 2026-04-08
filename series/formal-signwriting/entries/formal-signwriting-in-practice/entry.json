@@ -1,0 +1,109 @@
+{
+  "slug": "formal-signwriting-in-practice",
+  "number": 8,
+  "title": "Formal SignWriting in Practice",
+  "subtitle": "Libraries, datasets, transformations, and implementation pathways",
+  "summary": "Canonical statement of libraries, datasets, transformations, and real implementation pathways.",
+  "synopsis": "The specification matters most when it supports real libraries, transformations, datasets, corpora, and implementation pathways. This entry states the stewardship layer in its smallest stable form and connects the model to the broader software and data ecosystem.",
+  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+  "cover_image_alt": "Cover image for Formal SignWriting in Practice in the Formal SignWriting series.",
+  "handout": "handout.md",
+  "secondary_artifact": {
+    "file": "technical-notes.md",
+    "label": "Technical Notes",
+    "slug": "technical-notes"
+  },
+  "publication_plan": {
+    "series": "Formal SignWriting",
+    "artifact_types": [
+      "presentation",
+      "handout",
+      "technical-notes"
+    ],
+    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
+    "zenodo_record_title_suggestion": "Formal SignWriting in Practice: Libraries, Datasets, and Implementation Pathways",
+    "citation_stub": "Slevinski, S. (2026). Formal SignWriting in Practice: Libraries, Datasets, and Implementation Pathways. Formal SignWriting."
+  },
+  "slides": [
+    {
+      "id": "implementation-pathways",
+      "title": "Formal SignWriting in Practice",
+      "kicker": "1",
+      "summary": "The technical model becomes durable when it is connected to real libraries, datasets, and implementation paths.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for Formal SignWriting in practice.",
+      "image_prompts": {
+        "concrete": "Research-software ecosystem graphic showing libraries, corpora, rendering, and shared tools connected through Formal SignWriting, clean and modern",
+        "abstract": "One technical model branching into software, data, and maintenance pathways"
+      },
+      "bullets": [
+        "Libraries and packages",
+        "Transformations and interoperability",
+        "Datasets and corpus work",
+        "Implementation and maintenance pathways"
+      ],
+      "speech": "A technical model should not end at abstract specification. Formal SignWriting has to be legible as a working implementation ecosystem, with libraries, datasets, transformations, and maintainable software paths. This is where the model becomes something future builders can inherit rather than rediscover.",
+      "notes": "Connect the model to the actual ecosystem around it.\n- libraries\n- corpora and datasets\n- transformations\n- maintenance paths",
+      "mermaid": "flowchart TD\n  A[Formal SignWriting model] --> B[Libraries]\n  A --> C[Datasets and corpora]\n  A --> D[Rendering and tools]\n  A --> E[Maintenance pathways]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A core;\n  class B,C,D,E node;"
+    },
+    {
+      "id": "libraries-and-packages",
+      "title": "Real Libraries Make the Model Usable",
+      "kicker": "2",
+      "summary": "A serious technical model should be traceable through real software artifacts.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for libraries and packages in practice.",
+      "image_prompts": {
+        "concrete": "Research software slide showing core processing libraries, rendering packages, and web components connected to Formal SignWriting, clean ecosystem diagram",
+        "abstract": "A technical model turning into reusable tools and packages"
+      },
+      "bullets": [
+        "Core libraries across JavaScript, Python, and PHP",
+        "Font and rendering packages",
+        "Web Components",
+        "Shared technical resources"
+      ],
+      "speech": "Formal SignWriting matters more when it can be located in real software across more than one language and environment. Core libraries in JavaScript, Python, and PHP, together with font and rendering packages and reusable Web Components, turn the model into something that builders can reuse, maintain, and extend rather than only read about. The ecosystem becomes part of the technical record.",
+      "notes": "Keep the connection to actual tooling concrete.\n- JavaScript, Python, and PHP core libraries\n- font and rendering packages\n- reusable Web Components",
+      "mermaid": "flowchart TD\n  A[Formal SignWriting]\n\n  A --> J[JavaScript]\n  A --> P[Python]\n  A --> H[PHP]\n\n  J --> J1[\"@sutton-signwriting/core\"]\n  J1 --> J2[\"@sutton-signwriting/font-ttf\\n@sutton-signwriting/font-db\"]\n  J2 --> J3[\"@sutton-signwriting/sgnw-components\"]\n\n  P --> P1[\"sutton-signwriting-core\"]\n  P1 --> P2[\"sutton-signwriting-font\"]\n\n  H --> H1[\"sutton-signwriting/core\"]\n\n  J1 --> G[Processing and conversion]\n  P1 --> G\n  H1 --> G\n\n  J2 --> I[SVG PNG and standalone graphics]\n  P2 --> I\n\n  J3 --> K[Web Components]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A core;\n  class J,P,H,J1,J2,J3,P1,P2,H1 node;\n  class G,I,K out;"
+    },
+    {
+      "id": "data-and-workflows",
+      "title": "Corpora Give the Model Consequences",
+      "kicker": "3",
+      "summary": "The model becomes most valuable when it supports real collections, annotations, and reproducible workflows.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for corpora and workflows in practice.",
+      "image_prompts": {
+        "concrete": "Technical workflow slide showing lexicons, corpora, annotation pipelines, and search results built on Formal SignWriting, scholarly software design",
+        "abstract": "Many signed data workflows converging into a reproducible technical practice"
+      },
+      "bullets": [
+        "Corpora and lexicons",
+        "Annotation pipelines",
+        "Transformation workflows",
+        "Search and reproducibility"
+      ],
+      "speech": "This is where the formal model proves itself outside isolated examples. It can support corpora, lexicons, annotation workflows, search pipelines, and reproducible technical practice. Those are not side effects. They are part of the reason the model matters, because they show what durable technical text makes possible.",
+      "notes": "Tie practice to real research and maintenance value.",
+      "mermaid": "flowchart LR\n  A[Formal SignWriting text] --> B[Corpora]\n  A --> C[Lexicons]\n  A --> D[Annotation]\n  A --> E[Search workflows]\n  B --> F[Reproducible research]\n  C --> F\n  D --> F\n  E --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,F core;\n  class B,C,D,E node;"
+    },
+    {
+      "id": "maintenance-path",
+      "title": "A Maintainable Technical Home",
+      "kicker": "4",
+      "summary": "Future builders need a stable model, a legible ecosystem, and a path forward.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for maintenance and continuity.",
+      "bullets": [
+        "Canonical versus derived data",
+        "Interoperability across generations",
+        "Publication as maintenance strategy",
+        "Future-facing technical stewardship"
+      ],
+      "speech": "Formal SignWriting in practice is ultimately about stewardship. A durable model needs maintainable distinctions, clean transformations, and implementation habits that future builders can actually use. That is how technical continuity survives across packages, tools, and software generations, and how the perimeter can keep growing without destabilizing the center.",
+      "notes": "Finish on continuity in practice.\n- canonical versus derived data\n- clean transformations\n- maintainable implementations\n- future builders inherit a legible system",
+      "mermaid": "flowchart LR\n  A[Canonical model] --> B[Implementations]\n  B --> C[Software generations]\n  C --> D[Future builders]\n  A --> E[Stable technical guidance]\n  E --> D\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,E,D core;\n  class B,C node;"
+    }
+  ]
+}

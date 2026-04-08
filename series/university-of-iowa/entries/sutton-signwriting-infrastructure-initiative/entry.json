@@ -1,10 +1,10 @@
 {
   "slug": "sutton-signwriting-infrastructure-initiative",
-  "number": 5,
+  "number": 4,
   "title": "Sutton SignWriting Infrastructure Initiative",
   "subtitle": "A path to shared research infrastructure at the University of Iowa",
   "summary": "A University of Iowa-facing presentation about turning Sutton SignWriting from fragile independent stewardship into durable shared research infrastructure.",
-  "synopsis": "Sutton SignWriting is already functioning as globally used infrastructure for signed language literacy, education, and research, but it remains structurally fragile. The deck emphasizes existing value, current continuity risk, stewardship needs, and the case for institutionally housed, grant-supported infrastructure at the University of Iowa.",
+  "synopsis": "Assuming the immediate practical case for Steve Slevinski is already understood, this deck addresses the longer-horizon institutional question. Sutton SignWriting is already functioning as globally used infrastructure for signed language literacy, education, and research, but it remains structurally fragile. The deck emphasizes continuity risk, stewardship needs, research lanes, and the case for institutionally housed, grant-supported infrastructure at the University of Iowa.",
   "handout": "handout.md",
   "links": [
     {
@@ -26,40 +26,40 @@
   "slides": [
     {
       "id": "what-this-is",
-      "title": "What This Initiative Is",
+      "title": "The Institutional Question",
       "kicker": "1",
-      "summary": "The initiative is a path from fragile independent maintenance to durable shared research infrastructure built on stewardship, continuity, and collaboration.",
+      "summary": "Assuming the practical case for Steve and a lab home is already understood, the institutional question is how SignWriting moves from fragile independent maintenance to durable shared research infrastructure.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the infrastructure initiative overview.",
       "bullets": [
-        "Institutionally housed",
-        "Grant-funded and collaboration-ready",
+        "Assume the practical case is already established",
+        "Institutionally housed and collaboration-ready",
         "Built for long-term educational and research use"
       ],
-      "speech": "The Sutton SignWriting Infrastructure Initiative moves from fragile independent stewardship toward durable shared research infrastructure. It does more than preserve what exists. It creates a stronger institutional base for research, education, software stewardship, and future growth.",
-      "notes": "Open with the mission clearly and confidently.",
+      "speech": "The Sutton SignWriting Infrastructure Initiative addresses the longer-horizon institutional question. Sutton SignWriting moves from fragile independent stewardship toward durable shared research infrastructure. It does more than preserve what exists. It creates a stronger institutional base for research, education, software stewardship, and future growth.",
+      "notes": "Open with the mission clearly and confidently, and make clear this deck is not re-making the practical case from zero.",
       "mermaid": "graph TD\n  A[Fragile Independent Maintenance] --> B[Institutional Home]\n  B --> C[Grant Funding]\n  C --> D[Durable Shared Research Infrastructure]"
     },
     {
       "id": "what-signwriting-is",
-      "title": "What Sutton SignWriting Is",
+      "title": "What Sutton SignWriting Enables",
       "kicker": "2",
-      "summary": "Sutton SignWriting is a writing system for signed languages with real global use in education, language work, software, and research.",
+      "summary": "Sutton SignWriting is a writing system for signed languages that enables durable written, searchable, and research-usable signed language text.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for Sutton SignWriting overview.",
       "bullets": [
-        "A writing system for signed languages",
-        "Used in education, literacy, and research",
-        "Supports visual language in written form"
+        "Makes signed language writable and editable",
+        "Supports literacy, data, and structured reuse",
+        "Already used in education, language work, software, and research"
       ],
-      "speech": "Sutton SignWriting is a writing system for signed languages. It makes signed language writable, editable, shareable, and structurally analyzable. That matters educationally, linguistically, and scientifically because it creates forms of literacy and data that would otherwise remain harder to stabilize and study.",
-      "notes": "Assume some people know almost nothing about it and orient them quickly.",
+      "speech": "Sutton SignWriting is a writing system for signed languages. It makes signed language writable, editable, shareable, and structurally analyzable. That matters here because it creates forms of literacy and data that would otherwise remain harder to stabilize and study.",
+      "notes": "Orient quickly and emphasize the functional value that makes infrastructure possible.",
       "image_prompt_concrete": "Page of Sutton SignWriting symbols in a clean educational layout, paired with signing hands and written notation, academic style",
       "image_prompt_abstract": "Signed movement crystallizing into written marks on a bright page"
     },
     {
       "id": "why-it-matters",
-      "title": "Why It Matters",
+      "title": "Why It Matters As Infrastructure",
       "kicker": "3",
       "summary": "This work matters because it touches literacy, accessibility, language science, cultural documentation, and the digital infrastructure needed to support signed language text.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",

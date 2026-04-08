@@ -10,11 +10,15 @@ The human brain does not require speech in order to build language.
 
 It requires accessible linguistic input.
 
+This does not mean that actual language use is disembodied or that modality makes no difference.
+
+It means that human language is not reducible to sound, and that core linguistic organization can be reached through different embodied modalities.
+
 > The brain is waiting for language, not for one privileged sensory channel.
 
 A second claim follows:
 
-> if language is modality-independent, then literacy depends on whether a language has durable readable and writable pathways
+> if language is not reducible to sound, then literacy depends on whether a language has durable readable and writable pathways
 
 That is where signed languages face a structural gap, and where SignWriting becomes important.
 
@@ -331,7 +335,7 @@ It points toward:
 
 The strongest claims are:
 
-- language is modality-independent
+- human language is not reducible to sound and can be reached through different embodied modalities
 - sign languages are full natural languages
 - literacy does not require sound and does not require vision alone
 - signed languages benefit from durable written pathways just as spoken languages and Braille users do
@@ -349,7 +353,7 @@ The disciplined claim is:
 
 ## Implication
 
-If language is modality-independent,
+If language is not reducible to sound,
 and if literacy depends on durable readable and writable systems,
 then signed languages require written pathways in order to participate more fully in education, research, and technology.
 
@@ -373,8 +377,4 @@ It is to build and sustain the infrastructure that allows them to function as wr
 **Sutton SignWriting Infrastructure Initiative**  
 University of Iowa
 
-Seeking:
-
-- Principal Investigators
-- Grant collaborators
-- Research integration partners
+Collaboration is welcome from researchers, PIs, and institutional partners who can help test, extend, and sustain this work.

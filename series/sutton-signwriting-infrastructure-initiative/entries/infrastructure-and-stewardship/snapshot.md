@@ -1,6 +1,6 @@
-# Infrastructure Snapshot
+# Infrastructure and Stewardship Snapshot
 
-_Companion addendum for **Infrastructure and Stewardship**_
+_Companion snapshot for **Infrastructure and Stewardship**_
 
 ## Snapshot Purpose
 

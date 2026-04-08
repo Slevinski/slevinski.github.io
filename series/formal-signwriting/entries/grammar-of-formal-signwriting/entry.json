@@ -1,0 +1,109 @@
+{
+  "slug": "grammar-of-formal-signwriting",
+  "number": 4,
+  "title": "Grammar of Formal SignWriting",
+  "subtitle": "Token patterns, syntax, and valid structure",
+  "summary": "Token patterns, syntax, regular expressions, and well-formed Formal SignWriting text.",
+  "synopsis": "Formal SignWriting becomes reliable technical text when its token patterns, syntax, and valid structures are stated clearly. This entry states what counts as well-formed text before search, rendering, or implementation begin.",
+  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+  "cover_image_alt": "Cover image for Grammar of Formal SignWriting in the Formal SignWriting series.",
+  "handout": "handout.md",
+  "secondary_artifact": {
+    "file": "technical-notes.md",
+    "label": "Technical Notes",
+    "slug": "technical-notes"
+  },
+  "publication_plan": {
+    "series": "Formal SignWriting",
+    "artifact_types": [
+      "presentation",
+      "handout",
+      "technical-notes"
+    ],
+    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
+    "zenodo_record_title_suggestion": "Grammar of Formal SignWriting: Token Patterns, Syntax, and Valid Structure",
+    "citation_stub": "Slevinski, S. (2026). Grammar of Formal SignWriting: Token Patterns, Syntax, and Valid Structure. Formal SignWriting."
+  },
+  "slides": [
+    {
+      "id": "grammar-layer",
+      "title": "Validity Before Search",
+      "kicker": "1",
+      "summary": "Grammar defines what counts as well-formed text before search or rendering begins.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for grammar and validity.",
+      "image_prompts": {
+        "concrete": "Academic technical slide showing a valid Formal SignWriting string, token grouping, and a validation check, white background, clear standards-style layout",
+        "abstract": "A string resolving into a well-formed structural pattern, precise and scholarly"
+      },
+      "bullets": [
+        "Well-formed text",
+        "Structure before search",
+        "Structure before rendering",
+        "Validation as a layer"
+      ],
+      "speech": "This entry isolates the grammar layer so it can do its own work. Formal SignWriting needs a clear account of what makes a string well formed. That question comes before query, rendering, or implementation details, and it deserves a dedicated artifact.",
+      "notes": "Keep the deck focused on structure and validity rather than drifting into search.",
+      "mermaid": "flowchart TD\n  A[Formal SignWriting string] --> B[Token patterns]\n  B --> C[Valid structure]\n  C --> D[Renderable and searchable text]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,C core;\n  class B,D node;"
+    },
+    {
+      "id": "token-families",
+      "title": "Token Families Make Structure Legible",
+      "kicker": "2",
+      "summary": "Grammar begins by naming the technical roles of the token families.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for token families and structural roles.",
+      "image_prompts": {
+        "concrete": "Technical teaching slide showing Formal SignWriting tokens grouped by structural markers, symbols, and coordinates, clean standards-style layout",
+        "abstract": "A dense string separating into understandable structural families"
+      },
+      "bullets": [
+        "Structural markers",
+        "Symbol forms",
+        "Coordinate forms",
+        "Relations between parts"
+      ],
+      "speech": "The grammar layer clarifies how the two-part word is built from technical pieces. Some tokens mark structure, some define symbols, and some define coordinates or coordinate-like forms. The point is not only listing them. The point is showing how they combine into a valid architecture.",
+      "notes": "This slide should make the token layer feel legible before the regular expressions appear.",
+      "mermaid": "flowchart TD\n  A[Token families]\n  A --> B[Structural markers]\n  A --> C[Symbol keys]\n  A --> D[Coordinates]\n  B --> E[Prefix and signbox boundaries]\n  C --> F[Symbol identity]\n  D --> G[Spatial placement]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A core;\n  class B,C,D node;\n  class E,F,G out;"
+    },
+    {
+      "id": "well-formed-word",
+      "title": "A Word Is Valid or It Is Not",
+      "kicker": "3",
+      "summary": "Grammar explains how prefix, signbox, symbols, and coordinates fit together.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for a well-formed Formal SignWriting word.",
+      "image_prompts": {
+        "concrete": "Validation slide comparing a complete well formed Formal SignWriting sign and an incomplete malformed one, academic software presentation style",
+        "abstract": "One structure locking into place while another falls apart"
+      },
+      "bullets": [
+        "Optional temporal prefix",
+        "Required signbox structure",
+        "Spatial symbol patterns",
+        "Validity of combination"
+      ],
+      "speech": "The key grammatical question is not whether individual tokens exist. It is whether they combine into a valid Formal SignWriting word. The grammar has to make clear what can appear in the prefix, what belongs in the signbox, and how symbols and coordinates are allowed to relate to one another.",
+      "notes": "This is the heart of the deck.",
+      "mermaid": "flowchart LR\n  A[Optional temporal prefix] --> C[Full Formal SignWriting word]\n  B[Required signbox] --> C\n  B --> D[Placed symbols with coordinates]\n  C --> E[Valid sign]\n  A --> F[Prefix fragment if alone]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class C core;\n  class A,B,D node;\n  class F risk;\n  class E out;"
+    },
+    {
+      "id": "regex-as-operations",
+      "title": "Regular Expressions Make Grammar Operational",
+      "kicker": "4",
+      "summary": "Regular expressions matter because they make the grammar processable rather than merely descriptive.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for regular expressions in grammar.",
+      "bullets": [
+        "Pattern matching",
+        "Validation workflows",
+        "Processing pipelines",
+        "Foundation for later layers"
+      ],
+      "speech": "Regular expressions matter here because they let the grammar operate in software. They do not replace the conceptual account, but they give it an operational form. Once the grammar is stated this way, later layers can validate against it, search can build from it, and rendering can assume it.",
+      "notes": "Close by pointing forward to search and implementation rather than trying to teach all regex detail on one slide.",
+      "mermaid": "flowchart TD\n  A[Grammar description] --> B[Regular expressions]\n  B --> C[Validation]\n  B --> D[Tokenization]\n  B --> E[Software handling]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D,E out;"
+    }
+  ]
+}

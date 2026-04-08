@@ -1,12 +1,16 @@
 {
   "slug": "relevant-precedents-and-institutional-pathways",
-  "number": 7,
+  "number": 6,
   "title": "Relevant Precedents and Institutional Pathways",
   "subtitle": "What comparable university models suggest for SignWriting at Iowa",
   "summary": "A University of Iowa-facing presentation using language, archive, sign-language, and data-infrastructure precedents to show that SignWriting follows a recognizable institutional path rather than requiring a speculative leap.",
   "synopsis": "The SignWriting proposal fits a familiar institutional pattern. In multiple cases, a technically mature language or data resource already existed before a university provided a credible home, practical shared capacity, and grant leverage that allowed the effort to scale into durable infrastructure. These precedents clarify the ask for SignWriting, the value it already provides, and why Iowa can be understood as the next natural home rather than the origin point.",
   "handout": "handout.md",
-  "addendum": "addendum.md",
+  "secondary_artifact": {
+    "file": "precedent-notes.md",
+    "label": "Precedent Notes",
+    "slug": "precedent-notes"
+  },
   "links": [
     {
       "label": "ICPSR History",
@@ -84,7 +88,7 @@
       ],
       "speech": "These precedents do not need to be exact matches. What matters is that the path itself is recognizable. Mature assets exist first, a university provides a credible home, practical capacity grows around that home, and durable infrastructure follows.",
       "notes": "Keep the framing grounded in pattern recognition rather than overclaiming.",
-      "mermaid": "graph LR\n  A[Existing Asset Base] --> B[Institutional Home]\n  B --> C[Shared Technical Capacity]\n  C --> D[Grant and Funding Leverage]\n  D --> E[Durable Infrastructure]"
+      "mermaid": "graph TD\n  A[Existing Asset Base] --> B[Institutional Home]\n  B --> C[Shared Technical Capacity]\n  C --> D[Grant and Funding Leverage]\n  D --> E[Durable Infrastructure]"
     },
     {
       "id": "repeatable-pattern",
@@ -207,7 +211,7 @@
       ],
       "speech": "The ask is not to fund a mature center immediately. It is to give SignWriting a credible Iowa home, use Steve as shared technical capacity now, and let salary support, project support, grants, and philanthropy grow around that real structure.",
       "notes": "Translate the precedents directly into the Iowa action path.",
-      "mermaid": "graph LR\n  A[PI Lab Home] --> B[Shared Capacity]\n  B --> C[Project Support]\n  C --> D[Grant Development]\n  D --> E[Philanthropic Continuity]\n  E --> F[Infrastructure Core]"
+      "mermaid": "graph TD\n  A[PI Lab Home] --> B[Shared Capacity]\n  B --> C[Project Support]\n  C --> D[Grant Development]\n  D --> E[Philanthropic Continuity]\n  E --> F[Infrastructure Core]"
     },
     {
       "id": "what-signwriting-provides",

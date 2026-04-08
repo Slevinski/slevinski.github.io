@@ -1,12 +1,16 @@
 {
   "slug": "infrastructure-core-and-philanthropy",
-  "number": 6,
+  "number": 5,
   "title": "Infrastructure Core and Philanthropy",
   "subtitle": "A durable University of Iowa home for global SignWriting infrastructure",
   "summary": "A University of Iowa-facing presentation framing the Sutton SignWriting Infrastructure Core as a philanthropic opportunity that complements the lab-home, operational-value, and grant-development structure.",
-  "synopsis": "The long-term infrastructure conversation becomes clearer for development, institutional strategy, and philanthropic audiences when it starts with what already exists. Sutton SignWriting already functions as globally used language infrastructure, the current stewardship model is too fragile, and a focused philanthropic investment at the University of Iowa could establish a durable core for continuity, staffing, global coordination, and future research integration.",
+  "synopsis": "The long-term infrastructure conversation becomes clearer for development, institutional strategy, and philanthropic audiences when it starts with what already exists. Sutton SignWriting already functions as globally used language infrastructure, the current stewardship model is too fragile, and a focused philanthropic investment at the University of Iowa could establish a durable core for continuity, staffing, global coordination, translation and access work, and future research integration.",
   "handout": "handout.md",
-  "addendum": "addendum.md",
+  "secondary_artifact": {
+    "file": "operational-notes.md",
+    "label": "Operational Notes",
+    "slug": "operational-notes"
+  },
   "powerpoint": "Sutton_SignWriting_Infrastructure_Core_and_Philanthropy.pptx",
   "links": [
     {
@@ -119,23 +123,40 @@
       "id": "what-the-core-includes",
       "title": "What the Core Includes",
       "kicker": "7",
-      "summary": "The proposed core would support standards, software, datasets, and global coordination as an integrated stewardship unit.",
+      "summary": "The proposed core would support standards, software, datasets, translation and access, and global coordination as an integrated stewardship unit.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for what the infrastructure core includes.",
       "bullets": [
         "Standards",
         "Software",
         "Data",
+        "Translation and access",
         "Coordination"
       ],
-      "speech": "The Infrastructure Core would provide stewardship across standards, software, data, and coordination rather than treating each as a separate problem.",
+      "speech": "The Infrastructure Core would provide stewardship across standards, software, data, translation and access, and coordination rather than treating each as a separate problem. This matters because some of the most important SignWriting work already exists but remains hard to reach across language barriers and uneven digital access.",
       "notes": "Make the core feel concrete and operational.",
-      "mermaid": "graph TD\n  A[Infrastructure Core] --> B[Standards]\n  A --> C[Software]\n  A --> D[Datasets]\n  A --> E[Global Coordination]"
+      "mermaid": "graph LR\n  A[Infrastructure Core] --> B[Standards]\n  A --> C[Software]\n  A --> D[Datasets]\n  A --> E[Translation and Access]\n  A --> F[Global Coordination]"
+    },
+    {
+      "id": "translation-access",
+      "title": "Translation and Access Program",
+      "kicker": "8",
+      "summary": "A rights-aware translation program could make especially important SignWriting works accessible in English while returning useful editions to original authors and communities.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for translation and access program.",
+      "bullets": [
+        "Priority works identified and licensed",
+        "AI-assisted translation with human review",
+        "Online, print, or co-published access"
+      ],
+      "speech": "One especially practical function of the Infrastructure Core would be a translation and access program. The goal would not be to translate everything. It would be to identify high-value works, secure permission, produce AI-assisted translations with human editorial review, and then make those translations available in ways the original authors and communities support. That could include online hosting, print editions, or co-publication.",
+      "notes": "Keep this program selective, rights-aware, and collaborative rather than extractive.",
+      "mermaid": "graph TD\n  A[Priority Work] --> B[Permission and Rights]\n  B --> C[AI-Assisted Translation]\n  C --> D[Human Review]\n  D --> E[Online or Print Access]"
     },
     {
       "id": "staffing-model",
       "title": "Staffing Model",
-      "kicker": "8",
+      "kicker": "9",
       "summary": "The staffing plan is intentionally focused: technical leadership, PI partnership, continuity support, operations, and research assistance.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for staffing model.",
@@ -150,7 +171,7 @@
     {
       "id": "global-layer",
       "title": "Global Layer",
-      "kicker": "9",
+      "kicker": "10",
       "summary": "Country ambassadors extend the core by building local relationships, cultural adaptation, and international access around the institutional home.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the global ambassador layer.",
@@ -166,7 +187,7 @@
     {
       "id": "philanthropy-role",
       "title": "Philanthropy Role",
-      "kicker": "10",
+      "kicker": "11",
       "summary": "Philanthropy is especially well suited to provide continuity, stability, and long-horizon support where grants alone do not cover the full stewardship burden.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for philanthropy role.",
@@ -182,23 +203,24 @@
     {
       "id": "what-a-gift-enables",
       "title": "What a Gift Enables",
-      "kicker": "11",
-      "summary": "A significant gift can establish core staffing, continuity, global coordination, and the shared infrastructure needed for lasting research readiness.",
+      "kicker": "12",
+      "summary": "A significant gift can establish core staffing, continuity, global coordination, translation and access capacity, and the shared infrastructure needed for lasting research readiness.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for what a gift enables.",
       "bullets": [
         "Core staffing",
         "Infrastructure",
         "Global coordination",
+        "Translation and access",
         "Symposium"
       ],
-      "speech": "A gift at the right scale can create staffing, continuity, coordination, and event capacity that are durable rather than temporary.",
+      "speech": "A gift at the right scale can create staffing, continuity, coordination, translation and access capacity, and event support that are durable rather than temporary. This is part of what makes philanthropy especially valuable here: it can support connective infrastructure that grants often leave unfunded.",
       "notes": "Keep the tone concrete and future-facing."
     },
     {
       "id": "symposium",
       "title": "Symposium",
-      "kicker": "12",
+      "kicker": "13",
       "summary": "An annual SignWriting symposium would create visibility, legitimacy, and a recurring international gathering point for research, education, and community use.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for annual symposium concept.",
@@ -213,7 +235,7 @@
     {
       "id": "layered-model",
       "title": "Layered Model",
-      "kicker": "13",
+      "kicker": "14",
       "summary": "The strongest structure is layered: lab home, operational value, grant development, and philanthropy working together rather than competing.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the layered support model.",
@@ -230,7 +252,7 @@
     {
       "id": "why-iowa",
       "title": "Why Iowa",
-      "kicker": "14",
+      "kicker": "15",
       "summary": "The University of Iowa is well positioned because the proposal aligns accessibility, linguistics, research data infrastructure, and collaboration.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for why Iowa fits.",
@@ -246,7 +268,7 @@
     {
       "id": "the-outcome",
       "title": "The Outcome",
-      "kicker": "15",
+      "kicker": "16",
       "summary": "With support, the result is durable infrastructure, global impact, and stewardship that can outlast any single individual or moment.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the long-term outcome.",

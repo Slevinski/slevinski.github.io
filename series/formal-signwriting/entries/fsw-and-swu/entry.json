@@ -1,0 +1,109 @@
+{
+  "slug": "fsw-and-swu",
+  "number": 2,
+  "title": "FSW and SWU",
+  "subtitle": "Plain-text encodings, character sets, and conversion",
+  "summary": "Plain-text encodings, character sets, conversion, and canonical text boundaries.",
+  "synopsis": "Formal SignWriting depends on clear plain-text encodings. This entry explains FSW and SWU as two technical encodings of the same model, clarifies the usual canonical role of FSW in processing, and frames conversion as part of the encoding layer rather than the rendering layer.",
+  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+  "cover_image_alt": "Cover image for FSW and SWU in the Formal SignWriting series.",
+  "handout": "handout.md",
+  "secondary_artifact": {
+    "file": "technical-notes.md",
+    "label": "Technical Notes",
+    "slug": "technical-notes"
+  },
+  "publication_plan": {
+    "series": "Formal SignWriting",
+    "artifact_types": [
+      "presentation",
+      "handout",
+      "technical-notes"
+    ],
+    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
+    "zenodo_record_title_suggestion": "FSW and SWU: Plain-Text Encodings, Character Sets, and Conversion",
+    "citation_stub": "Slevinski, S. (2026). FSW and SWU: Plain-Text Encodings, Character Sets, and Conversion. Formal SignWriting."
+  },
+  "slides": [
+    {
+      "id": "encoding-layer",
+      "title": "Two Plain-Text Encodings, One Model",
+      "kicker": "1",
+      "summary": "FSW and SWU are plain-text encodings of the same technical model, not two different theories of writing.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for FSW and SWU as two encodings of one model.",
+      "image_prompts": {
+        "concrete": "Technical comparison graphic showing one sign represented in FSW and SWU side by side, connected to one underlying model, white background, elegant software-standards design",
+        "abstract": "Two text streams converging on one stable underlying structure"
+      },
+      "bullets": [
+        "Encoding before rendering",
+        "Two encodings, one model",
+        "Plain text, not display logic",
+        "Canonical boundaries"
+      ],
+      "speech": "Before we get deeper into geometry, grammar, or rendering, we need the encoding layer to be clear. FSW and SWU are technical encodings of Formal SignWriting text. They belong to the formal model. They are not rendering shortcuts and they are not presentation markup. In current stewardship practice, FSW is usually the canonical internal form, while SWU remains available for Unicode-oriented input, output, and interchange.",
+      "notes": "Settle the layer model early.\n- encodings belong to the architecture\n- rendering and styling come later\n- character strategy does not change the model",
+      "mermaid": "flowchart LR\n  A[Formal SignWriting model] --> B[FSW]\n  A --> C[SWU]\n  B --> D[Plain-text processing]\n  C --> D\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A core;\n  class B,C,D node;"
+    },
+    {
+      "id": "character-sets",
+      "title": "Character Strategy Changes, Structure Does Not",
+      "kicker": "2",
+      "summary": "The difference between FSW and SWU is in the character strategy, not in the underlying structure.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for character strategy in FSW and SWU.",
+      "image_prompts": {
+        "concrete": "Comparison slide with an FSW string and an SWU string aligned beneath the same sign architecture diagram, academic software style, white background",
+        "abstract": "Different character surfaces revealing one unchanged inner structure"
+      },
+      "bullets": [
+        "ASCII-oriented FSW",
+        "Unicode-oriented SWU",
+        "Same sign model",
+        "Same technical layers downstream"
+      ],
+      "speech": "FSW and SWU differ in character strategy, but they carry the same architectural commitments forward. Both preserve the same core model. Both support the same downstream questions about validity, search, rendering, and implementation. The choice of encoding does not redefine the underlying system, even if particular platforms prefer FSW internally and offer SWU at the edges.",
+      "notes": "Keep the distinction sharp but calm. The point is continuity, not competition.",
+      "mermaid": "flowchart TD\n  A[Formal SignWriting structure]\n  A --> B[FSW character strategy]\n  A --> C[SWU character strategy]\n  B --> D[ASCII-oriented text]\n  C --> E[Unicode-oriented text]\n  D --> F[Same underlying sign]\n  E --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,F core;\n  class B,C,D,E node;"
+    },
+    {
+      "id": "conversion",
+      "title": "Conversion Is a Promise of Interoperability",
+      "kicker": "3",
+      "summary": "Conversion matters because the model remains legible across multiple textual forms.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for FSW and SWU conversion.",
+      "image_prompts": {
+        "concrete": "Technical interoperability slide showing FSW and SWU converting back and forth with one stable sign in the center, clean scholarly layout",
+        "abstract": "Two textual forms circulating around one preserved sign identity"
+      },
+      "bullets": [
+        "Bi-directional conversion",
+        "Continuity across workflows",
+        "Encoding-level interoperability",
+        "Not a rendering concern"
+      ],
+      "speech": "Conversion belongs naturally in this entry because it is part of the encoding story. The point is not only that conversion is possible. The point is that the model remains coherent across multiple textual forms. That continuity matters for storage, interchange, software generations, and technical maintenance.",
+      "notes": "This slide should make conversion feel foundational rather than incidental.",
+      "mermaid": "flowchart LR\n  A[FSW] <--> B[SWU]\n  A --> C[Archives]\n  A --> D[Processing workflows]\n  B --> E[Unicode storage]\n  B --> F[Display ecosystems]\n  C --> G[Same sign model]\n  D --> G\n  E --> G\n  F --> G\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,G core;\n  class C,D,E,F node;"
+    },
+    {
+      "id": "markup-boundary",
+      "title": "Where Canonical Text Ends",
+      "kicker": "4",
+      "summary": "The style string is presentation markup, not part of canonical sign text.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for canonical text versus markup.",
+      "bullets": [
+        "FSW commonly canonical internally",
+        "Style string is optional",
+        "Text and presentation are distinct",
+        "Architecture stays cleaner"
+      ],
+      "speech": "One of the central distinctions should be made early. FSW and SWU are core text encodings of the same model. In current stewardship practice, FSW is commonly the canonical internal form, while SWU remains available for Unicode-oriented interchange. The style string is optional light markup for presentation and customization. That distinction protects the technical architecture from being flattened into display concerns and keeps the model much clearer for implementers.",
+      "notes": "Use a markup analogy carefully. The goal is to clarify layers, not overstate equivalence with HTML.",
+      "mermaid": "flowchart TD\n  A[Canonical text] --> B[FSW]\n  A --> C[SWU]\n  D[Presentation layer] --> E[Style string]\n  B --> F[Stable architecture]\n  C --> F\n  E --> G[Optional customization]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,D,F,G core;\n  class B,C,E node;"
+    }
+  ]
+}

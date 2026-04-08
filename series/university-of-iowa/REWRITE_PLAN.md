@@ -20,7 +20,7 @@ This document tracks the rebuild of the University of Iowa presentation series i
 
 ### Phase 3 — Deck Production
 
-- [x] Create `Immediate Lab Home`
+- [x] Create `Lab Home`
 - [x] Rewrite `Steve Slevinski Value`
 - [x] Expand `Data Management and Sharing Plan`
 - [x] Rewrite `Sutton SignWriting Infrastructure Initiative`
@@ -29,7 +29,7 @@ This document tracks the rebuild of the University of Iowa presentation series i
 ### Phase 4 — Visual Development
 
 - [x] Define that decks should use Mermaid and image prompts where helpful
-- [ ] Build Mermaid diagrams for `Immediate Lab Home`
+- [ ] Build Mermaid diagrams for `Lab Home`
 - [x] Build Mermaid diagrams for `Steve Slevinski Value`
 - [x] Build Mermaid diagrams for `Data Management and Sharing Plan`
 - [x] Build Mermaid diagrams for `Sutton SignWriting Infrastructure Initiative`
@@ -38,8 +38,8 @@ This document tracks the rebuild of the University of Iowa presentation series i
 
 ### Phase 5 — Writing Depth
 
-- [x] Write a stand-alone handout for `Immediate Lab Home`
-- [x] Write developed speech and notes for `Immediate Lab Home`
+- [x] Write a stand-alone handout for `Lab Home`
+- [x] Write developed speech and notes for `Lab Home`
 - [x] Write developed handout for `Steve Slevinski Value`
 - [x] Write developed handout for `Data Management and Sharing Plan`
 - [x] Write developed handout for `Sutton SignWriting Infrastructure Initiative`
@@ -47,7 +47,7 @@ This document tracks the rebuild of the University of Iowa presentation series i
 
 ### Phase 6 — Integration and Build
 
-- [x] Add `Immediate Lab Home` to the University of Iowa series
+- [x] Add `Lab Home` to the University of Iowa series
 - [x] Review series README after all rewrites are complete
 - [x] Run full build after each major deck rewrite
 - [ ] Do final rendering review for all decks
@@ -63,7 +63,7 @@ This document tracks the rebuild of the University of Iowa presentation series i
 
 ## Decks
 
-### 1. Immediate Lab Home
+### 1. Lab Home
 
 Audience:
 - PI for Monday conversation

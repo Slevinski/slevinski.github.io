@@ -6,7 +6,11 @@
   "summary": "A presentation defining Sutton SignWriting as existing infrastructure with real assets, active stewardship, and identifiable continuity risks.",
   "synopsis": "The infrastructure conversation becomes stronger when it moves from general concern to concrete authority. Sutton SignWriting already includes domains, servers, software, datasets, and standards under active stewardship, and the central challenge is now stabilization, documentation, and institutionalization rather than initial creation.",
   "handout": "handout.md",
-  "addendum": "addendum.md",
+  "secondary_artifact": {
+    "file": "snapshot.md",
+    "label": "Snapshot",
+    "slug": "snapshot"
+  },
   "slides": [
     {
       "id": "from-fragility-to-stewardship",
@@ -26,19 +30,19 @@
     },
     {
       "id": "why-authority-matters",
-      "title": "Why This Needs a More Concrete Inventory",
+      "title": "Confirmed Asset Classes",
       "kicker": "2",
-      "summary": "Public descriptions are useful, but the stewardship case becomes stronger when the actual asset classes and responsibilities are named directly.",
+      "summary": "The stewardship case rests on named asset classes that are already in operation and already require continuity work.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for internal authority and asset inventory.",
       "bullets": [
-        "Public visibility is only part of the story",
-        "Internal stewardship knowledge changes the institutional reading",
-        "Concrete inventory turns concern into credibility"
+        "Domains and public web presence",
+        "Servers, software, and platform systems",
+        "Datasets, corpora, standards, and continuity responsibilities"
       ],
-      "speech": "A public-facing description can say that SignWriting matters and appears to be fragile. That is helpful, but it stops short of authority. Once the real asset classes are named directly, including domains, servers, code, data, and standards, the conversation changes. A PI or administrator can see that this is real infrastructure already in operation.",
-      "notes": "This is clarification, not escalation.",
-      "mermaid": "graph TD\n  A[Public Description] --> B[Important but Incomplete]\n  C[Internal Asset Knowledge] --> D[Concrete Stewardship View]\n  B --> E[General Concern]\n  D --> F[Institutional Credibility]"
+      "speech": "The stewardship case becomes stronger when the asset classes are named directly. This is not only a public story about something that appears important. It is a concrete infrastructure picture that includes domains, servers, code, data, standards, and continuity responsibilities already in operation. Once those asset classes are visible, the institutional reading becomes much clearer.",
+      "notes": "Keep this concrete and transitional. It should point directly into the inventory that follows.",
+      "mermaid": "graph TD\n  A[Domains and Public Sites] --> F[Confirmed Asset Classes]\n  B[Servers and Platform Systems] --> F\n  C[Software and Code] --> F\n  D[Datasets and Corpora] --> F\n  E[Standards and Continuity] --> F\n  F --> G[Institutional Credibility]"
     },
     {
       "id": "domains-and-web",
