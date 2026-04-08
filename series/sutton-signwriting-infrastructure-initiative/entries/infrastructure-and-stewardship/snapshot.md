@@ -13,7 +13,7 @@ It distills the larger handout into a compact institutional view of:
 * where the main risks sit
 * what a host institution would actually be taking on
 
-A PI, administrator, or collaborator should be able to see in a few minutes that Sutton SignWriting is already operating as infrastructure.
+A PI, administrator, or collaborator should be able to see in a few minutes that Sutton SignWriting already has real systems, real assets, and real support needs.
 
 ## Snapshot Summary
 
@@ -29,15 +29,17 @@ It already exists as a coordinated infrastructure across:
 
 The central institutional task is not invention.
 
-It is:
+In plain terms, it is:
 
 > **stabilization, documentation, and institutionalization**
+
+That means keeping existing systems running, documenting them clearly, and giving them stronger institutional support.
 
 ## Asset Classes
 
 ### 1. Domains and Public Web Presence
 
-Current stewardship includes a portfolio of domains such as:
+Current maintenance includes a portfolio of domains such as:
 
 * SignWriting
 * SignPuddle
@@ -111,7 +113,7 @@ Current stewardship already follows a clear lineage:
 * Steve Slevinski: technical steward, encoding architect, and maintainer
 * next-generation continuity path: identified but still too informal
 
-This means continuity exists, but it is not yet institutionally strong enough for the scale of the assets involved.
+This means continuity exists, but the support model is not yet strong enough for the scale of the assets involved.
 
 ## Immediate Risk Areas
 
@@ -123,7 +125,7 @@ The main risks are structural:
 * limited redundancy across systems and responsibilities
 * preservation risk for domains, data, and services
 
-These are typical signs of infrastructure that has grown faster than its institutional support.
+These are typical signs of infrastructure that has grown faster than the support around it.
 
 ## What a Host Institution Would Be Doing
 
@@ -145,7 +147,7 @@ The clearest institutional conclusion is this:
 
 > Sutton SignWriting has already crossed the line from interesting project to real infrastructure.
 
-The remaining question is whether that infrastructure will remain dependent on an informal stewardship model or receive the durable academic and technical home its current value now warrants.
+The remaining question is whether that infrastructure will remain dependent on an informal maintenance model or receive the stronger academic and technical home its current value now warrants.
 
 ## Bottom Line
 

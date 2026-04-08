@@ -42,7 +42,7 @@
         "Plain text, not display logic",
         "Canonical boundaries"
       ],
-      "speech": "Before we get deeper into geometry, grammar, or rendering, we need the encoding layer to be clear. FSW and SWU are technical encodings of Formal SignWriting text. They belong to the formal model. They are not rendering shortcuts and they are not presentation markup. In current stewardship practice, FSW is usually the canonical internal form, while SWU remains available for Unicode-oriented input, output, and interchange.",
+      "speech": "Before we get deeper into sign layout, grammar, or rendering, we need the encoding layer to be clear. FSW and SWU are technical encodings of Formal SignWriting text. They belong to the formal model. They are not rendering shortcuts and they are not presentation markup. In current stewardship practice, FSW is usually the canonical internal form, while SWU remains available for Unicode-oriented input, output, and interchange.",
       "notes": "Settle the layer model early.\n- encodings belong to the architecture\n- rendering and styling come later\n- character strategy does not change the model",
       "mermaid": "flowchart LR\n  A[Formal SignWriting model] --> B[FSW]\n  A --> C[SWU]\n  B --> D[Plain-text processing]\n  C --> D\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A core;\n  class B,C,D node;"
     },

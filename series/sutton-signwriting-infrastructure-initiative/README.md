@@ -1,12 +1,12 @@
 # Sutton SignWriting Infrastructure Initiative
 
-*A presentation and handout series for infrastructure, partnership, and sustainability framing*
+*A presentation and handout series for explaining what already exists, what is at risk, and what support would help*
 
-This series is for materials that explain Sutton SignWriting as shared infrastructure, especially for institutional collaboration, international partnership, and long-term sustainability.
+This series is for materials that explain Sutton SignWriting as an existing system that now needs stronger long-term support, especially for institutional collaboration, international partnership, and continuity.
 
 At the top level, the project mission is simple:
 
-> give Sutton SignWriting a durable academic home so its existing standards, tools, datasets, and research pathways can be stabilized, studied, preserved, and extended
+> give Sutton SignWriting a stable academic home so its existing standards, tools, datasets, and research pathways can be maintained, studied, preserved, and extended
 
 It should help a reader answer four questions quickly:
 
@@ -36,9 +36,9 @@ Use this first when:
 Main job:
 
 - state the mission clearly
-- establish the infrastructure framing quickly
+- establish quickly that this is an existing system that needs support
 - show that the asset base already exists
-- clarify that the missing layer is durable institutional support
+- clarify that the missing layer is stable institutional support
 
 ### 2. Initiative Overview
 
@@ -50,7 +50,7 @@ Use this when:
 
 Main job:
 
-- frame SignWriting as globally used but still fragile infrastructure
+- frame SignWriting as globally used but still supported too informally
 - show why a PI or academic home matters
 - introduce grants, collaboration, and Platform V3 in a balanced way
 
@@ -66,7 +66,7 @@ Main job:
 
 - make the domains, servers, code, data, and standards visible
 - show that there is already active stewardship and continuity responsibility
-- explain why the real task is stabilization, documentation, and institutionalization
+- explain why the real task is stabilization, documentation, and stronger institutional support
 
 ## Supporting briefs
 
@@ -125,7 +125,7 @@ Main job:
 
 - distinguish notation, alphabetic, and plane-based script conceptions
 - acknowledge visible alternatives calmly and accurately
-- return the focus to SignWriting as the strongest durable infrastructure path
+- return the focus to SignWriting as the strongest long-term support path
 
 ## Operational global materials
 
@@ -136,6 +136,7 @@ Use this when:
 - the conversation is about partnership beyond one institution
 - international collaborators need to see how they fit
 - the audience is thinking about support letters, shared participation, or global continuity
+- the core institutional case is already understood and the conversation is moving into partner structure
 
 Main job:
 
@@ -150,6 +151,7 @@ Use this when:
 - the discussion becomes operational at the country level
 - local outreach, translation, or relationship-building needs to be explained
 - someone wants to understand the volunteer-first international model
+- the audience is already supportive enough for country-level coordination to be a serious topic
 
 Main job:
 

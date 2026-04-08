@@ -1,12 +1,12 @@
 # **Sutton SignWriting Infrastructure Initiative**
 
-**Research Infrastructure and Collaboration Opportunity**
+**What already exists, why it matters now, and where collaboration fits**
 
 ## **Overview**
 
 This document is the collaboration-facing overview of the Sutton SignWriting Infrastructure Initiative.
 
-Sutton SignWriting is already a globally used writing and technical ecosystem for signed languages, but its digital infrastructure is still maintained through a support model that is too informal and limited for its current value and reach.
+Sutton SignWriting is already a globally used writing and technical ecosystem for signed languages, but the support around its tools, data, and public systems is still too limited for its current value and reach.
 
 Brazil is especially important here because it is not only a place of use. It is the strongest currently documented empirical center for SignWriting, with a public record of institutional use, educational practice, research activity, and written materials that can support future study and partnership.
 
@@ -14,15 +14,15 @@ It is also the strongest documented large-scale context currently visible for st
 
 South Korea adds a different kind of strength.
 
-It is now a current institutional proof point, because SignWriting appears inside the Korean Sign Language Nuri Dictionary published through the National Institute of Korean Language.
+It is now a current public proof point, because SignWriting appears inside the Korean Sign Language Nuri Dictionary published through the National Institute of Korean Language.
 
 ## **Current Situation**
 
-SignWriting functions as critical infrastructure for a global user base but depends on **individual maintenance and limited resources**.
+SignWriting already supports real users, but too much of that support still depends on **individual maintenance and limited resources**.
 
 A recent outage disrupted educational programs in Brazil, highlighting both its importance and its vulnerability.
 
-> The system is now at a transition point and requires institutional collaboration to ensure long-term sustainability.
+> The system is now at a transition point and needs stronger institutional collaboration to stay reliable and grow.
 
 ## **Program Lanes**
 
@@ -32,7 +32,7 @@ The clearest lanes are:
 
 * reading and literacy studies using written sign text
 * Brazil-grounded institutional and materials work
-* Korea-grounded institutional documentation and partnership work
+* Korea-grounded documentation and partnership work
 * corpus, dataset, and annotation infrastructure that makes the science cumulative
 * translation and access for especially important international SignWriting works
 
@@ -45,21 +45,19 @@ These lanes align naturally with:
 
 ## **Collaboration Focus**
 
-* **Grant Development**
-  NIH, NSF, NEH, and international proposals
+The most natural collaboration lanes are:
 
-* **Administered Giving**
-  University of Iowa-administered giving for continuity, hosting, and bridge support when appropriate
+* **Grant development and research framing**
+  NIH, NSF, NEH, and international proposals tied to literacy, cognition, language, and infrastructure
 
-* **Research Integration**
-  literacy, cognition, and cross-modal language studies
-  AI/translation using structured representations
+* **Research integration**
+  alignment with existing labs and programs in literacy, cognition, visual language, AI, and translation
 
-* **Translation and Access**
+* **Translation and access**
   rights-aware translation of especially important international SignWriting works into English with author and publisher permission
 
-* **Institutional Alignment**
-  alignment with existing labs, staffing structures, and collaboration models
+* **Continuity support**
+  institutional hosting, administered support pathways where appropriate, and longer-term stewardship planning
 
 ## **Platform Development**
 
@@ -74,7 +72,7 @@ These lanes align naturally with:
 
 * access to a globally used linguistic system
 * access to a stronger documented Brazil-centered evidence base
-* access to a current Korean institutional proof point
+* access to a current Korean public proof point
 * new research and funding opportunities
 * alignment with accessibility and language equity initiatives
 * connection to international partners (Brazil, Mexico, South Korea, and beyond)
@@ -91,8 +89,8 @@ Seeking faculty interested in:
 
 * serving as PI or co-investigator
 * developing grant proposals
-* helping shape administered giving pathways through the University of Iowa where appropriate
 * integrating SignWriting into research programs
+* helping shape longer-term institutional support pathways where appropriate
 
 ## **Contact**
 

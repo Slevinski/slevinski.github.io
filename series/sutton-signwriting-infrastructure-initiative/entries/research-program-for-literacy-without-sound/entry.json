@@ -2,9 +2,9 @@
   "slug": "research-program-for-literacy-without-sound",
   "number": 6,
   "title": "Research Program for Literacy Without Sound",
-  "subtitle": "What gets studied next, why Brazil matters, and what infrastructure makes it possible",
-  "summary": "A practical infrastructure-facing brief that turns the science framing into a buildable SignWriting research program without turning the project into a comparison contest.",
-  "synopsis": "The next useful move is not more abstract defense of signed writing and not a head-to-head script competition. It is a concrete SignWriting-centered research program. This deck defines the main study lanes, the most realistic early studies, the role of Brazil as the strongest current empirical center, the infrastructure needed to support the work, and what a host institution would make possible.",
+  "subtitle": "What could be studied next, why Brazil matters, and what support would make it possible",
+  "summary": "A practical brief that turns the science framing into a buildable SignWriting research program without turning the project into a comparison contest.",
+  "synopsis": "The next useful move is not more abstract defense of signed writing and not a head-to-head script competition. It is a concrete SignWriting-centered research program. This deck defines the main study lanes, the most realistic early studies, the role of Brazil as the strongest current empirical center, the data and support needed to carry the work, and what a host institution would make possible.",
   "handout": "handout.md",
   "secondary_artifact": {
     "file": "program-notes.md",
@@ -16,7 +16,7 @@
       "id": "from-framing-to-program",
       "title": "From Framing to Program",
       "kicker": "1",
-      "summary": "The science framing is strongest when it leads to a concrete research program rather than stopping at conceptual justification.",
+      "summary": "The science framing is strongest when it leads to concrete studies rather than stopping at conceptual justification.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for research program transition.",
       "bullets": [
@@ -24,7 +24,7 @@
         "Build a practical study program around SignWriting",
         "Move from possibility to evidence"
       ],
-      "speech": "The science framing already does an important job. It establishes that language does not require sound, that literacy is a durable symbolic expansion, and that plane-based writing deserves serious attention. The next task is different. It is to define what gets studied next, where the strongest evidence base already exists, and what infrastructure is required to turn SignWriting from a compelling theory into a scalable research program.",
+      "speech": "The science framing already does an important job. It establishes that language does not require sound, that literacy is a durable symbolic expansion, and that plane-based writing deserves serious attention. The next task is different. It is to define what gets studied next, where the strongest evidence base already exists, and what data, tools, and support are required to turn SignWriting from a compelling theory into a scalable research program.",
       "notes": "Open by clarifying that this document follows the science series rather than replacing it.",
       "mermaid": "graph LR\n  A[Science Framing] --> B[Research Program]\n  B --> C[Studies]\n  B --> D[Infrastructure]\n  B --> E[Evidence]"
     },
@@ -47,15 +47,15 @@
       "id": "three-lanes",
       "title": "Three Research Lanes",
       "kicker": "3",
-      "summary": "The most useful structure is a three-lane program connecting literacy, Brazil, and infrastructure.",
+      "summary": "The most useful structure is a three-lane program connecting literacy, Brazil, and shared data-and-tool work.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for three research lanes.",
       "bullets": [
         "Reading and literacy",
         "Brazil as empirical center",
-        "Infrastructure and datasets"
+        "Data, tools, and reusable materials"
       ],
-      "speech": "The cleanest structure is a three-lane program. First, a reading and literacy lane focused on SignWriting as text. Second, a Brazil lane grounded in the strongest currently documented real-world ecosystem. Third, an infrastructure and dataset lane that builds the corpora, tools, and reusable materials needed to make the science cumulative rather than one-off.",
+      "speech": "The cleanest structure is a three-lane program. First, a reading and literacy lane focused on SignWriting as text. Second, a Brazil lane grounded in the strongest currently documented real-world ecosystem. Third, a data-and-tool lane that builds the corpora, tasks, and reusable materials needed to make the science cumulative rather than one-off.",
       "notes": "This is the organizing slide. Keep it simple.",
       "mermaid": "graph TD\n  A[Research Program] --> B[Reading and Literacy]\n  A --> C[Brazil Empirical Center]\n  A --> D[Infrastructure and Datasets]\n  B --> E[Evidence]\n  C --> E\n  D --> E"
     },
@@ -93,7 +93,7 @@
       "id": "infrastructure-lane",
       "title": "Infrastructure and Dataset Lane",
       "kicker": "6",
-      "summary": "The science becomes much stronger when texts, corpora, tasks, and tools are built as shared infrastructure rather than one-off project artifacts.",
+      "summary": "The science becomes much stronger when texts, corpora, tasks, and tools are built as shared resources rather than one-off project artifacts.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for infrastructure and dataset lane.",
       "bullets": [
@@ -101,7 +101,7 @@
         "Reusable reading stimuli and task design",
         "Shared tools for annotation, search, and analysis"
       ],
-      "speech": "The infrastructure lane is what prevents the science from remaining fragmented. If texts, corpora, tasks, and software are built as shared infrastructure, later studies become easier to replicate, compare, and extend. Without that lane, every study risks becoming an isolated artifact. With it, the program begins to accumulate.",
+      "speech": "The data-and-tool lane is what prevents the science from remaining fragmented. If texts, corpora, tasks, and software are built as shared resources, later studies become easier to replicate, compare, and extend. Without that lane, every study risks becoming an isolated artifact. With it, the program begins to accumulate.",
       "notes": "Emphasize cumulative science."
     },
     {
@@ -154,7 +154,7 @@
       "id": "what-a-host-institution-enables",
       "title": "What a Host Institution Enables",
       "kicker": "10",
-      "summary": "A host institution would let the research and infrastructure lanes reinforce each other instead of developing separately.",
+      "summary": "A host institution would let the research lane and the data-support lane reinforce each other instead of developing separately.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for host institution role in the research program.",
       "bullets": [
@@ -162,22 +162,22 @@
         "Data stewardship and documentation",
         "Grant framing across literacy, linguistics, CS, and neuroscience"
       ],
-      "speech": "A host institution matters because it connects the study lanes to actual capacity. Partnership building, ethics-ready study design, data stewardship, documentation, and grant framing all become easier when there is a credible academic home. This is where the research program and the infrastructure initiative converge.",
+      "speech": "A host institution matters because it connects the study lanes to actual capacity. Partnership building, ethics-ready study design, data stewardship, documentation, and grant framing all become easier when there is a credible academic home. This is where the research program and the support work around it converge.",
       "notes": "Tie back to Iowa/infrastructure lane without making it Iowa-specific."
     },
     {
       "id": "bottom-line",
       "title": "Bottom Line",
       "kicker": "11",
-      "summary": "The most useful next move is a SignWriting-centered research program that is empirical, infrastructure-aware, and modest enough to begin now.",
+      "summary": "The most useful next move is a SignWriting-centered research program that is empirical, support-aware, and modest enough to begin now.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for research program bottom line.",
       "bullets": [
         "Build evidence for SignWriting",
         "Use Brazil as the strongest current base",
-        "Let infrastructure make the science cumulative"
+        "Let shared data and tools make the science cumulative"
       ],
-      "speech": "The bottom line is simple. A more concrete scientific program is a good idea if it stays SignWriting-centered, uses Brazil as the strongest current empirical base, and treats infrastructure as part of the science rather than as an afterthought. That is specific enough to begin now and strong enough to grow later.",
+      "speech": "The bottom line is simple. A more concrete scientific program is a good idea if it stays SignWriting-centered, uses Brazil as the strongest current empirical base, and treats data, tools, and support as part of the science rather than as an afterthought. That is specific enough to begin now and strong enough to grow later.",
       "notes": "End with confidence and restraint.",
       "mermaid": "graph LR\n  A[SignWriting-Centered Program] --> B[Brazil Empirical Base]\n  A --> C[Infrastructure]\n  B --> D[Early Studies]\n  C --> D\n  D --> E[Cumulative Evidence]"
     }

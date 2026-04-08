@@ -2,7 +2,7 @@
 
 *A technical publication series*
 
-Formal SignWriting is the technical record for written sign text as durable computational text.
+Formal SignWriting is the technical record for sign text that can be stored, searched, checked, and processed by software without losing the written form.
 
 Its central claim is simple:
 
@@ -60,7 +60,7 @@ These definitions should stay stable even as tools, examples, and appendices gro
 
 ## Current Canon and Reading Order
 
-- **Formal SignWriting** — the two-part word, spatial text, and the core model
+- **Formal SignWriting** — the two-part word, sign text, and the core model
 - **FSW and SWU** — plain-text encodings, character sets, and conversion
 - **The Shape of a Sign** — symbols, coordinates, centering, and the signbox
 - **Grammar of Formal SignWriting** — token patterns, syntax, and valid structure

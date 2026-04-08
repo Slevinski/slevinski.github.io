@@ -84,7 +84,7 @@
         "Transformation workflows",
         "Search and reproducibility"
       ],
-      "speech": "This is where the formal model proves itself outside isolated examples. It can support corpora, lexicons, annotation workflows, search pipelines, and reproducible technical practice. Those are not side effects. They are part of the reason the model matters, because they show what durable technical text makes possible.",
+      "speech": "This is where the formal model proves itself outside isolated examples. It can support corpora, lexicons, annotation workflows, search pipelines, and reproducible technical practice. Those are not side effects. They are part of the reason the model matters, because they show what text that can be stored, searched, and reused across tools makes possible.",
       "notes": "Tie practice to real research and maintenance value.",
       "mermaid": "flowchart LR\n  A[Formal SignWriting text] --> B[Corpora]\n  A --> C[Lexicons]\n  A --> D[Annotation]\n  A --> E[Search workflows]\n  B --> F[Reproducible research]\n  C --> F\n  D --> F\n  E --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,F core;\n  class B,C,D,E node;"
     },

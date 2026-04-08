@@ -3,7 +3,7 @@
   "number": 2,
   "title": "Lab Home",
   "subtitle": "A practical path from 0 percent placement to grants and infrastructure",
-  "summary": "A PI-facing presentation arguing that a lab home now is the first small decision that makes continuity, salary support, DMS collaborations, grant writing, and future infrastructure possible.",
+  "summary": "A PI-facing presentation arguing that a lab home now is the first small decision that makes salary support, DMS collaborations, grant writing, and future infrastructure more plausible.",
   "synopsis": "Place Steve Slevinski in a lab now, even at 0 percent if necessary, so that practical work can begin immediately and broader support can grow around that home. The deck keeps the PI ask narrow and disciplined: placement first, broader support second, and the larger infrastructure story only as the consequence of making the right first move.",
   "handout": "handout.md",
   "links": [
@@ -23,14 +23,14 @@
       "id": "why-now",
       "title": "The First Step",
       "kicker": "1",
-      "summary": "The immediate need is not a mature center. It is a lab home now, because that first institutional placement creates continuity and makes every larger step more credible.",
+      "summary": "The immediate need is not a mature center. It is a lab home now, because that first placement creates a real base for the work and makes every larger step more credible.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the immediate timing and opportunity.",
       "bullets": [
         "A lab home is needed now",
         "That home creates the base for everything that follows"
       ],
-      "speech": "This conversation is happening now because the immediate need is not a fully built center. It is a lab home. A lab placement creates continuity, gives the work an institutional base, and makes the next steps far more credible. This deck stays on that first institutional decision.",
+      "speech": "This conversation is happening now because the immediate need is not a fully built center. It is a lab home. A lab placement gives the work a real university base and makes the next steps far more credible. This deck stays on that first institutional decision.",
       "notes": "Open with practical urgency, make the first ask feel modest, and keep the deck narrowly PI-facing.",
       "mermaid": "graph TD\n  A[Immediate Need] --> B[Lab Home]\n  B --> C[Institutional Base]\n  C --> D[Future Growth]"
     },
@@ -98,9 +98,9 @@
         "Grants",
         "Gifts and donations"
       ],
-      "speech": "The plan does not depend on one funding source solving everything immediately. The lab home is first. Partial salary support can come through advocates and collaborators. Grants can be written under the PI. Gifts and donations can provide continuity and bridge support through that same home.",
+      "speech": "The plan does not depend on one funding source solving everything immediately. The lab home is first. Partial salary support can come through advocates and collaborators. Grants can be written under the PI. Gifts and donations can provide bridge support and follow-through through that same home.",
       "notes": "Make the structure feel coherent, staged, and low-friction.",
-      "mermaid": "graph LR\n  A[Lab Home] --> B[Partial Salary Support]\n  A --> C[Grant Writing Under PI]\n  A --> D[Gifts and Donations]\n  B --> E[Continuity]\n  C --> E\n  D --> E"
+      "mermaid": "graph LR\n  A[Lab Home] --> B[Partial Salary Support]\n  A --> C[Grant Writing Under PI]\n  A --> D[Gifts and Donations]\n  B --> E[Follow-Through]\n  C --> E\n  D --> E"
     },
     {
       "id": "why-others-matter",
@@ -130,10 +130,10 @@
       "bullets": [
         "Write grants under the PI",
         "Fund Steve's role",
-        "Support software and stewardship",
+        "Support software and maintenance",
         "Grow Sutton SignWriting infrastructure"
       ],
-      "speech": "Once there is a lab home, grants can be written under that PI. That makes it possible to fund Steve's role, support DMS and repository work, strengthen software stewardship, and build toward Sutton SignWriting as shared research infrastructure.",
+      "speech": "Once there is a lab home, grants can be written under that PI. That makes it possible to fund Steve's role, support DMS and repository work, strengthen software maintenance, and build toward Sutton SignWriting as shared research infrastructure.",
       "notes": "Keep the future concrete and tied to the first step.",
       "mermaid": "graph LR\n  A[Lab Home] --> B[Grant Writing]\n  B --> C[Steve's Role]\n  B --> D[DMS and Repository Work]\n  B --> E[SignWriting Infrastructure]"
     },
@@ -145,12 +145,12 @@
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for gifts and donations lane.",
       "bullets": [
-        "Continuity support",
         "Bridge support",
+        "Follow-through support",
         "Infrastructure support",
         "Complementary to grants, not a substitute"
       ],
-      "speech": "There is also an altruistic lane through gifts and donations. Routed through the PI, this support can help continuity, bridge funding, and infrastructure needs. It should be framed as complementary to grants, not as a replacement for research funding.",
+      "speech": "There is also an altruistic lane through gifts and donations. Routed through the PI, this support can help with bridge funding, follow-through, and infrastructure needs. It should be framed as complementary to grants, not as a replacement for research funding.",
       "notes": "Present this as disciplined and secondary, not the central solution.",
       "image_prompt_concrete": "Academic funding pathways diagram showing grants as primary lane and gifts and donations as complementary lane, clean institutional style",
       "image_prompt_abstract": "Two streams of support feeding one growing structure, one broad and one narrow"
@@ -159,7 +159,7 @@
       "id": "low-risk-high-upside",
       "title": "Low Risk, High Upside",
       "kicker": "9",
-      "summary": "The initial ask is intentionally small, but the upside is strategic because one low-risk placement can unlock collaboration, grants, support pathways, and institutional continuity.",
+      "summary": "The initial ask is intentionally small, but the upside is strategic because one low-risk placement can unlock collaboration, grants, support pathways, and a real base for the work.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for low-risk high-upside framing.",
       "bullets": [
@@ -186,7 +186,7 @@
       ],
       "speech": "The immediate ask is straightforward: provide the lab home now. That one decision makes it possible to build the rest of the structure around it, including salary support, DMS collaborations, grant writing, and the long-term Sutton SignWriting Infrastructure Initiative.",
       "notes": "End with a clean, confident ask and no unnecessary complexity.",
-      "mermaid": "graph LR\n  A[Immediate Ask<br/>Lab Home Now] --> B[Continuity]\n  A --> C[Salary Support]\n  A --> D[Grants]\n  A --> E[Collaborations]\n  A --> F[Infrastructure]"
+      "mermaid": "graph LR\n  A[Immediate Ask<br/>Lab Home Now] --> B[Real Base]\n  A --> C[Salary Support]\n  A --> D[Grants]\n  A --> E[Collaborations]\n  A --> F[Infrastructure]"
     }
   ]
 }

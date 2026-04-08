@@ -2,31 +2,31 @@
   "slug": "country-ambassadors",
   "number": 9,
   "title": "Country Ambassadors",
-  "subtitle": "Country-level outreach, translation, and institutional relationship-building",
-  "summary": "A volunteer-first country ambassador model for outreach, translation, and institutional relationship-building.",
-  "synopsis": "A volunteer-first country ambassador model can strengthen outreach, translation, institutional relationships, and future support structures while staying within clear role boundaries.",
+  "subtitle": "Country-level outreach, translation, and local relationship-building",
+  "summary": "A volunteer-first country ambassador model for trusted local outreach, translation, and early relationship-building.",
+  "synopsis": "A volunteer-first country ambassador model can strengthen local outreach, translation, and partnership-building while staying within clear role boundaries.",
   "handout": "handout.md",
   "slides": [
     {
       "id": "why-role-needed",
       "title": "Why This Role Is Needed",
       "kicker": "1",
-      "summary": "Country-level outreach is hard to centralize well, and local context matters.",
+      "summary": "Country-level outreach is hard to run well from one center, and local context matters.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for why the ambassador role is needed.",
       "bullets": [
-        "University structures vary by country",
+        "University and school structures vary by country",
         "Languages and communication norms differ",
         "Funding realities and local institutional pathways differ"
       ],
-      "speech": "International outreach is difficult to centralize well. Each country has different university structures, languages and communication norms, funding realities and economic conditions, and SignWriting communities, leaders, and institutional pathways.",
+      "speech": "International outreach and follow-up are difficult to centralize well. Each country has different university and school structures, languages and communication norms, funding realities and economic conditions, and SignWriting communities, leaders, and institutional pathways.",
       "notes": "Start with the reason the role exists at all."
     },
     {
       "id": "role-summary",
       "title": "Role Summary",
       "kicker": "2",
-      "summary": "A country ambassador is a trusted local volunteer who helps connect the initiative to institutions and communities.",
+      "summary": "A country ambassador is a trusted local volunteer who helps connect the initiative to local institutions and communities.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for ambassador role summary.",
       "bullets": [
@@ -41,15 +41,15 @@
       "id": "core-goals",
       "title": "Core Goals",
       "kicker": "3",
-      "summary": "Ambassadors help build local trust, improve communication, and strengthen support efforts.",
+      "summary": "Ambassadors help build local trust, improve communication, and surface the right contacts.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for ambassador goals.",
       "bullets": [
-        "Identify universities and institutional contacts",
+        "Identify universities, schools, and useful contacts",
         "Improve cultural and linguistic appropriateness",
         "Gather letters of support and collaboration interest"
       ],
-      "speech": "Country ambassadors help identify universities and institutional contacts, make outreach more culturally and linguistically appropriate, explain local conditions and needs, build trust with educational and research partners, and strengthen the case for grants, gifts, and donations through the University of Iowa.",
+      "speech": "Country ambassadors help identify universities, schools, and other useful contacts; make outreach more culturally and linguistically appropriate; explain local conditions and needs; build trust with educational and research partners; and strengthen the case for grants, gifts, and donations through the University of Iowa.",
       "notes": "This is the value proposition."
     },
     {
@@ -147,7 +147,7 @@
       "id": "central-support",
       "title": "Support Needed From the Central Team",
       "kicker": "10",
-      "summary": "The central project needs to provide materials, tracking, and coordination support.",
+      "summary": "The central project needs to provide simple materials, tracking, and follow-up support.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for central team support.",
       "bullets": [

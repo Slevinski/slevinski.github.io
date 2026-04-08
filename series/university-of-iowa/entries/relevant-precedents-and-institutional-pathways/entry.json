@@ -3,8 +3,8 @@
   "number": 6,
   "title": "Relevant Precedents and Institutional Pathways",
   "subtitle": "What comparable university models suggest for SignWriting at Iowa",
-  "summary": "A University of Iowa-facing presentation using language, archive, sign-language, and data-infrastructure precedents to show that SignWriting follows a recognizable institutional path rather than requiring a speculative leap.",
-  "synopsis": "The SignWriting proposal fits a familiar institutional pattern. In multiple cases, a technically mature language or data resource already existed before a university provided a credible home, practical shared capacity, and grant leverage that allowed the effort to scale into durable infrastructure. These precedents clarify the ask for SignWriting, the value it already provides, and why Iowa can be understood as the next natural home rather than the origin point.",
+  "summary": "A University of Iowa-facing supporting presentation using language, archive, sign-language, and data-infrastructure precedents to show that SignWriting follows a recognizable institutional path rather than requiring a speculative leap.",
+  "synopsis": "The SignWriting proposal fits a familiar institutional pattern. In multiple cases, a technically mature language or data resource already existed before a university provided a credible home, practical shared capacity, and grant leverage that allowed the effort to scale into durable infrastructure. This deck is meant to support the main Iowa materials by showing that the path is recognizable, not by restating the whole Iowa pitch on its own.",
   "handout": "handout.md",
   "secondary_artifact": {
     "file": "precedent-notes.md",
@@ -199,40 +199,40 @@
     },
     {
       "id": "the-ask",
-      "title": "What the Ask Is",
+      "title": "What These Examples Clarify",
       "kicker": "9",
-      "summary": "The SignWriting ask is layered: credible home first, shared capacity next, then grants and philanthropy around a real institutional base.",
+      "summary": "These examples clarify the structure of the Iowa path: existing assets first, credible institutional housing next, then practical capacity and longer-term growth.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the SignWriting ask.",
+      "image_alt": "Placeholder image for what the precedents clarify.",
       "bullets": [
-        "Lab home under a PI",
-        "Shared technical capacity now",
-        "Grants and philanthropy later"
+        "Existing asset base",
+        "Credible institutional home",
+        "Practical capacity and growth"
       ],
-      "speech": "The ask is not to fund a mature center immediately. It is to give SignWriting a credible Iowa home, use Steve as shared technical capacity now, and let salary support, project support, grants, and philanthropy grow around that real structure.",
-      "notes": "Translate the precedents directly into the Iowa action path.",
-      "mermaid": "graph TD\n  A[PI Lab Home] --> B[Shared Capacity]\n  B --> C[Project Support]\n  C --> D[Grant Development]\n  D --> E[Philanthropic Continuity]\n  E --> F[Infrastructure Core]"
+      "speech": "The precedents clarify a pattern. Valuable assets often exist before the university structure is fully in place. What the institution adds is credibility, housing, staffing, and the ability to grow the work responsibly.",
+      "notes": "Keep this on pattern recognition rather than turning it into a full ask slide.",
+      "mermaid": "graph TD\n  A[Existing Asset Base] --> B[Credible Home]\n  B --> C[Practical Capacity]\n  C --> D[Long-Term Growth]"
     },
     {
       "id": "what-signwriting-provides",
-      "title": "What SignWriting Already Provides",
+      "title": "How This Deck Should Be Used",
       "kicker": "10",
-      "summary": "SignWriting already provides immediate research value, broad institutional relevance, and long-term infrastructure potential built on a mature asset base.",
+      "summary": "This deck works best as support material when a reader needs outside analogs, not as the first or only Iowa-facing presentation.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for what SignWriting provides.",
+      "image_alt": "Placeholder image for how to use the precedents deck.",
       "bullets": [
-        "Immediate operational value",
-        "Cross-disciplinary institutional value",
-        "Long-term standards and corpus infrastructure"
+        "Use after the main Iowa framing is understood",
+        "Use when someone asks for comparable models",
+        "Use to reinforce legitimacy, not replace the main pitch"
       ],
-      "speech": "The reason these precedents matter is that SignWriting already has the kind of asset base they began with: tools, standards, datasets, technical stewardship, and real use. The university does not need to invent the value. It needs to recognize, house, and scale it.",
-      "notes": "This is the turning point from external examples back to SignWriting itself."
+      "speech": "This deck is best used when someone asks whether there is a real model for this kind of move. It should reinforce the main Iowa materials, not substitute for them.",
+      "notes": "Make the support-material role explicit."
     },
     {
       "id": "why-iowa",
       "title": "Why This Matters for Iowa",
       "kicker": "11",
-      "summary": "These precedents position Iowa not as the inventor of SignWriting's value, but as the institution that can provide its next durable home.",
+      "summary": "These precedents position Iowa not as the inventor of SignWriting's value, but as the institution that can provide its next credible home.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for why this matters for Iowa.",
       "bullets": [
@@ -247,13 +247,13 @@
       "id": "bottom-line",
       "title": "Bottom Line",
       "kicker": "12",
-      "summary": "The path being proposed for SignWriting is recognizable; what remains unusual is that the asset base already exists while the durable university home still does not.",
+      "summary": "The path being proposed for SignWriting is recognizable; what remains unusual is that the asset base already exists while the university home still does not.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for bottom line of precedent case.",
       "bullets": [
         "Recognizable institutional path",
         "Existing technical and community asset base",
-        "Iowa as the next durable home"
+        "Iowa as the next credible home"
       ],
       "speech": "The bottom line is simple. SignWriting does not need a university to invent its value. It needs a university to recognize, house, and scale value that already exists. These precedents show that this is a familiar institutional move, not a speculative leap.",
       "notes": "End with confidence and clarity. The point is legitimacy, not novelty."

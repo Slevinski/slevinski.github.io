@@ -2,7 +2,7 @@
 
 Sutton SignWriting already operates as infrastructure.
 
-This document names the main assets, stewardship responsibilities, and continuity risks so a PI, administrator, or collaborator can see what would actually be stabilized by a host institution.
+This document shows the main assets, the work currently required to keep them running, and the main risks, so a PI, administrator, or collaborator can see what a host institution would actually be supporting.
 
 ## Overview
 
@@ -18,13 +18,13 @@ The system already includes:
 
 The challenge is no longer whether these things can be created.
 
-The challenge is whether they will be stabilized, documented, and institutionally supported before the maintenance burden outgrows the current stewardship model.
+The challenge is whether they will be kept running, documented clearly, and given stronger institutional backing before the maintenance burden outgrows the current support model.
 
 ## Domains and Web Infrastructure
 
 The SignWriting ecosystem includes a coordinated set of domains that support public access, tools, documentation, and archival material.
 
-Current domains under active stewardship include:
+Current domains under active maintenance include:
 
 * signwriting.org
 * signwriting.net
@@ -51,7 +51,7 @@ These domains represent:
 * technical documentation and standards resources
 * historical and archival materials
 
-Stewardship responsibilities include:
+Keeping these domains running includes:
 
 * domain renewal and continuity of ownership
 * DNS and hosting configuration
@@ -81,7 +81,7 @@ Key characteristics include:
 * a mixed technology stack including PHP, JavaScript, Python, and static hosting
 * evolving architecture with ongoing redevelopment in Platform V3
 
-Immediate stewardship concerns include:
+Immediate operational concerns include:
 
 * backup and disaster recovery
 * migration planning for legacy systems
@@ -106,7 +106,7 @@ In Brazil, prior outages were felt immediately in an active user community that 
 
 More recently, repeated bot pressure and CPU-heavy requests have continued to cause temporary service interruptions on the legacy server.
 
-These incidents matter because they show that infrastructure fragility is already interrupting real international work, not merely raising abstract maintenance concerns.
+These incidents matter because they show that fragile support is already interrupting real international work, not merely raising abstract maintenance concerns.
 
 ## Software and Code Infrastructure
 
@@ -150,7 +150,7 @@ Key characteristics include:
 
 This dataset represents a rare, large-scale corpus of written signed language.
 
-Immediate stewardship concerns include:
+Immediate support concerns include:
 
 * long-term preservation
 * format standardization
@@ -184,15 +184,15 @@ Stewardship responsibilities include:
 * supporting implementation across tools and languages
 * preserving the link between formal standards and production systems
 
-This standards layer is one of the clearest reasons to treat the infrastructure as durable scholarly and technical work.
+This standards layer is one of the clearest reasons to treat the work as long-term scholarly and technical infrastructure.
 
-## Stewardship Continuity
+## Continuity and Responsibility
 
-Current stewardship follows a recognizable lineage:
+Current responsibility follows a recognizable lineage:
 
 * Valerie Sutton as originator of Sutton SignWriting and foundational system design
 * Steve Slevinski as technical steward, encoding architect, and infrastructure maintainer
-* a designated next-generation technical continuity path for future stewardship
+* a designated next-generation technical path for future continuity
 
 This continuity includes:
 
@@ -202,7 +202,7 @@ This continuity includes:
 
 The issue is not that continuity is absent.
 
-The issue is that continuity is still too informal for infrastructure of this scope and importance.
+The issue is that the current support model is still too informal for infrastructure of this scope and importance.
 
 ## Risk Profile
 
@@ -214,12 +214,12 @@ With a clearer internal view, the primary risks can be stated more directly:
 * limited institutional redundancy
 * long-term preservation risk for data, domains, and services
 
-These are typical risks for infrastructure that has grown in value faster than its institutional support.
+These are typical risks for infrastructure that has grown in value faster than the support around it.
 
 That framing matters.
 
 It means the situation is not unusual because the work is weak.
-It is unusual because the work has become significant without yet receiving the durable host structure it now requires.
+It is unusual because the work has become significant without yet receiving the stronger host structure it now requires.
 
 ## Why This Matters for a Host Institution
 
@@ -235,7 +235,7 @@ It would be:
 
 * stabilizing and extending an existing globally used infrastructure system
 * inheriting a research-ready and partnership-ready technical base
-* making preservation, stewardship, and future grants more credible
+* making preservation, maintenance, and future grants more credible
 
 This reduces startup cost and increases:
 
@@ -271,11 +271,11 @@ SignWriting infrastructure already exists across:
 
 The current challenge is not creation.
 
-It is:
+In plain terms, it is:
 
 > **stabilization, documentation, and institutionalization**
 
-That is the real stewardship task now.
+That means keeping the systems running, documenting them clearly, and giving them a stronger institutional home.
 
 ## Recommended Institutional Reading
 
@@ -283,4 +283,4 @@ The most important conclusion is simple:
 
 Sutton SignWriting has already passed the threshold from interesting project to real infrastructure.
 
-The remaining question is whether that infrastructure will continue under an informal maintenance model or be given the durable academic, technical, and administrative home that its current scale now warrants.
+The remaining question is whether that infrastructure will continue under an informal maintenance model or be given the stronger academic, technical, and administrative home that its current scale now warrants.

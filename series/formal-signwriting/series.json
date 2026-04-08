@@ -2,7 +2,7 @@
   "slug": "formal-signwriting",
   "title": "Formal SignWriting",
   "subtitle": "Plain-text encodings, grammar, search, rendering, styling, and implementation of written sign text",
-  "description": "A technical publication series on the Formal SignWriting model as durable computational text for written sign language, with a clear distinction between canonical text and presentation markup.",
+  "description": "A technical publication series on the Formal SignWriting model for sign text that can be stored, searched, checked, and processed by software, with a clear distinction between canonical text and presentation markup.",
   "accepting_entries": true,
   "kind": "technical-and-publication-series",
   "home_doc": "README.md",

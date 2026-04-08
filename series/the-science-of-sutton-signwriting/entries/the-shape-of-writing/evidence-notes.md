@@ -1,11 +1,11 @@
 # The Shape of Writing Evidence Notes
 
 **The Shape of Writing**  
-Point, line, plane, and the case for spatial literacy infrastructure
+Point, line, plane, and why signed writing does not need to fit into a line
 
 Just as *Language Without Sound* argued that literacy does not require sound or vision, this companion piece argues that literacy does not require linearity. The aim here is to clarify the strongest technical points behind the handout, identify where the framework is interpretive rather than taxonomic, and show why SignWriting matters as a case of writable space rather than only as a notation for sign.
 
-The geometric framework below clarifies why plane-based writing systems such as SignWriting deserve equal consideration as durable infrastructure.
+The framework below clarifies why plane-based writing systems such as SignWriting deserve equal consideration as writing, literacy, and research support.
 
 It is offered as an interpretive contribution to writing-systems theory rather than as an exhaustive taxonomy of scripts.
 
@@ -28,7 +28,7 @@ This matters because many writing systems mix properties:
 
 So the question is not whether every system fits one box permanently.
 
-The question is which geometry does the most explanatory work.
+The question is which use of space does the most explanatory work.
 
 ## II. Point systems compress structure inside a bounded unit
 
@@ -133,7 +133,7 @@ This is where the technical side of SignWriting becomes scientifically interesti
 
 ## VII. What becomes tractable once the plane is encoded
 
-Once plane-based writing becomes durable computational text, several kinds of work become more tractable:
+Once plane-based writing can be stored and processed as text, several kinds of work become more tractable:
 
 - searchable corpora
 - structured lexicons
@@ -203,9 +203,9 @@ Some compose structure in space.
 
 SignWriting belongs in that third category strongly enough to matter scientifically, technically, and educationally.
 
-Formal SignWriting shows that plane-based writing can also become durable computational text.
+Formal SignWriting shows that plane-based writing can also be stored and processed as text.
 
-Plane-based infrastructure therefore extends the modality-independent literacy pathway first outlined in *Language Without Sound*.
+Support for plane-based writing therefore extends the modality-independent literacy pathway first outlined in *Language Without Sound*.
 
 That is enough to justify a stronger infrastructure response: not only better theory, but better tools, datasets, corpora, interfaces, and collaborative research built around plane-based writing.
 

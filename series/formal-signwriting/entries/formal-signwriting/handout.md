@@ -1,8 +1,8 @@
 # Formal SignWriting
 
-**The two-part word, spatial text, and the core model**
+**The two-part word, sign text, and the core model**
 
-Formal SignWriting is a technical model for representing written sign text as durable computational text.
+Formal SignWriting is a technical model for sign text that can be stored, searched, checked, and processed by software without losing the written form.
 
 Its central idea is simple:
 
@@ -21,9 +21,9 @@ The opening task is to define the core model clearly enough that every later lay
 
 Formal SignWriting should be understood as:
 
-- a technical architecture for spatial sign text
-- a grammar for machine-processable strings
-- a bridge between visible writing and computational handling
+- a way to write signs as text that software can work with
+- a grammar for valid strings
+- a bridge between visible writing and software handling
 - a framework that supports search, rendering, and transformation
 - a long-term implementation record for developers, researchers, and maintainers
 
@@ -39,7 +39,7 @@ The core vocabulary is small:
 | FSW or SWU | plain-text encodings of the model, with FSW commonly canonical in processing and SWU supported for Unicode-oriented interchange |
 | style string | optional presentation markup, not canonical sign text |
 
-If these definitions are clear, the rest of the architecture becomes much easier to hold in view.
+If these definitions are clear, the rest of the model becomes much easier to hold in view.
 
 ## The two-part word
 
@@ -57,7 +57,7 @@ This is not a contradiction.
 
 It is the design solution.
 
-If the model preserved only sequence, too much of the written form would be flattened away. If it preserved only spatial arrangement, too much technical tractability would be lost. The two-part word is the move that keeps both.
+If the model preserved only sequence, too much of the written form would be flattened away. If it preserved only spatial arrangement, too much would become hard to store, search, and process. The two-part word is the move that keeps both.
 
 ## A worked example
 
@@ -102,7 +102,7 @@ That matters because:
 - the sequence is primarily used for sorting
 - the sequence can also carry linguistic analysis
 - the sequence is theory-based rather than mechanically recoverable from two-dimensional space alone
-- Formal SignWriting stays theory agnostic about which sorting theory is used
+- Formal SignWriting does not force one sorting theory
 
 That theory agnosticism is a strength, but it has a practical consequence:
 
@@ -127,12 +127,12 @@ The dependency can be stated more compactly:
 
 | Layer | What it receives from the core model |
 | --- | --- |
-| encoding | one durable textual form |
+| encoding | one stable text form |
 | geometry | one explicit signbox arrangement |
 | grammar | one valid structural account |
-| search | one searchable technical text |
+| search | one searchable text form |
 | rendering | one source for visible output |
-| practice | one maintainable implementation target |
+| practice | one stable implementation target |
 
 That table is useful because it shows that the two-part word is not only a description of signs. It is the starting condition for the entire architecture.
 
@@ -159,4 +159,4 @@ Formal SignWriting works because it lets one textual form preserve two things at
 - the optional theory-based sequence of symbols
 - the spatial composition of the written sign
 
-That is what makes written sign text both spatially faithful and computationally durable.
+That is what makes written sign text both faithful to the writing and usable in software.

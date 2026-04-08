@@ -2,41 +2,41 @@
   "slug": "initiative-overview",
   "number": 2,
   "title": "Initiative Overview",
-  "subtitle": "Research Infrastructure and Collaboration Opportunity",
-  "summary": "A collaboration-facing overview of the partnerships, program lanes, and institutional value around Sutton SignWriting infrastructure.",
-  "synopsis": "This deck is the collaboration and program invitation for the initiative. It explains why institutional partnership is timely, how Brazil strengthens the empirical case, how South Korea strengthens the current institutional proof case, what concrete lanes of work are now visible, and what a PI, lab, or host institution could help build.",
+  "subtitle": "What already exists, why it matters now, and where collaboration fits",
+  "summary": "A collaboration-facing overview of the program lanes, evidence base, and institutional value around Sutton SignWriting.",
+  "synopsis": "This deck is the collaboration and program invitation for the initiative. It explains why stronger partnership is timely, how Brazil strengthens the empirical case, how South Korea strengthens the current public proof case, what concrete lanes of work are now visible, and what a PI, lab, or host institution could help build.",
   "handout": "handout.md",
   "slides": [
     {
       "id": "overview",
       "title": "Why This Initiative Exists",
       "kicker": "1",
-      "summary": "The initiative exists to connect a globally used but informally maintained infrastructure system to durable collaboration, research, and institutional support.",
+      "summary": "The initiative exists to connect a globally used but lightly supported system to stronger collaboration, research, and institutional support.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for initiative overview.",
       "bullets": [
         "Globally used writing and technical ecosystem",
-        "Infrastructure maintained through an informal support model",
+        "Support model still too informal for current use",
         "Now ready for institutional collaboration"
       ],
-      "speech": "This initiative exists because Sutton SignWriting has reached a different stage of development. It is already a globally used writing and technical ecosystem, but it is still maintained through a support model that is too informal for its current value. The central question is no longer whether SignWriting matters. The question is what kind of collaboration and institutional support can stabilize, extend, and study what already exists.",
+      "speech": "This initiative exists because Sutton SignWriting has reached a different stage of development. It is already a globally used writing and technical ecosystem, but the support around its tools, data, and public systems is still too informal for its current value. The central question is no longer whether SignWriting matters. The question is what kind of collaboration and institutional support can strengthen, extend, and study what already exists.",
       "notes": "Open with the initiative logic rather than redoing a full definition of SignWriting."
     },
     {
       "id": "current-situation",
       "title": "Why Partnership Matters Now",
       "kicker": "2",
-      "summary": "The need is timely because the infrastructure is important, the maintenance model is fragile, and the evidence base is stronger than many institutional audiences realize.",
+      "summary": "The need is timely because the system matters, the maintenance model is fragile, and the evidence base is stronger than many institutional audiences realize.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for current situation.",
       "bullets": [
         "Recent outage exposed vulnerability",
         "Brazil gives the case a documented empirical center",
-        "South Korea gives the case a current official proof point",
+        "South Korea gives the case a current public proof point",
         "Independent maintenance is no longer enough"
       ],
-      "speech": "The timing matters because the infrastructure is already important enough that fragility now has visible consequences. A recent outage disrupted educational programs in Brazil, which is especially significant because Brazil is now the clearest documented empirical center in the public record. South Korea adds a different kind of evidence by showing that SignWriting already appears inside current official dictionary infrastructure. The issue is not only technical vulnerability. It is that the work has outgrown a purely independent maintenance model.",
-      "notes": "Use the outage and Brazil together as the clearest urgency argument, then add South Korea as the current official proof point."
+      "speech": "The timing matters because the system is already important enough that fragility now has visible consequences. A recent outage disrupted educational programs in Brazil, which is especially significant because Brazil is now the clearest documented empirical center in the public record. South Korea adds a different kind of evidence by showing that SignWriting already appears inside a current public dictionary resource. The issue is not only technical vulnerability. It is that the work has outgrown a purely independent maintenance model.",
+      "notes": "Use the outage and Brazil together as the clearest urgency argument, then add South Korea as the current public proof point."
     },
     {
       "id": "opportunity",
@@ -48,11 +48,11 @@
       "bullets": [
         "Reading and literacy research",
         "Brazil-grounded institutional and materials work",
-        "Korea-grounded institutional documentation and partnership work",
+        "Korea-grounded documentation and partnership work",
         "Corpora, datasets, and annotation infrastructure",
         "Translation and access to especially important works"
       ],
-      "speech": "The work is now concrete enough to describe as a program rather than only a general appeal. The clearest lanes are reading and literacy research, Brazil-grounded institutional and materials work, Korea-grounded institutional documentation and partnership work, corpus and dataset development, and translation-and-access work around especially important international materials. That gives collaborators something specific to join, shape, and fund.",
+      "speech": "The work is now concrete enough to describe as a program rather than only a general appeal. The clearest lanes are reading and literacy research, Brazil-grounded institutional and materials work, Korea-grounded documentation and partnership work, corpus and dataset development, and translation-and-access work around especially important international materials. That gives collaborators something specific to join, shape, and fund.",
       "notes": "This is the program-structure slide. Make the lanes feel concrete."
     },
     {
@@ -85,7 +85,7 @@
         "Support for institutional and educational use",
         "Foundation for AI and translation pipelines"
       ],
-      "speech": "SignWriting Platform V3 is intended to provide structured user registration, anonymized demographic data for research, support for institutional and educational use, and a foundation for AI and translation pipelines. Together with the stronger documented Brazil evidence base and the current Korean institutional proof point, that gives institutions access to a globally used linguistic system with strong research and accessibility value.",
+      "speech": "SignWriting Platform V3 is intended to provide structured user registration, anonymized demographic data for research, support for institutional and educational use, and a foundation for AI and translation pipelines. Together with the stronger documented Brazil evidence base and the current Korean public proof point, that gives institutions access to a globally used linguistic system with strong research and accessibility value.",
       "notes": "This is the future-facing systems slide."
     },
     {

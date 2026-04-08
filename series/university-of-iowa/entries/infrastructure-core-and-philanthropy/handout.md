@@ -1,12 +1,12 @@
 # Sutton SignWriting Infrastructure Core and Philanthropy
 
-The Sutton SignWriting Infrastructure Core is a philanthropic opportunity to establish a durable institutional home for a globally used written sign language system.
+The Sutton SignWriting Infrastructure Core is a philanthropic opportunity to give existing SignWriting standards, software, data, and public resources stronger long-term support at the University of Iowa.
 
 ## Core Message
 
-The Sutton SignWriting Infrastructure Core is a philanthropic opportunity to establish the first durable institutional home for a globally used written sign language system.
+The Sutton SignWriting Infrastructure Core is a philanthropic opportunity to strengthen the support structure around a globally used written sign language system.
 
-It is the stabilization and extension of infrastructure that already exists, is already used internationally, and is currently too fragile to sustain long-term without institutional support.
+It is the stabilization and extension of infrastructure that already exists, is already used internationally, and is currently too fragile to sustain long-term without stronger institutional support.
 
 ## Why This Matters
 
@@ -19,20 +19,18 @@ That creates impact across:
 * linguistics and cognitive science
 * structured data and research infrastructure
 
-This is **language infrastructure**.
+This is language work, technical work, and support work at the same time.
 
 ## The Current Problem
 
-The system is real and globally used, but structurally fragile:
+The system is real and globally used, but the current support structure is still fragile:
 
-* continuity depends on too few people
-* infrastructure is maintained without institutional backing
+* maintenance depends on too few people
+* important public resources are maintained without enough institutional backing
 * research integration is limited by lack of formal structure
 * long-term preservation is at risk
 
-This is a classic case of:
-
-> important infrastructure without durable institutional support
+This is a classic case of important infrastructure that already exists but still lacks enough long-term support.
 
 ## The Opportunity
 
@@ -42,8 +40,8 @@ A philanthropic investment can establish:
 
 A small, focused, high-leverage unit that provides:
 
-* standards stewardship
-* software and systems continuity
+* standards maintenance
+* software and systems support
 * dataset development and preservation
 * translation and access to high-value international works
 * research integration
@@ -74,24 +72,24 @@ This work sits in a gap:
 * too language-focused for purely technical funding
 * too global and long-term for short grant cycles
 
-Philanthropy enables:
+Philanthropy fits especially well because it can support work that grants often leave thinly funded:
 
-* continuity
+* staffing
 * stability
 * independence from short-term cycles
-* long-term stewardship
+* long-term follow-through
 
 ## What a Gift Enables
 
 A gift in the range of about $1M can establish:
 
 * core staffing
-* infrastructure continuity
+* infrastructure support
 * global coordination capacity
 * translation and access capacity
 * research and collaboration readiness
 
-It creates something durable rather than temporary.
+It creates support that can actually hold over time rather than a short-term patch.
 
 ## Why the University of Iowa
 
@@ -111,7 +109,7 @@ This effort follows a layered model:
 1. Lab home under a PI
 2. Operational value through research data work
 3. Grant development and collaboration
-4. Philanthropic support for continuity and infrastructure
+4. Philanthropic support for staffing, follow-through, and infrastructure
 
 Philanthropy strengthens, rather than replaces, this structure.
 
@@ -119,10 +117,10 @@ Philanthropy strengthens, rather than replaces, this structure.
 
 With support, this becomes:
 
-* durable shared research infrastructure
+* shared research infrastructure that can actually hold
 * a stable home for global SignWriting work
 * a platform for education, research, and collaboration
-* stewardship that lasts beyond any single individual
+* support that does not depend on one individual
 
 ## Contact
 

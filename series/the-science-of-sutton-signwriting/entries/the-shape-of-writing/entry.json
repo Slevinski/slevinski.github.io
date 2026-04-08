@@ -2,9 +2,9 @@
   "slug": "the-shape-of-writing",
   "number": 2,
   "title": "The Shape of Writing",
-  "subtitle": "Point, line, plane, and the case for spatial literacy infrastructure",
+  "subtitle": "Point, line, plane, and why signed writing does not need to fit into a line",
   "summary": "Presentation 2 in The Science of Sutton SignWriting series.",
-  "synopsis": "Writing is not inherently linear. Some systems organize language as integrated units, some through sequence, and some through spatial composition. SignWriting belongs to that broader science of writing geometry, and Formal SignWriting shows how plane-based writing can become durable computational text.",
+  "synopsis": "Writing is not inherently linear. Some systems organize language in bounded units, some through sequence, and some through spatial composition. SignWriting belongs in that wider study of how writing uses space, and Formal SignWriting shows how plane-based writing can be stored and processed as text.",
   "cover_image": "/series/the-science-of-sutton-signwriting/entries/the-shape-of-writing/cover.png",
   "cover_image_alt": "Cover image for The Shape of Writing in The Science of Sutton SignWriting series.",
   "handout": "handout.md",
@@ -21,8 +21,8 @@
       "evidence-notes"
     ],
     "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
-    "zenodo_record_title_suggestion": "The Shape of Writing: Point, Line, Plane, and the Case for Spatial Literacy Infrastructure",
-    "citation_stub": "Slevinski, S. (2026). The Shape of Writing: Point, Line, Plane, and the Case for Spatial Literacy Infrastructure. The Science of Sutton SignWriting."
+    "zenodo_record_title_suggestion": "The Shape of Writing: Point, Line, Plane, and Why Signed Writing Does Not Need to Fit into a Line",
+    "citation_stub": "Slevinski, S. (2026). The Shape of Writing: Point, Line, Plane, and Why Signed Writing Does Not Need to Fit into a Line. The Science of Sutton SignWriting."
   },
   "related_identifiers": [
     {
@@ -38,7 +38,7 @@
       "kicker": "1",
       "summary": "Writing systems differ in how they organize language in space, and that difference matters.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for writing geometry.",
+      "image_alt": "Placeholder image for the shape of writing.",
       "image_prompts": {
         "concrete": "Academic keynote graphic showing three writing geometries: a compact character block, a horizontal line of text, and a spatial sign composition, clean white background, elegant and modern",
         "abstract": "Point, line, and plane emerging from one luminous field of symbols, geometric and scholarly, no text"
@@ -55,13 +55,13 @@
     },
     {
       "id": "point-line-plane-model",
-      "title": "A Geometric Lens",
+      "title": "A Simple Lens",
       "kicker": "2",
-      "summary": "Point, line, and plane are proposed analytic tendencies for understanding how writing organizes space.",
+      "summary": "Point, line, and plane are simple analytic tendencies for understanding how writing uses space.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for point, line, and plane model.",
       "image_prompts": {
-        "concrete": "Minimal academic diagram comparing point line and plane writing geometry with one Chinese character, one ordinary alphabetic sentence, and one spatial SignWriting signbox layout, clean labels and modern design",
+        "concrete": "Minimal academic diagram comparing point line and plane ways of arranging writing with one Chinese character, one ordinary alphabetic sentence, and one spatial SignWriting signbox layout, clean labels and modern design",
         "abstract": "Geometric progression from dot to line to field, suggesting increasingly spatial organization of meaning"
       },
       "bullets": [
@@ -70,7 +70,7 @@
         "Plane: spatially composed writing",
         "These are tendencies, not rigid script boxes"
       ],
-      "speech": "Language Without Sound argued that language does not require sound and that literacy does not require a single sensory channel. This talk asks the next question: what shape can durable literacy pathways take? My proposal is a simple analytic lens: point, line, and plane.\n\nI do not mean this as a rigid taxonomy that traps every script in one permanent box. I mean it as a way to describe dominant spatial tendencies. What kind of organization does the most explanatory work? Is the written form mainly an integrated unit, mainly a sequence, or mainly a spatial composition? That lens is simple enough to be usable and flexible enough to be honest.",
+      "speech": "Language Without Sound argued that language does not require sound and that literacy does not require a single sensory channel. This talk asks the next question: what shape can writing take? My proposal is a simple lens: point, line, and plane.\n\nI do not mean this as a rigid taxonomy that traps every script in one permanent box. I mean it as a way to describe the main way a writing system uses space. Is the written form mainly an integrated unit, mainly a sequence, or mainly a spatial composition? That lens is simple enough to use and flexible enough to stay honest.",
       "notes": "Bridge clearly to Language Without Sound.\n\nKey points:\n- first talk removed the sound requirement\n- this talk removes the linearity requirement\n- point, line, and plane are analytic tendencies, not rigid boxes\n\nIf you need a plain-language fallback:\n- say the framework asks what readers and writers primarily rely on: whole unit, sequence, or spatial arrangement\n\nTransition:\n- begin with point because it is the easiest place to show that integration and decomposition can coexist.",
       "mermaid": "flowchart TD\n  A[Writing Geometry]\n  A --> B[Point]\n  A --> C[Line]\n  A --> D[Plane]\n\n  B --> E[Chinese character at the unit level]\n  C --> F[Alphabetic or similar text line]\n  D --> G[SignWriting signbox]\n\n  E --> H[Dominant spatial tendency]\n  F --> H\n  G --> H\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,H core;\n  class B,C,D,E,F,G node;"
     },
@@ -112,7 +112,7 @@
         "Fonts and shaping engines handle most layout",
         "This is the familiar modern model"
       ],
-      "speech": "Line-based writing is the familiar modern case. Meaning unfolds through order. Characters or words appear in sequence, adjacency matters, and interpretation depends heavily on progression and parsing.\n\nOne reason line writing feels so natural is that we rarely notice the split between authorship and rendering. The writer authors a sequence. Typography, shaping, and layout systems handle much of the visible realization. Ligatures, combining marks, and joining behavior may create local visual complexity, but the dominant model is still sequence first. That matters because it shows why SignWriting is not simply waiting for a better font. The issue is not prettier rendering. The issue is a different authorial geometry.",
+      "speech": "Line-based writing is the familiar modern case. Meaning unfolds through order. Characters or words appear in sequence, adjacency matters, and interpretation depends heavily on progression and parsing.\n\nOne reason line writing feels so natural is that we rarely notice the split between what the writer provides and what typography finishes. The writer provides a sequence. Typography, shaping, and layout systems handle much of the visible result. Ligatures, combining marks, and joining behavior may create local visual complexity, but the dominant model is still sequence first. That matters because it shows why SignWriting is not simply waiting for a better font. The issue is not prettier rendering. The issue is a different way of writing.",
       "notes": "This is the stabilizing slide.\n\nKey points:\n- order and adjacency do most of the work\n- the writer authors sequence, not full spatial relation\n- typography handles much of the visual outcome\n\nIf you need an off-the-cuff explanation:\n- say that in ordinary print the writer gives the system a line, then the font and layout engine make it look right\n- that is very different from composing the layout directly\n\nTransition:\n- move from familiar line writing to the genuinely different logic of the plane.",
       "mermaid": "flowchart TD\n  A[Writer selects sequence]\n  A --> B[Encoded line of text]\n  B --> C[Typography and shaping]\n  C --> D[Rendered line]\n  D --> E[Sequential reading]\n\n  classDef stage fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef output fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D stage;\n  class E output;"
     },
@@ -154,7 +154,7 @@
         "Plane writing can still require serialized software representation",
         "The two layers should not be confused"
       ],
-      "speech": "At this point, one distinction becomes essential. Human writing and machine encoding are not the same thing. Human writing concerns what writers compose, what readers perceive, and which visible relations matter linguistically. Machine encoding concerns storage, transmission, search, sorting, parsing, and computation.\n\nA writing system can be spatial for humans while still requiring serialization for software. That is not a contradiction. It is the normal technical problem of making a writing system computationally usable. So when terms like prefix, signbox, string, or encoding appear later, they should be understood as engineering responses to a plane-based writing system, not as evidence that the writing was really linear all along.",
+      "speech": "At this point, one distinction becomes essential. Human writing and software encoding are not the same thing. Human writing concerns what writers compose, what readers perceive, and which visible relations matter linguistically. Software encoding concerns storage, transmission, search, sorting, parsing, and computation.\n\nA writing system can be spatial for humans while still requiring serialization for software. That is not a contradiction. It is the normal technical problem of making a writing system usable in software. So when terms like prefix, signbox, string, or encoding appear later, they should be understood as technical responses to a plane-based writing system, not as evidence that the writing was really linear all along.",
       "notes": "This slide protects the rest of the talk from confusion.\n\nKey points:\n- human writing asks what the reader sees and what relations matter\n- machine encoding asks how software stores and processes that writing\n- serialization is a technical requirement, not a claim about the true geometry of the writing\n\nIf you lose your place:\n- say a map can be stored in data structures without becoming a sentence\n- the same principle applies here\n\nTransition:\n- now show the geometry through concrete cases before returning to the technical solution.",
       "mermaid": "flowchart TD\n  A[Writing in practice]\n  A --> B[Human writing phase]\n  A --> C[Machine encoding phase]\n\n  B --> D[Composition, reading, visible relations]\n  C --> E[Storage, search, sorting, computation]\n\n  D --> F[Related but distinct layers]\n  E --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef mid fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,F core;\n  class B,C,D,E mid;"
     },
@@ -175,7 +175,7 @@
         "Spatial specialist notation such as math or music",
         "Video or transcription without everyday writable text"
       ],
-      "speech": "The framework becomes clearer when we compare concrete literacy pathways. A hearing child typically develops spoken language first and then line-based print literacy. The durable written pathway is sequential text. A deaf child may develop signed language first and then potentially gain literacy through a writable plane-based system. There the durable written pathway is spatial text.\n\nA third case reminds us that spatial literacy is not bizarre. Readers already use mathematics, music, chemistry, and other specialist notations in which placement, grouping, and vertical relation carry meaning. But the fourth case is the one that matters most for this talk. Video and researcher transcription are valuable forms of documentation. They are not the same as everyday readable and writable text. They preserve language for study or record. They do not by themselves provide the durable literacy pathway that a writing system provides.",
+      "speech": "The framework becomes clearer when we compare concrete literacy pathways. A hearing child typically develops spoken language first and then line-based print literacy. The written pathway is sequential text. A deaf child may develop signed language first and then potentially gain literacy through a writable plane-based system. There the written pathway is spatial text.\n\nA third case reminds us that spatial literacy is not bizarre. Readers already use mathematics, music, chemistry, and other specialist notations in which placement, grouping, and vertical relation carry meaning. But the fourth case is the one that matters most for this talk. Video and researcher transcription are valuable forms of documentation. They are not the same as everyday readable and writable text. They preserve language for study or record. They do not by themselves provide the written pathway that a writing system provides.",
       "notes": "Take one sentence per case and keep the contrast crisp.\n\nCase logic:\n- hearing child plus print: durable line pathway\n- deaf child plus SignWriting: durable plane pathway\n- specialist notation: proof that spatial literacy is already real\n- video/transcription: documentation, not everyday writable text\n\nIf pressed on the contrast case:\n- say the issue is not value versus no value\n- it is durable text versus documentation and analysis\n\nTransition:\n- now state the structural gap in one plain sentence.",
       "mermaid": "flowchart LR\n  A[Durable literacy pathways]\n  A --> B[Hearing child plus print]\n  A --> C[Deaf child plus SignWriting]\n  A --> D[Spatial specialist notation]\n  A --> E[Video or transcription only]\n\n  B --> F[Line-based text pathway]\n  C --> G[Plane-based text pathway]\n  D --> H[Spatial literacy tasks]\n  E --> I[Documentation without everyday writable text]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef case fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A core;\n  class B,C,D,E case;\n  class F,G,H,I out;"
     },
@@ -215,9 +215,9 @@
         "Readable and writable plane-based text already exists",
         "The signbox preserves meaningful spatial relations",
         "Formal SignWriting preserves both sequence-sensitive and spatial information",
-        "Plane writing can therefore become durable computational text"
+        "Plane writing can therefore be stored and processed as text"
       ],
-      "speech": "SignWriting already demonstrates that signed language can be written as plane-based text. A written sign is not merely a row of symbolic labels. It is a meaningful signbox whose spatial composition matters to the writing itself.\n\nFormal SignWriting extends that achievement computationally. A useful plain-language description is that a sign can be encoded as a two-part word: a temporal prefix and a spatial signbox. The temporal prefix preserves sequence-sensitive information. The spatial signbox preserves the composed written form. That matters because it shows that plane writing can become durable computational text without collapsing the writing into a simple line. This is not just a storage trick. It is an encoding strategy adequate to the geometry of the writing.",
+      "speech": "SignWriting already demonstrates that signed language can be written as plane-based text. A written sign is not merely a row of symbolic labels. It is a meaningful signbox whose spatial composition matters to the writing itself.\n\nFormal SignWriting extends that achievement computationally. A useful plain-language description is that a sign can be encoded as a two-part word: a temporal prefix and a spatial signbox. The temporal prefix preserves sequence-sensitive information. The spatial signbox preserves the composed written form. That matters because it shows that plane writing can be stored and processed as text without collapsing the writing into a simple line. This is not just a storage trick. It is an encoding strategy adequate to the writing itself.",
       "notes": "This is the technical resolution slide. Treat it with confidence.\n\nExplain it in plain language first:\n- SignWriting gives visible plane-based text\n- Formal SignWriting gives a machine-readable way to preserve that text\n- one part handles sequence-sensitive information\n- one part handles the spatial composition of the sign\n\nIf you need a very short fallback:\n- the writing stays planar for humans and becomes tractable for software\n\nTransition:\n- now widen from proof of concept to ecosystem consequences.",
       "mermaid": "flowchart TD\n  A[SignWriting signbox]\n  A --> B[Readable and writable plane text]\n  B --> C[Formal SignWriting encoding]\n  C --> D[Sequence-sensitive information preserved]\n  C --> E[Spatial composition preserved]\n  D --> F[Durable computational text]\n  E --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef mid fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,C core;\n  class B,D,E mid;\n  class F out;"
     },
@@ -225,7 +225,7 @@
       "id": "what-becomes-possible",
       "title": "What Becomes Possible",
       "kicker": "10",
-      "summary": "Once plane-based writing becomes durable text, it can support literacy materials, corpora, tools, datasets, and new research programs.",
+      "summary": "Once plane-based writing can be stored and processed as text, it can support literacy materials, corpora, tools, datasets, and new research programs.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for what becomes possible with encoded plane writing.",
       "image_prompts": {
@@ -238,7 +238,7 @@
         "Bilingual literacy materials become easier to build",
         "New computational and cognitive studies become possible"
       ],
-      "speech": "Once plane-based writing becomes durable computational text, the ecosystem changes. Search becomes practical. Sorting becomes practical. Corpora, lexicons, annotation pipelines, and structured datasets become easier to build, share, and reuse.\n\nThat matters far beyond software. It matters for literacy materials, bilingual educational work, linguistics, human-computer interaction, AI, and cognitive research. The point is not only that SignWriting can be displayed on a screen. The point is that it can participate in a larger research and technical infrastructure that respects the geometry of the writing itself.",
+      "speech": "Once plane-based writing can be stored and processed as text, the ecosystem changes. Search becomes practical. Sorting becomes practical. Corpora, lexicons, annotation pipelines, and structured datasets become easier to build, share, and reuse.\n\nThat matters far beyond software. It matters for literacy materials, bilingual educational work, linguistics, human-computer interaction, AI, and cognitive research. The point is not only that SignWriting can be displayed on a screen. The point is that it can participate in a larger research and technical support system that respects the writing itself.",
       "notes": "Let this slide widen the stakes.\n\nKey points:\n- move from writing theory to usable infrastructure\n- name both literacy outcomes and research outcomes\n- emphasize reuse, not just display\n\nIf you need examples:\n- searchable corpora\n- structured lexicons\n- bilingual materials\n- experimental stimuli for research\n\nTransition:\n- after the upside, show intellectual discipline by separating strong claims from open questions.",
       "mermaid": "flowchart TD\n  A[Encoded plane writing]\n  A --> B[Search and sorting]\n  A --> C[Corpora and lexicons]\n  A --> D[Annotation and datasets]\n  A --> E[Bilingual materials and tools]\n\n  B --> F[Research and infrastructure]\n  C --> F\n  D --> F\n  E --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef mid fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A core;\n  class B,C,D,E mid;\n  class F out;"
     },
@@ -246,7 +246,7 @@
       "id": "strong-claims-and-open-questions",
       "title": "Strong Claims and Open Questions",
       "kicker": "11",
-      "summary": "The geometry claim is strong; the cognitive, educational, and NLP consequences remain open research questions.",
+      "summary": "The shape-of-writing claim is strong; the cognitive, educational, and NLP consequences remain open research questions.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for strong claims and open questions.",
       "image_prompts": {
@@ -254,13 +254,13 @@
         "abstract": "A firm geometric framework beside a field of open research questions, scholarly and balanced"
       },
       "bullets": [
-        "Writing geometry is a strong conceptual claim",
+        "How writing uses space is a strong conceptual claim",
         "SignWriting as plane writing is a strong interpretive claim",
         "Reading, literacy, and NLP consequences remain open",
         "Keeping levels separate strengthens the work"
       ],
-      "speech": "I want to keep the levels of claim clear. The strong claim is that writing systems differ in geometry, that point, line, and plane are useful analytic tendencies, that SignWriting is a genuine case of plane-based writing, and that Formal SignWriting provides a computational strategy that preserves the plane. That is already a substantial claim.\n\nThe open questions are different. How do readers process plane-based writing compared with line-based writing? Which spatial relations are most cognitively salient? How should plane writing be tokenized for NLP and machine learning? What new experimental stimuli become possible once spatial composition is computationally tractable? Those are not weaknesses in the work. They are the research frontier created by taking the writing seriously. Keeping the strong claims and the open questions separate is what makes the argument rigorous rather than promotional.",
-      "notes": "This slide gives the whole deck credibility.\n\nStrong claims to name clearly:\n- writing is not inherently linear\n- point, line, and plane are useful analytic tendencies\n- SignWriting is plane-based writing\n- Formal SignWriting encodes the plane rather than flattening it away\n\nOpen questions to name briefly:\n- reading and processing\n- literacy development\n- NLP tokenization and representation\n- interface and experiment design\n\nTransition:\n- close by tying geometry back to the modality argument from Language Without Sound.",
+      "speech": "I want to keep the levels of claim clear. The strong claim is that writing systems differ in how they use space, that point, line, and plane are useful analytic tendencies, that SignWriting is a genuine case of plane-based writing, and that Formal SignWriting provides a way to preserve that writing in software. That is already a substantial claim.\n\nThe open questions are different. How do readers process plane-based writing compared with line-based writing? Which spatial relations are most cognitively salient? How should plane writing be tokenized for NLP and machine learning? What new experimental stimuli become possible once spatial composition can be stored and processed as text? Those are not weaknesses in the work. They are the research frontier created by taking the writing seriously. Keeping the strong claims and the open questions separate is what makes the argument rigorous rather than promotional.",
+      "notes": "This slide gives the whole deck credibility.\n\nStrong claims to name clearly:\n- writing is not inherently linear\n- point, line, and plane are useful analytic tendencies\n- SignWriting is plane-based writing\n- Formal SignWriting preserves the plane instead of flattening it away\n\nOpen questions to name briefly:\n- reading and processing\n- literacy development\n- NLP tokenization and representation\n- interface and experiment design\n\nTransition:\n- close by tying the shape of writing back to the modality argument from Language Without Sound.",
       "mermaid": "flowchart LR\n  A[The Shape of Writing]\n  A --> B[Strong claims]\n  A --> C[Open questions]\n\n  B --> B1[Writing is not inherently linear]\n  B --> B2[Point, line, and plane are useful analytic tendencies]\n  B --> B3[SignWriting is plane-based]\n  B --> B4[Formal SignWriting encodes the plane]\n\n  C --> C1[How is plane writing read?]\n  C --> C2[How does spatial literacy develop?]\n  C --> C3[How should it be tokenized for NLP?]\n  C --> C4[What new experiments become possible?]\n\n  classDef strong fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  classDef open fill:#fefce8,color:black,stroke:#ca8a04,stroke-width:2px;\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  class A core;\n  class B,B1,B2,B3,B4 strong;\n  class C,C1,C2,C3,C4 open;"
     },
     {
@@ -280,9 +280,9 @@
         "Signed languages need durable plane-based pathways",
         "The next step is research, tools, datasets, and infrastructure"
       ],
-      "speech": "The series opened by arguing that language is not inherently auditory. This second step argues that writing is not inherently linear. Point systems show integration. Line systems show sequence. Plane systems show spatial composition. Together, those two claims clear space for a much more accurate understanding of signed-language literacy.\n\nOnce that is clear, the question changes. The issue is no longer whether SignWriting looks unusual from the perspective of alphabetic print. The issue is how to study, support, encode, and build with a genuine spatial writing system. That means research on reading and cognition. It means better tools, datasets, corpora, and literacy materials. It means treating plane-based writing as durable infrastructure rather than as a curiosity. That is the collaboration I am looking for: science and infrastructure equal to the shape of the writing itself.",
+      "speech": "The series opened by arguing that language is not inherently auditory. This second step argues that writing is not inherently linear. Point systems show integration. Line systems show sequence. Plane systems show spatial composition. Together, those two claims clear space for a much more accurate understanding of signed-language literacy.\n\nOnce that is clear, the question changes. The issue is no longer whether SignWriting looks unusual from the perspective of alphabetic print. The issue is how to study, support, encode, and build with a genuine spatial writing system. That means research on reading and cognition. It means better tools, datasets, corpora, and literacy materials. It means treating plane-based writing as something that deserves real support rather than dismissal. That is the collaboration I am looking for: science, tools, and research support equal to the shape of the writing itself.",
       "notes": "Close as an invitation, not a defense.\n\nKey structure:\n- first talk: language does not require sound\n- second talk: writing does not require linearity\n- together they justify durable signed-language literacy pathways and infrastructure\n\nIf you want the shortest closing line:\n- the task now is not to justify the possibility of plane writing, but to build with it responsibly\n\nDelivery note:\n- pause after the first paragraph, then let the final sentence land cleanly.",
-      "mermaid": "flowchart TD\n  A[Language is not inherently auditory]\n  B[Writing is not inherently linear]\n\n  A --> C[Signed language is fully linguistic]\n  B --> D[Plane writing is legitimate writing]\n\n  C --> E[SignWriting]\n  D --> E\n\n  E --> F[Research]\n  E --> G[Tools and datasets]\n  E --> H[Spatial literacy infrastructure]\n\n  F --> I[Shared scientific program]\n  G --> I\n  H --> I\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef mid fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,E core;\n  class C,D,F,G,H mid;\n  class I out;"
+      "mermaid": "flowchart TD\n  A[Language is not inherently auditory]\n  B[Writing is not inherently linear]\n\n  A --> C[Signed language is fully linguistic]\n  B --> D[Plane writing is legitimate writing]\n\n  C --> E[SignWriting]\n  D --> E\n\n  E --> F[Research]\n  E --> G[Tools and datasets]\n  E --> H[Reading and writing support]\n\n  F --> I[Shared scientific program]\n  G --> I\n  H --> I\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef mid fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,E core;\n  class C,D,F,G,H mid;\n  class I out;"
     }
   ]
 }

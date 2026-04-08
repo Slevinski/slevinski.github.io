@@ -4,7 +4,7 @@
   "title": "The Shape of a Sign",
   "subtitle": "Symbols, coordinates, centering, and the signbox",
   "summary": "Canonical statement of symbols, coordinates, centering, and signbox structure.",
-  "synopsis": "A Formal SignWriting word is not complete until its symbols, coordinates, signbox behavior, tight bounding boxes, and centering logic are understood. This entry states the spatial layer in its smallest stable form and shows how the signbox becomes tractable as geometry carried in text.",
+  "synopsis": "A Formal SignWriting word is not complete until its symbols, coordinates, signbox behavior, tight bounding boxes, and centering logic are understood. This entry states the spatial layer in its smallest stable form and shows how the signbox works as a spatial arrangement carried in text.",
   "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
   "cover_image_alt": "Cover image for The Shape of a Sign in the Formal SignWriting series.",
   "handout": "handout.md",
@@ -27,22 +27,22 @@
   "slides": [
     {
       "id": "spatial-model",
-      "title": "The Signbox Is a Geometry",
+      "title": "The Signbox Is a Spatial Arrangement",
       "kicker": "1",
-      "summary": "The signbox is where Formal SignWriting becomes visibly and technically spatial.",
+      "summary": "The signbox is where Formal SignWriting becomes visibly spatial and technically precise.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the signbox as a geometry.",
+      "image_alt": "Placeholder image for the signbox as a spatial arrangement.",
       "image_prompts": {
-        "concrete": "Technical diagram of a SignWriting signbox with symbols arranged spatially and labeled as geometry plus text, scholarly and clean",
+        "concrete": "Technical diagram of a SignWriting signbox with symbols arranged spatially and labeled as text plus spatial arrangement, scholarly and clean",
         "abstract": "A spatial field of symbols forming one coherent written object"
       },
       "bullets": [
         "Spatial signbox",
         "Visible written form",
-        "Geometry plus text",
+        "Spatial arrangement in text",
         "The sign as an arranged object"
       ],
-      "speech": "This entry states the spatial layer of the model. Formal SignWriting is not only a grammar of symbols. It is also a geometry of placement, tight bounding boxes, and normalization. The signbox becomes technically tractable once those pieces are kept in view together, and that spatial layer remains stable even as rendering and implementation continue to grow around it.",
+      "speech": "This entry states the spatial layer of the model. Formal SignWriting is not only a grammar of symbols. It also has to preserve where those symbols are placed, how far they extend, and how they are normalized. The signbox becomes understandable once those pieces are kept in view together, and that spatial layer remains stable even as rendering and implementation continue to grow around it.",
       "notes": "Use this as the spatial counterpart to the opening deck.",
       "mermaid": "flowchart TD\n  A[Signbox]\n  A --> B[Symbols]\n  A --> C[Coordinates]\n  A --> D[Tight bounding boxes]\n  B --> E[Visible written form]\n  C --> E\n  D --> E\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,E core;\n  class B,C,D node;"
     },
@@ -85,8 +85,8 @@
         "Maximum coordinates",
         "Normalization inputs"
       ],
-      "speech": "Coordinates are not incidental metadata. They are the mechanism that makes spatial relation processable. Each placed symbol gives a top-left coordinate, while preprocessing supplies the symbol size needed to build a tight bounding box and determine maximum coordinates. That is how the signbox becomes usable for layout, sizing, rendering, and later search workflows. Visible arrangement becomes stable technical structure only once those calculations are explicit.",
-      "notes": "This slide should connect the visual geometry to practical software behavior.",
+      "speech": "Coordinates are not incidental metadata. They are the mechanism that makes spatial relation usable in software. Each placed symbol gives a top-left coordinate, while preprocessing supplies the symbol size needed to build a tight bounding box and determine maximum coordinates. That is how the signbox becomes usable for layout, sizing, rendering, and later search workflows. Visible arrangement becomes stable technical structure only once those calculations are explicit.",
+      "notes": "This slide should connect the visual arrangement to practical software behavior.",
       "mermaid": "flowchart TD\n  A[Placed symbols] --> B[Top-left coordinates]\n  A --> C[Symbol bounding boxes]\n  B --> D[Sign bounding box]\n  C --> D\n  D --> E[Maximum coordinates]\n  E --> F[Layout and rendering behavior]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,D,E core;\n  class B,C,F node;"
     },
     {
@@ -102,7 +102,7 @@
         "Shift to the normalized center",
         "Foundation for later layers"
       ],
-      "speech": "Centering is one of the strongest technical moves in Formal SignWriting. Horizontal centering uses `hcenter` symbols when available, and vertical centering uses `vcenter` symbols when available, with fallback to all symbols when those ranges are absent. The sign is temporarily expanded into tight bounding boxes, the midpoint is calculated from the relevant extents, and all coordinates are shifted together. Without that normalization, too much of the system becomes fragile or inconsistent. With it, the spatial layer becomes much more portable across search, rendering, and implementation.",
+      "speech": "Centering is one of the strongest technical moves in Formal SignWriting. Horizontal centering uses `hcenter` symbols when available, and vertical centering uses `vcenter` symbols when available, with fallback to all symbols when those ranges are absent. The sign is temporarily expanded into tight bounding boxes, the midpoint is calculated from the relevant extents, and all coordinates are shifted together. Without that normalization, too much of the system becomes fragile or inconsistent. With it, the spatial layer becomes much more consistent across search, rendering, and implementation.",
       "notes": "This is where the deck should start pointing forward to search, rendering, and implementation.",
       "mermaid": "flowchart TD\n  A[Unnormalized sign] --> B[Centering rules]\n  B --> C[Normalized sign]\n  C --> D[Stable layout]\n  C --> E[Stable search]\n  C --> F[Stable rendering]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class B,C core;\n  class D,E,F out;"
     }

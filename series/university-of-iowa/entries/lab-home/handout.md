@@ -8,7 +8,7 @@ The first move is small, practical, and immediate:
 
 - place Steve Slevinski in a PI's lab now
 - begin at 0 percent salary support if necessary
-- use that placement to create institutional continuity and a credible base for the next steps
+- use that placement to create a real base for the next steps
 
 The University of Iowa is not being asked to fund a fully developed center all at once.
 
@@ -24,11 +24,11 @@ Its job is to explain the PI decision clearly and keep the first step easy to un
 
 ## Why this matters now
 
-The timing matters because the work already has practical value and real long-term potential, but it is harder to stabilize either one without an institutional home.
+The timing matters because the work already has practical value and real long-term potential, but it is harder to stabilize either one without a real home inside the University.
 
 A lab home matters now because it:
 
-- creates continuity inside the University
+- gives the work a place to live inside the University
 - gives the work an academic and administrative location
 - makes conversations with collaborators more concrete
 - creates a place from which grant concepts can be developed
@@ -62,7 +62,7 @@ The larger structure can then grow around that base through several reinforcing 
 - partial salary support
 - project-based DMS and repository work
 - grants under the PI
-- gifts and donations as a continuity lane
+- gifts and donations as a bridge-support lane
 - longer-term research infrastructure development
 
 The strength of this model is that it does not require one conversation or one funding source to solve everything at once.
@@ -73,7 +73,7 @@ The PI is being asked to provide:
 
 - a lab home
 - academic affiliation and credibility
-- an institutional point of anchoring for future work
+- a real university base for future work
 
 This is important because it keeps the ask clear.
 
@@ -115,8 +115,8 @@ The lab also becomes the place from which a broader research infrastructure effo
 
 That longer arc includes:
 
-- Sutton SignWriting stewardship
-- software continuity
+- Sutton SignWriting support
+- software maintenance
 - data and corpus infrastructure
 - collaboration across literacy, language, accessibility, and research systems
 
@@ -185,18 +185,18 @@ Once Steve is institutionally based, grants can be written under the PI to suppo
 
 - Steve's role
 - project-facing DMS and repository work
-- software and documentation stewardship
+- software and documentation maintenance
 - broader Sutton SignWriting infrastructure
 - future research collaboration
 
 ### Lane 5: Gifts and donations
 
-There is also a complementary continuity lane through gifts and donations.
+There is also a complementary bridge-support lane through gifts and donations.
 
 It can support:
 
 - bridge support
-- continuity support
+- follow-through support
 - infrastructure support
 
 It works best as a disciplined complement to grants and salary support, not as a substitute for them.
@@ -273,7 +273,7 @@ The main question is whether the University can support the right first structur
 
 If there is a lab home now, then:
 
-- continuity improves
+- the work has a real place to start
 - salary support becomes easier to build
 - DMS and repository collaborations become easier to activate
 - grant writing becomes more credible

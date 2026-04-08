@@ -14,15 +14,15 @@ Each one has a specific job, audience, and level of detail.
 
 ## Primary presentations
 
-- **Lab Home** — the PI-facing first-step deck that argues for a lab home now as the small decision that unlocks continuity, support, and future growth
+- **Lab Home** — the PI-facing first-step deck that argues for a lab home now as the small decision that gives the work a real base and makes later support easier to build
 - **Steve Slevinski Value** — the immediate operational-value deck focused on DMS, workflow support, code, structure, and repository delivery as a practical University resource
-- **Sutton SignWriting Infrastructure Initiative** — the longer-horizon infrastructure deck focused on existing global value, current fragility, and the case for durable institutional stewardship
-- **Infrastructure Core and Philanthropy** — the philanthropic and development-facing deck focused on establishing a durable institutional core for staffing, continuity, and global coordination
+- **Sutton SignWriting Infrastructure Initiative** — the longer-horizon institutional and grant-facing deck focused on existing global value, current fragility, and the case for institutionally housed shared research infrastructure
+- **Infrastructure Core and Philanthropy** — the development-facing deck focused on philanthropic support for staffing, translation and access, and global coordination once the infrastructure case is already understood
 
 ## Supporting materials
 
 - **Outreach Memo** — the short routing memo for internal forwarding, first-pass context, and next-conversation guidance
-- **Relevant Precedents and Institutional Pathways** — the precedent-focused deck showing how comparable university, archive, and sign-language models support the Iowa path
+- **Relevant Precedents and Institutional Pathways** — the precedent-focused support deck showing how comparable university, archive, and sign-language models make the Iowa path easier to recognize
 
 ## Series role
 
@@ -42,7 +42,7 @@ The strongest routed use is:
 2. **Lab Home** for a PI or near-term placement conversation
 3. **Steve Slevinski Value** for practical research-value and operational-support conversations centered on DMS, workflow, and repository delivery
 4. **Sutton SignWriting Infrastructure Initiative** once the practical base is established and the longer-term opportunity is under discussion
-5. **Infrastructure Core and Philanthropy** when the conversation shifts toward development, donor framing, and the case for durable philanthropic support
+5. **Infrastructure Core and Philanthropy** when the conversation shifts toward development, donor framing, and philanthropic support for a defined infrastructure core
 6. **Relevant Precedents and Institutional Pathways** only when the conversation needs comparable models or outside institutional examples
 
 ## Reduction logic
@@ -52,4 +52,4 @@ If the public surface needs to stay tighter, the four primary presentations shou
 The two supporting materials should remain available, but they should not be treated as equal-weight first stops:
 
 - **Outreach Memo** is a routing memo rather than a full argument deck
-- **Relevant Precedents and Institutional Pathways** is support material rather than a default first-line presentation
+- **Relevant Precedents and Institutional Pathways** is support material rather than a default first-line presentation or a parallel master pitch

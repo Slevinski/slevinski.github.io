@@ -25,7 +25,7 @@
       "slug": "formal-signwriting",
       "title": "Formal SignWriting",
       "subtitle": "Plain-text encodings, grammar, search, rendering, styling, and implementation of written sign text",
-      "description": "A technical publication series on the Formal SignWriting model as durable computational text for written sign language, with a clear distinction between canonical text and presentation markup.",
+      "description": "A technical publication series on the Formal SignWriting model for sign text that can be stored, searched, checked, and processed by software, with a clear distinction between canonical text and presentation markup.",
       "accepting_entries": true,
       "home_doc": "README.md",
       "kind": "technical-and-publication-series",
@@ -35,8 +35,8 @@
           "legacy_slugs": [],
           "number": 1,
           "title": "Formal SignWriting",
-          "subtitle": "The two-part word, spatial text, and the core model",
-          "summary": "Canonical opening statement of the two-part word, spatial text, and durable computational sign text.",
+          "subtitle": "The two-part word, sign text, and the core model",
+          "summary": "Canonical opening statement of the two-part word and of sign text that software can store, search, check, and process.",
           "handout": "handout.md",
           "slide_count": 4
         },
@@ -127,7 +127,7 @@
           "number": 1,
           "title": "Executive Brief",
           "subtitle": "Sutton SignWriting as research infrastructure",
-          "summary": "A concise forwardable presentation that states the mission, institutional problem, and opportunity around Sutton SignWriting infrastructure.",
+          "summary": "A concise forwardable presentation that states the mission, support gap, and opportunity around Sutton SignWriting.",
           "handout": "handout.md",
           "slide_count": 8
         },
@@ -136,8 +136,8 @@
           "legacy_slugs": [],
           "number": 2,
           "title": "Initiative Overview",
-          "subtitle": "Research Infrastructure and Collaboration Opportunity",
-          "summary": "A collaboration-facing overview of the partnerships, program lanes, and institutional value around Sutton SignWriting infrastructure.",
+          "subtitle": "What already exists, why it matters now, and where collaboration fits",
+          "summary": "A collaboration-facing overview of the program lanes, evidence base, and institutional value around Sutton SignWriting.",
           "handout": "handout.md",
           "slide_count": 6
         },
@@ -146,8 +146,8 @@
           "legacy_slugs": [],
           "number": 3,
           "title": "Infrastructure and Stewardship",
-          "subtitle": "Confirmed assets, continuity, and the case for institutional stabilization",
-          "summary": "A presentation defining Sutton SignWriting as existing infrastructure with real assets, active stewardship, and identifiable continuity risks.",
+          "subtitle": "Confirmed assets, current risks, and the case for stronger institutional support",
+          "summary": "A presentation showing Sutton SignWriting as existing infrastructure with real assets, active maintenance, and identifiable support risks.",
           "handout": "handout.md",
           "slide_count": 11
         },
@@ -176,8 +176,8 @@
           "legacy_slugs": [],
           "number": 6,
           "title": "Research Program for Literacy Without Sound",
-          "subtitle": "What gets studied next, why Brazil matters, and what infrastructure makes it possible",
-          "summary": "A practical infrastructure-facing brief that turns the science framing into a buildable SignWriting research program without turning the project into a comparison contest.",
+          "subtitle": "What could be studied next, why Brazil matters, and what support would make it possible",
+          "summary": "A practical brief that turns the science framing into a buildable SignWriting research program without turning the project into a comparison contest.",
           "handout": "handout.md",
           "slide_count": 11
         },
@@ -196,7 +196,7 @@
           "legacy_slugs": [],
           "number": 8,
           "title": "International Shared Support",
-          "subtitle": "International Shared Support and Partnership Framework",
+          "subtitle": "How international partners can help keep the system stable and connected",
           "summary": "An international support model combining University of Iowa backing, partner relationships, and country ambassadors.",
           "handout": "handout.md",
           "slide_count": 5
@@ -206,8 +206,8 @@
           "legacy_slugs": [],
           "number": 9,
           "title": "Country Ambassadors",
-          "subtitle": "Country-level outreach, translation, and institutional relationship-building",
-          "summary": "A volunteer-first country ambassador model for outreach, translation, and institutional relationship-building.",
+          "subtitle": "Country-level outreach, translation, and local relationship-building",
+          "summary": "A volunteer-first country ambassador model for trusted local outreach, translation, and early relationship-building.",
           "handout": "handout.md",
           "slide_count": 11
         }
@@ -237,7 +237,7 @@
           "legacy_slugs": [],
           "number": 2,
           "title": "The Shape of Writing",
-          "subtitle": "Point, line, plane, and the case for spatial literacy infrastructure",
+          "subtitle": "Point, line, plane, and why signed writing does not need to fit into a line",
           "summary": "Presentation 2 in The Science of Sutton SignWriting series.",
           "handout": "handout.md",
           "slide_count": 12
@@ -269,7 +269,7 @@
           "number": 2,
           "title": "Lab Home",
           "subtitle": "A practical path from 0 percent placement to grants and infrastructure",
-          "summary": "A PI-facing presentation arguing that a lab home now is the first small decision that makes continuity, salary support, DMS collaborations, grant writing, and future infrastructure possible.",
+          "summary": "A PI-facing presentation arguing that a lab home now is the first small decision that makes salary support, DMS collaborations, grant writing, and future infrastructure more plausible.",
           "handout": "handout.md",
           "slide_count": 10
         },
@@ -291,7 +291,7 @@
           "number": 4,
           "title": "Sutton SignWriting Infrastructure Initiative",
           "subtitle": "A path to shared research infrastructure at the University of Iowa",
-          "summary": "A University of Iowa-facing presentation about turning Sutton SignWriting from fragile independent stewardship into durable shared research infrastructure.",
+          "summary": "A University of Iowa-facing presentation about turning Sutton SignWriting from fragile independent maintenance into durable shared research infrastructure.",
           "handout": "handout.md",
           "slide_count": 12
         },
@@ -300,7 +300,7 @@
           "legacy_slugs": [],
           "number": 5,
           "title": "Infrastructure Core and Philanthropy",
-          "subtitle": "A durable University of Iowa home for global SignWriting infrastructure",
+          "subtitle": "A University of Iowa support structure for global SignWriting infrastructure",
           "summary": "A University of Iowa-facing presentation framing the Sutton SignWriting Infrastructure Core as a philanthropic opportunity that complements the lab-home, operational-value, and grant-development structure.",
           "handout": "handout.md",
           "slide_count": 17
@@ -311,7 +311,7 @@
           "number": 6,
           "title": "Relevant Precedents and Institutional Pathways",
           "subtitle": "What comparable university models suggest for SignWriting at Iowa",
-          "summary": "A University of Iowa-facing presentation using language, archive, sign-language, and data-infrastructure precedents to show that SignWriting follows a recognizable institutional path rather than requiring a speculative leap.",
+          "summary": "A University of Iowa-facing supporting presentation using language, archive, sign-language, and data-infrastructure precedents to show that SignWriting follows a recognizable institutional path rather than requiring a speculative leap.",
           "handout": "handout.md",
           "slide_count": 12
         }

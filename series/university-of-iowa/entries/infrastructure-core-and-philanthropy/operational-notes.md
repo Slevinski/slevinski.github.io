@@ -2,7 +2,7 @@
 
 _Operational model, staffing, and budget expansion_
 
-The operational model behind the proposed Infrastructure Core includes staffing, global coordination, infrastructure needs, and the conceptual budget shape.
+These notes outline the working model behind the proposed Infrastructure Core: staffing, global coordination, infrastructure needs, and the rough budget shape.
 
 ## Core Staffing Model
 
@@ -10,12 +10,12 @@ The Infrastructure Core would include:
 
 ### Leadership
 
-* Steve Slevinski as technical lead and steward
+* Steve Slevinski as technical lead and maintainer
 * Lead Principal Investigator
 
 ### Core Team
 
-* Infrastructure Assistant for long-term continuity and succession
+* Infrastructure Assistant for long-term support and succession
 * Lab Manager for operations, coordination, and logistics
 * Research Assistant for data, documentation, and project support
 
@@ -65,7 +65,7 @@ Ambassadors support:
 
 ### Technical
 
-* cloud hosting and domain stewardship
+* cloud hosting and domain maintenance
 * storage for active and archival materials
 * research Git and repository infrastructure
 * Globus for data transfer
@@ -119,7 +119,7 @@ It would support:
 
 ### Budget Philosophy
 
-* start small and durable
+* start small and stable
 * expand with success
-* support continuity first
+* support core maintenance first
 * scale through grants and partnerships

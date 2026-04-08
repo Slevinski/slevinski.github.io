@@ -197,7 +197,6 @@ That structure includes:
 - a lab home under a PI
 - collaborators across the University
 - grant writing under that PI
-- gifts and donations as a complementary support lane
 - practical present-tense work through DMS, repository support, and technical continuity
 
 This matters because durable infrastructure cannot be built from abstract vision alone.
@@ -211,9 +210,9 @@ It needs:
 
 Those practical components are covered elsewhere in the Iowa series. Here they matter mainly because they make the infrastructure ask credible.
 
-## Stewardship and continuity
+## Maintenance and continuity
 
-Long-term infrastructure requires stewardship.
+Long-term infrastructure requires a real maintenance and continuity model.
 
 That includes:
 
@@ -223,9 +222,9 @@ That includes:
 - continuity planning
 - future-facing design
 
-Without stewardship, infrastructure decays.
+Without maintenance and continuity work, infrastructure decays.
 
-With stewardship, the initiative becomes:
+With that work in place, the initiative becomes:
 
 - more trustworthy
 - more fundable
@@ -257,18 +256,6 @@ Salary support can be justified where real DMS, repository, software, or coordin
 
 This helps create continuity and reduces the gap between idea and execution.
 
-### Complementary lane: gifts and donations
-
-Gifts and donations can provide:
-
-- bridge support
-- continuity support
-- infrastructure support
-
-The lane matters, but it remains complementary and disciplined.
-
-It supports continuity rather than replacing institutional or grant logic.
-
 ## Why this initiative is worth building
 
 This initiative is worth building because it addresses a real gap.
@@ -286,7 +273,7 @@ With:
 - an academic home
 - collaborators
 - grant writing
-- sustained stewardship
+- sustained maintenance and continuity work
 
 the University of Iowa can help change that trajectory.
 
@@ -320,7 +307,7 @@ That would support:
 - language science
 - data infrastructure
 - collaboration
-- long-term stewardship
+- long-term maintenance and continuity
 
 This is therefore not only a preservation opportunity.
 

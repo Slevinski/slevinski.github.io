@@ -151,44 +151,44 @@
       "image_alt": "Placeholder image for shared operational capacity.",
       "bullets": [
         "Useful across more than one project",
-        "Improves continuity for active work",
+        "Improves day-to-day availability for active work",
         "Strengthens technical follow-through",
         "Makes the function visible institutionally"
       ],
       "speech": "The operational case is stronger when this work is treated as shared capacity. More than one project can benefit from DMS planning, workflow cleanup, validation, and repository delivery support. The point is to name a useful function clearly and show why it matters across active research work.",
       "notes": "Keep the slide on function and institutional usefulness, not on funding mechanics.",
-      "mermaid": "graph LR\n  A[Shared Capacity] --> B[Availability]\n  A --> C[Execution Capacity]\n  A --> D[Continuity]\n  A --> E[Cross-Project Use]"
+      "mermaid": "graph LR\n  A[Shared Capacity] --> B[Availability]\n  A --> C[Execution Capacity]\n  A --> D[Follow-Through]\n  A --> E[Cross-Project Use]"
     },
     {
       "id": "immediate-and-strategic",
-      "title": "Practical Value, Clearly Named",
+      "title": "Best First Use Cases",
       "kicker": "9",
-      "summary": "The strongest case here is straightforward: Steve provides practical support for active research work that needs structure, follow-through, and successful delivery.",
+      "summary": "The strongest first uses are concrete: DMS cleanup, workflow repair, repository preparation, and the hard middle-stage work teams often underestimate.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for clearly naming practical research value.",
+      "image_alt": "Placeholder image for best first use cases.",
       "bullets": [
-        "DMS planning and refinement",
-        "Workflow design across messy systems",
-        "Technical execution and repository delivery"
+        "Refresh a DMS Plan so it matches real practice",
+        "Clean up the messy middle between systems and submission",
+        "Help teams finish documentation, validation, and delivery work"
       ],
-      "speech": "The practical case is already strong on its own. Steve helps with DMS planning, workflow design, technical execution, and repository delivery. That combination is useful because it turns hard middle-stage project work into clearer structure, better follow-through, and more reliable completion.",
-      "notes": "Keep the slide concrete and affirmative.",
-      "image_prompt_concrete": "Clean academic slide showing DMS planning, workflow design, and repository delivery as one practical support function",
-      "image_prompt_abstract": "Three aligned channels converging into one clear delivery path"
+      "speech": "The strongest first use cases are practical. Use Steve when a DMS Plan needs to match the real workflow, when the messy middle between systems and submission is slowing the project down, or when documentation, validation, and repository delivery work needs hands-on support.",
+      "notes": "Make the audience picture where this help enters first.",
+      "image_prompt_concrete": "Clean academic slide showing practical first use cases like DMS cleanup, workflow repair, and repository preparation",
+      "image_prompt_abstract": "Three practical work channels converging into one clear delivery path"
     },
     {
       "id": "closing-ask",
       "title": "Closing Ask",
       "kicker": "10",
-      "summary": "The closing ask is to use Steve as a practical University resource for DMS planning, workflow design, and repository delivery where that help is needed.",
+      "summary": "The closing ask is simple: use Steve where active research projects need practical DMS, workflow, and repository-delivery help.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the closing ask.",
       "bullets": [
         "Use Steve as a practical University resource",
         "Use him for DMS, workflow, and repository problems",
-        "Use him where projects need execution support"
+        "Start where a real project is already under pressure"
       ],
-      "speech": "The closing ask is straightforward. Use Steve as a practical University resource for DMS planning, workflow design, and repository delivery where that help is needed. The value of the role is simple: it helps research teams move difficult work toward successful completion.",
+      "speech": "The closing ask is straightforward. Use Steve as a practical University resource where active projects need DMS, workflow, and repository-delivery help. Start where a real team is already feeling pressure from the messy middle and needs clearer structure and stronger follow-through.",
       "notes": "End with disciplined usefulness.",
       "mermaid": "graph TD\n  A[Use Steve Now] --> B[Better Project Delivery]\n  B --> C[Clearer DMS Workflows]\n  C --> D[Successful Repository Outcomes]"
     }

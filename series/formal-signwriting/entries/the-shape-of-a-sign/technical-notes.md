@@ -17,7 +17,7 @@ This example shows the spatial layer in compact form:
 - multiple symbols
 - one coordinate per placed symbol
 
-That is enough to demonstrate that the signbox is a spatial object encoded as text.
+That is enough to demonstrate that the signbox is a spatial arrangement encoded as text.
 
 ## I. Symbol roles and ranges
 
@@ -142,7 +142,7 @@ After centering:
 - the temporary bottom-right coordinates are removed
 - the sign returns to ordinary normalized sign text
 
-So normalization depends on geometry that is computed during preprocessing, not stored directly in the sign.
+So normalization depends on spatial measurements that are computed during preprocessing, not stored directly in the sign.
 
 ## VII. Main technical areas
 
@@ -173,6 +173,6 @@ Normalization should be treated as a technical stabilizer, not as a cosmetic cle
 It helps later layers by making:
 
 - layout more consistent
-- search more tractable
+- search easier to define
 - rendering more stable
 - implementation comparisons easier to reason about

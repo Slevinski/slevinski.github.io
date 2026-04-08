@@ -1,7 +1,7 @@
 # Formal SignWriting Technical Notes
 
 **Formal SignWriting**  
-The two-part word, spatial text, and the core model
+The two-part word, sign text, and the core model
 
 These technical notes collect a few compact details behind the core model.
 
@@ -55,7 +55,7 @@ The sequence should also be described carefully:
 
 The technical position is:
 
-- Formal SignWriting is a durable technical model for written sign text
+- Formal SignWriting is a stable technical model for written sign text
 - the visible writing and the computational representation are related but distinct layers
 - FSW and SWU are plain-text encodings of the same model, with FSW commonly canonical in processing and SWU supported for Unicode-oriented interchange
 - the style string is not canonical sign text and should be treated as optional markup for presentation
@@ -103,7 +103,7 @@ Once the two-part word is accepted, several consequences follow immediately:
 
 - sequence-sensitive handling becomes possible
 - sequence theory can vary without changing the formal model
-- spatial placement remains visible and processable
+- spatial placement remains visible and usable in software
 - validity can be defined formally
 - search can operate on structured text
 - rendering can remain downstream from encoding

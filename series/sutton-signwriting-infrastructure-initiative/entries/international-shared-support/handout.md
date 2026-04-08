@@ -1,6 +1,6 @@
 # **Sutton SignWriting Infrastructure Initiative**
 
-**International Shared Support and Partnership Framework**
+**How international partners can help keep the system stable and connected**
 
 ## **Overview**
 
@@ -18,7 +18,7 @@ A recent outage affected educational use in Brazil and highlighted a broader iss
 
 > a globally used system is still relying on a fragile maintenance model.
 
-The project now needs a more durable structure that combines institutional support, international collaboration, and a credible administrative home.
+The project now needs a stronger structure that combines institutional support, international collaboration, and a clear administrative home.
 
 ---
 
@@ -31,11 +31,13 @@ The preferred model is:
 * **country ambassadors** who can support local outreach across language, institutional, and economic differences
 * **shared institutional participation** rather than dependence on a single independent maintainer
 
-This is not only a Brazil support plan. It is an international infrastructure strategy with Brazil as one of the clearest and strongest examples of active use.
+This is not only a Brazil support plan. It is an international support strategy with Brazil as one of the clearest and strongest examples of active use.
 
 ### Key Idea
 
 > SignWriting should be sustained as shared linguistic and educational infrastructure with institutional backing and international participation.
+
+In plainer terms: the system already has real users in more than one country, so the support model should reflect that reality.
 
 ---
 
@@ -61,7 +63,7 @@ They help demonstrate:
 * cross-country research value
 * language-access and accessibility relevance
 * readiness for multi-institution collaboration
-* demand for stable stewardship over time
+* demand for stable support over time
 
 Brazil remains especially important because of active educational use, but the broader network across Mexico, South Korea, and other regions strengthens the case that this is global infrastructure rather than a local or isolated project.
 
@@ -104,7 +106,7 @@ The University of Iowa provides the strongest current home for this work because
 * grant framing and institutional collaboration
 * administration of gifts and donations
 * research integration and PI alignment
-* credibility for long-term stewardship and reporting
+* credibility for long-term support and reporting
 
 International partner relationships should support and strengthen this institutional lane, not replace it.
 

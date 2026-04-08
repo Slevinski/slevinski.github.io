@@ -2,9 +2,9 @@
   "slug": "international-shared-support",
   "number": 8,
   "title": "International Shared Support",
-  "subtitle": "International Shared Support and Partnership Framework",
+  "subtitle": "How international partners can help keep the system stable and connected",
   "summary": "An international support model combining University of Iowa backing, partner relationships, and country ambassadors.",
-  "synopsis": "Sutton SignWriting needs an international support model that combines University of Iowa institutional backing, cross-country partner relationships, and locally grounded ambassadors to demonstrate real-world value and strengthen long-term stewardship.",
+  "synopsis": "Sutton SignWriting needs an international support model that combines University of Iowa institutional backing, cross-country partner relationships, and locally grounded ambassadors to demonstrate real-world value and strengthen long-term support.",
   "handout": "handout.md",
   "slides": [
     {
@@ -35,7 +35,7 @@
         "Country ambassadors",
         "Shared institutional participation"
       ],
-      "speech": "The preferred model combines grants, gifts, and donations administered through the University of Iowa, international partner relationships that demonstrate impact, country ambassadors who support local outreach, and shared institutional participation instead of dependence on a single maintainer.",
+      "speech": "The preferred model combines grants, gifts, and donations administered through the University of Iowa, international partner relationships that demonstrate impact, country ambassadors who support local outreach, and shared institutional participation instead of dependence on a single maintainer. In plain terms, it is a way to match the support structure to the fact that the system already has real users in more than one country.",
       "notes": "This is the model slide. Keep it simple and memorable."
     },
     {
@@ -48,7 +48,7 @@
       "bullets": [
         "Real-world educational reliance",
         "Cross-country research value",
-        "Demand for stable stewardship",
+        "Demand for stable support",
         "Readiness for multi-institution collaboration"
       ],
       "speech": "International relationships matter for more than outreach. They show real-world educational reliance, cross-country research value, accessibility relevance, and readiness for multi-institution collaboration.",
@@ -81,9 +81,9 @@
         "Grant framing and institutional collaboration",
         "Administration of gifts and donations",
         "Research integration and PI alignment",
-        "Long-term stewardship and reporting"
+        "Long-term support and reporting"
       ],
-      "speech": "The University of Iowa provides the strongest current home because it can support grant framing, gifts and donations, research integration, PI alignment, and long-term stewardship. Near-term goals include identifying institutional contacts, gathering letters of support, and mapping country-level outreach priorities.",
+      "speech": "The University of Iowa provides the strongest current home because it can support grant framing, gifts and donations, research integration, PI alignment, and long-term support. Near-term goals include identifying institutional contacts, gathering letters of support, and mapping country-level outreach priorities.",
       "notes": "End with next steps, not just abstract framing."
     }
   ]

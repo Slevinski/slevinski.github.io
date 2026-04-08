@@ -4,13 +4,13 @@
 
 ## Executive Frame
 
-Sutton SignWriting is not only a writing system. It is emerging research infrastructure. That framing fits conversations with a potential PI, lab, or institutional home that could anchor its development.
+Sutton SignWriting is not only a writing system. It is also an existing body of tools, standards, data, and public resources that could support much more research if it had a stronger institutional home.
 
 ## Mission Statement
 
-The mission of this project is to give Sutton SignWriting a durable academic home so its existing standards, tools, datasets, and research pathways can be stabilized, studied, preserved, and extended.
+The mission of this project is to give Sutton SignWriting a stable academic home so its existing standards, tools, datasets, and research pathways can be maintained, studied, preserved, and extended.
 
-In practical terms, that means moving from informal stewardship of a globally used system to durable institutional care that can support research, preservation, and future growth.
+In practical terms, that means moving from informal stewardship of a globally used system to stronger institutional support that can sustain research, preservation, and future growth.
 
 ## What Sutton SignWriting Is
 
@@ -27,7 +27,7 @@ Unlike glossing or transcription systems, SignWriting is not an annotation layer
 
 ## Existing Asset Base
 
-The SignWriting ecosystem already includes active, functioning infrastructure under continuous technical stewardship. This is not a speculative or early-stage system. It is a mature, distributed platform that has developed over more than two decades of use.
+The SignWriting ecosystem already includes active, functioning tools, standards, sites, and datasets under continuous technical stewardship. This is not a speculative or early-stage system. It is a mature, distributed platform that has developed over more than two decades of use.
 
 Existing assets include:
 
@@ -42,7 +42,7 @@ This matters because a host institution would not be starting from zero. It woul
 
 ## The Current Gap
 
-What is missing is not the idea, the community, or the software. What is missing is durable, coordinated support.
+What is missing is not the idea, the community, or the software. What is missing is stable, coordinated support.
 
 At present, the ecosystem depends on:
 
@@ -58,14 +58,14 @@ This creates risk for:
 * research use
 * long-term growth
 
-The current gap is not the absence of infrastructure.
-It is the absence of durable institutional support for infrastructure that already exists and is actively maintained.
+The current gap is not the absence of work.
+It is the absence of stable institutional support for work that already exists and is actively maintained.
 
 ## Why This Matters for Research
 
-Positioning SignWriting as infrastructure, rather than as a niche language project, changes what becomes possible.
+Treating SignWriting as shared research support, rather than only as a niche language project, changes what becomes possible.
 
-A stable infrastructure layer would support:
+A stronger support structure would support:
 
 * corpus development for signed languages
 * reproducible datasets and shared standards
@@ -104,13 +104,13 @@ Several factors make this a timely opportunity:
 
 In addition, the technical foundation has reached a level of maturity where it can support broader research use, including corpus development, computational analysis, and integration with modern data workflows. The research path is also clearer than before: reading and literacy studies, Brazil-grounded empirical work, South Korea as a current institutional proof point, and infrastructure-plus-dataset development can now be described as one connected program rather than as separate hopes.
 
-This creates a narrow window where institutional support can convert existing work into stable, grant-ready infrastructure.
+This creates a narrow window where institutional support can turn existing work into a stable, grant-ready program.
 
 ## What a PI or Host Institution Would Unlock
 
 A host institution would be building on an existing technical and data foundation, not initiating a new system.
 
-With a stable home, the project could transition from informal stewardship to formal infrastructure.
+With a stable home, the project could transition from informal stewardship to a more durable institutional program.
 
 This would enable:
 
@@ -134,6 +134,6 @@ The most compelling framing is simple:
 
 Sutton SignWriting already exists as a working, globally used system with software, data, and standards.
 
-What it lacks is durable institutional support.
+What it lacks is stable institutional support.
 
-With the right home, it becomes infrastructure that others can rely on, build on, and fund against with confidence.
+With the right home, it becomes a research and technical resource that others can rely on, build on, and fund with confidence.

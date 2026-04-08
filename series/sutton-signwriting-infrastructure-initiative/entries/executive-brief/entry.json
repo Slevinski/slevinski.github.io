@@ -3,23 +3,23 @@
   "number": 1,
   "title": "Executive Brief",
   "subtitle": "Sutton SignWriting as research infrastructure",
-  "summary": "A concise forwardable presentation that states the mission, institutional problem, and opportunity around Sutton SignWriting infrastructure.",
-  "synopsis": "A short executive framing of the infrastructure case. It begins with the project mission, then explains what Sutton SignWriting is, why its existing asset base matters, why Brazil now functions as the clearest documented empirical center, why South Korea now provides a current official institutional proof point, what support gap remains, and what a PI or host institution would unlock by giving the work a stable research home.",
+  "summary": "A concise forwardable presentation that states the mission, support gap, and opportunity around Sutton SignWriting.",
+  "synopsis": "A short executive framing of the support case. It begins with the project mission, then explains what Sutton SignWriting is, why its existing asset base matters, why Brazil now functions as the clearest documented empirical center, why South Korea now provides a current official institutional proof point, what support gap remains, and what a PI or host institution would unlock by giving the work a stable research home.",
   "handout": "handout.md",
   "slides": [
     {
       "id": "purpose-and-frame",
       "title": "Mission Statement",
       "kicker": "1",
-      "summary": "The mission is to give Sutton SignWriting a durable academic home so its existing standards, tools, data, and research pathways can be stabilized, studied, preserved, and extended.",
+      "summary": "The mission is to give Sutton SignWriting a stable academic home so its existing standards, tools, data, and research pathways can be maintained, studied, preserved, and extended.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for executive brief overview.",
       "bullets": [
         "Stabilize an existing global system",
         "Support research, preservation, and growth",
-        "Move from informal stewardship to durable institutional care"
+        "Move from informal stewardship to stable institutional support"
       ],
-      "speech": "The mission can be stated directly. Sutton SignWriting already exists as a globally used writing and technical ecosystem, but it still lacks a durable academic home. The goal is to stabilize what already exists so that standards, tools, datasets, and research pathways can be preserved, studied, extended, and handed forward with institutional continuity.",
+      "speech": "The mission can be stated directly. Sutton SignWriting already exists as a globally used writing and technical ecosystem, but it still lacks a stable academic home. The goal is to support what already exists so that standards, tools, datasets, and research pathways can be maintained, studied, extended, and handed forward with continuity.",
       "notes": "Open with the project purpose in one plain institutional sentence.",
       "mermaid": "graph LR\n  A[Existing global system] --> B[Durable academic home]\n  B --> C[Stabilization]\n  B --> D[Research]\n  B --> E[Preservation]\n  B --> F[Growth]"
     },
@@ -44,7 +44,7 @@
       "id": "existing-assets",
       "title": "Existing Asset Base",
       "kicker": "3",
-      "summary": "The ecosystem already includes domains, tools, standards, code, and datasets under ongoing technical stewardship.",
+      "summary": "The ecosystem already includes domains, tools, standards, code, and datasets under ongoing technical care.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for existing SignWriting asset base.",
       "bullets": [
@@ -61,7 +61,7 @@
       "id": "current-gap",
       "title": "The Current Gap",
       "kicker": "4",
-      "summary": "The main problem is not missing ideas or missing software, but missing durable coordinated support for infrastructure that already exists.",
+      "summary": "The main problem is not missing ideas or missing software, but missing stable coordinated support for work that already exists.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the current gap.",
       "bullets": [
@@ -70,7 +70,7 @@
         "Limited institutional anchoring",
         "Fragile continuity for long-term stewardship"
       ],
-      "speech": "What is missing is not the idea, the community, or the software. What is missing is durable coordinated support. At present the ecosystem depends on distributed maintenance, uneven documentation, and limited institutional anchoring. The gap is not absence of infrastructure. The gap is absence of durable support for infrastructure that is already active.",
+      "speech": "What is missing is not the idea, the community, or the software. What is missing is stable coordinated support. At present the ecosystem depends on distributed maintenance, uneven documentation, and limited institutional anchoring. The gap is not absence of work. The gap is absence of stable support for work that is already active.",
       "notes": "This is the key transition slide. Keep the contrast clean: not missing idea, missing support.",
       "mermaid": "graph TD\n  A[Existing Infrastructure] --> B[Limited Institutional Support]\n  B --> C[Fragile Continuity]\n  C --> D[Risk to Preservation, Tools, and Research Use]"
     },
@@ -87,7 +87,7 @@
         "Visual language processing and literacy research",
         "Cross-linguistic comparison and documentation"
       ],
-      "speech": "Positioning SignWriting as infrastructure changes what becomes possible. A stable infrastructure layer would support corpus development, reproducible datasets, machine learning and computational linguistics, research into visual language processing and literacy, and cross-linguistic comparison and documentation. Brazil now gives this case a stronger empirical center, because real institutions, learners, and materials are already visible there. South Korea adds a current official public dictionary proof point. Without infrastructure, these remain isolated efforts. With infrastructure, they become scalable research programs.",
+      "speech": "Treating SignWriting as shared research support changes what becomes possible. A stronger support structure would support corpus development, reproducible datasets, machine learning and computational linguistics, research into visual language processing and literacy, and cross-linguistic comparison and documentation. Brazil now gives this case a stronger empirical center, because real institutions, learners, and materials are already visible there. South Korea adds a current official public dictionary proof point. Without stronger support, these remain isolated efforts. With it, they become scalable research programs.",
       "notes": "Move from stewardship to academic upside here. Use the phrase 'scalable research programs.'",
       "mermaid": "graph LR\n  A[Stable Infrastructure] --> B[Corpora]\n  A --> C[Reusable Datasets]\n  A --> D[Computational Research]\n  A --> E[Visual Language Studies]\n  A --> F[Cross-Linguistic Documentation]"
     },
@@ -95,7 +95,7 @@
       "id": "why-now",
       "title": "Why Now",
       "kicker": "6",
-      "summary": "The timing is strong because interest in multimodal language work is growing while the SignWriting technical base and research path are now concrete enough to become grant-ready infrastructure.",
+      "summary": "The timing is strong because interest in multimodal language work is growing while the SignWriting technical base and research path are now concrete enough to become a grant-ready program.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for why now.",
       "bullets": [
@@ -104,7 +104,7 @@
         "Maturing tooling around SignWriting",
         "Visible but under-supported global user base"
       ],
-      "speech": "Several factors make this a timely opportunity. There is growing interest in multimodal and non-speech language processing, increased emphasis on data sharing and reusable datasets, maturing tooling around SignWriting, and a visible global user base that is still under-supported. The research path is also clearer than before: reading and literacy work, Brazil-grounded institutional and materials work, South Korea as a current institutional proof point, and infrastructure-plus-dataset development can now be described as one connected program. This creates a narrow window where institutional support can convert existing work into stable, grant-ready infrastructure.",
+      "speech": "Several factors make this a timely opportunity. There is growing interest in multimodal and non-speech language processing, increased emphasis on data sharing and reusable datasets, maturing tooling around SignWriting, and a visible global user base that is still under-supported. The research path is also clearer than before: reading and literacy work, Brazil-grounded institutional and materials work, South Korea as a current institutional proof point, and infrastructure-plus-dataset development can now be described as one connected program. This creates a narrow window where institutional support can convert existing work into a stable, grant-ready program.",
       "notes": "This is the timing slide. Keep it forward-looking and avoid sounding alarmist.",
       "mermaid": "graph LR\n  A[Research Interest] --> E[Why Now]\n  B[Data Sharing Pressure] --> E\n  C[Maturing Tooling] --> E\n  D[Global User Base] --> E\n  E --> F[Grant-Ready Infrastructure Opportunity]"
     },
@@ -112,7 +112,7 @@
       "id": "host-institution-unlocks",
       "title": "What a PI or Host Institution Would Unlock",
       "kicker": "7",
-      "summary": "A stable home would turn informal stewardship into formal infrastructure through documentation, grants, partnerships, and coordinated development.",
+      "summary": "A stable home would turn informal stewardship into a stronger institutional program through documentation, grants, partnerships, and coordinated development.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for what a PI or host institution would unlock.",
       "bullets": [
@@ -122,7 +122,7 @@
         "Partnerships across linguistics, education, CS, and neuroscience",
         "Translation and access to especially important international works"
       ],
-      "speech": "A host institution would be building on an existing technical and data foundation, not initiating a new system. With a stable home, the project could transition from informal stewardship to formal infrastructure. That would enable coordinated development, systematic documentation, grant preparation grounded in real assets, interdisciplinary partnerships, translation and access work around important international materials, and long-term preservation planning.",
+      "speech": "A host institution would be building on an existing technical and data foundation, not initiating a new system. With a stable home, the project could transition from informal stewardship to a stronger institutional program. That would enable coordinated development, systematic documentation, grant preparation grounded in real assets, interdisciplinary partnerships, translation and access work around important international materials, and long-term preservation planning.",
       "notes": "Make the practical upside concrete enough for a PI to imagine ownership.",
       "mermaid": "graph LR\n  A[PI or Host Institution] --> B[Institutional Anchoring]\n  A --> C[Research Framing]\n  A --> D[Grant Development]\n  A --> E[Program Integration]\n  B --> F[Formal Infrastructure]"
     },
@@ -130,15 +130,15 @@
       "id": "closing",
       "title": "Closing",
       "kicker": "8",
-      "summary": "Sutton SignWriting already works as a globally used system; with the right home, it becomes infrastructure others can rely on and fund with confidence.",
+      "summary": "Sutton SignWriting already works as a globally used system; with the right home, it becomes a resource others can rely on and fund with confidence.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for executive brief closing.",
       "bullets": [
         "Working global system",
         "Software, data, and standards already exist",
-        "Durable institutional support is the missing layer"
+        "Stable institutional support is the missing layer"
       ],
-      "speech": "The most compelling framing is simple. Sutton SignWriting already exists as a working, globally used system with software, data, and standards. What it lacks is durable institutional support. With the right home, it becomes infrastructure that others can rely on, build on, and fund against with confidence.",
+      "speech": "The most compelling framing is simple. Sutton SignWriting already exists as a working, globally used system with software, data, and standards. What it lacks is stable institutional support. With the right home, it becomes a resource that others can rely on, build on, and fund with confidence.",
       "notes": "End with the simplest version of the case so it feels easy to forward after hearing.",
       "mermaid": "graph TD\n  A[Working Global System] --> B[Durable Institutional Support]\n  B --> C[Infrastructure Others Can Rely On]\n  C --> D[Research, Funding, and Growth]"
     }

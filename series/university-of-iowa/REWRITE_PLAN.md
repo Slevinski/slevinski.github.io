@@ -6,7 +6,7 @@ This document tracks the rebuild of the University of Iowa presentation series i
 
 ### Phase 1 — Architecture
 
-- [x] Define the new 5-deck architecture
+- [x] Define the current 6-material architecture
 - [x] Define the audience and ask for each deck
 - [x] Confirm final deck ordering after first-draft review
 - [x] Remove overlap between decks so each has one main job
@@ -22,18 +22,20 @@ This document tracks the rebuild of the University of Iowa presentation series i
 
 - [x] Create `Lab Home`
 - [x] Rewrite `Steve Slevinski Value`
-- [x] Expand `Data Management and Sharing Plan`
 - [x] Rewrite `Sutton SignWriting Infrastructure Initiative`
+- [x] Build `Infrastructure Core and Philanthropy`
 - [x] Rewrite `Outreach Memo`
+- [x] Build `Relevant Precedents and Institutional Pathways`
 
 ### Phase 4 — Visual Development
 
 - [x] Define that decks should use Mermaid and image prompts where helpful
 - [ ] Build Mermaid diagrams for `Lab Home`
 - [x] Build Mermaid diagrams for `Steve Slevinski Value`
-- [x] Build Mermaid diagrams for `Data Management and Sharing Plan`
 - [x] Build Mermaid diagrams for `Sutton SignWriting Infrastructure Initiative`
+- [x] Build Mermaid diagrams for `Infrastructure Core and Philanthropy`
 - [x] Build Mermaid diagrams for `Outreach Memo`
+- [x] Build Mermaid diagrams for `Relevant Precedents and Institutional Pathways`
 - [ ] Review whether any slides need real cover or support images
 
 ### Phase 5 — Writing Depth
@@ -41,9 +43,10 @@ This document tracks the rebuild of the University of Iowa presentation series i
 - [x] Write a stand-alone handout for `Lab Home`
 - [x] Write developed speech and notes for `Lab Home`
 - [x] Write developed handout for `Steve Slevinski Value`
-- [x] Write developed handout for `Data Management and Sharing Plan`
 - [x] Write developed handout for `Sutton SignWriting Infrastructure Initiative`
+- [x] Write developed handout for `Infrastructure Core and Philanthropy`
 - [x] Write developed handout for `Outreach Memo`
+- [x] Write developed handout for `Relevant Precedents and Institutional Pathways`
 
 ### Phase 6 — Integration and Build
 
@@ -60,6 +63,7 @@ This document tracks the rebuild of the University of Iowa presentation series i
 - [x] Those practical relationships support partial salary support, collaborators, and grant development.
 - [x] Under the PI, grants can grow Sutton SignWriting into durable shared research infrastructure.
 - [x] Gifts and donations act as a complementary continuity and bridge lane.
+- [x] The precedents deck supports the case rather than restating the whole pitch.
 
 ## Decks
 
@@ -83,31 +87,33 @@ Audience:
 - department leadership
 - collaborating faculty
 - potential salary supporters
-
-Main ask:
-- support Steve because he creates immediate operational value
-
-### 3. Data Management and Sharing Plan
-
-Audience:
 - researchers
 - labs
 - coordinators
 - grants staff
 
 Main ask:
-- use Steve for DMS planning, workflow design, data shaping, and repository delivery
+- support Steve because he creates immediate operational value through DMS planning, workflow design, data shaping, and repository delivery
 
-### 4. Sutton SignWriting Infrastructure Initiative
+### 3. Sutton SignWriting Infrastructure Initiative
 
 Audience:
 - PI
 - collaborators
 - research administration
-- development staff
+- academic leadership
 
 Main ask:
 - support grant-funded and institutionally housed SignWriting infrastructure
+
+### 4. Infrastructure Core and Philanthropy
+
+Audience:
+- development staff
+- donor-facing institutional leadership
+
+Main ask:
+- support a philanthropic infrastructure core once the institutional case is already understood
 
 ### 5. Outreach Memo
 
@@ -116,3 +122,11 @@ Audience:
 
 Main ask:
 - understand the full opportunity quickly and route the conversation correctly
+
+### 6. Relevant Precedents and Institutional Pathways
+
+Audience:
+- readers who need comparable institutional models
+
+Main ask:
+- show that the Iowa path is recognizable rather than speculative

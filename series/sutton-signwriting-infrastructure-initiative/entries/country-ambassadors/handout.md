@@ -1,10 +1,10 @@
 # Country Ambassadors
 
-A lightweight international ambassador model can support outreach, communication, and institutional relationship-building in each country.
+A lightweight country ambassador model can give the project trusted local help with outreach, translation, and early relationship-building in each country.
 
 ## Why This Role Is Needed
 
-International outreach is difficult to centralize well.
+International outreach and follow-up are difficult to centralize well.
 
 Each country has different:
 
@@ -13,11 +13,11 @@ Each country has different:
 * funding realities and economic conditions
 * SignWriting communities, leaders, and institutional pathways
 
-A country ambassador model creates local relationship capacity without requiring the central team to understand every context alone.
+A country ambassador model creates local relationship capacity without expecting one central team to understand every context on its own.
 
 ## Role Summary
 
-A **Country Ambassador** is a trusted local volunteer who helps connect the Sutton SignWriting initiative with institutions, educators, researchers, and community leaders in a specific country.
+A **Country Ambassador** is a trusted local volunteer who helps connect the Sutton SignWriting initiative with universities, educators, researchers, and community leaders in a specific country.
 
 This begins as a **volunteer service role** with the expectation that, as funding becomes available, the role may evolve into a **paid stipend position for services rendered** and to support local SignWriting work.
 
@@ -25,7 +25,7 @@ This begins as a **volunteer service role** with the expectation that, as fundin
 
 Country ambassadors help:
 
-* identify universities and institutional contacts
+* identify universities, schools, and other useful contacts
 * make outreach more culturally and linguistically appropriate
 * explain local conditions, needs, and constraints
 * build trust with educational and research partners
@@ -65,7 +65,7 @@ The initial ambassador structure should be simple:
 * provide shared messaging and outreach materials
 * recognize contributions visibly and respectfully
 
-This keeps the barrier to entry low while building real international capacity.
+This keeps the barrier to entry low while building real international support capacity.
 
 ## Path to Stipends
 
@@ -108,7 +108,7 @@ To make the model work, the central project should provide:
 * a simple onboarding note
 * outreach templates that can be localized
 * a shared contact and follow-up tracker
-* clear explanation of how ambassador work connects to grants, gifts, donations, and partnerships
+* a clear explanation of how ambassador work connects to grants, gifts, donations, and partnerships
 
 ## Recommended Next Step
 

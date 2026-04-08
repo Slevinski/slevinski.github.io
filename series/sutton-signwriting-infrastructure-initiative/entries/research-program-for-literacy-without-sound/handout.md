@@ -1,6 +1,6 @@
 # Research Program for Literacy Without Sound
 
-**What gets studied next, why Brazil matters, and what infrastructure makes it possible**
+**What could be studied next, why Brazil matters, and what support would make it possible**
 
 The science framing already does important work.
 
@@ -16,14 +16,14 @@ It also does **not** need to begin with large and expensive neuroscience promise
 
 The more useful question is:
 
-> what practical research program can begin now, with real populations, real materials, and a real infrastructure strategy?
+> what practical research program can begin now, with real populations, real materials, and a real data-and-support plan?
 
 ## Why a concrete program is worth doing
 
 A more concrete program would help in several ways.
 
 - It would move the conversation from possibility to evidence.
-- It would make the infrastructure case easier for institutions and funders to understand.
+- It would make the support case easier for institutions and funders to understand.
 - It would connect the science series to a buildable research agenda.
 - It would let Brazil function as a real empirical base rather than only as background evidence.
 - It would produce reusable materials, datasets, and study designs that later work can build on.
@@ -216,14 +216,14 @@ The point is to make later work stronger, cheaper, and more cumulative.
 
 ## Why this belongs in the infrastructure initiative
 
-This document belongs here because it is a bridge between science and support.
+This document belongs here because it is a bridge between the science argument and the practical work needed to study it.
 
 It translates the scientific framing into:
 
 - study design
 - partnership needs
 - data needs
-- infrastructure needs
+- support needs
 - institutional value
 
 That is exactly what the infrastructure series is supposed to do.

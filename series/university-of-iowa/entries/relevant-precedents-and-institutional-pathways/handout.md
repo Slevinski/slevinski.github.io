@@ -103,97 +103,30 @@ These examples are not perfect structural matches, but they strengthen important
   - https://midas.umich.edu/about/
   - https://midas.umich.edu/research/research-resources/funding-support/
 
-## Synthesis of the ask
+## How to use these precedents
 
-The University of Iowa ask is layered rather than all at once.
+This deck works best as supporting evidence, not as the first or only Iowa-facing pitch.
 
-### Immediate
+Use it when a reader needs help seeing that the proposed Iowa path is recognizable rather than speculative.
 
-Give the existing SignWriting ecosystem a credible University of Iowa home under a PI.
+The main point is structural:
 
-Steve Slevinski can be placed immediately, even at 0 percent if necessary.
+- important language and data infrastructure often exists before a university fully houses it
+- the university contribution is usually recognition, anchoring, staffing, and growth capacity
+- Iowa fits that pattern more than it breaks it
 
-### Near-term
+This means the precedents should reinforce the main Iowa materials rather than replace them.
 
-Use Steve as shared institutional capacity for:
+If the conversation is mainly about:
 
-- DMS planning
-- workflow design
-- data shaping
-- validation
-- code
-- repository delivery
+- the first step under a PI, use **Lab Home**
+- Steve's immediate operational usefulness, use **Steve Slevinski Value**
+- the longer-horizon institutional and grant case, use **Sutton SignWriting Infrastructure Initiative**
+- donor or development logic, use **Infrastructure Core and Philanthropy**
 
-### Support
+The precedents are most useful when someone says some version of:
 
-Build partial salary support and project funding around that placement.
-
-### Grant
-
-Use the institutional home to write competitive proposals for:
-
-- software stewardship
-- corpus development
-- documentation
-- standards continuity
-- broader infrastructure growth
-
-### Philanthropy
-
-Treat philanthropy as a complementary continuity lane rather than as a substitute for the core academic structure.
-
-### Long-term
-
-Evolve toward a university-housed SignWriting infrastructure core for:
-
-- standards
-- datasets
-- corpus growth
-- research integration
-- software continuity
-- global coordination
-
-## What SignWriting already provides
-
-### Immediate research value
-
-SignWriting already supports:
-
-- DMS and workflow problem-solving
-- repository and technical delivery work
-- structured language data
-- technical stewardship capacity
-
-### Institutional value
-
-The work spans:
-
-- accessibility
-- Deaf education
-- literacy
-- linguistics
-- neuroscience and cognition
-- research systems
-- AI-ready visual-language data
-
-### Long-term infrastructure value
-
-The ecosystem already includes the foundations for:
-
-- standards stewardship
-- software continuity
-- corpus growth
-- documentation
-- preservation
-- international coordination
-
-The proposal is:
-
-> stabilize and extend what already works
-
-rather than:
-
-> invent a speculative new initiative from zero
+> is there a real model for this?
 
 ## Reusable sentences
 
@@ -211,4 +144,4 @@ The SignWriting proposal follows a recognizable institutional pattern.
 
 What is unusual is not the path.
 
-What is unusual is that so much of the technical and community asset base already exists while the durable university home still does not.
+What is unusual is that so much of the technical and community asset base already exists while the university home is still catching up.

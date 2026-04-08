@@ -241,7 +241,6 @@ The operational case here is stronger when it is framed as shared research capac
 
 That means recognizing the value of:
 
-- stronger continuity across projects
 - more day-to-day availability for DMS and workflow work
 - better follow-through on repository preparation
 - more capacity for detailed execution, not only high-level advice
@@ -251,33 +250,17 @@ The key point is to name the function clearly:
 
 it helps research projects succeed.
 
-## Practical value, clearly named
+## Best first use cases
 
-This document is about:
+The strongest first uses of Steve's work are practical:
 
-- DMS planning
-- workflow design
-- technical execution
-- repository delivery
-
-## Recommended framing
-
-The strongest explanation of Steve's value is:
-
-- he solves present-tense workflow problems
-- he helps projects move toward successful delivery
-- he reduces friction in the most difficult middle layer of research data operations
-- he can be used as a practical University resource for this work
+- refresh or refine a DMS Plan so it matches the real workflow
+- clean up the messy middle between project systems and repository delivery
+- help a lab finish difficult documentation, validation, and submission work
+- provide reusable support that more than one research team can use
 
 ## Closing
 
-Steve Slevinski should be taken seriously because he brings a rare combination of:
+The first reason to engage Steve is still the simplest one:
 
-- DMS understanding
-- workflow design ability
-- technical execution capacity
-- repository delivery focus
-
-The first reason to engage Steve is the simplest one:
-
-he helps research teams finish hard things that matter.
+he helps research teams finish hard data work that matters.

@@ -2,15 +2,15 @@
 
 *A research series*
 
-The Science of Sutton SignWriting is a research series about language beyond sound, literacy beyond print, and the scientific value of making signed language writable.
+The Science of Sutton SignWriting is a research series about language beyond sound, writing beyond the line, and what becomes possible when signed language gains text of its own.
 
-It brings together presentations, handouts, diagrams, datasets, and future studies on the cognitive, neurological, educational, and computational study of signed language and SignWriting.
+It brings together presentations, handouts, diagrams, datasets, and future studies on the cognitive, neurological, educational, and technical study of signed language and SignWriting.
 
-The primary audience is interdisciplinary collaborators and institutional readers in Deaf studies, literacy, linguistics, cognition, writing systems, and technical infrastructure.
+The primary audience is interdisciplinary collaborators and institutional readers in Deaf studies, literacy, linguistics, cognition, writing systems, and research support.
 
 It is not intended as either a general-audience introduction or an exhaustive subfield survey. It is a concise, research-facing series meant to define the terrain clearly enough for collaboration, critique, and extension.
 
-The series is designed as a durable, citable, and expandable record for an active research and infrastructure program. Different artifacts do different jobs: foundation framing, evidence notes, technical clarification, bridge documents, and later datasets or reports.
+The series is designed as a stable, citable, and expandable record for an active research and support program. Different artifacts do different jobs: foundation framing, evidence notes, technical clarification, bridge documents, and later datasets or reports.
 
 ## What this series studies
 
@@ -65,13 +65,13 @@ This opening foundation document introduces the main scientific frame:
 
 This second foundation document extends the series from language science into writing theory:
 
-- writing as geometry rather than as line by default
+- writing as a use of space rather than as a line by default
 - point, line, and plane as dominant spatial tendencies
 - SignWriting as a plane-based writing system
-- Formal SignWriting as a computational encoding of spatial writing
-- research and infrastructure implications once the plane can be encoded
+- Formal SignWriting as a way to store and process spatial writing as text
+- research and support implications once plane-based writing can be stored, searched, and shared as text
 
-It offers point, line, and plane as an analytic lens for writing geometry rather than as an exhaustive taxonomy of all scripts.
+It offers point, line, and plane as an analytic lens for how writing uses space rather than as an exhaustive taxonomy of all scripts.
 
 ## Recommended reading order
 
@@ -140,7 +140,7 @@ The DOI layer can live in Zenodo or a comparable archival home, with individual 
 As the series grows, it can reasonably extend into:
 
 - literacy studies
-- writing-system typology and geometry
+- writing-system typology and the use of space in writing
 - neuroscience and cognition
 - comparative tactile and visual pathway work
 - corpora and annotation systems
