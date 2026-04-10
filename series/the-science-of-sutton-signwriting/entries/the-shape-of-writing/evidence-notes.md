@@ -1,7 +1,7 @@
 # The Shape of Writing Evidence Notes
 
 **The Shape of Writing**  
-Point, line, plane, and why signed writing does not need to fit into a line
+Interpretive framing, writing theory, and the case for plane-based writing
 
 Just as *Language Without Sound* argued that literacy does not require sound or vision, this companion piece argues that literacy does not require linearity. The aim here is to clarify the strongest technical points behind the handout, identify where the framework is interpretive rather than taxonomic, and show why SignWriting matters as a case of writable space rather than only as a notation for sign.
 
@@ -87,7 +87,42 @@ This does not imply that every spatial notation is a full writing system.
 
 It does justify treating SignWriting as a genuine case of plane-based writing rather than as an eccentric variant of line-based text.
 
-## V. Human writing and machine encoding are separate layers
+## V. Plane writing still depends on a stable alphabet
+
+**Plane-based writing is not only about layout. It also depends on a bounded symbol inventory whose distinctions remain stable across tools.**
+
+This is one place where SignWriting becomes clearer when treated as infrastructure rather than only as visible notation.
+
+In modern Sutton SignWriting work, ISWA 2010 functions as the shared reference layer for symbols.
+
+What matters here is not only that the symbols exist, but that they are organized and bounded strongly enough to support interoperability.
+
+The inventory is structured rather than ad hoc:
+
+- 652 panels of symbols
+- each panel arranged as a 6 by 16 grid
+- stable distinctions for palm facing, fill, rotation, and related contrasts
+
+Those distinctions should be treated as part of the writing system, not as optional font styling.
+
+This matters for several reasons:
+
+- writers choose from a shared alphabet rather than inventing a private symbol set
+- readers benefit from stable symbol identity across texts and tools
+- editors, palettes, and websites can refer to the same underlying inventory
+- fonts can vary in drawing style without redefining what symbol is being written
+
+That last point is especially important.
+
+A font-compatible ecosystem can tolerate stylistic variation.
+
+It cannot tolerate drift that collapses meaningful distinctions or silently replaces the alphabet with a different one.
+
+When that happens, the result is not a better implementation of the same writing.
+
+It is a fork in the writing system.
+
+## VI. Human writing and machine encoding are separate layers
 
 **The most important technical clarification is the separation between visible writing and computational encoding.**
 
@@ -112,7 +147,7 @@ Serialization is a technical requirement, not a theory of the writing.
 
 This is the same kind of distinction that mattered in *Language Without Sound*: once the right level of analysis is identified, false objections become easier to avoid.
 
-## VI. Formal SignWriting is a hybrid encoding strategy for plane writing
+## VII. Formal SignWriting is a hybrid encoding strategy for plane writing
 
 **Formal SignWriting matters because it preserves both sequence-sensitive information and spatial composition in a single encoding.**
 
@@ -122,6 +157,7 @@ One concise description is:
 
 The important point is that the encoding can preserve:
 
+- symbol identity
 - sequence-sensitive information
 - spatial composition
 
@@ -131,7 +167,9 @@ It is an encoding strategy for plane-based writing.
 
 This is where the technical side of SignWriting becomes scientifically interesting: the visible writing remains planar, while the computational representation remains tractable enough for search, sorting, corpus work, and software.
 
-## VII. What becomes tractable once the plane is encoded
+Formal SignWriting therefore helps keep the alphabet, the signbox, and the computational layer aligned instead of letting rendering or font choice silently redefine the writing.
+
+## VIII. What becomes tractable once the plane is encoded
 
 Once plane-based writing can be stored and processed as text, several kinds of work become more tractable:
 
@@ -140,6 +178,7 @@ Once plane-based writing can be stored and processed as text, several kinds of w
 - annotation pipelines
 - spatially meaningful datasets
 - editing and authoring tools
+- shared editors, palettes, and websites built on one symbol reference
 - bilingual literacy materials
 - computational workflows that are not limited to video alone
 
@@ -175,7 +214,7 @@ Encoding the plane makes it easier to ask sharper questions about:
 
 That last area deserves special attention: tokenization strategies for plane writing are not yet settled. Current Formal SignWriting representations make the problem computationally approachable, yet the optimal linguistic or machine-learning tokenization remains an open research question.
 
-## VIII. Open research questions
+## IX. Open research questions
 
 The strongest open questions include:
 
@@ -191,7 +230,7 @@ They are signs that the field is still underdeveloped.
 
 In that sense, SignWriting is valuable not only because it already works as writing, but also because it turns previously vague questions into tractable ones.
 
-## IX. Rigorous conclusion
+## X. Rigorous conclusion
 
 Writing does not come in only one shape.
 
@@ -203,11 +242,13 @@ Some compose structure in space.
 
 SignWriting belongs in that third category strongly enough to matter scientifically, technically, and educationally.
 
+ISWA 2010 shows that the plane also depends on a stable alphabetic reference layer rather than arbitrary glyph invention.
+
 Formal SignWriting shows that plane-based writing can also be stored and processed as text.
 
 Support for plane-based writing therefore extends the modality-independent literacy pathway first outlined in *Language Without Sound*.
 
-That is enough to justify a stronger infrastructure response: not only better theory, but better tools, datasets, corpora, interfaces, and collaborative research built around plane-based writing.
+That is enough to justify a stronger infrastructure response: not only better theory, but better tools, datasets, corpora, interfaces, alphabet references, and collaborative research built around plane-based writing.
 
 ## Selected APA-style references with links
 

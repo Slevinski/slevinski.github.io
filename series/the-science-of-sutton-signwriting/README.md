@@ -8,9 +8,9 @@ It brings together presentations, handouts, diagrams, datasets, and future studi
 
 The primary audience is interdisciplinary collaborators and institutional readers in Deaf studies, literacy, linguistics, cognition, writing systems, and research support.
 
-It is not intended as either a general-audience introduction or an exhaustive subfield survey. It is a concise, research-facing series meant to define the terrain clearly enough for collaboration, critique, and extension.
+It is a concise, research-facing series meant to define the terrain clearly enough for collaboration, critique, and extension.
 
-The series is designed as a stable, citable, and expandable record for an active research and support program. Different artifacts do different jobs: foundation framing, evidence notes, technical clarification, bridge documents, and later datasets or reports.
+It also provides a stable record for an active research and support program, with room for future studies, technical notes, bridge documents, and datasets.
 
 ## What this series studies
 
@@ -81,9 +81,10 @@ For a new scientific collaborator, a clear path through the material is:
 2. **Language Without Sound handout** for a careful written version
 3. **Language Without Sound evidence notes** for references, supporting evidence, and research depth
 4. **The Shape of Writing presentation** for the writing-theory extension
-5. **The Shape of Writing handout** for the core point-line-plane argument
-6. **The Shape of Writing evidence notes** for technical and interpretive depth
-7. later series entries as the scientific and infrastructural agenda expands
+5. **The Shape of Writing handout** for the clearest written statement
+6. **The Shape of Writing technical notes** for alphabet, encoding, and structural detail
+7. **The Shape of Writing evidence notes** for references, scholarly framing, and open questions
+8. later series entries as the scientific and infrastructural agenda expands
 
 ## Bridge Documents
 
@@ -120,9 +121,7 @@ This keeps technical specification, scientific framing, and later evidence in me
 
 ## Series Structure
 
-The series functions as the umbrella identity for a modular research record.
-
-Individual artifacts remain separately citable.
+The series functions as one research record with separately citable parts.
 
 That means:
 

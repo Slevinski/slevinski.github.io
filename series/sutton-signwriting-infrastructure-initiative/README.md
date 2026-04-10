@@ -15,19 +15,15 @@ It should help a reader answer four questions quickly:
 - what kind of support structure makes sense
 - which presentation should be used for which audience
 
-## How To Use This Series
+## Current deck set
 
-This series is not one long repeated argument.
-
-It is a small deck set with different jobs.
-
-Use the entries this way:
+This is a small deck set with different jobs.
 
 ## Primary presentations
 
 ### 1. Executive Brief
 
-Use this first when:
+Start here when:
 
 - someone needs a short forwardable summary
 - a PI or administrator needs the fast version
@@ -171,9 +167,9 @@ Main job:
 - **International Shared Support** — international partnership and country-ambassador framing
 - **Country Ambassadors** — volunteer-first country-level outreach and relationship-building model
 
-## Series role
+## Core purpose
 
-This series should carry the outward-facing infrastructure case:
+This series carries the outward-facing infrastructure case:
 
 - why the work matters
 - why the current maintenance model is fragile
@@ -184,7 +180,7 @@ This series should carry the outward-facing infrastructure case:
   Brazil as the strongest documented empirical center, South Korea as a current official institutional proof point
 - how the science framing becomes a concrete research and infrastructure program
 
-## Reading Order
+## Reading order
 
 For most institutional conversations, the recommended order is:
 

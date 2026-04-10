@@ -237,8 +237,8 @@
           "legacy_slugs": [],
           "number": 2,
           "title": "The Shape of Writing",
-          "subtitle": "Point, line, plane, and why signed writing does not need to fit into a line",
-          "summary": "Presentation 2 in The Science of Sutton SignWriting series.",
+          "subtitle": "Why signed writing does not need to fit into a line",
+          "summary": "Writing is not inherently linear. This second science entry explains why SignWriting should be understood as plane-based writing rather than as a line script with unusual symbols.",
           "handout": "handout.md",
           "slide_count": 12
         }

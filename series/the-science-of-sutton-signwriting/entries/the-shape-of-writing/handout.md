@@ -1,117 +1,110 @@
 # The Shape of Writing
 
-**Point, line, plane, and why signed writing does not need to fit into a line**
+**Why signed writing does not need to fit into a line**
 
-Most people think writing is linear.
+Most people think writing is a line.
 
-It is not.
+They think this because most modern literacy is taught through line-based text.
 
-Writing systems differ not only in their symbols, but in how they arrange language on the page.
+Letters proceed one after another.
+Words proceed one after another.
+Sentences proceed one after another.
 
-That difference matters for:
+That familiarity is real.
 
-- reading
-- writing
-- editing
-- indexing
-- encoding
-- computation
-- research
+It is not the definition of writing.
+
+Writing can use space in different ways.
+
+That matters for how writing is read, written, edited, encoded, searched, and shared.
 
 It also matters for how SignWriting should be understood.
 
-Two claims guide this presentation:
-
-- writing is not inherently linear
-- signed languages need writable forms of their own if they are to gain the same kind of readable, writable, editable, and searchable text work that line-based languages have long had
-
-The point-line-plane framework is offered here as a simple lens for how writing uses space, not as an exhaustive taxonomy of all scripts.
-
-## Writing and space
-
-One useful way to think about writing systems is to ask how they use space.
-
-They tend to organize language in three broad ways:
-
-- **point**: a bounded graphic unit carries an integrated meaning-bearing form
-- **line**: meaning unfolds through ordered sequence
-- **plane**: meaning depends on spatial arrangement across two dimensions
-
-These are not rigid boxes.
-
-They are dominant organizational tendencies.
-
-A writing system can show more than one tendency at once.
-
-But the distinctions help clarify a central fact:
+The core claim of this handout is simple:
 
 > writing is not inherently linear
 
+Once that is accepted, a second claim becomes easier to see:
+
+> signed language does not need to be forced into a line in order to be written
+
+## Writing and space
+
+One useful way to think about writing is to ask how it uses space.
+
+Three broad tendencies help make that visible:
+
+- **point**: structure is concentrated into a bounded written unit
+- **line**: meaning unfolds mainly through ordered sequence
+- **plane**: meaning depends on spatial composition across two dimensions
+
+These are not rigid boxes.
+
+They are a simple lens.
+
+Many writing systems show more than one tendency at once.
+
+But the distinction is still useful because it loosens a mistaken assumption:
+
+> writing does not come in only one shape
+
 ## Point
 
-Point-like writing brings structure together inside an integrated graphic unit.
+Point-like writing compresses structure into a bounded unit.
 
-The unit may have internal parts.
+The unit may still contain internal parts.
+Those parts may matter for lookup, learning, analysis, or history.
 
-Those parts may matter historically, graphically, semantically, or morphologically.
-
-But readers still approach the unit as a bounded whole rather than as a simple chain.
+But readers still approach the written form as an integrated whole.
 
 Chinese characters are a useful example at the unit level.
 
 That does not mean Chinese writing is non-sequential at every level.
-
 Characters still occur in strings, phrases, and sentences.
 
-The point is narrower:
+The narrower point is this:
 
-> point systems compress structure inside a bounded written unit
+> a written unit can function as a whole and still be decomposed for sorting, indexing, and software handling
 
-That is why a character can be both integrated and analyzable.
+This matters because it separates two ideas that are often confused:
 
-When people need to sort, retrieve, or reproduce complex characters, they often rely on radicals, components, or stroke counts.
-
-That does not make the writing linear.
-
-It shows that integrated units can still be broken apart for indexing, sorting, and software handling.
+- integrated writing does not mean unanalyzable writing
+- decomposition for technical purposes does not make the writing fundamentally linear
 
 ## Line
 
 Line-based writing is the familiar modern case.
 
-Meaning unfolds through ordered sequence.
-
+Meaning unfolds through sequence.
+Order matters.
 Adjacency matters.
+Parsing depends heavily on progression.
 
-Parsing depends heavily on order, segmentation, and rule-governed progression.
+Alphabetic writing, abjads, abugidas, and many other systems are line-dominant in this sense.
 
-Alphabetic, abjad, abugida, and many other writing systems are line-dominant in this sense.
+In these systems, the writer mainly provides a sequence.
+Typography, shaping, and layout often handle much of the final rendering.
 
-In these systems:
+Ligatures, combining marks, stacked signs, and cursive joining may create visual complexity.
 
-- the writer puts symbols in order
-- order is central to interpretation
-- much of the final layout is handled by typography and shaping
+But the dominant model remains:
 
-That last point matters.
+> writing is authored as a sequence and rendered as a line
 
-Ligatures, combining marks, diacritics, and cursive joining may create local visual complexity, but they still operate inside a sequence-first model.
+That contrast matters because it makes the next step easier to see.
 
-The basic assumption remains:
+In line-based systems, the writer mainly provides a sequence.
 
-> writing is authored as a line and rendered as a line
+In SignWriting, the writer composes spatial relations as part of the writing itself.
 
 ## Plane
 
-Plane-based writing arranges meaning across two-dimensional space.
+Plane-based writing uses space directly.
 
 Position matters.
-
 Relation matters.
-
 Grouping matters.
-
-Simultaneity can matter.
+Sometimes simultaneity matters.
 
 The writer does not merely choose symbols in order.
 
@@ -119,96 +112,114 @@ The writer composes them spatially.
 
 This is where SignWriting becomes especially important.
 
-A written sign is not only a list of symbolic parts.
+A written sign is not only a list of handshapes, movements, contacts, orientations, facial markers, and locations.
 
-It is a composed spatial arrangement of handshape, movement, contact, facial expression, orientation, and location.
+It is a spatial composition in which those relations are part of the writing itself.
 
-Those relationships are meaningful.
+That is why the clearest statement is:
 
-They are not decorative afterthoughts.
+> plane writing makes spatial relation part of authorship
 
-The cleanest statement is:
+This does not mean every visual notation counts as a writing system.
 
-> plane systems encode relational structure through spatial composition
+It does mean that SignWriting should be understood as a genuine case of writing that works through the plane rather than through a line alone.
 
-SignWriting matters because it does this as a writing system for natural signed languages.
+## SignWriting as plane-based writing
 
-## Two functional phases
+Once the default assumption of linearity is removed, SignWriting becomes much easier to see clearly.
 
-The story becomes clearer once two different phases are separated.
+It can be understood as a writable way of composing signed language in space.
 
-### Phase 1. Human writing
+The written sign is not authored mainly as a sequence and then finished by layout.
 
-This is the visible writing itself.
+It is authored through symbol choice and spatial relation from the start.
 
-It concerns:
+That matters because signed language is already spatial in structure and expression.
+
+If a writing system for signed language exists, it does not need to imitate the shape of spoken print in order to be real.
+
+It needs to be adequate to the language it writes.
+
+That is what makes plane-based writing so important here.
+
+## The alphabet is part of the writing
+
+Plane-based writing is not free placement alone.
+
+It also depends on a stable symbol inventory.
+
+For modern Sutton SignWriting infrastructure, that shared inventory is **ISWA 2010**.
+
+This matters not only as a catalog of symbols, but as a structured reference layer behind:
+
+- writing
+- editors
+- fonts
+- websites
+- datasets
+- encoding
+
+Its organization is disciplined:
+
+- 652 panels of symbols
+- each panel arranged in a 6 by 16 grid
+- stable distinctions for handshape, palm facing, fill, rotation, and related contrasts
+
+Those distinctions are part of the writing system.
+
+They are not mere display preferences.
+
+If tools, fonts, or websites silently redefine them, the result is not harmless variation.
+
+The result is fractured infrastructure.
+
+This is why the alphabet belongs inside the argument about the shape of writing:
+
+> the plane depends on a stable alphabet, not only on free placement
+
+## Human writing and machine encoding
+
+At this point one distinction becomes essential.
+
+Human writing and machine encoding are not the same layer.
+
+### Human writing
+
+This concerns:
 
 - what writers compose
 - what readers perceive
-- which spatial relationships are meaningful
+- which spatial relations matter
+- which symbols belong to the writing itself
 
-For SignWriting, this phase is planar.
+For SignWriting, this layer is planar.
 
-The signer or writer composes a sign in space.
+### Machine encoding
 
-### Phase 2. Machine encoding
-
-This is the software form of the writing.
-
-It concerns:
+This concerns:
 
 - storage
+- transmission
 - search
 - sorting
-- transmission
 - parsing
 - computation
 
-A writing system can be plane-based for human readers and writers while still requiring a serialized form for software.
+A writing system can be plane-based for readers and writers while still needing a serialized form for software.
 
 That is not a contradiction.
 
-It is a design problem, not a contradiction.
+It is a design problem.
 
-## Comparative cases
+The important point is:
 
-The differences become easier to see through comparison.
+> serialization for software does not prove that the writing was really linear all along
 
-### Case 1. Hearing child plus print literacy
-
-A hearing child typically develops spoken language first, then line-based literacy through print.
-
-The written pathway is sequential writing.
-
-### Case 2. Deaf child plus SignWriting
-
-A deaf child may develop signed language first, then potentially gain literacy through a writable plane-based system.
-
-The written pathway is spatial writing rather than spoken print alone.
-
-### Case 3. Spatial specialist notations
-
-Mathematics, music, chemistry, and other specialist notations show that educated readers already work with systems where vertical relation, grouping, placement, and layout carry meaning.
-
-These are not the same as full natural-language writing, but they show that literacy does not have to be purely linear.
-
-### Case 4. Video or linear transcription of sign
-
-Video is essential for signed language documentation.
-
-Research transcription is also useful.
-
-But neither is the same as everyday readable and writable text.
-
-They document language.
-
-They do not by themselves create everyday readable and writable text.
-
-## The structural gap
+## Why this matters for signed language
 
 Signed languages are full human languages.
 
-But they have often lacked equally mature written pathways.
+But they have often lacked equally durable written pathways.
 
 Instead, they have often been pushed toward:
 
@@ -219,11 +230,15 @@ Instead, they have often been pushed toward:
 
 Those tools are useful.
 
-They are not worthless.
+They are not the same thing as writable text.
 
-But they do not solve the same problem as a writable system.
+Video preserves performance.
+Gloss supports cross-language reference.
+Transcription supports analysis.
 
-This is the structural gap:
+But none of them automatically create everyday readable and writable text within the language itself.
+
+That is the structural gap:
 
 > signed languages have full linguistic structure, but they have often lacked equally durable writable pathways
 
@@ -232,100 +247,86 @@ That gap affects:
 - literacy
 - editing
 - comparison
-- corpus building
 - lexicons
+- corpora
 - annotation
-- computation
+- search
+- datasets
 - long-term infrastructure
 
-## What SignWriting and Formal SignWriting already demonstrate
+## Comparative cases
 
-SignWriting shows that signed language can be written as plane-based text.
+The differences become easier to see through a few simple comparisons.
 
-It already demonstrates:
+### Hearing child plus print literacy
 
-- readable signed language text
-- writable signed language text
-- meaningful spatial composition within a signbox
-- a distinction between visible writing and computational representation
+A hearing child usually develops spoken language first and then line-based literacy through print.
 
-Formal SignWriting extends that by providing a way to store and work with this kind of writing in software.
+The written pathway is sequential text.
 
-One useful description is:
+### Deaf child plus SignWriting
 
-> a sign can be encoded as a two-part word: a temporal prefix and a spatial signbox
+A deaf child may develop signed language first and then potentially gain literacy through a writable plane-based system.
 
-That matters because it preserves both:
+The written pathway is spatial text.
 
-- sequence-sensitive information
-- spatial composition
+### Spatial specialist notation
 
-So the result is not merely a line pretending to be a plane.
+Mathematics, music, chemistry, and other specialist notations already show that literate readers can work with systems in which placement, grouping, and layout carry meaning.
 
-It is a text model for spatial writing.
+These are not identical to full natural-language writing.
 
-## What becomes possible
+But they show that literacy does not have to be purely linear.
 
-Once plane-based writing can be stored and worked with in software, the ecosystem changes.
+### Video or transcription of sign
 
-It becomes easier to support:
+Video and transcription are valuable.
 
-- search
-- sorting
-- corpora
-- lexicons
-- annotation pipelines
-- structured datasets
-- software tools
-- bilingual literacy materials
-- reproducible research workflows
-- new experimental stimuli for cognitive science
+They preserve language for documentation and research.
 
-This matters across multiple fields:
+But they do not by themselves provide the same kind of everyday readable and writable text that a writing system provides.
 
-- linguistics
-- literacy research
-- human-computer interaction
-- neuroscience and cognition
-- AI and language technology
+## What follows once this is understood
 
-## What can be claimed rigorously
+If SignWriting is real plane-based writing, then several consequences follow.
 
-The strongest claims are:
+It needs:
 
-- writing systems are not all organized in the same spatial way
-- point, line, and plane are useful analytic tendencies for describing how writing uses space
-- Chinese characters are a useful point-like example at the unit level
-- line-based scripts rely primarily on sequence
-- SignWriting is a strong example of plane-based writing
-- SignWriting requires a computational strategy that preserves spatial composition rather than only linear order
-- Formal SignWriting is one such strategy
+- a stable alphabet
+- stable symbol identity
+- compatible tools
+- processable encoding
+- shared editors, fonts, and websites
+- corpora, datasets, and research support
 
-The weaker claims are large educational or cognitive claims such as:
+It also needs an encoding model that preserves authored composition rather than trying to replace it with derived rendering.
 
-- plane writing is inherently better than line writing
-- all spatial writing will be easier to learn
-- SignWriting has already solved the general problem of signed-language literacy
-- the cognitive science of plane reading is already settled
+In other words, the question is no longer whether signed language **could** be written.
 
-The disciplined position is narrower:
+The question becomes:
 
-> SignWriting shows that writing can be spatial, linguistically meaningful, and still be stored and processed as text
+> what infrastructure is required once signed language has writable text of its own?
 
-## Implication
+That is why this argument matters.
 
-If language is not inherently auditory,
-and if writing is not inherently linear,
-then signed languages should not be forced to rely only on line-based substitutes or video records.
+It is not only a theory of writing.
 
-They need written pathways of their own that match the shape of the language.
+It is also a practical claim about literacy, tools, compatibility, and research support.
 
-Point systems show integration.
+## Conclusion
 
-Line systems show sequence.
+Writing does not come in only one shape.
 
-Plane systems show spatial composition.
+Some writing compresses structure into bounded units.
+Some unfolds through sequence.
+Some composes meaning in space.
 
-SignWriting belongs in that larger science of writing.
+SignWriting belongs in that third case strongly enough to matter.
 
-The next step is to build the concepts, tools, datasets, and research support needed to study and support literacy in the plane.
+Once that is seen, signed language no longer has to be treated as if writing for it must imitate the line in order to count.
+
+Readable and writable plane-based text becomes thinkable.
+
+Visible composition can remain with the writer, and processable encoding can support that writing without redefining it.
+
+And once that becomes thinkable, a whole new layer of literacy, tooling, compatibility, datasets, and research becomes possible.

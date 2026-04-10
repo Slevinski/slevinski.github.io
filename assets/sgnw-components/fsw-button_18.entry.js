@@ -1,5 +1,8 @@
 import { r as registerInstance, h, H as Host, c as createEvent, g as getElement } from './index-DPMxB3IU.js';
 import { getSgnwComponentsDefaults } from './index.js';
+import { cssAppend, cssLoaded } from '@sutton-signwriting/font-ttf/font/font.mjs';
+import { signSvg as fswSignSvg, symbolSvg as fswSymbolSvg } from '@sutton-signwriting/font-ttf/fsw/fsw.mjs';
+import { signSvg as swuSignSvg, symbolSvg as swuSymbolSvg } from '@sutton-signwriting/font-ttf/swu/swu.mjs';
 
 const fswButtonCss = () => `:host{display:inline-block;width:100%;height:100%}button{width:100%;height:100%;display:inline-flex;align-items:center;justify-content:center;border:1px solid #d0d0d0;border-radius:10px;background:#f7f7f7;padding:0;cursor:pointer;user-select:none;touch-action:manipulation}button:active{background:#e9e9e9}.icon{width:70%;height:70%;display:inline-flex}.icon :global(svg){width:100%;height:100%;fill:currentColor}`;
 
@@ -2124,16 +2127,33 @@ function fontDbSvgUrl({ baseUrl, encoding, kind, value, styling, }) {
     const combined = stylePart ? `${value}-${stylePart}` : value;
     return `${normalizeBaseUrl(baseUrl)}/${encoding}/${kind}/svg/${encodeURIComponent(combined)}`;
 }
+let sgnwFontReady;
+function ensureSgnwFonts() {
+    if (!sgnwFontReady) {
+        cssAppend();
+        sgnwFontReady = new Promise((resolve) => cssLoaded(() => resolve()));
+    }
+    return sgnwFontReady;
+}
+function normalizeRenderStyling(styling) {
+    if (!styling)
+        return '';
+    const trimmed = styling.trim();
+    if (!trimmed)
+        return '';
+    return trimmed.startsWith('-') ? trimmed : `-${trimmed}`;
+}
 
-const fswSignCss = () => `.svg{display:inline-block;height:var(--sgnw-height, 6em);width:auto;vertical-align:middle}`;
+const fswSignCss = () => `:host{display:inline-block;line-height:0}.svg{display:inline-block;height:var(--sgnw-height, 6em);width:auto;vertical-align:middle}.svg svg{display:block;height:100%;width:auto;max-width:100%;overflow:visible}`;
 
 const FswSign = class {
     constructor(hostRef) {
         registerInstance(this, hostRef);
         this.defaultBaseUrl = getSgnwComponentsDefaults().baseUrl;
     }
-    componentWillLoad() {
+    async componentWillLoad() {
         this.defaultBaseUrl = getSgnwComponentsDefaults().baseUrl;
+        await ensureSgnwFonts();
     }
     getValue() {
         const propValue = this.sign?.trim();
@@ -2146,14 +2166,8 @@ const FswSign = class {
         if (!value) {
             return (h(Host, null, h("slot", null)));
         }
-        const src = fontDbSvgUrl({
-            baseUrl: this.baseUrl ?? this.defaultBaseUrl,
-            encoding: 'fsw',
-            kind: 'sign',
-            value,
-            styling: this.styling,
-        });
-        return (h(Host, null, h("img", { class: "svg", src: src, alt: `FSW sign ${value}`, loading: "lazy" })));
+        const svg = fswSignSvg(`${value}${normalizeRenderStyling(this.styling)}`);
+        return (h(Host, { role: "img", "aria-label": `FSW sign ${value}` }, h("span", { class: "svg", innerHTML: svg })));
     }
     get el() { return getElement(this); }
 };
@@ -2367,15 +2381,16 @@ const FswSpatial = class {
 };
 FswSpatial.style = fswSpatialCss();
 
-const fswSymbolCss = () => `.svg{display:inline-block;height:var(--sgnw-height, 2em);width:auto;vertical-align:middle}`;
+const fswSymbolCss = () => `:host{display:inline-block;line-height:0}.svg{display:inline-block;height:var(--sgnw-height, 2em);width:auto;vertical-align:middle}.svg svg{display:block;height:100%;width:auto;max-width:100%;overflow:visible}`;
 
 const FswSymbol = class {
     constructor(hostRef) {
         registerInstance(this, hostRef);
         this.defaultBaseUrl = getSgnwComponentsDefaults().baseUrl;
     }
-    componentWillLoad() {
+    async componentWillLoad() {
         this.defaultBaseUrl = getSgnwComponentsDefaults().baseUrl;
+        await ensureSgnwFonts();
     }
     getValue() {
         const propValue = this.symbol?.trim();
@@ -2388,14 +2403,8 @@ const FswSymbol = class {
         if (!value) {
             return (h(Host, null, h("slot", null)));
         }
-        const src = fontDbSvgUrl({
-            baseUrl: this.baseUrl ?? this.defaultBaseUrl,
-            encoding: 'fsw',
-            kind: 'symbol',
-            value,
-            styling: this.styling,
-        });
-        return (h(Host, null, h("img", { class: "svg", src: src, alt: `FSW symbol ${value}`, loading: "lazy" })));
+        const svg = fswSymbolSvg(`${value}${normalizeRenderStyling(this.styling)}`);
+        return (h(Host, { role: "img", "aria-label": `FSW symbol ${value}` }, h("span", { class: "svg", innerHTML: svg })));
     }
     get el() { return getElement(this); }
 };
@@ -2682,15 +2691,16 @@ const SwuSearch = class {
 };
 SwuSearch.style = swuSearchCss();
 
-const swuSignCss = () => `.svg{display:inline-block;height:var(--sgnw-height, 6em);width:auto;vertical-align:middle}`;
+const swuSignCss = () => `:host{display:inline-block;line-height:0}.svg{display:inline-block;height:var(--sgnw-height, 6em);width:auto;vertical-align:middle}.svg svg{display:block;height:100%;width:auto;max-width:100%;overflow:visible}`;
 
 const SwuSign = class {
     constructor(hostRef) {
         registerInstance(this, hostRef);
         this.defaultBaseUrl = getSgnwComponentsDefaults().baseUrl;
     }
-    componentWillLoad() {
+    async componentWillLoad() {
         this.defaultBaseUrl = getSgnwComponentsDefaults().baseUrl;
+        await ensureSgnwFonts();
     }
     getValue() {
         const propValue = this.sign?.trim();
@@ -2703,28 +2713,23 @@ const SwuSign = class {
         if (!value) {
             return (h(Host, null, h("slot", null)));
         }
-        const src = fontDbSvgUrl({
-            baseUrl: this.baseUrl ?? this.defaultBaseUrl,
-            encoding: 'swu',
-            kind: 'sign',
-            value,
-            styling: this.styling,
-        });
-        return (h(Host, null, h("img", { class: "svg", src: src, alt: `SWU sign ${value}`, loading: "lazy" })));
+        const svg = swuSignSvg(`${value}${normalizeRenderStyling(this.styling)}`);
+        return (h(Host, { role: "img", "aria-label": `SWU sign ${value}` }, h("span", { class: "svg", innerHTML: svg })));
     }
     get el() { return getElement(this); }
 };
 SwuSign.style = swuSignCss();
 
-const swuSymbolCss = () => `.svg{display:inline-block;height:var(--sgnw-height, 2em);width:auto;vertical-align:middle}`;
+const swuSymbolCss = () => `:host{display:inline-block;line-height:0}.svg{display:inline-block;height:var(--sgnw-height, 2em);width:auto;vertical-align:middle}.svg svg{display:block;height:100%;width:auto;max-width:100%;overflow:visible}`;
 
 const SwuSymbol = class {
     constructor(hostRef) {
         registerInstance(this, hostRef);
         this.defaultBaseUrl = getSgnwComponentsDefaults().baseUrl;
     }
-    componentWillLoad() {
+    async componentWillLoad() {
         this.defaultBaseUrl = getSgnwComponentsDefaults().baseUrl;
+        await ensureSgnwFonts();
     }
     getValue() {
         const propValue = this.symbol?.trim();
@@ -2737,14 +2742,8 @@ const SwuSymbol = class {
         if (!value) {
             return (h(Host, null, h("slot", null)));
         }
-        const src = fontDbSvgUrl({
-            baseUrl: this.baseUrl ?? this.defaultBaseUrl,
-            encoding: 'swu',
-            kind: 'symbol',
-            value,
-            styling: this.styling,
-        });
-        return (h(Host, null, h("img", { class: "svg", src: src, alt: `SWU symbol ${value}`, loading: "lazy" })));
+        const svg = swuSymbolSvg(`${value}${normalizeRenderStyling(this.styling)}`);
+        return (h(Host, { role: "img", "aria-label": `SWU symbol ${value}` }, h("span", { class: "svg", innerHTML: svg })));
     }
     get el() { return getElement(this); }
 };
