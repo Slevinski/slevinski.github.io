@@ -757,9 +757,6 @@ function requireFsw () {
 
 		}));
 
-		/* support ongoing development */
-		/*   https://patreon.com/signwriting */
-		/*   https://donate.sutton-signwriting.io */ 
 	} (fsw$1, fsw$1.exports));
 	return fsw$1.exports;
 }

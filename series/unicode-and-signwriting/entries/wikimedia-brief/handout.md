@@ -30,7 +30,7 @@ That confusion is understandable.
 
 Unicode did encode a SignWriting block.
 
-But that did not create a complete, compatible, practical symbol-and-writing solution for current SignWriting projects.
+But that did not create a complete, compatible, practical solution for stable symbols and written signs in current SignWriting projects.
 
 ## What the real gap is
 
@@ -39,6 +39,7 @@ The real gap is not only that some fonts are missing.
 The larger gap is that current official Unicode SignWriting does not provide a workable compatible solution for:
 
 - stable symbol identity across the full system
+- direct writer selection of final symbols across the full system
 - full written signs
 - spatial composition
 - existing Sutton SignWriting datasets
@@ -46,7 +47,7 @@ The larger gap is that current official Unicode SignWriting does not provide a w
 
 In the facial system, the official model replaces direct writer selection of a final ISWA symbol with a sequence that the font merges into a rendered face.
 
-This shifts part of symbol formation into font behavior rather than stable symbol identity.
+This shifts part of symbol formation into font behavior rather than into a stable, shared symbol identity.
 
 This affects not only rendering, but also how data is stored, compared, and reused across systems.
 
@@ -64,7 +65,7 @@ it is both, but primarily an encoding-and-interoperability problem
 
 Better fonts alone do not solve the absence of a workable compatible spatial model.
 
-They also do not address the symbol-identity issues associated with the facial-diacritic model.
+They also do not address the way the facial-diacritic model shifts part of symbol formation into font behavior.
 
 ## What is used in practice now
 

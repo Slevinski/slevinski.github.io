@@ -850,9 +850,6 @@ function requireSwu () {
 
 		}));
 
-		/* support ongoing development */
-		/*   https://patreon.com/signwriting */
-		/*   https://donate.sutton-signwriting.io */ 
 	} (swu$1, swu$1.exports));
 	return swu$1.exports;
 }

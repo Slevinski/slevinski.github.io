@@ -16,6 +16,12 @@ That fact should stay visible because it explains why later discussion kept circ
 
 It also helps explain why later public statements of success did not settle the matter for the Sutton SignWriting production ecosystem.
 
+It also helps explain a second distinction that became clearer over time:
+
+- naming characters
+- preserving stable symbol identity
+- encoding complete written signs
+
 ## Main Unicode and related documents
 
 ### 2011
@@ -77,6 +83,12 @@ Many outside readers understandably inferred that SignWriting had therefore been
 
 The remaining years of discussion show that this inference was too strong.
 
+The symbol block had advanced.
+
+That did not mean that stable symbol identity had been fully preserved across the system.
+
+It also did not mean that written signs had a compatible encoding model.
+
 Treat 2015 as:
 
 - a major official milestone
@@ -111,7 +123,7 @@ Treat 2015 as:
 
 - Google released **Noto Sans SignWriting**, the first high-visibility font implementing the official Unicode 8 SignWriting design, including the facial-diacritic approach.
 
-This mattered because it showed that a font could be produced for the official design, but it did not solve the broader compatibility and layout questions.
+This mattered because it showed that a font could be produced for the official design, but it did not solve the broader compatibility, symbol-identity, and layout questions.
 
 ### 2026
 
@@ -132,7 +144,8 @@ It is based on years of proposals, minutes, collation responses, and attempts to
 
 The core historical fact is this:
 
-- the symbol inventory advanced
+- character naming advanced
+- a fully compatible symbol model did not
 - the compatible writing-system solution did not
 
 That remains the central documentary problem.

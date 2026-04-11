@@ -3,8 +3,8 @@
   "number": 4,
   "title": "Wikimedia Brief",
   "subtitle": "What Wikimedia needs to understand about Unicode and SignWriting",
-  "summary": "A short practical note for Wikimedia staff and collaborators about the current Unicode gap, current workarounds, and possible next steps.",
-  "synopsis": "This brief is for Wikimedia readers. It explains why current SignWriting work in Wikimedia projects cannot rely on official Unicode SignWriting alone, what the real technical gap is, what the current Sutton SignWriting production stack uses instead, and where Wikimedia could help without flattening the problem into a font-only issue.",
+  "summary": "A short practical note for Wikimedia staff and collaborators about why naming characters is not enough for current SignWriting project needs.",
+  "synopsis": "This brief is for Wikimedia readers. It explains why current SignWriting work in Wikimedia projects cannot rely on official Unicode SignWriting alone, why the real gap is larger than font support, how the facial system affects stable symbol identity, what the current Sutton SignWriting production stack uses instead, and where Wikimedia could help without flattening the problem into a solved-symbol-block story.",
   "handout": "handout.md",
   "companion_documents": [
     {
@@ -24,10 +24,11 @@
       "bullets": [
         "Official Unicode SignWriting is not sufficient by itself",
         "Current projects still depend on FSW and SWU",
+        "Naming characters is not enough for current project needs",
         "The issue is encoding plus interoperability, not only fonts",
         "That matters for storage, reuse, and maintenance"
       ],
-      "speech": "Wikimedia's starting point should be simple. The Unicode issue around SignWriting is still practical and active. Official Unicode SignWriting is not sufficient by itself for current project needs. Current work still depends on FSW and SWU. The issue is not only fonts. It is also encoding, compatibility, and interoperability across real project workflows.",
+      "speech": "Wikimedia's starting point should be simple. The Unicode issue around SignWriting is still practical and active. Official Unicode SignWriting is not sufficient by itself for current project needs. Current work still depends on FSW and SWU. Naming characters is not enough for the real storage, reuse, and maintenance needs of Wikimedia projects. The issue is not only fonts. It is also encoding, compatibility, and interoperability across real project workflows.",
       "notes": "Open collaboratively. This is the shortest honest framing.",
       "mermaid": "flowchart TD\n  A[Wikimedia project need] --> B[Storage]\n  A --> C[Rendering]\n  A --> D[Reuse and sharing]\n  A --> E[Maintenance]\n  B --> F[Current Unicode gap becomes practical]\n  C --> F\n  D --> F\n  E --> F\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,B,C,D,E,F node;"
     },
@@ -42,9 +43,9 @@
         "ASCII-based strings in real project work",
         "Custom renderers or user scripts",
         "Mixed assumptions about Unicode support",
-        "A gap between public expectation and project reality"
+        "These are symptoms, not the whole architecture"
       ],
-      "speech": "What Wikimedia is likely to notice first is not the whole architecture. It is the symptom layer. People see ASCII-based strings, custom rendering, and mixed assumptions about whether Unicode already solved the problem. That confusion is understandable. The public expectation formed around the block. The project reality still depends on other layers.",
+      "speech": "What Wikimedia is likely to notice first is not the whole architecture. It is the symptom layer. People see ASCII-based strings, custom rendering, and mixed assumptions about whether Unicode already solved the problem. That confusion is understandable. The public expectation formed around the block. The project reality still depends on other layers. These are symptoms of a deeper compatibility gap, not the whole diagnosis by themselves.",
       "notes": "Make this recognizable to a Wikimedia audience.",
       "mermaid": "flowchart LR\n  A[Project reality] --> B[ASCII strings]\n  A --> C[Custom rendering]\n  A --> D[Unicode confusion]\n  B --> E[Need for clearer technical baseline]\n  C --> E\n  D --> E\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,B,C,D,E node;"
     },
@@ -52,16 +53,17 @@
       "id": "real-gap",
       "title": "What The Real Gap Is",
       "kicker": "3",
-      "summary": "The real gap is not only missing fonts. It includes symbol identity, written-sign encoding, and interoperability.",
+      "summary": "The real gap is not only missing fonts. It includes stable symbol identity, written-sign encoding, and interoperability.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the real Wikimedia gap.",
       "bullets": [
         "The issue is larger than rendering",
+        "Naming characters is not the same as preserving stable symbols",
         "The official model does not provide a compatible written-sign solution",
-        "The facial system also affects symbol identity",
+        "The facial system shifts part of symbol formation into font behavior",
         "Data storage, comparison, and reuse are involved"
       ],
-      "speech": "The real gap is not only that some fonts are missing. The larger problem is that the current official model does not provide a compatible written-sign solution, and in the facial system it also shifts part of symbol formation into font behavior. That affects not only rendering, but also how data is stored, compared, and reused across systems. This is why the problem matters to Wikimedia as infrastructure rather than only as display.",
+      "speech": "The real gap is not only that some fonts are missing. The larger problem is that naming characters is not the same as preserving stable symbols, and the current official model also does not provide a compatible written-sign solution. In the facial system, part of symbol formation shifts into font behavior. That affects not only rendering, but also how data is stored, compared, and reused across systems. This is why the problem matters to Wikimedia as infrastructure rather than only as display.",
       "notes": "This is the core explanatory slide.",
       "mermaid": "flowchart TD\n  A[Official Unicode SignWriting] --> B[Rendering questions]\n  A --> C[Written-sign compatibility]\n  A --> D[Symbol identity in facial system]\n  C --> E[Storage and reuse impact]\n  D --> E\n  B --> E\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#fefce8,color:black,stroke:#ca8a04,stroke-width:2px;\n  class A,B,C,D node;\n  class E out;"
     },

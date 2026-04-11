@@ -46,7 +46,9 @@ From the Sutton SignWriting perspective, that was the beginning of a lasting pub
 
 The symbol block had been approved.
 
-The compatible written-sign problem had not.
+That did not mean that stable symbol identity had been fully preserved across the system.
+
+The compatible written-sign problem had not been solved either.
 
 That distinction is one of the main reasons the issue remains alive.
 

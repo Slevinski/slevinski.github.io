@@ -44,7 +44,8 @@ It does not change the broader compatibility judgment.
 
 Keep this distinction in view:
 
-- a symbol inventory can be standardized
-- while the practical written-sign problem remains unresolved
+- characters can be named
+- while stable writer-selected symbols are still not fully preserved
+- and the practical written-sign problem remains unresolved
 
 That is the real reason this subject keeps reappearing.

@@ -35,9 +35,16 @@ The shared inventory can be summarized compactly:
 | --- | --- | --- |
 | sequence marker | `A` | `U+1D800` |
 | signbox markers | `B`, `L`, `M`, `R` | `U+1D801` to `U+1D804` |
-| numbers | `250` to `749` | dedicated number characters |
+| numbers | `250` to `749` | `U+1D80C` to `U+1D9FF` |
 | null symbol | `S00000` | `U+40000` |
 | symbols | `S10000` to `S38b07` | `U+40001` to `U+4F428` |
+
+In SWU, this means:
+
+- five structural markers from `U+1D800` to `U+1D804`
+- `500` dedicated number characters from `U+1D80C` to `U+1D9FF`
+- the null symbol at `U+40000`
+- `62,504` symbol characters from `U+40001` to `U+4F428`
 
 ## III. Symbol key structure
 
@@ -59,6 +66,18 @@ S[123][0-9a-f]{2}[0-5][0-9a-f]
 The base is especially important because symbol typing is based on the base symbol, not on fill or rotation.
 
 That is why range tests for writing, movement, punctuation, `hcenter`, or `vcenter` all operate on the base value.
+
+The SWU symbol mapping is equally systematic and is best stated in two steps:
+
+```text
+id = ((base - 0x100) * 96) + (fill * 16) + rotation + 1
+code point = U+40000 + id
+```
+
+For `S10000`, that produces:
+
+- `id = 1`
+- `U+40001`
 
 ## IV. Script code and language tags
 
@@ -105,7 +124,29 @@ The shared numeric restriction matters enough to state explicitly:
 
 - valid values run from `250` to `749`
 - FSW writes them with decimal digits
-- SWU writes them with dedicated Unicode number characters
+- SWU writes them with number characters from `U+1D80C` to `U+1D9FF`
+
+The SWU number mapping is direct:
+
+```text
+code point = U+1D80C + (value - 250)
+```
+
+So:
+
+```text
+250 -> U+1D80C
+500 -> U+1D906
+749 -> U+1D9FF
+```
+
+An SWU coordinate is two consecutive number characters, one for `x` and one for `y`, with no literal `x` separator.
+
+For example:
+
+```text
+525x535 -> U+1D91F U+1D929
+```
 
 This preserves the same coordinate model across both encodings.
 

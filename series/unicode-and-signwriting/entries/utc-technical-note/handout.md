@@ -1,24 +1,35 @@
 # UTC Technical Note
 
-**Draft note on compatibility, spatial composition, and next steps**
+**Draft note on compatibility, symbol identity, spatial composition, and next steps**
 
 The Sutton SignWriting Resources regard the current official Unicode SignWriting encoding as insufficient for compatible production use within the established Sutton SignWriting ecosystem.
 
 ## Summary
 
-The current official Unicode SignWriting encoding provides a large part of a symbol inventory.
+The current official Unicode SignWriting encoding does not fully solve symbols cleanly, and it does not solve written signs.
 
-It does not provide a workable compatible solution for symbol identity and written signs as they exist in the Sutton SignWriting production ecosystem.
+The core distinction is this:
 
-The main unresolved issues are:
+- naming characters is not the same as preserving stable symbol identity
+- preserving stable symbol identity is not the same as encoding complete written signs
 
-- symbol-level incompatibility in the facial system
+The current official encoding can name much of the SignWriting character set.
+
+It does not provide a workable compatible solution for:
+
+- stable writer-selected symbol identity across the full system
+- written signs as they exist in current production use
 - spatial composition
-- compatibility with existing datasets
-- collation and sorting
-- migration from current production encodings and tools
+- sorting and collation aligned with current practice
+- migration from existing data, fonts, and tools without redesign
 
-Renewed technical review of these issues is needed rather than continued assumption that migration to the current official encoding is the expected path.
+In the facial system specifically, the official model replaces direct writer selection of a final ISWA symbol with a sequence that the font merges into a rendered face.
+
+That means symbol formation is partly mediated by font behavior and designer interpretation rather than being fixed by a shared writer-selected symbol inventory.
+
+This breaks compatibility at the symbol layer before the larger written-sign problem is even fully considered.
+
+Renewed technical review is needed rather than continued assumption that migration to the current official encoding is the expected path.
 
 ## Terms
 
@@ -36,7 +47,7 @@ Inside the current ecosystem, that informal term helps prevent confusion between
 
 ## Current problem
 
-The current problem is not whether Unicode can name SignWriting symbols.
+The current problem is not whether Unicode can name SignWriting characters.
 
 It can.
 
@@ -46,19 +57,51 @@ At present, it cannot.
 
 This is an interoperability judgment about what the current official encoding can carry in practice, not about the sincerity of past participants.
 
-It is also not only a higher-level written-sign problem.
+## Character naming is not enough
 
-In the facial system, the official model does not preserve direct writer selection of a stable ISWA symbol.
+The official Unicode SignWriting block covers:
 
-Instead, a sequence of facial elements is interpreted by the font and merged into a rendered face.
+- base characters
+- fill modifiers
+- rotation modifiers
 
-That means part of symbol formation is delegated to font behavior and designer interpretation rather than being fixed by a writer-selected symbol inventory.
+That means it can name much of the character set.
 
-This breaks compatibility at the symbol layer before the larger written-sign problem is even fully considered.
+That does not mean:
+
+- the full symbol model remains stable and writer-selected across the whole system
+- the facial system has a closed shared inventory comparable to ISWA symbol selection
+- written signs can be encoded in a compatible practical way
+
+The standards question cannot stop at character naming.
+
+It also has to ask:
+
+- whether symbol identity remains stable
+- whether writers still select symbols directly
+- whether written words can be encoded without breaking the writing system
+
+## Symbol identity breaks in the facial system
+
+In the facial system, the official model does not preserve direct writer selection of a stable final ISWA symbol.
+
+Instead, the writer enters a sequence of facial elements that the font interprets and merges into a rendered face.
+
+That shifts part of symbol formation into font behavior and designer interpretation.
+
+This is not a small rendering detail.
+
+It means the official model does not merely encode a symbol inventory imperfectly.
+
+It changes how final facial symbols come into being.
 
 There is no closed master list of facial-diacritic combinations that functions as a shared exhaustive inventory in the same way as ISWA symbol selection.
 
 As a result, font implementations are pushed toward copying a previous interpretation or inventing one.
+
+This is why the current official encoding should not be described as though it solved symbols cleanly and only left writing unresolved.
+
+At least in the facial system, it does not preserve stable symbol identity in a way that remains fully compatible with Formal SignWriting.
 
 ## Spatial composition remains unresolved
 
@@ -103,9 +146,9 @@ The problem is not simply that a sort order has not yet been tuned.
 
 The problem is that the current official model does not align cleanly with the established Sutton SignWriting production ecosystem and its practical needs.
 
-This includes two symbol-level design choices that matter directly:
+Two design choices matter directly here:
 
-- facial diacritics, which move part of symbol identity into font interpretation
+- the facial-diacritic model, which moves part of symbol identity into font interpretation
 - inherent first fill and first rotation values, which weaken explicit symbol identity and complicate stable sorting
 
 If the facial-diacritic model were removed and explicit first fill and first rotation values were restored instead of being inherent, compatibility and sorting would move much closer to the Formal SignWriting model.
@@ -145,14 +188,17 @@ That framing is too narrow.
 
 Fonts matter, but the deeper issues remain:
 
-- stable symbol identity in the facial system
-- representation of signs, not only symbols
+- stable writer-selected symbol identity in the facial system
+- a shared symbol inventory that does not depend on font-mediated composition
+- representation of written signs, not only characters
 - compatibility with existing encoded data
 - sorting and collation
 - workflow and software integration
 - the absence of a completed compatible spatial-composition model
 
 Strong fonts can hide structural gaps temporarily.
+
+They cannot remove them.
 
 ## Practical position
 
@@ -185,8 +231,10 @@ They also show why the standard of evaluation should be real writing and real in
 The requested next step is modest and concrete:
 
 - acknowledgment that current official Unicode SignWriting is not sufficient for compatible production use
+- acknowledgment that symbol identity is not preserved cleanly across the full system
+- acknowledgment that the facial-diacritic model mediates part of symbol formation through font behavior
 - acknowledgment that spatial composition remains unresolved
-- renewed technical review of compatibility and collation
+- renewed technical review of compatibility, collation, and migration
 - a concrete path for follow-up discussion with support from a voting member
 
 Start with honest technical acknowledgment of the present gap.
@@ -199,7 +247,7 @@ It did not fully solve symbols cleanly.
 
 It did not solve the compatible written-sign problem.
 
-In the facial system, it displaced writer-selected symbol identity with font-mediated interpretation.
+In the facial system, it displaced writer-selected symbol identity with font-mediated composition.
 
 That distinction remains the central technical issue.
 

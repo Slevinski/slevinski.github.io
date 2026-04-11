@@ -6,13 +6,13 @@ The current official Unicode SignWriting encoding is not enough for the Sutton S
 
 That is not because Unicode has no SignWriting symbols.
 
-It is because the official model does not preserve the full symbol model cleanly, and it does not support written signs in practice.
+It is because the official model does not preserve stable symbol identity cleanly across the full system, and it does not provide a compatible model for written signs.
 
 ## Current position
 
 The Sutton SignWriting Resources currently hold that:
 
-- the official Unicode 8 SignWriting encoding is not compatible with the established Sutton SignWriting production ecosystem
+- the official Unicode 8 SignWriting encoding is not fully compatible with the established Sutton SignWriting production ecosystem
 - the official model does not preserve stable symbol identity cleanly across the full ISWA layer
 - the main unresolved issue is spatial composition
 - sorting and collation are also not adequate
@@ -28,7 +28,9 @@ The issue keeps returning because many people reasonably assume that once Unicod
 
 That assumption does not hold here.
 
-Unicode encoded a SignWriting block, but not a complete, compatible, practical model for SignWriting symbols and written signs as they are used in real software, data, and publishing workflows.
+Unicode encoded a SignWriting block, but it did not preserve the full symbol model cleanly, and it did not produce a compatible practical model for written signs.
+
+There is a difference between naming characters, preserving writer-selected symbols, and encoding complete written signs.
 
 That difference is why the issue keeps returning in:
 
@@ -71,9 +73,9 @@ It also means that the official model does not merely fall short at the written-
 
 It also destabilizes symbol identity at part of the symbol level.
 
-It does not settle a more basic question:
+It also leaves a more basic question unresolved:
 
-what counts as the written word of SignWriting in a way that remains faithful to the writing system and usable in software
+how a written SignWriting word should be encoded so that it remains faithful to the writing system and usable in software
 
 That question is where the gap between symbol encoding and writing support becomes most obvious.
 
@@ -99,7 +101,8 @@ That is why the real disagreement is not best framed as:
 
 The better framing is:
 
-- unstable symbol modeling plus symbol encoding versus usable written-sign encoding
+- naming characters without fully preserving writer-selected symbols
+- versus encoding complete written signs in a usable compatible way
 
 That framing is more honest and more useful than treating the issue as personal resistance to Unicode itself.
 

@@ -63,6 +63,13 @@ The technical inventory can be summarized this way:
 | Null symbol | `S00000` | `U+40000` |
 | Symbols | `S10000` to `S38b07` | `U+40001` to `U+4F428` |
 
+In SWU, those ranges are explicit:
+
+- structural markers: `U+1D800` to `U+1D804`
+- number characters: `U+1D80C` to `U+1D9FF`
+- null symbol: `U+40000`
+- symbol inventory: `U+40001` to `U+4F428`
+
 FSW uses the compact ASCII character set:
 
 ```text
@@ -121,11 +128,17 @@ For an FSW key such as `S10000`:
 - the fill is `0`
 - the rotation is `0`
 
-The SWU codepoint is derived from those three parts:
+The SWU codepoint is derived from those three parts in two steps:
 
 ```text
-code = ((base - 256) * 96) + (fill * 16) + rotation + 1
+id = ((base - 0x100) * 96) + (fill * 16) + rotation + 1
+code point = U+40000 + id
 ```
+
+For `S10000`, that gives:
+
+- `id = 1`
+- `code point = U+40001`
 
 That formula is one reason SWU should still be understood as an encoding layer rather than as a rendering layer.
 
@@ -137,13 +150,31 @@ Both encodings use the same restricted numeric space for coordinates:
 - maximum value: `749`
 - total number space: `500` values
 
+In SWU, each one of those values maps to a dedicated Unicode number character:
+
+```text
+code point = U+1D80C + (value - 250)
+```
+
+So the range is explicit:
+
+```text
+250 -> U+1D80C
+500 -> U+1D906
+749 -> U+1D9FF
+```
+
 In FSW, a coordinate is written as:
 
 ```text
 525x535
 ```
 
-In SWU, the same coordinate is carried by two Unicode number characters.
+In SWU, the same coordinate is carried by two Unicode number characters, one for `x` and one for `y`, with no literal `x` separator:
+
+```text
+525x535 -> U+1D91F U+1D929
+```
 
 This matters because spatial writing becomes processable only when coordinates remain part of the text model rather than external metadata.
 

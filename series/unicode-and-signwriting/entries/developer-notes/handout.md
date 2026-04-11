@@ -52,6 +52,7 @@ This distinction is one of the main things developers tend to miss on first cont
 
 Do not assume that official Unicode SignWriting:
 
+- names characters in a way that automatically preserves stable symbols
 - preserves the full ISWA symbol model cleanly
 - can represent full written signs in a compatible way
 - can replace FSW or SWU without redesign
@@ -59,9 +60,11 @@ Do not assume that official Unicode SignWriting:
 - can reuse the Sutton SignWriting production fonts without mismatch
 - can solve layout by adding a font alone
 
-It encodes much of the symbol block.
+It encodes much of the character set.
 
-It does not currently provide a complete compatible symbol-and-sign-text solution.
+That is not the same as preserving stable writer-selected symbols.
+
+It also does not currently provide a complete compatible written-sign solution.
 
 In the facial system, the model is not simply "writer selects a symbol."
 
@@ -81,6 +84,7 @@ The larger problem is interoperability.
 
 Developers need:
 
+- stable writer-selected symbols
 - stable symbol identity
 - reliable storage
 - reliable interchange
@@ -119,6 +123,7 @@ not without a clear compatibility study first
 
 Before any migration, ask:
 
+- are stable writer-selected symbols preserved across the full system
 - can the full written sign be represented without loss
 - can existing sorting be preserved
 - can current fonts and renderers still work
@@ -158,10 +163,10 @@ Its role is to process official Unicode 8 SignWriting characters where they exis
 
 Useful links:
 
-- Source: <https://github.com/sutton-signwriting/unicode8>
-- Documentation: <https://sutton-signwriting.github.io/unicode8/>
-- Distribution: <https://unpkg.com/browse/@sutton-signwriting/unicode8/>
-- Issues: <https://github.com/sutton-signwriting/unicode8/issues>
+- [Source](https://github.com/sutton-signwriting/unicode8)
+- [Documentation](https://sutton-signwriting.github.io/unicode8/)
+- [Distribution](https://unpkg.com/browse/@sutton-signwriting/unicode8/)
+- [Issues](https://github.com/sutton-signwriting/unicode8/issues)
 
 Real software still has to deal with official Unicode SignWriting, even when it is not the preferred production path.
 

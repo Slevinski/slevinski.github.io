@@ -11,7 +11,7 @@ Different readers need different levels of detail:
 - Wikimedia staff need a compact explanation of the current gap
 - UTC readers need a formal technical statement
 
-> the current official Unicode SignWriting encoding is not compatible with the established Sutton SignWriting production ecosystem
+> the current official Unicode SignWriting encoding is not fully compatible with the established Sutton SignWriting production ecosystem
 
 It does **not** mean:
 
@@ -23,7 +23,7 @@ It does **not** mean:
 It **does** mean:
 
 - the current official Unicode SignWriting design does not carry the current Sutton SignWriting production ecosystem cleanly
-- the unresolved writing-system issues are larger than symbol naming alone
+- the unresolved writing-system issues are larger than character naming alone
 - compatibility must be judged against real tools, real corpora, real publishing, and real data exchange
 - future Unicode discussion is only worth the effort if it begins from those realities
 
@@ -31,11 +31,12 @@ That incompatibility is not only about fonts.
 
 It also involves:
 
+- writer-selected symbols versus font-mediated facial composition
 - missing spatial composition
 - sorting and collation problems
 - dataset incompatibility
 - tool and workflow breakage
-- the difference between encoding a symbol inventory and supporting written signs in practice
+- the difference between naming characters, preserving stable symbol identity, and encoding complete written signs
 
 ## Current position
 

@@ -3,8 +3,8 @@
   "number": 2,
   "title": "FSW and SWU",
   "subtitle": "Plain-text encodings, character sets, and conversion",
-  "summary": "Plain-text encodings, character sets, conversion, and canonical text boundaries.",
-  "synopsis": "Formal SignWriting depends on clear plain-text encodings. This entry explains FSW and SWU as two technical encodings of the same model, clarifies the usual canonical role of FSW in processing, and frames conversion as part of the encoding layer rather than the rendering layer.",
+  "summary": "Plain-text encodings, explicit character inventories, conversion, and canonical text boundaries.",
+  "synopsis": "Formal SignWriting depends on clear plain-text encodings. This entry explains FSW and SWU as two technical encodings of the same model, clarifies the usual canonical role of FSW in processing, makes the SWU inventory and numeric ranges explicit, and frames conversion as part of the encoding layer rather than the rendering layer.",
   "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
   "cover_image_alt": "Cover image for FSW and SWU in the Formal SignWriting series.",
   "handout": "handout.md",
@@ -43,34 +43,76 @@
         "Canonical boundaries"
       ],
       "speech": "Before we get deeper into sign layout, grammar, or rendering, we need the encoding layer to be clear. FSW and SWU are technical encodings of Formal SignWriting text. They belong to the formal model. They are not rendering shortcuts and they are not presentation markup. In current stewardship practice, FSW is usually the canonical internal form, while SWU remains available for Unicode-oriented input, output, and interchange.",
-      "notes": "Settle the layer model early.\n- encodings belong to the architecture\n- rendering and styling come later\n- character strategy does not change the model",
+      "notes": "Settle the layer model early. Encodings belong to the architecture. Rendering and styling come later. Character strategy does not change the model.",
       "mermaid": "flowchart LR\n  A[Formal SignWriting model] --> B[FSW]\n  A --> C[SWU]\n  B --> D[Plain-text processing]\n  C --> D\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A core;\n  class B,C,D node;"
     },
     {
-      "id": "character-sets",
-      "title": "Character Strategy Changes, Structure Does Not",
+      "id": "inventory-ranges",
+      "title": "The Inventory Has Exact Ranges",
       "kicker": "2",
-      "summary": "The difference between FSW and SWU is in the character strategy, not in the underlying structure.",
+      "summary": "SWU is not vague Unicode text. It defines exact ranges for markers, number characters, the null symbol, and the symbol inventory.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for character strategy in FSW and SWU.",
+      "image_alt": "Placeholder image for the explicit SWU character inventory.",
       "image_prompts": {
-        "concrete": "Comparison slide with an FSW string and an SWU string aligned beneath the same sign architecture diagram, academic software style, white background",
-        "abstract": "Different character surfaces revealing one unchanged inner structure"
+        "concrete": "Technical inventory slide showing SignWriting Unicode ranges for markers numbers null symbol and full symbol inventory, academic software style, white background",
+        "abstract": "A structured character inventory divided into clear technical ranges"
       },
       "bullets": [
-        "ASCII-oriented FSW",
-        "Unicode-oriented SWU",
-        "Same sign model",
-        "Same technical layers downstream"
+        "Markers U+1D800 to U+1D804",
+        "Numbers U+1D80C to U+1D9FF",
+        "Null symbol U+40000",
+        "Symbols U+40001 to U+4F428"
       ],
-      "speech": "FSW and SWU differ in character strategy, but they carry the same architectural commitments forward. Both preserve the same core model. Both support the same downstream questions about validity, search, rendering, and implementation. The choice of encoding does not redefine the underlying system, even if particular platforms prefer FSW internally and offer SWU at the edges.",
-      "notes": "Keep the distinction sharp but calm. The point is continuity, not competition.",
-      "mermaid": "flowchart TD\n  A[Formal SignWriting structure]\n  A --> B[FSW character strategy]\n  A --> C[SWU character strategy]\n  B --> D[ASCII-oriented text]\n  C --> E[Unicode-oriented text]\n  D --> F[Same underlying sign]\n  E --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,F core;\n  class B,C,D,E node;"
+      "speech": "The inventory should be stated concretely. SWU uses exact Unicode ranges, not a loose idea of Unicode support. The structural markers occupy U plus 1D800 through 1D804. The dedicated number characters occupy U plus 1D80C through 1D9FF. The null symbol is U plus 40000. The symbol inventory runs from U plus 40001 through U plus 4F428. That precision matters because conversion and validation depend on an explicit inventory.",
+      "notes": "Emphasize exact ranges. Make clear that numbers are their own block. Explicit inventory is part of technical maturity.",
+      "mermaid": "flowchart TD\n  A[SWU inventory] --> B[Markers]\n  A --> C[Number characters]\n  A --> D[Null symbol]\n  A --> E[Symbol inventory]\n  B --> F[Structural layer]\n  C --> G[Coordinate layer]\n  D --> H[Reserved null]\n  E --> I[SignWriting symbols]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A core;\n  class B,C,D,E node;\n  class F,G,H,I out;"
+    },
+    {
+      "id": "symbol-mapping",
+      "title": "Symbol Conversion Is Computed",
+      "kicker": "3",
+      "summary": "SWU symbol characters are derived systematically from base, fill, and rotation.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for computed symbol mapping between FSW and SWU.",
+      "image_prompts": {
+        "concrete": "Technical formula slide showing FSW symbol key parts mapping to an SWU code point, clean academic software diagram, white background",
+        "abstract": "A structured mapping from symbolic parts into a computed encoded result"
+      },
+      "bullets": [
+        "Base fill rotation stay explicit",
+        "Ninety-six forms per base",
+        "ID then code point",
+        "S10000 maps to U+40001"
+      ],
+      "speech": "At the symbol level, conversion is computed rather than memorized. The FSW key keeps the three important parts visible: base, fill, and rotation. SWU preserves the same distinctions, but carries them as a code point on Plane 4. The usual way to explain it is in two steps. First compute the symbol ID from base, fill, and rotation. Then add that ID to U plus 40000. So S10000 produces ID 1 and maps to U plus 40001.",
+      "notes": "Do not over-teach hexadecimal arithmetic. The main point is that the mapping is systematic. S10000 to U+40001 is the anchor example.",
+      "mermaid": "flowchart TD\n  A[FSW symbol key] --> B[Base]\n  A --> C[Fill]\n  A --> D[Rotation]\n  B --> E[Computed symbol ID]\n  C --> E\n  D --> E\n  E --> F[SWU code point]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,E core;\n  class B,C,D node;\n  class F out;"
+    },
+    {
+      "id": "number-space",
+      "title": "Coordinates Share One Number Space",
+      "kicker": "4",
+      "summary": "FSW and SWU use the same bounded numeric space for coordinates, even though the characters differ.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for shared coordinate logic in FSW and SWU.",
+      "image_prompts": {
+        "concrete": "Technical coordinate slide showing one FSW coordinate string and two SWU number characters representing the same values, clean academic layout",
+        "abstract": "One numeric space expressed through two different textual surfaces"
+      },
+      "bullets": [
+        "Values 250 to 749",
+        "Five hundred valid numbers",
+        "FSW writes decimal digits",
+        "SWU writes dedicated number characters"
+      ],
+      "speech": "The coordinate model is shared. Valid values run from 250 to 749, giving a bounded space of 500 numbers. FSW writes those values with decimal digits, such as 525 x 535. SWU writes the same values with dedicated number characters from U plus 1D80C through U plus 1D9FF. There is no literal x separator in SWU. The coordinate is simply carried as two consecutive number characters, one for x and one for y. That is a real encoding decision, not a rendering trick.",
+      "notes": "Remove hand-waviness around coordinates. Same numeric model, different character strategy, no literal x in SWU.",
+      "mermaid": "flowchart TD\n  A[Shared numeric space 250 to 749] --> B[FSW decimal numbers]\n  A --> C[SWU number characters]\n  B --> D[Coordinate with x separator]\n  C --> E[Two consecutive number characters]\n  D --> F[Same x and y values]\n  E --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,F core;\n  class B,C,D,E node;"
     },
     {
       "id": "conversion",
       "title": "Conversion Is a Promise of Interoperability",
-      "kicker": "3",
+      "kicker": "5",
       "summary": "Conversion matters because the model remains legible across multiple textual forms.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for FSW and SWU conversion.",
@@ -85,13 +127,13 @@
         "Not a rendering concern"
       ],
       "speech": "Conversion belongs naturally in this entry because it is part of the encoding story. The point is not only that conversion is possible. The point is that the model remains coherent across multiple textual forms. That continuity matters for storage, interchange, software generations, and technical maintenance.",
-      "notes": "This slide should make conversion feel foundational rather than incidental.",
+      "notes": "Make conversion feel foundational rather than incidental.",
       "mermaid": "flowchart LR\n  A[FSW] <--> B[SWU]\n  A --> C[Archives]\n  A --> D[Processing workflows]\n  B --> E[Unicode storage]\n  B --> F[Display ecosystems]\n  C --> G[Same sign model]\n  D --> G\n  E --> G\n  F --> G\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,G core;\n  class C,D,E,F node;"
     },
     {
       "id": "markup-boundary",
       "title": "Where Canonical Text Ends",
-      "kicker": "4",
+      "kicker": "6",
       "summary": "The style string is presentation markup, not part of canonical sign text.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for canonical text versus markup.",

@@ -30,11 +30,12 @@ Each document should have one main job:
 
 Do not let one document drift into doing all five jobs.
 
-## 3. Symbol block is not the same as writing support
+## 3. Character naming is not the same as symbol identity or writing support
 
 Keep this distinction visible early and often:
 
-- encoding a symbol inventory
+- naming characters
+- preserving stable writer-selected symbols
 - supporting written signs in practice
 
 This is the central editorial distinction of the whole library.

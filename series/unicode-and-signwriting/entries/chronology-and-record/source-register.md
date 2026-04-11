@@ -2,6 +2,12 @@
 
 **Compact link register for the chronology**
 
+This register supports the chronology and the broader distinction between:
+
+- naming characters
+- preserving stable symbol identity
+- encoding complete written signs
+
 ## Unicode and WG2 submissions
 
 - [N4015 / L2/11-101](https://www.unicode.org/L2/L2011/11101-n4015-signwriting.pdf)
@@ -34,3 +40,5 @@
 
 - [`@sutton-signwriting/unicode8` source](https://github.com/sutton-signwriting/unicode8)
 - [Noto Sans SignWriting repository](https://github.com/notofonts/sign-writing)
+
+These public references matter because they show how official Unicode SignWriting continues to shape expectations, tooling, and visible implementation work even while the deeper compatibility questions remain unresolved.

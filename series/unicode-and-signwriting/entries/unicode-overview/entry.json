@@ -3,8 +3,8 @@
   "number": 1,
   "title": "Unicode Overview",
   "subtitle": "Current position and why the issue keeps returning",
-  "summary": "Short baseline explanation of why official Unicode SignWriting is not sufficient for the Sutton SignWriting production ecosystem.",
-  "synopsis": "This overview states the current position plainly. The official Unicode SignWriting encoding does not provide a workable compatible model for the full symbol layer or for written signs in practice. The real issues include symbol identity, spatial composition, sorting, tooling, dataset compatibility, and the difference between encoded symbols and usable writing.",
+  "summary": "Short baseline explanation of why character naming, stable symbols, and written signs remain different questions for SignWriting.",
+  "synopsis": "This overview states the current position plainly. The official Unicode SignWriting encoding can name much of the character set, but it does not preserve stable writer-selected symbols cleanly across the full system and it does not provide a compatible model for written signs in practice. The real issues include symbol identity, the facial-diacritic model, spatial composition, sorting, tooling, dataset compatibility, and the difference between encoded characters and usable writing.",
   "handout": "handout.md",
   "companion_documents": [
     {
@@ -18,16 +18,16 @@
       "id": "baseline",
       "title": "The Baseline Problem",
       "kicker": "1",
-      "summary": "The current official Unicode SignWriting encoding is not compatible with the established Sutton SignWriting production ecosystem.",
+      "summary": "Unicode can name SignWriting characters, but the current official model still does not carry the established production ecosystem.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for Unicode overview baseline.",
       "bullets": [
         "The issue is not whether Unicode contains SignWriting characters",
         "The issue is whether the official model can carry the real ecosystem",
         "At present it cannot",
-        "The gap includes symbols, written signs, sorting, and tooling"
+        "The gap includes stable symbols, written signs, sorting, and tooling"
       ],
-      "speech": "The baseline problem is not that Unicode lacks SignWriting characters. The baseline problem is that the current official model does not carry the established Sutton SignWriting production ecosystem cleanly. The incompatibility is not only about higher-level writing. It also appears at the symbol level, especially in the facial system. The wider gap then extends into spatial composition, sorting, interoperability, and migration.",
+      "speech": "The baseline problem is not that Unicode lacks SignWriting characters. The baseline problem is that the current official model does not carry the established Sutton SignWriting production ecosystem cleanly. Character coverage exists, but that is not enough. The incompatibility appears at the symbol level, especially in the facial system, and it also extends into written signs, spatial composition, sorting, interoperability, and migration.",
       "notes": "Open with the firmest simple statement. Do not spend time on history here. Establish compatibility as the standard of judgment.",
       "mermaid": "flowchart TD\n  A[Official Unicode SignWriting] --> B[Character block exists]\n  A --> C[Production compatibility?]\n  C --> D[Symbol model]\n  C --> E[Written signs]\n  C --> F[Sorting and tooling]\n  D --> G[Current gap remains]\n  E --> G\n  F --> G\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  class A,C core;\n  class B,D,E,F node;\n  class G out;"
     },
@@ -35,7 +35,7 @@
       "id": "why-it-keeps-returning",
       "title": "Why This Issue Keeps Returning",
       "kicker": "2",
-      "summary": "People assume that once Unicode encodes a script, the script problem is solved.",
+      "summary": "People often treat a Unicode block as proof that the writing problem is solved.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for why the issue keeps returning.",
       "bullets": [
@@ -44,41 +44,42 @@
         "That assumption does not hold here",
         "The mismatch keeps resurfacing in tools, standards, and public discussion"
       ],
-      "speech": "This issue keeps returning because the public default assumption is understandable. If a script is in Unicode, many people assume the script problem has been solved. That assumption works often enough to feel natural. But it does not work here. The official block became visible enough to shape expectations, while the deeper compatibility problems remained unresolved. So the issue keeps returning in standards conversations, Wikimedia work, package design, and public explanations.",
+      "speech": "This issue keeps returning because the public default assumption is understandable. If a script is in Unicode, many people assume the script problem has been solved. But that assumption does not work here. The official block became visible enough to shape expectations while the deeper compatibility problems remained unresolved. So the issue keeps resurfacing in standards conversations, Wikimedia work, package design, and public explanations.",
       "notes": "This slide explains recurrence without blame. It is about expectations, not motives.",
       "mermaid": "flowchart TD\n  A[Unicode block becomes visible] --> B[Public expectation of solved support]\n  B --> C[Developers and institutions assume migration path]\n  C --> D[Real compatibility problems reappear]\n  D --> E[Issue returns again]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#fefce8,color:black,stroke:#ca8a04,stroke-width:2px;\n  class A,B,C,D,E node;\n  class D,E out;"
     },
     {
-      "id": "symbols-versus-writing",
-      "title": "Not Only a Writing Gap",
+      "id": "three-different-questions",
+      "title": "Three Different Questions",
       "kicker": "3",
-      "summary": "The official model does not fully preserve the symbol layer cleanly, and it also does not solve written-sign encoding.",
+      "summary": "Naming characters, preserving writer-selected symbols, and encoding complete written signs are not the same thing.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for symbols versus writing.",
       "bullets": [
         "The official block covers much of the character inventory",
-        "That is not the same as preserving the full symbol model",
-        "It also does not provide a compatible written-sign model",
-        "Both levels matter"
+        "That is not the same as preserving stable writer-selected symbols",
+        "That is not the same as encoding complete written signs",
+        "The current gap becomes clearer once those questions are separated"
       ],
-      "speech": "A useful correction is that this is not just a writing-level problem. The official block covers much of the character inventory, but that is not the same thing as preserving the full symbol model cleanly. At the same time, it does not provide a compatible model for written signs. So the Unicode gap has at least two layers: symbol-level incompatibility and written-sign incompatibility. The two problems reinforce one another.",
-      "notes": "This is the conceptual correction slide. Keep it compact and clear.",
-      "mermaid": "flowchart LR\n  A[Official block] --> B[Character inventory]\n  A --> C[Symbol model]\n  A --> D[Written-sign model]\n  B --> E[Partial coverage]\n  C --> F[Not fully preserved]\n  D --> G[Not compatibly solved]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  class A core;\n  class B,C,D,E node;\n  class F,G risk;"
+      "speech": "A useful correction is that this is not just a writing-level problem. The current official block can name much of the character inventory. That is one question. A second question is whether the model preserves stable writer-selected symbols. A third question is whether written signs can be encoded in a compatible practical way. The official model reaches the first point much more than the second or third. Once those three questions are separated, the Unicode gap becomes much easier to describe honestly.",
+      "notes": "This slide should now carry the main conceptual distinction from the handout.",
+      "mermaid": "flowchart TD\n  A[Official Unicode SignWriting] --> B[Naming characters]\n  A --> C[Preserving writer-selected symbols]\n  A --> D[Encoding written signs]\n  B --> E[Largely advanced]\n  C --> F[Not preserved cleanly]\n  D --> G[Not compatibly solved]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef good fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  class A core;\n  class B,C,D node;\n  class E good;\n  class F,G risk;"
     },
     {
       "id": "facial-system",
       "title": "The Facial System Shows the Break",
       "kicker": "4",
-      "summary": "In the facial system, the official model shifts part of symbol formation from the writer to the font.",
+      "summary": "In the facial system, the official model shifts part of symbol formation from the writer-selected inventory to the font.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for the facial system break.",
       "bullets": [
         "Formal SignWriting expects writer-selected ISWA symbols",
         "The facial-diacritic model uses a sequence merged by the font",
         "That shifts part of symbol formation into font behavior",
+        "There is no closed shared master inventory of final facial combinations",
         "Symbol identity, sorting, and compatibility all suffer"
       ],
-      "speech": "The facial system makes the deeper break visible. In Formal SignWriting, the writer selects a symbol from the shared ISWA inventory. In the official facial-diacritic model, the writer enters a sequence that the font merges into a rendered face. That means part of symbol formation moves into font behavior and font-designer interpretation. This is not a small rendering detail. It destabilizes symbol identity, complicates sorting, and makes compatibility dependent on font implementation.",
+      "speech": "The facial system makes the deeper break visible. In Formal SignWriting, the writer selects a symbol from the shared ISWA inventory. In the official facial-diacritic model, the writer enters a sequence that the font merges into a rendered face. That means part of symbol formation moves into font behavior and font-designer interpretation. There is no closed shared master inventory of final facial combinations comparable to normal ISWA selection. This is not a small rendering detail. It destabilizes symbol identity, complicates sorting, and makes compatibility dependent on font implementation.",
       "notes": "This is the strongest diagnostic slide. Keep it technical and calm.",
       "mermaid": "flowchart LR\n  A[Formal SignWriting writer] --> B[Selects final ISWA symbol]\n  B --> C[Stable symbol identity]\n\n  D[Official facial model writer] --> E[Writes facial sequence]\n  E --> F[Font merges sequence]\n  F --> G[Rendered face]\n  G --> H[Font-mediated symbol result]\n\n  classDef good fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  class A,B,D,E,F core;\n  class C good;\n  class G,H risk;"
     },
@@ -108,13 +109,14 @@
       "image_alt": "Placeholder image for what would count as progress.",
       "bullets": [
         "Acknowledge current incompatibility",
+        "Acknowledge the symbol-identity break in the facial system",
         "Acknowledge unresolved spatial composition",
         "Review collation and symbol-model issues honestly",
         "Open a concrete technical path with real support"
       ],
-      "speech": "Progress does not require instant agreement on every design decision. It begins with accurate acknowledgment. The current official model is not sufficient for compatible production use. Spatial composition remains unresolved. Collation and symbol-model issues remain active. The right next step is not migration pressure. It is a concrete technical path for renewed discussion with real institutional support.",
+      "speech": "Progress does not require instant agreement on every design decision. It begins with accurate acknowledgment. The current official model is not sufficient for compatible production use. The facial system does not preserve stable writer-selected symbol identity cleanly. Spatial composition remains unresolved. Collation and symbol-model issues remain active. The right next step is not migration pressure. It is a concrete technical path for renewed discussion with real institutional support.",
       "notes": "End on disciplined next steps, not frustration.",
-      "mermaid": "flowchart TD\n  A[Acknowledge current incompatibility] --> B[Review symbol, collation, and spatial issues]\n  B --> C[Reopen technical discussion]\n  C --> D[Seek supported follow-up path]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D node;\n  class D out;"
+      "mermaid": "flowchart TD\n  A[Acknowledge current incompatibility] --> B[Acknowledge symbol-identity break]\n  B --> C[Review collation and spatial issues]\n  C --> D[Seek supported follow-up path]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D node;\n  class D out;"
     }
   ]
 }

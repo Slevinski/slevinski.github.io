@@ -46,9 +46,9 @@
           "number": 2,
           "title": "FSW and SWU",
           "subtitle": "Plain-text encodings, character sets, and conversion",
-          "summary": "Plain-text encodings, character sets, conversion, and canonical text boundaries.",
+          "summary": "Plain-text encodings, explicit character inventories, conversion, and canonical text boundaries.",
           "handout": "handout.md",
-          "slide_count": 4
+          "slide_count": 6
         },
         {
           "slug": "the-shape-of-a-sign",
@@ -259,7 +259,7 @@
           "number": 1,
           "title": "Unicode Overview",
           "subtitle": "Current position and why the issue keeps returning",
-          "summary": "Short baseline explanation of why official Unicode SignWriting is not sufficient for the Sutton SignWriting production ecosystem.",
+          "summary": "Short baseline explanation of why character naming, stable symbols, and written signs remain different questions for SignWriting.",
           "handout": "handout.md",
           "slide_count": 6
         },
@@ -269,7 +269,7 @@
           "number": 2,
           "title": "Developer Notes",
           "subtitle": "What to use now and what not to assume",
-          "summary": "Implementation guidance for developers working with Sutton SignWriting data, conversion, fonts, search, and Unicode-facing workflows.",
+          "summary": "Implementation guidance for developers working with Sutton SignWriting data, conversion, symbol identity, and Unicode-facing workflows.",
           "handout": "handout.md",
           "slide_count": 6
         },
@@ -289,7 +289,7 @@
           "number": 4,
           "title": "Wikimedia Brief",
           "subtitle": "What Wikimedia needs to understand about Unicode and SignWriting",
-          "summary": "A short practical note for Wikimedia staff and collaborators about the current Unicode gap, current workarounds, and possible next steps.",
+          "summary": "A short practical note for Wikimedia staff and collaborators about why naming characters is not enough for current SignWriting project needs.",
           "handout": "handout.md",
           "slide_count": 5
         },
@@ -298,10 +298,10 @@
           "legacy_slugs": [],
           "number": 5,
           "title": "UTC Technical Note",
-          "subtitle": "Draft note on compatibility, spatial composition, and next steps",
-          "summary": "A formal draft note stating that current official Unicode SignWriting is not sufficient for compatible Sutton SignWriting production use.",
+          "subtitle": "Draft note on compatibility, symbol identity, spatial composition, and next steps",
+          "summary": "A formal draft note stating that official Unicode SignWriting can name much of the character set but still does not preserve stable symbol identity or provide compatible written-sign support.",
           "handout": "handout.md",
-          "slide_count": 6
+          "slide_count": 7
         }
       ]
     },

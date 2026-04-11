@@ -9,6 +9,7 @@ Lead with:
 - official Unicode SignWriting is not enough by itself for current production use
 - current workflows still rely on FSW and SWU
 - the unresolved problem is larger than font support
+- naming characters is not the same as preserving stable symbols or encoding complete written signs
 
 ## Keep the conversation out of the weeds at first
 
@@ -27,15 +28,15 @@ Begin with:
 ## Useful questions to answer
 
 - Is Wikimedia trying to understand the issue, advocate inside Unicode, or support current project work?
-- Does Wikimedia understand the difference between symbol encoding and written-sign support?
+- Does Wikimedia understand the difference between naming characters, preserving stable symbols, and supporting written signs?
 - Can Wikimedia support an accurate interim posture rather than pushing premature Unicode-only convergence?
 
 ## Useful documents to send after the meeting
 
-- `Unicode Overview`
-- `Wikimedia Brief`
-- `Chronology and Record`
-- `UTC Technical Note`, if the conversation becomes concrete
+- [Unicode Overview](/#series/unicode-and-signwriting/unicode-overview/handout)
+- [Wikimedia Brief](/#series/unicode-and-signwriting/wikimedia-brief/handout)
+- [Chronology and Record](/#series/unicode-and-signwriting/chronology-and-record/handout)
+- [UTC Technical Note](/#series/unicode-and-signwriting/utc-technical-note/handout), if the conversation becomes concrete
 
 ## Best outcome for a first meeting
 
