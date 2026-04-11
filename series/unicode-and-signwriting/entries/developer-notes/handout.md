@@ -66,11 +66,11 @@ That is not the same as preserving stable writer-selected symbols.
 
 It also does not currently provide a complete compatible written-sign solution.
 
-In the facial system, the model is not simply "writer selects a symbol."
+In the facial system, the model is not simply "writer selects symbols and places them."
 
-Instead, a sequence is interpreted by the font and merged into a rendered face.
+Instead, a sequence is interpreted by the font and arranged into a rendered face.
 
-That means part of symbol identity depends on font behavior rather than direct writer-selected ISWA identity.
+That means part of the resulting facial arrangement depends on font behavior rather than direct writer-selected ISWA symbols and authored placement.
 
 That means a developer should not infer from the existence of official characters that a full application stack is already settled.
 

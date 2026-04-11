@@ -65,7 +65,7 @@ It does not, by itself, provide a compatible solution for:
 
 In the facial area, the official diacritic model introduces a deeper break.
 
-Instead of the writer selecting a final ISWA symbol directly, the writer enters a sequence that the font interprets and merges into a rendered face.
+Instead of simply preserving the writer's selected facial symbols and their authored placement, the model asks the writer for a sequence that the font then interprets and arranges into a rendered face.
 
 That pushes part of symbol formation into font behavior and designer interpretation.
 

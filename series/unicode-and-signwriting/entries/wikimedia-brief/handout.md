@@ -45,7 +45,9 @@ The larger gap is that current official Unicode SignWriting does not provide a w
 - existing Sutton SignWriting datasets
 - current tooling and production workflows
 
-In the facial system, the official model replaces direct writer selection of a final ISWA symbol with a sequence that the font merges into a rendered face.
+In the facial system, the official model does not simply preserve the writer's choice of facial symbols and their placement.
+
+Instead, the writer enters a sequence of facial elements and the font takes on part of the job of arranging them into a rendered face.
 
 This shifts part of symbol formation into font behavior rather than into a stable, shared symbol identity.
 
@@ -65,7 +67,7 @@ it is both, but primarily an encoding-and-interoperability problem
 
 Better fonts alone do not solve the absence of a workable compatible spatial model.
 
-They also do not address the way the facial-diacritic model shifts part of symbol formation into font behavior.
+They also do not address the way the facial-diacritic model shifts part of symbol selection and arrangement into font behavior.
 
 ## What is used in practice now
 

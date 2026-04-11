@@ -23,7 +23,9 @@ It does not provide a workable compatible solution for:
 - sorting and collation aligned with current practice
 - migration from existing data, fonts, and tools without redesign
 
-In the facial system specifically, the official model replaces direct writer selection of a final ISWA symbol with a sequence that the font merges into a rendered face.
+In the facial system specifically, the official model does not simply preserve the writer's choice of facial symbols and their authored placement in the signbox.
+
+Instead, the writer enters a sequence of facial elements and the font takes on part of the job of arranging them into a rendered face.
 
 That means symbol formation is partly mediated by font behavior and designer interpretation rather than being fixed by a shared writer-selected symbol inventory.
 
@@ -83,11 +85,15 @@ It also has to ask:
 
 ## Symbol identity breaks in the facial system
 
-In the facial system, the official model does not preserve direct writer selection of a stable final ISWA symbol.
+In the facial system, the official model does not preserve direct writer control over a stable set of selected facial symbols and their authored placement.
 
-Instead, the writer enters a sequence of facial elements that the font interprets and merges into a rendered face.
+Instead, the writer enters a sequence of facial elements that the font interprets and arranges into a rendered face.
 
 That shifts part of symbol formation into font behavior and designer interpretation.
+
+It also means the font can end up deciding more than simple drawing details.
+
+It can affect how facial elements are stacked, grouped, normalized, or spatially resolved, even though those choices can matter to the writing itself.
 
 This is not a small rendering detail.
 
@@ -188,7 +194,7 @@ That framing is too narrow.
 
 Fonts matter, but the deeper issues remain:
 
-- stable writer-selected symbol identity in the facial system
+- stable writer-selected facial symbols and authored placement in the facial system
 - a shared symbol inventory that does not depend on font-mediated composition
 - representation of written signs, not only characters
 - compatibility with existing encoded data
@@ -232,7 +238,7 @@ The requested next step is modest and concrete:
 
 - acknowledgment that current official Unicode SignWriting is not sufficient for compatible production use
 - acknowledgment that symbol identity is not preserved cleanly across the full system
-- acknowledgment that the facial-diacritic model mediates part of symbol formation through font behavior
+- acknowledgment that the facial-diacritic model mediates part of symbol selection and arrangement through font behavior
 - acknowledgment that spatial composition remains unresolved
 - renewed technical review of compatibility, collation, and migration
 - a concrete path for follow-up discussion with support from a voting member
