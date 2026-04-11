@@ -6,12 +6,13 @@ The Sutton SignWriting Resources regard the current official Unicode SignWriting
 
 ## Summary
 
-The current official Unicode SignWriting encoding provides a symbol inventory.
+The current official Unicode SignWriting encoding provides a large part of a symbol inventory.
 
-It does not provide a workable compatible solution for written signs as they exist in the Sutton SignWriting production ecosystem.
+It does not provide a workable compatible solution for symbol identity and written signs as they exist in the Sutton SignWriting production ecosystem.
 
 The main unresolved issues are:
 
+- symbol-level incompatibility in the facial system
 - spatial composition
 - compatibility with existing datasets
 - collation and sorting
@@ -44,6 +45,20 @@ The current problem is whether the official Unicode SignWriting encoding can car
 At present, it cannot.
 
 This is an interoperability judgment about what the current official encoding can carry in practice, not about the sincerity of past participants.
+
+It is also not only a higher-level written-sign problem.
+
+In the facial system, the official model does not preserve direct writer selection of a stable ISWA symbol.
+
+Instead, a sequence of facial elements is interpreted by the font and merged into a rendered face.
+
+That means part of symbol formation is delegated to font behavior and designer interpretation rather than being fixed by a writer-selected symbol inventory.
+
+This breaks compatibility at the symbol layer before the larger written-sign problem is even fully considered.
+
+There is no closed master list of facial-diacritic combinations that functions as a shared exhaustive inventory in the same way as ISWA symbol selection.
+
+As a result, font implementations are pushed toward copying a previous interpretation or inventing one.
 
 ## Spatial composition remains unresolved
 
@@ -88,6 +103,13 @@ The problem is not simply that a sort order has not yet been tuned.
 
 The problem is that the current official model does not align cleanly with the established Sutton SignWriting production ecosystem and its practical needs.
 
+This includes two symbol-level design choices that matter directly:
+
+- facial diacritics, which move part of symbol identity into font interpretation
+- inherent first fill and first rotation values, which weaken explicit symbol identity and complicate stable sorting
+
+If the facial-diacritic model were removed and explicit first fill and first rotation values were restored instead of being inherent, compatibility and sorting would move much closer to the Formal SignWriting model.
+
 This is why collation should be treated as a signal of deeper incompatibility rather than as a small secondary defect.
 
 ## Compatibility with current production use
@@ -105,6 +127,7 @@ That ecosystem currently relies on FSW and SWU.
 
 The official Unicode SignWriting encoding does not currently provide a compatible migration path that preserves:
 
+- direct writer-selected symbol identity across the full system
 - existing data
 - current production tooling
 - practical search and sorting workflows
@@ -122,6 +145,7 @@ That framing is too narrow.
 
 Fonts matter, but the deeper issues remain:
 
+- stable symbol identity in the facial system
 - representation of signs, not only symbols
 - compatibility with existing encoded data
 - sorting and collation
@@ -143,6 +167,8 @@ That position is not based on refusal to engage Unicode in principle.
 It is based on incompatibility in practice.
 
 It is also compatible with continued technical engagement if a serious path opens.
+
+That path would need to begin by acknowledging that the current official model did not fully solve symbols cleanly, and did not solve writing.
 
 ## Evidence from current use
 
@@ -169,9 +195,11 @@ Start with honest technical acknowledgment of the present gap.
 
 The current official Unicode SignWriting encoding should not be treated as though it already solved the practical writing-system problem.
 
-It solved part of the symbol problem.
+It did not fully solve symbols cleanly.
 
 It did not solve the compatible written-sign problem.
+
+In the facial system, it displaced writer-selected symbol identity with font-mediated interpretation.
 
 That distinction remains the central technical issue.
 

@@ -18,17 +18,86 @@
       "id": "wikimedia-baseline",
       "title": "What Wikimedia Needs To Know First",
       "kicker": "1",
-      "summary": "The current Unicode issue is real, practical, and still active for Wikimedia projects that want to support SignWriting well.",
+      "summary": "The Unicode issue is still practical for Wikimedia projects that want to support SignWriting well.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for Wikimedia brief.",
+      "image_alt": "Placeholder image for Wikimedia brief baseline.",
       "bullets": [
-        "Official Unicode SignWriting is not enough by itself",
+        "Official Unicode SignWriting is not sufficient by itself",
         "Current projects still depend on FSW and SWU",
         "The issue is encoding plus interoperability, not only fonts",
-        "Wikimedia can help by understanding the real gap and advocating accurately"
+        "That matters for storage, reuse, and maintenance"
       ],
-      "speech": "Wikimedia's starting point should be simple. The current Unicode issue around SignWriting is still active and practical. Official Unicode SignWriting does not, by itself, solve the needs of current SignWriting projects. Current Sutton SignWriting workflows still depend on FSW and SWU. The issue is not only fonts. It is also encoding, compatibility, spatial composition, and interoperability.",
-      "notes": "Keep this focused and collaborative."
+      "speech": "Wikimedia's starting point should be simple. The Unicode issue around SignWriting is still practical and active. Official Unicode SignWriting is not sufficient by itself for current project needs. Current work still depends on FSW and SWU. The issue is not only fonts. It is also encoding, compatibility, and interoperability across real project workflows.",
+      "notes": "Open collaboratively. This is the shortest honest framing.",
+      "mermaid": "flowchart TD\n  A[Wikimedia project need] --> B[Storage]\n  A --> C[Rendering]\n  A --> D[Reuse and sharing]\n  A --> E[Maintenance]\n  B --> F[Current Unicode gap becomes practical]\n  C --> F\n  D --> F\n  E --> F\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,B,C,D,E,F node;"
+    },
+    {
+      "id": "what-projects-see",
+      "title": "What Wikimedia Is Likely To Notice",
+      "kicker": "2",
+      "summary": "Wikimedia projects usually encounter the problem first as custom strings, scripts, and uncertainty about whether Unicode already solved it.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for what Wikimedia projects see.",
+      "bullets": [
+        "ASCII-based strings in real project work",
+        "Custom renderers or user scripts",
+        "Mixed assumptions about Unicode support",
+        "A gap between public expectation and project reality"
+      ],
+      "speech": "What Wikimedia is likely to notice first is not the whole architecture. It is the symptom layer. People see ASCII-based strings, custom rendering, and mixed assumptions about whether Unicode already solved the problem. That confusion is understandable. The public expectation formed around the block. The project reality still depends on other layers.",
+      "notes": "Make this recognizable to a Wikimedia audience.",
+      "mermaid": "flowchart LR\n  A[Project reality] --> B[ASCII strings]\n  A --> C[Custom rendering]\n  A --> D[Unicode confusion]\n  B --> E[Need for clearer technical baseline]\n  C --> E\n  D --> E\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,B,C,D,E node;"
+    },
+    {
+      "id": "real-gap",
+      "title": "What The Real Gap Is",
+      "kicker": "3",
+      "summary": "The real gap is not only missing fonts. It includes symbol identity, written-sign encoding, and interoperability.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the real Wikimedia gap.",
+      "bullets": [
+        "The issue is larger than rendering",
+        "The official model does not provide a compatible written-sign solution",
+        "The facial system also affects symbol identity",
+        "Data storage, comparison, and reuse are involved"
+      ],
+      "speech": "The real gap is not only that some fonts are missing. The larger problem is that the current official model does not provide a compatible written-sign solution, and in the facial system it also shifts part of symbol formation into font behavior. That affects not only rendering, but also how data is stored, compared, and reused across systems. This is why the problem matters to Wikimedia as infrastructure rather than only as display.",
+      "notes": "This is the core explanatory slide.",
+      "mermaid": "flowchart TD\n  A[Official Unicode SignWriting] --> B[Rendering questions]\n  A --> C[Written-sign compatibility]\n  A --> D[Symbol identity in facial system]\n  C --> E[Storage and reuse impact]\n  D --> E\n  B --> E\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#fefce8,color:black,stroke:#ca8a04,stroke-width:2px;\n  class A,B,C,D node;\n  class E out;"
+    },
+    {
+      "id": "current-stack",
+      "title": "What The Current Stack Uses",
+      "kicker": "4",
+      "summary": "Current Sutton SignWriting workflows rely on FSW and SWU because that stack already carries the real ecosystem.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the current SignWriting stack.",
+      "bullets": [
+        "FSW is the main production encoding",
+        "SWU is the supported Unicode-oriented isomorphic form",
+        "Current tools and datasets are built around them",
+        "Treat that production reality as the baseline"
+      ],
+      "speech": "If Wikimedia wants to help accurately, it helps to start from the real production stack rather than from the assumption that the official block already solved the problem. Current Sutton SignWriting workflows rely on FSW and SWU. That is not an awkward exception. It is the present baseline for tools, datasets, and interoperability.",
+      "notes": "Use this to keep the conversation grounded.",
+      "mermaid": "flowchart LR\n  A[Current ecosystem] --> B[FSW]\n  A --> C[SWU]\n  B --> D[Canonical production workflows]\n  C --> E[Unicode-oriented interchange]\n  D --> F[What projects use now]\n  E --> F\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D,E node;\n  class F out;"
+    },
+    {
+      "id": "what-wikimedia-could-do",
+      "title": "What Wikimedia Could Do",
+      "kicker": "5",
+      "summary": "Wikimedia can be most useful by understanding the gap accurately and advocating from that reality.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for what Wikimedia could do.",
+      "bullets": [
+        "Establish a shared technical baseline",
+        "Avoid flattening the issue into a solved-symbol-block story",
+        "Support practical use of FSW and SWU where needed",
+        "Consider Unicode advocacy only from an accurate foundation"
+      ],
+      "speech": "A good next step is not to pretend the problem is already solved. A good next step is to establish a shared technical baseline, understand the current production stack, and decide whether Unicode-level discussion is worth reopening. Accurate understanding at this stage is more valuable than premature conclusions.",
+      "notes": "End with practical collaboration, not pressure.",
+      "mermaid": "flowchart TD\n  A[Shared technical baseline] --> B[Accurate advocacy]\n  A --> C[Practical current support]\n  B --> D[Possible future Unicode work]\n  C --> D\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D node;\n  class D out;"
     }
   ]
 }

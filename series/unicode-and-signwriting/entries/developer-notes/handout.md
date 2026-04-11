@@ -52,15 +52,22 @@ This distinction is one of the main things developers tend to miss on first cont
 
 Do not assume that official Unicode SignWriting:
 
+- preserves the full ISWA symbol model cleanly
 - can represent full written signs in a compatible way
 - can replace FSW or SWU without redesign
 - can sort or collate the way production workflows need
 - can reuse the Sutton SignWriting production fonts without mismatch
 - can solve layout by adding a font alone
 
-It encodes symbols.
+It encodes much of the symbol block.
 
-It does not currently provide a complete compatible sign-text solution.
+It does not currently provide a complete compatible symbol-and-sign-text solution.
+
+In the facial system, the model is not simply "writer selects a symbol."
+
+Instead, a sequence is interpreted by the font and merged into a rendered face.
+
+That means part of symbol identity depends on font behavior rather than direct writer-selected ISWA identity.
 
 That means a developer should not infer from the existence of official characters that a full application stack is already settled.
 
@@ -74,6 +81,7 @@ The larger problem is interoperability.
 
 Developers need:
 
+- stable symbol identity
 - reliable storage
 - reliable interchange
 - searchability
@@ -81,6 +89,8 @@ Developers need:
 - stable relation to existing datasets
 
 Fonts alone do not provide those things.
+
+They also do not settle which final facial forms exist as stable shared symbols when the model pushes composition into font interpretation.
 
 This is the practical reason developer discussions drift quickly from fonts into encoding and conversion.
 

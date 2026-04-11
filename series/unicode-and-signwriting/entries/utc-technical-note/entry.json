@@ -4,7 +4,7 @@
   "title": "UTC Technical Note",
   "subtitle": "Draft note on compatibility, spatial composition, and next steps",
   "summary": "A formal draft note stating that current official Unicode SignWriting is not sufficient for compatible Sutton SignWriting production use.",
-  "synopsis": "This draft UTC note states the current technical position in a formal register. It defines the problem, explains why current official Unicode SignWriting is not compatible with the Sutton SignWriting production ecosystem, identifies spatial composition and collation as unresolved issues, and requests renewed technical review rather than automatic migration pressure.",
+  "synopsis": "This draft UTC note states the current technical position in a formal register. It defines the problem, explains why current official Unicode SignWriting is not compatible with the Sutton SignWriting production ecosystem, identifies symbol identity, spatial composition, and collation as unresolved issues, and requests renewed technical review rather than automatic migration pressure.",
   "handout": "handout.md",
   "companion_documents": [
     {
@@ -25,15 +25,101 @@
       "kicker": "1",
       "summary": "The current official Unicode SignWriting encoding is not sufficient for compatible production use within the Sutton SignWriting ecosystem.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for UTC technical note.",
+      "image_alt": "Placeholder image for UTC technical note baseline.",
       "bullets": [
         "Compatibility is the core issue",
-        "Spatial composition remains unresolved",
-        "Collation and migration remain problematic",
-        "A renewed technical path should begin from the real ecosystem"
+        "The gap is not only historical or rhetorical",
+        "It is technical and production-based",
+        "The current ecosystem is the standard of judgment"
       ],
-      "speech": "The current UTC-facing position is disciplined and technical. The official Unicode SignWriting encoding is not sufficient for compatible production use within the Sutton SignWriting ecosystem. The core issues include compatibility, spatial composition, collation, and migration. Any renewed Unicode discussion should begin from the reality of the existing production ecosystem rather than from the assumption that the symbol block alone solved the writing-system problem.",
-      "notes": "This should stay formal and measured."
+      "speech": "The UTC-facing position should be stated plainly. The current official Unicode SignWriting encoding is not sufficient for compatible production use within the Sutton SignWriting ecosystem. The issue is technical and production-based. The relevant standard is not theoretical possibility. The relevant standard is whether the model can carry the real ecosystem without loss, redesign, or incompatible workarounds.",
+      "notes": "Start formal and measured.",
+      "mermaid": "flowchart TD\n  A[UTC review question] --> B[Can current official model carry the real ecosystem?]\n  B --> C[Current answer: not yet]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  class A,B node;\n  class C out;"
+    },
+    {
+      "id": "compatibility-layers",
+      "title": "The Compatibility Problem Has Layers",
+      "kicker": "2",
+      "summary": "The official model is not only incomplete at the written-sign level. It also breaks compatibility at part of the symbol layer.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for compatibility layers.",
+      "bullets": [
+        "Symbol-level incompatibility exists in the facial system",
+        "Written-sign encoding remains unresolved",
+        "Sorting and migration problems follow from those layers",
+        "This is an architecture issue, not one isolated defect"
+      ],
+      "speech": "A more precise account is that the compatibility problem has layers. In the facial system, the official model does not preserve direct writer-selected symbol identity cleanly. At the written-sign level, spatial composition remains unresolved. Sorting, migration, and software integration problems then follow from those deeper design choices. This is an architecture issue rather than a single isolated defect.",
+      "notes": "This is the organizing slide for the rest of the deck.",
+      "mermaid": "flowchart TD\n  A[Compatibility problem] --> B[Symbol layer]\n  A --> C[Written-sign layer]\n  A --> D[Sorting and migration layer]\n  B --> E[Facial-system incompatibility]\n  C --> F[Spatial composition unresolved]\n  E --> G[Production mismatch]\n  F --> G\n  D --> G\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  class A,G core;\n  class B,C,D,E,F node;"
+    },
+    {
+      "id": "facial-model",
+      "title": "The Facial System Is Not Writer-Selected In The Same Way",
+      "kicker": "3",
+      "summary": "The facial-diacritic model delegates part of symbol formation to font behavior rather than keeping it fixed in a writer-selected inventory.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the facial-diacritic model.",
+      "bullets": [
+        "Formal SignWriting expects writer-selected ISWA symbols",
+        "The official facial model writes a sequence merged by the font",
+        "There is no closed shared master inventory of final combinations",
+        "Font behavior becomes part of symbol determination"
+      ],
+      "speech": "The facial system deserves special attention because it is not just a rendering variation. In Formal SignWriting, the writer selects a symbol from the shared inventory. In the official facial-diacritic model, the writer writes a sequence that the font merges into a rendered face. That moves part of symbol determination into font behavior. Without a closed shared master inventory of final combinations, different implementations are pushed toward copying one interpretation or inventing another.",
+      "notes": "This is the most technically pointed slide. Keep it calm.",
+      "mermaid": "flowchart LR\n  A[Writer-selected ISWA symbol] --> B[Stable symbol identity]\n\n  C[Facial sequence] --> D[Font merge behavior]\n  D --> E[Rendered face]\n  E --> F[Implementation-dependent result]\n\n  classDef good fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  class A,C,D core;\n  class B good;\n  class E,F risk;"
+    },
+    {
+      "id": "sorting-and-collation",
+      "title": "Collation Is A Signal Of Deeper Incompatibility",
+      "kicker": "4",
+      "summary": "Sorting is not a minor tuning issue. It reveals whether the model aligns with practical symbol identity and workflow needs.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for sorting and collation.",
+      "bullets": [
+        "Dictionaries and corpora depend on stable ordering",
+        "Inherent first fill and first rotation weaken explicit identity",
+        "Collation problems indicate a deeper model mismatch",
+        "Restoring explicit F1 and R1 would move back toward compatibility"
+      ],
+      "speech": "Collation should not be treated as a small follow-up detail. Dictionaries, corpora, search, and workflow all depend on stable ordering. In the current official model, inherent first fill and first rotation values weaken explicit symbol identity and complicate stable sorting. This is why collation is best treated as a signal of deeper model mismatch. A cleaner path toward compatibility would restore explicit first fill and first rotation values rather than treating them as inherent.",
+      "notes": "This is where the F1/R1 point belongs.",
+      "mermaid": "flowchart TD\n  A[Explicit symbol identity] --> B[Stable sorting]\n  C[Inherent values and facial ambiguity] --> D[Sorting instability]\n  B --> E[Dictionary and corpus workflows]\n  D --> F[Compatibility signal]\n\n  classDef good fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,C node;\n  class B,E good;\n  class D,F risk;"
+    },
+    {
+      "id": "migration-burden",
+      "title": "The Ecosystem Cannot Be Asked To Migrate Blindly",
+      "kicker": "5",
+      "summary": "A standards path becomes valuable when it can serve as stable interchange for real production use. That test has not yet been met.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for migration burden.",
+      "bullets": [
+        "The ecosystem already includes real software, data, and publications",
+        "A migration path must preserve those assets",
+        "Blind migration pressure is not technical progress",
+        "Compatibility must be demonstrated, not presumed"
+      ],
+      "speech": "The Sutton SignWriting ecosystem already includes real software, real datasets, real corpora, and real publications. A standards path becomes valuable when it can serve as stable interchange for that kind of production use. Without a demonstrated compatibility path, migration pressure is not technical progress. Compatibility has to be shown, not assumed.",
+      "notes": "This slide grounds the standards argument in the existing ecosystem.",
+      "mermaid": "flowchart TD\n  A[Real ecosystem] --> B[Software]\n  A --> C[Datasets]\n  A --> D[Publications]\n  A --> E[Corpora]\n  B --> F[Migration must preserve all]\n  C --> F\n  D --> F\n  E --> F\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#fefce8,color:black,stroke:#ca8a04,stroke-width:2px;\n  class A,B,C,D,E,F node;\n  class F out;"
+    },
+    {
+      "id": "requested-step",
+      "title": "Requested Next Step",
+      "kicker": "6",
+      "summary": "The immediate request is modest: accurate acknowledgment of the present gap and a supported path for renewed technical review.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the requested next step.",
+      "bullets": [
+        "Acknowledge current incompatibility",
+        "Acknowledge unresolved spatial composition",
+        "Review symbol-model and collation issues honestly",
+        "Open a supported technical follow-up path"
+      ],
+      "speech": "The requested next step is modest and concrete. Acknowledge that the current official model is not sufficient for compatible production use. Acknowledge that spatial composition remains unresolved. Review symbol-model and collation issues honestly. Then open a supported technical follow-up path. That is the disciplined starting point.",
+      "notes": "Close on the formal request, not the grievance.",
+      "mermaid": "flowchart TD\n  A[Accurate acknowledgment] --> B[Technical review]\n  B --> C[Supported follow-up path]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,B,C node;"
     }
   ]
 }

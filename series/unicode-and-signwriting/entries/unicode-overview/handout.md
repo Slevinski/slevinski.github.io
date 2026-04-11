@@ -6,13 +6,14 @@ The current official Unicode SignWriting encoding is not enough for the Sutton S
 
 That is not because Unicode has no SignWriting symbols.
 
-It is because encoding a symbol inventory is not the same thing as supporting written signs in practice.
+It is because the official model does not preserve the full symbol model cleanly, and it does not support written signs in practice.
 
 ## Current position
 
 The Sutton SignWriting Resources currently hold that:
 
 - the official Unicode 8 SignWriting encoding is not compatible with the established Sutton SignWriting production ecosystem
+- the official model does not preserve stable symbol identity cleanly across the full ISWA layer
 - the main unresolved issue is spatial composition
 - sorting and collation are also not adequate
 - production-ready tools, fonts, and datasets cannot simply be moved to the official encoding without loss or redesign
@@ -27,7 +28,7 @@ The issue keeps returning because many people reasonably assume that once Unicod
 
 That assumption does not hold here.
 
-Unicode encoded a SignWriting symbol inventory, but not a complete, compatible, practical model for written signs as they are used in real software, data, and publishing workflows.
+Unicode encoded a SignWriting block, but not a complete, compatible, practical model for SignWriting symbols and written signs as they are used in real software, data, and publishing workflows.
 
 That difference is why the issue keeps returning in:
 
@@ -47,17 +48,30 @@ The official Unicode SignWriting block covers:
 - fill modifiers
 - rotation modifiers
 
-That means it can name symbols.
+That means it can name much of the symbol inventory.
+
+It does not mean that the full symbol model remains stable and writer-selected across the whole system.
 
 It does not, by itself, provide a compatible solution for:
 
+- full stable symbol identity across the facial system
 - full written sign representation
 - stable spatial composition
 - direct compatibility with the existing Sutton SignWriting datasets
 - clean migration of production fonts and tools
 - straightforward sorting and collation
 
-It also does not settle a more basic question:
+In the facial area, the official diacritic model introduces a deeper break.
+
+Instead of the writer selecting a final ISWA symbol directly, the writer enters a sequence that the font interprets and merges into a rendered face.
+
+That pushes part of symbol formation into font behavior and designer interpretation.
+
+It also means that the official model does not merely fall short at the written-sign level.
+
+It also destabilizes symbol identity at part of the symbol level.
+
+It does not settle a more basic question:
 
 what counts as the written word of SignWriting in a way that remains faithful to the writing system and usable in software
 
@@ -67,7 +81,7 @@ That question is where the gap between symbol encoding and writing support becom
 
 The difference can be stated simply:
 
-- **official Unicode SignWriting** names symbols
+- **official Unicode SignWriting** names much of the symbol block, but does not preserve the full symbol model cleanly
 - **Formal SignWriting** names and structures written signs
 
 The writing system in practice needs more than a symbol block.
@@ -85,7 +99,7 @@ That is why the real disagreement is not best framed as:
 
 The better framing is:
 
-- symbol encoding versus usable written-sign encoding
+- unstable symbol modeling plus symbol encoding versus usable written-sign encoding
 
 That framing is more honest and more useful than treating the issue as personal resistance to Unicode itself.
 
@@ -118,6 +132,7 @@ It is not.
 
 Better fonts alone do not solve:
 
+- the facial-diacritic model, where font behavior mediates part of symbol formation
 - the lack of a workable spatial composition model in official Unicode SignWriting
 - incompatibility with existing encoded datasets
 - sorting and collation problems
@@ -127,6 +142,10 @@ Better fonts alone do not solve:
 The distinction matters because a very good font can make an incomplete model look more complete than it really is.
 
 That is part of why later public visibility increased confusion instead of reducing it.
+
+This is also why the question cannot be reduced to "Unicode solved symbols and only writing remains."
+
+At least in the facial system, the official model does not preserve symbol identity in a way that remains cleanly compatible with Formal SignWriting.
 
 ## The scale of the practical ecosystem
 
@@ -154,6 +173,7 @@ Progress with Unicode would not require immediate agreement on everything.
 It would require:
 
 - acknowledgment that the current official Unicode SignWriting encoding is not sufficient for compatible production use
+- acknowledgment that the facial-diacritic model does not preserve stable writer-selected symbol identity cleanly
 - acknowledgment that spatial composition remains unresolved
 - honest technical discussion of collation, compatibility, and migration
 - a concrete path for renewed discussion with the support of a voting member

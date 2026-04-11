@@ -28,9 +28,9 @@ Wikimedia projects may notice:
 
 That confusion is understandable.
 
-Unicode did encode a SignWriting symbol block.
+Unicode did encode a SignWriting block.
 
-But that did not create a complete, compatible, practical writing-system solution for current SignWriting projects.
+But that did not create a complete, compatible, practical symbol-and-writing solution for current SignWriting projects.
 
 ## What the real gap is
 
@@ -38,10 +38,17 @@ The real gap is not only that some fonts are missing.
 
 The larger gap is that current official Unicode SignWriting does not provide a workable compatible solution for:
 
+- stable symbol identity across the full system
 - full written signs
 - spatial composition
 - existing Sutton SignWriting datasets
 - current tooling and production workflows
+
+In the facial system, the official model replaces direct writer selection of a final ISWA symbol with a sequence that the font merges into a rendered face.
+
+This shifts part of symbol formation into font behavior rather than stable symbol identity.
+
+This affects not only rendering, but also how data is stored, compared, and reused across systems.
 
 That means the most useful Wikimedia starting point is not:
 
@@ -56,6 +63,8 @@ So if someone asks whether this is mainly a font/rendering problem or mainly a U
 it is both, but primarily an encoding-and-interoperability problem
 
 Better fonts alone do not solve the absence of a workable compatible spatial model.
+
+They also do not address the symbol-identity issues associated with the facial-diacritic model.
 
 ## What is used in practice now
 
@@ -104,4 +113,4 @@ A good next step would be:
 - identifying whether Unicode-level discussion is worth reopening
 - using Wikimedia's position to advocate accurately, not simplistically
 
-An accurate advocate is more valuable here than an enthusiastic but imprecise one.
+Accurate understanding at this stage is more valuable than premature conclusions.

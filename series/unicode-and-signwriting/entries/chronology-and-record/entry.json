@@ -23,17 +23,86 @@
       "id": "record",
       "title": "Why the Record Matters",
       "kicker": "1",
-      "summary": "The Unicode discussion around SignWriting has a real document trail, and that trail matters for understanding the current technical and institutional position.",
+      "summary": "The current position comes from a real document trail, not from one late objection or one isolated disagreement.",
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for chronology and record.",
       "bullets": [
-        "Multiple proposals and replies",
-        "Minutes and action items matter",
+        "There were multiple proposals, responses, and minutes",
         "The two-stage expectation matters",
-        "The record explains the present disagreement"
+        "Collation and design concerns were documented",
+        "The documentary trail explains the present position"
       ],
-      "speech": "The current disagreement is not built on one conversation or one proposal. It emerged across multiple drafts, replies, minutes, and later technical notes. If someone wants to understand why the current position is what it is, the document trail matters.",
-      "notes": "Keep this entry factual and documentary."
+      "speech": "The current Unicode position did not emerge from one late complaint or one private disagreement. It developed across multiple proposals, support letters, minutes, technical responses, and later design discussions. The documentary trail matters because it shows what was expected, what changed, what concerns were raised, and where the present disagreement actually comes from.",
+      "notes": "Set the deck up as factual and documentary.",
+      "mermaid": "flowchart TD\n  A[Proposals] --> E[Current position]\n  B[Minutes] --> E\n  C[Responses] --> E\n  D[Technical notes] --> E\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,B,C,D,E node;"
+    },
+    {
+      "id": "two-stage-path",
+      "title": "2011 to 2012: The Two-Stage Path",
+      "kicker": "2",
+      "summary": "Early Unicode discussions proceeded under a two-stage expectation: first the symbol set, then a later solution for written signs.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the two-stage path.",
+      "bullets": [
+        "Early proposals addressed symbol encoding",
+        "The expectation of a second stage for written signs was explicit",
+        "That expectation matters to later compatibility claims",
+        "The second stage never became a workable compatible standard"
+      ],
+      "speech": "The early record matters because it reflects a two-stage expectation. First, encode the symbol set. Second, later address the encoding that takes symbols and turns them into signs. That distinction was important at the time, and it remains important now. The first stage moved forward. The second never became a workable compatible standard. That is one reason later claims of closure are hard to accept as technically adequate.",
+      "notes": "This is the chronology hinge. Keep the two-stage idea explicit.",
+      "mermaid": "flowchart LR\n  A[Stage 1: Symbol set proposal] --> B[Advanced]\n  A --> C[Stage 2: Written-sign encoding]\n  C --> D[Expected later]\n  D --> E[No workable compatible standard]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  class A,B,C,D node;\n  class E risk;"
+    },
+    {
+      "id": "2015-turn",
+      "title": "2015: Block Approval Did Not End the Problem",
+      "kicker": "3",
+      "summary": "The official block was approved, but collation and design questions remained active rather than resolved.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for the 2015 turn.",
+      "bullets": [
+        "Unicode 8 added the SignWriting block",
+        "Collation concerns were immediately visible",
+        "The official approval did not settle compatibility",
+        "Block approval and problem resolution are not the same event"
+      ],
+      "speech": "A common misunderstanding is that once the block was approved in Unicode 8, the technical problem was finished. The record shows otherwise. Collation concerns were active in 2015. Design questions remained active. Approval of a block and resolution of compatibility are not the same thing. The chronology matters precisely because those two ideas are often collapsed into one.",
+      "notes": "This slide separates approval from adequacy.",
+      "mermaid": "flowchart TD\n  A[Unicode 8 block approval] --> B[Public expectation of closure]\n  A --> C[Collation questions remain]\n  A --> D[Compatibility questions remain]\n  C --> E[Problem not actually finished]\n  D --> E\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#fefce8,color:black,stroke:#ca8a04,stroke-width:2px;\n  class A,B,C,D,E node;\n  class E out;"
+    },
+    {
+      "id": "2016-2017",
+      "title": "2016 to 2017: Renewed Design Work, No Durable Follow-Through",
+      "kicker": "4",
+      "summary": "Later design presentations and options clarified the problem further, but they did not produce a completed compatible path.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for 2016 to 2017 design work.",
+      "bullets": [
+        "Design notes and presentations continued",
+        "Auxiliary and alternative options were explored",
+        "The need for real technical support remained",
+        "The record ends in an unresolved position rather than a mature standard"
+      ],
+      "speech": "The later record is not empty. There were further design notes, presentations, and attempts to clarify options. But those efforts did not produce a durable compatible follow-through. The chronology does not tell a story of a closed problem. It tells a story of a problem that remained technically live while institutional energy faded.",
+      "notes": "Keep this sober and documentary, not dramatic.",
+      "mermaid": "flowchart LR\n  A[2016 presentations] --> C[Clarified design issues]\n  B[2017 design options] --> C\n  C --> D[No durable compatible follow-through]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  class A,B,C node;\n  class D risk;"
+    },
+    {
+      "id": "what-the-record-shows",
+      "title": "What the Record Shows",
+      "kicker": "5",
+      "summary": "The documentary trail supports a compatibility critique, not the story that Unicode fully solved the problem and only local reluctance remained.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for what the record shows.",
+      "bullets": [
+        "The symbol stage and the written-sign stage were distinct",
+        "Collation and model questions were real",
+        "Later technical work did not complete the path",
+        "The present position is historically grounded"
+      ],
+      "speech": "The value of the record is not nostalgia. It is diagnostic clarity. The documentary trail supports the current compatibility critique. It shows a real two-stage expectation, real collation and model concerns, and later technical work that did not complete the path. That is why the present position should be read as historically grounded rather than as late-stage resistance.",
+      "notes": "Close with the interpretive value of the record.",
+      "mermaid": "flowchart TD\n  A[Two-stage expectation] --> D[Historically grounded present position]\n  B[Collation and model concerns] --> D\n  C[Incomplete later follow-through] --> D\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,B,C,D node;"
     }
   ]
 }
