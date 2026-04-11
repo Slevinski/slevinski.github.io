@@ -1,0 +1,39 @@
+{
+  "slug": "utc-technical-note",
+  "number": 5,
+  "title": "UTC Technical Note",
+  "subtitle": "Draft note on compatibility, spatial composition, and next steps",
+  "summary": "A formal draft note stating that current official Unicode SignWriting is not sufficient for compatible Sutton SignWriting production use.",
+  "synopsis": "This draft UTC note states the current technical position in a formal register. It defines the problem, explains why current official Unicode SignWriting is not compatible with the Sutton SignWriting production ecosystem, identifies spatial composition and collation as unresolved issues, and requests renewed technical review rather than automatic migration pressure.",
+  "handout": "handout.md",
+  "companion_documents": [
+    {
+      "file": "compatibility-matrix.md",
+      "label": "Compatibility Matrix",
+      "slug": "compatibility-matrix"
+    },
+    {
+      "file": "requested-work.md",
+      "label": "Requested Work",
+      "slug": "requested-work"
+    }
+  ],
+  "slides": [
+    {
+      "id": "utc-position",
+      "title": "Current UTC-Facing Position",
+      "kicker": "1",
+      "summary": "The current official Unicode SignWriting encoding is not sufficient for compatible production use within the Sutton SignWriting ecosystem.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for UTC technical note.",
+      "bullets": [
+        "Compatibility is the core issue",
+        "Spatial composition remains unresolved",
+        "Collation and migration remain problematic",
+        "A renewed technical path should begin from the real ecosystem"
+      ],
+      "speech": "The current UTC-facing position is disciplined and technical. The official Unicode SignWriting encoding is not sufficient for compatible production use within the Sutton SignWriting ecosystem. The core issues include compatibility, spatial composition, collation, and migration. Any renewed Unicode discussion should begin from the reality of the existing production ecosystem rather than from the assumption that the symbol block alone solved the writing-system problem.",
+      "notes": "This should stay formal and measured."
+    }
+  ]
+}

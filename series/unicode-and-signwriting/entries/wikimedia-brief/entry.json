@@ -1,0 +1,34 @@
+{
+  "slug": "wikimedia-brief",
+  "number": 4,
+  "title": "Wikimedia Brief",
+  "subtitle": "What Wikimedia needs to understand about Unicode and SignWriting",
+  "summary": "A short practical note for Wikimedia staff and collaborators about the current Unicode gap, current workarounds, and possible next steps.",
+  "synopsis": "This brief is for Wikimedia readers. It explains why current SignWriting work in Wikimedia projects cannot rely on official Unicode SignWriting alone, what the real technical gap is, what the current Sutton SignWriting production stack uses instead, and where Wikimedia could help without flattening the problem into a font-only issue.",
+  "handout": "handout.md",
+  "companion_documents": [
+    {
+      "file": "meeting-notes.md",
+      "label": "Meeting Notes",
+      "slug": "meeting-notes"
+    }
+  ],
+  "slides": [
+    {
+      "id": "wikimedia-baseline",
+      "title": "What Wikimedia Needs To Know First",
+      "kicker": "1",
+      "summary": "The current Unicode issue is real, practical, and still active for Wikimedia projects that want to support SignWriting well.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for Wikimedia brief.",
+      "bullets": [
+        "Official Unicode SignWriting is not enough by itself",
+        "Current projects still depend on FSW and SWU",
+        "The issue is encoding plus interoperability, not only fonts",
+        "Wikimedia can help by understanding the real gap and advocating accurately"
+      ],
+      "speech": "Wikimedia's starting point should be simple. The current Unicode issue around SignWriting is still active and practical. Official Unicode SignWriting does not, by itself, solve the needs of current SignWriting projects. Current Sutton SignWriting workflows still depend on FSW and SWU. The issue is not only fonts. It is also encoding, compatibility, spatial composition, and interoperability.",
+      "notes": "Keep this focused and collaborative."
+    }
+  ]
+}

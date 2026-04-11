@@ -1,0 +1,39 @@
+{
+  "slug": "chronology-and-record",
+  "number": 3,
+  "title": "Chronology and Record",
+  "subtitle": "Official submissions, minutes, and related documents",
+  "summary": "A dated record of the main Unicode and related SignWriting documents relevant to current compatibility and standards discussions.",
+  "synopsis": "This chronology collects the main Unicode proposals, support letters, collation responses, design notes, and related records from 2011 forward. It is meant as a stable reference trail for historians, standards readers, and anyone who needs the documentary path rather than only the current position.",
+  "handout": "handout.md",
+  "companion_documents": [
+    {
+      "file": "historical-notes.md",
+      "label": "Historical Notes",
+      "slug": "historical-notes"
+    },
+    {
+      "file": "source-register.md",
+      "label": "Source Register",
+      "slug": "source-register"
+    }
+  ],
+  "slides": [
+    {
+      "id": "record",
+      "title": "Why the Record Matters",
+      "kicker": "1",
+      "summary": "The Unicode discussion around SignWriting has a real document trail, and that trail matters for understanding the current technical and institutional position.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for chronology and record.",
+      "bullets": [
+        "Multiple proposals and replies",
+        "Minutes and action items matter",
+        "The two-stage expectation matters",
+        "The record explains the present disagreement"
+      ],
+      "speech": "The current disagreement is not built on one conversation or one proposal. It emerged across multiple drafts, replies, minutes, and later technical notes. If someone wants to understand why the current position is what it is, the document trail matters.",
+      "notes": "Keep this entry factual and documentary."
+    }
+  ]
+}

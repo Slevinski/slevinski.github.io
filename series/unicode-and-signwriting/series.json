@@ -1,0 +1,9 @@
+{
+  "slug": "unicode-and-signwriting",
+  "title": "Unicode and SignWriting",
+  "subtitle": "Compatibility, chronology, and direct-link technical notes",
+  "description": "A hidden document library for Unicode history, compatibility, Wikimedia context, developer guidance, and UTC-facing notes.",
+  "accepting_entries": true,
+  "kind": "briefing-series",
+  "home_doc": "README.md"
+}

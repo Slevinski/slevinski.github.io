@@ -1,0 +1,34 @@
+{
+  "slug": "developer-notes",
+  "number": 2,
+  "title": "Developer Notes",
+  "subtitle": "What to use now and what not to assume",
+  "summary": "Implementation guidance for developers working with Sutton SignWriting data, conversion, fonts, search, and Unicode-facing workflows.",
+  "synopsis": "These notes are for developers. They explain what to store, what to treat as canonical, where official Unicode SignWriting falls short, and how FSW and SWU should be used in current tooling, interchange, and data workflows.",
+  "handout": "handout.md",
+  "companion_documents": [
+    {
+      "file": "package-and-tooling.md",
+      "label": "Package and Tooling Notes",
+      "slug": "package-and-tooling"
+    }
+  ],
+  "slides": [
+    {
+      "id": "developer-baseline",
+      "title": "Current Implementation Baseline",
+      "kicker": "1",
+      "summary": "Developers should treat FSW as canonical production text and SWU as the supported Unicode-oriented isomorphic form.",
+      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
+      "image_alt": "Placeholder image for developer notes baseline.",
+      "bullets": [
+        "FSW for canonical production storage",
+        "SWU for Unicode-oriented interchange",
+        "Official Unicode SignWriting is not a drop-in replacement",
+        "Do not assume fonts solve the data problem"
+      ],
+      "speech": "The practical implementation baseline is straightforward. Use FSW as canonical production text unless there is a specific reason not to. Use SWU when a Unicode-oriented isomorphic form is helpful for interchange, inspection, or downstream workflows. Do not assume the official Unicode SignWriting encoding is a drop-in replacement for the Sutton SignWriting production stack, because it is not.",
+      "notes": "Use this as the fastest route into practical guidance."
+    }
+  ]
+}

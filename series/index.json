@@ -245,6 +245,67 @@
       ]
     },
     {
+      "slug": "unicode-and-signwriting",
+      "title": "Unicode and SignWriting",
+      "subtitle": "Compatibility, chronology, and direct-link technical notes",
+      "description": "A hidden document library for Unicode history, compatibility, Wikimedia context, developer guidance, and UTC-facing notes.",
+      "accepting_entries": true,
+      "home_doc": "README.md",
+      "kind": "briefing-series",
+      "entries": [
+        {
+          "slug": "unicode-overview",
+          "legacy_slugs": [],
+          "number": 1,
+          "title": "Unicode Overview",
+          "subtitle": "Current position and why the issue keeps returning",
+          "summary": "Short baseline explanation of why official Unicode SignWriting is not sufficient for the Sutton SignWriting production ecosystem.",
+          "handout": "handout.md",
+          "slide_count": 1
+        },
+        {
+          "slug": "developer-notes",
+          "legacy_slugs": [],
+          "number": 2,
+          "title": "Developer Notes",
+          "subtitle": "What to use now and what not to assume",
+          "summary": "Implementation guidance for developers working with Sutton SignWriting data, conversion, fonts, search, and Unicode-facing workflows.",
+          "handout": "handout.md",
+          "slide_count": 1
+        },
+        {
+          "slug": "chronology-and-record",
+          "legacy_slugs": [],
+          "number": 3,
+          "title": "Chronology and Record",
+          "subtitle": "Official submissions, minutes, and related documents",
+          "summary": "A dated record of the main Unicode and related SignWriting documents relevant to current compatibility and standards discussions.",
+          "handout": "handout.md",
+          "slide_count": 1
+        },
+        {
+          "slug": "wikimedia-brief",
+          "legacy_slugs": [],
+          "number": 4,
+          "title": "Wikimedia Brief",
+          "subtitle": "What Wikimedia needs to understand about Unicode and SignWriting",
+          "summary": "A short practical note for Wikimedia staff and collaborators about the current Unicode gap, current workarounds, and possible next steps.",
+          "handout": "handout.md",
+          "slide_count": 1
+        },
+        {
+          "slug": "utc-technical-note",
+          "legacy_slugs": [],
+          "number": 5,
+          "title": "UTC Technical Note",
+          "subtitle": "Draft note on compatibility, spatial composition, and next steps",
+          "summary": "A formal draft note stating that current official Unicode SignWriting is not sufficient for compatible Sutton SignWriting production use.",
+          "handout": "handout.md",
+          "slide_count": 1
+        }
+      ]
+    },
+    {
       "slug": "university-of-iowa",
       "title": "University of Iowa",
       "subtitle": "University-facing outreach and collaboration materials",
