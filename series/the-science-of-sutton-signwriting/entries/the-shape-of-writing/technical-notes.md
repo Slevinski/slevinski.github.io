@@ -167,28 +167,36 @@ That is why the encoding is not just a storage convenience.
 
 It is the technical response that lets plane-based writing remain writable, searchable, and interoperable as text.
 
-## VII. Practical scale and overripe infrastructure
+## VII. Practical scale and outgrown infrastructure
 
 This is not a hypothetical writing system waiting for first use.
 
-The accumulated corpus now contains nearly **68,000 signs**.
+The Brazilian Sign Language dictionary alone now contains nearly **68,000 signs**.
+
+Across languages, the broader accumulated dataset contains well over **one million unique signs**.
+
+Those signs have not yet been fully catalogued and cross-referenced.
+
+But query strings and advanced search already make that work technically approachable at scale.
 
 That scale proves several things at once:
 
 - plane-based writing is functioning in practice
 - real users have been authoring signs for years
 - the infrastructure is carrying more historical and practical weight than its current support model was built for
+- data generation is now outpacing the old one-destination workflow
 
 It also creates predictable problems:
 
 - duplicates
 - inconsistent curation
 - learning-oriented entries mixed with dictionary-oriented entries
-- platform structures that were useful early on but are now overripe
+- refinement work landing in the same place as stable reference material
+- flows that were workable at hundreds or thousands of entries but strain badly at tens of thousands
 
 This is not a sign of failure.
 
-It is a sign that the writing system has outgrown the current platform model.
+It is a sign that the writing system has outgrown the current platform model and needs better destinations, pathways, and integration flows for continual growth.
 
 ## VIII. Dictionary and practice should not be the same thing
 
@@ -198,6 +206,7 @@ A future structure should distinguish at least:
 
 - **dictionary space** for curated lexical material
 - **practice space** for learning, repetition, comparison, and improvement
+- **review and integration space** for refinement, deduplication, cross-reference, and promotion into curated resources
 
 That matters because students often learn SignWriting by adding signs to the dictionary.
 
@@ -220,6 +229,13 @@ A future practice area should allow people to:
 - compare what they wrote with other available writings
 - receive reader feedback
 - improve through use rather than through top-down prescription alone
+
+A future integration workflow should also allow maintainers and contributors to:
+
+- connect related signs quickly through query strings and advanced search
+- compare duplicates and near-duplicates
+- cross-reference signs across languages and datasets
+- move material more cleanly from practice and refinement into curated lexical destinations
 
 The strongest practical principle here is:
 
