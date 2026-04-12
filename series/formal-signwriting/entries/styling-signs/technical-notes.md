@@ -32,10 +32,9 @@ That is not a perfect identity with HTML, but it is the right architectural dire
 
 The style string is useful because it gives a compact way to express:
 
-- whole-sign appearance
-- per-symbol overrides
-- scaling and padding
-- class and id hooks for downstream rendering
+- whole-sign colors, scaling, and padding
+- per-symbol color overrides
+- whole-sign class and id hooks for downstream rendering
 
 That makes it a practical layer even while it remains optional.
 

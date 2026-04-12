@@ -25,7 +25,7 @@ It is better understood as an attached presentation instruction layer.
 
 ## A compact style example
 
-Even a single symbol can carry optional styling:
+Even a compact style example can carry several optional presentation controls:
 
 ```text
 S10000-CP10G_blue_D_red,Cyan_Z1.1--primary!cursor!
@@ -34,8 +34,8 @@ S10000-CP10G_blue_D_red,Cyan_Z1.1--primary!cursor!
 This compact example shows several ideas at once:
 
 - styling is attached to the encoded item
-- it can affect padding, color, and scale
-- it can add class and id style hooks
+- it can affect whole-sign padding, color, and scale
+- it can add whole-sign class and id style hooks
 - the underlying symbol key is still `S10000`
 
 ## Whole-sign customization
@@ -44,20 +44,22 @@ The style string can describe appearance for an entire sign.
 
 This includes:
 
-- padding
-- scaling
-- line and fill colors
-- background color
-- colorization behavior
+- whole-sign padding
+- whole-sign scaling
+- whole-sign line and fill colors
+- whole-sign background color
+- whole-sign colorization behavior
+- whole-sign class and id hooks
 
 These controls matter because they make it easier to adapt signs for teaching, display, interfaces, and publication contexts without changing the encoded sign text itself.
 
 What whole-sign styling can change:
 
-- size
-- padding
-- foreground and background colors
-- whether sign output is colorized
+- whole-sign size
+- whole-sign padding
+- whole-sign foreground and background colors
+- whether whole-sign output is colorized
+- whole-sign class and id hooks
 
 What it does not change:
 
@@ -79,11 +81,11 @@ That makes it useful for:
 
 It is not merely a trivial suffix. It is a lightweight system for rich customization.
 
-For example, symbol-level directives can single out specific symbols for alternate coloring or scaling while leaving the rest of the sign unchanged.
+For example, symbol-level directives can single out specific symbols for alternate coloring while leaving the rest of the sign unchanged.
 
 ## Classes and identifiers
 
-The style string can also provide class and id hooks for SVG output.
+The style string can also provide class and id hooks for whole-sign SVG output.
 
 That matters because it bridges sign data and web-facing rendering workflows. It allows richer interaction with CSS, scripted behavior, and interface-level customization while still keeping those concerns outside the canonical text layer.
 

@@ -58,14 +58,14 @@
         "abstract": "One stable sign wearing several carefully controlled visual treatments"
       },
       "bullets": [
-        "Padding and scaling",
-        "Foreground and background colors",
-        "Colorization flags",
-        "Appearance as optional overlay"
+        "Whole-sign padding and scaling",
+        "Whole-sign foreground and background colors",
+        "Whole-sign colorization flags",
+        "Whole-sign class and id hooks"
       ],
-      "speech": "One of the strengths of the style string is that it can customize the whole sign while leaving the underlying text intact. Padding, size, colors, and related controls affect presentation, but they do not change what sign text is being represented.",
+      "speech": "One of the strengths of the style string is that it can customize the whole sign while leaving the underlying text intact. Whole-sign padding, size, colors, and class and id hooks affect presentation, but they do not change what sign text is being represented.",
       "notes": "Keep the distinction between content and appearance explicit.",
-      "mermaid": "flowchart TD\n  A[Canonical sign text] --> B[Whole-sign styling]\n  B --> C[Padding]\n  B --> D[Scale]\n  B --> E[Colors]\n  C --> F[Customized appearance]\n  D --> F\n  E --> F\n  A --> G[Sign identity unchanged]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D,E,G node;\n  class F out;"
+      "mermaid": "flowchart TD\n  A[Canonical sign text] --> B[Whole-sign styling]\n  B --> C[Padding]\n  B --> D[Scale]\n  B --> E[Colors]\n  B --> G[Class and id hooks]\n  C --> F[Customized appearance]\n  D --> F\n  E --> F\n  G --> F\n  A --> H[Sign identity unchanged]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D,E,G,H node;\n  class F out;"
     },
     {
       "id": "symbol-level-options",
@@ -75,18 +75,18 @@
       "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
       "image_alt": "Placeholder image for symbol-level styling controls.",
       "image_prompts": {
-        "concrete": "Instructional slide highlighting individual symbols inside one sign with different color and scale overrides from a style string, academic technical layout",
+        "concrete": "Instructional slide highlighting individual symbols inside one sign with color overrides from a style string, academic technical layout",
         "abstract": "A single sign with selected symbols gently illuminated for emphasis"
       },
       "bullets": [
         "Per-symbol color overrides",
-        "Targeted scaling",
-        "Class and id hooks",
+        "Teaching and annotation emphasis",
+        "Interface highlighting",
         "Fine-grained presentation semantics"
       ],
-      "speech": "The style string is not limited to whole-sign effects. It can also target individual symbols inside a sign. That makes it useful for teaching, annotation, visual emphasis, and interface design, while still keeping those concerns separate from canonical text encoding.",
+      "speech": "The style string is not limited to whole-sign effects. It can also target individual symbols inside a sign for color emphasis. That makes it useful for teaching, annotation, visual emphasis, and interface design, while still keeping those concerns separate from canonical text encoding.",
       "notes": "Stress utility without letting it become part of the core model.",
-      "mermaid": "flowchart LR\n  A[Canonical sign text] --> B[Symbol-level styling]\n  B --> C[Per-symbol color]\n  B --> D[Per-symbol scale]\n  B --> E[Class and id hooks]\n  C --> F[Teaching and emphasis]\n  D --> F\n  E --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D,E node;\n  class F out;"
+      "mermaid": "flowchart LR\n  A[Canonical sign text] --> B[Symbol-level styling]\n  B --> C[Per-symbol color]\n  C --> D[Teaching and emphasis]\n  C --> E[Annotation and highlighting]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C node;\n  class D,E out;"
     },
     {
       "id": "markup-boundary",

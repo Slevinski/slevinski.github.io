@@ -33,12 +33,12 @@ This register supports the chronology and the broader distinction between:
 
 ## Related public references
 
-- [Unicode block summary on Wikipedia](https://en.wikipedia.org/wiki/Sutton_SignWriting_(Unicode_block))
+- [Unicode block summary on Wikipedia](https://en.wikipedia.org/wiki/Sutton_SignWriting_%28Unicode_block%29)
 - ScriptSource draft section on Unicode considerations: historical reference carried in the Sutton SignWriting materials
 
 ## Practical ecosystem references
 
-- [`@sutton-signwriting/unicode8` source](https://github.com/sutton-signwriting/unicode8)
+- [@sutton-signwriting/unicode8 source](https://github.com/sutton-signwriting/unicode8)
 - [Noto Sans SignWriting repository](https://github.com/notofonts/sign-writing)
 
 These public references matter because they show how official Unicode SignWriting continues to shape expectations, tooling, and visible implementation work even while the deeper compatibility questions remain unresolved.

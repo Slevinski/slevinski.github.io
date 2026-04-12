@@ -17,7 +17,8 @@
           "subtitle": "From project systems to repository delivery",
           "summary": "An operational workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery, with a live Builder-plus-review service that helps teams start, update, and review plans.",
           "handout": "handout.md",
-          "slide_count": 12
+          "slide_count": 12,
+          "companion_documents": []
         }
       ]
     },
@@ -38,7 +39,14 @@
           "subtitle": "The two-part word, sign text, and the core model",
           "summary": "Canonical opening statement of the two-part word and of sign text that software can store, search, check, and process.",
           "handout": "handout.md",
-          "slide_count": 4
+          "slide_count": 4,
+          "companion_documents": [
+            {
+              "file": "technical-notes.md",
+              "label": "Technical Notes",
+              "slug": "technical-notes"
+            }
+          ]
         },
         {
           "slug": "fsw-and-swu",
@@ -48,7 +56,14 @@
           "subtitle": "Plain-text encodings, character sets, and conversion",
           "summary": "Plain-text encodings, explicit character inventories, conversion, and canonical text boundaries.",
           "handout": "handout.md",
-          "slide_count": 6
+          "slide_count": 6,
+          "companion_documents": [
+            {
+              "file": "technical-notes.md",
+              "label": "Technical Notes",
+              "slug": "technical-notes"
+            }
+          ]
         },
         {
           "slug": "the-shape-of-a-sign",
@@ -58,7 +73,14 @@
           "subtitle": "Symbols, coordinates, centering, and the signbox",
           "summary": "Canonical statement of symbols, coordinates, centering, and signbox structure.",
           "handout": "handout.md",
-          "slide_count": 4
+          "slide_count": 4,
+          "companion_documents": [
+            {
+              "file": "technical-notes.md",
+              "label": "Technical Notes",
+              "slug": "technical-notes"
+            }
+          ]
         },
         {
           "slug": "grammar-of-formal-signwriting",
@@ -68,7 +90,14 @@
           "subtitle": "Token patterns, syntax, and valid structure",
           "summary": "Token patterns, syntax, regular expressions, and well-formed Formal SignWriting text.",
           "handout": "handout.md",
-          "slide_count": 4
+          "slide_count": 4,
+          "companion_documents": [
+            {
+              "file": "technical-notes.md",
+              "label": "Technical Notes",
+              "slug": "technical-notes"
+            }
+          ]
         },
         {
           "slug": "searching-signed-text",
@@ -78,7 +107,14 @@
           "subtitle": "Query language, matching, ranges, variance, and search logic",
           "summary": "Canonical statement of query language, matching, ranges, variance, and signed-text search.",
           "handout": "handout.md",
-          "slide_count": 4
+          "slide_count": 4,
+          "companion_documents": [
+            {
+              "file": "technical-notes.md",
+              "label": "Technical Notes",
+              "slug": "technical-notes"
+            }
+          ]
         },
         {
           "slug": "rendering-formal-signwriting",
@@ -88,7 +124,14 @@
           "subtitle": "SVG, fonts, layout, and output models",
           "summary": "Canonical statement of SVG, fonts, layout, and output models kept distinct from canonical text.",
           "handout": "handout.md",
-          "slide_count": 4
+          "slide_count": 4,
+          "companion_documents": [
+            {
+              "file": "technical-notes.md",
+              "label": "Technical Notes",
+              "slug": "technical-notes"
+            }
+          ]
         },
         {
           "slug": "styling-signs",
@@ -98,7 +141,14 @@
           "subtitle": "The style string as light markup for customization and rich presentation",
           "summary": "The style string as optional light markup for customization and rich presentation.",
           "handout": "handout.md",
-          "slide_count": 4
+          "slide_count": 4,
+          "companion_documents": [
+            {
+              "file": "technical-notes.md",
+              "label": "Technical Notes",
+              "slug": "technical-notes"
+            }
+          ]
         },
         {
           "slug": "formal-signwriting-in-practice",
@@ -108,7 +158,14 @@
           "subtitle": "Libraries, datasets, transformations, and implementation pathways",
           "summary": "Canonical statement of libraries, datasets, transformations, and real implementation pathways.",
           "handout": "handout.md",
-          "slide_count": 4
+          "slide_count": 4,
+          "companion_documents": [
+            {
+              "file": "technical-notes.md",
+              "label": "Technical Notes",
+              "slug": "technical-notes"
+            }
+          ]
         }
       ]
     },
@@ -129,7 +186,8 @@
           "subtitle": "Sutton SignWriting as research infrastructure",
           "summary": "A concise forwardable presentation that states the mission, support gap, and opportunity around Sutton SignWriting.",
           "handout": "handout.md",
-          "slide_count": 8
+          "slide_count": 8,
+          "companion_documents": []
         },
         {
           "slug": "initiative-overview",
@@ -139,7 +197,8 @@
           "subtitle": "What already exists, why it matters now, and where collaboration fits",
           "summary": "A collaboration-facing overview of the program lanes, evidence base, and institutional value around Sutton SignWriting.",
           "handout": "handout.md",
-          "slide_count": 6
+          "slide_count": 6,
+          "companion_documents": []
         },
         {
           "slug": "infrastructure-and-stewardship",
@@ -149,7 +208,14 @@
           "subtitle": "Confirmed assets, current risks, and the case for stronger institutional support",
           "summary": "A presentation showing Sutton SignWriting as existing infrastructure with real assets, active maintenance, and identifiable support risks.",
           "handout": "handout.md",
-          "slide_count": 11
+          "slide_count": 11,
+          "companion_documents": [
+            {
+              "file": "snapshot.md",
+              "label": "Snapshot",
+              "slug": "snapshot"
+            }
+          ]
         },
         {
           "slug": "brazil-as-the-empirical-center-of-signwriting",
@@ -159,7 +225,24 @@
           "subtitle": "Documented institutional density, research opportunity, and why Brazil matters",
           "summary": "A compact evidence brief showing why Brazil is the strongest documented empirical center for SignWriting use, instruction, and future research.",
           "handout": "handout.md",
-          "slide_count": 7
+          "slide_count": 7,
+          "companion_documents": [
+            {
+              "file": "evidence-notes.md",
+              "label": "Evidence Notes",
+              "slug": "evidence-notes"
+            },
+            {
+              "file": "symposium-review.md",
+              "label": "Symposium Review",
+              "slug": "symposium-review"
+            },
+            {
+              "file": "key-works.md",
+              "label": "Key Works",
+              "slug": "key-works"
+            }
+          ]
         },
         {
           "slug": "south-korea-as-a-current-institutional-proof-point",
@@ -169,7 +252,14 @@
           "subtitle": "National dictionary publication, current institutional use, and why Korea matters now",
           "summary": "A compact evidence brief showing that SignWriting is already present inside a public Korean Sign Language dictionary published by the National Institute of Korean Language.",
           "handout": "handout.md",
-          "slide_count": 7
+          "slide_count": 7,
+          "companion_documents": [
+            {
+              "file": "evidence-notes.md",
+              "label": "Evidence Notes",
+              "slug": "evidence-notes"
+            }
+          ]
         },
         {
           "slug": "research-program-for-literacy-without-sound",
@@ -179,7 +269,14 @@
           "subtitle": "What could be studied next, why Brazil matters, and what support would make it possible",
           "summary": "A practical brief that turns the science framing into a buildable SignWriting research program without turning the project into a comparison contest.",
           "handout": "handout.md",
-          "slide_count": 11
+          "slide_count": 11,
+          "companion_documents": [
+            {
+              "file": "program-notes.md",
+              "label": "Program Notes",
+              "slug": "program-notes"
+            }
+          ]
         },
         {
           "slug": "other-sign-language-scripts-and-their-conceptions",
@@ -189,7 +286,14 @@
           "subtitle": "ASL-phabet, HamNoSys, ASLwrite, and what they imply about written sign language",
           "summary": "A concise infrastructure-facing presentation naming a few prominent sign-language script conceptions without turning them into the center of the SignWriting case.",
           "handout": "handout.md",
-          "slide_count": 8
+          "slide_count": 8,
+          "companion_documents": [
+            {
+              "file": "comparison-notes.md",
+              "label": "Comparison Notes",
+              "slug": "comparison-notes"
+            }
+          ]
         },
         {
           "slug": "international-shared-support",
@@ -199,7 +303,8 @@
           "subtitle": "How international partners can help keep the system stable and connected",
           "summary": "An international support model combining University of Iowa backing, partner relationships, and country ambassadors.",
           "handout": "handout.md",
-          "slide_count": 5
+          "slide_count": 5,
+          "companion_documents": []
         },
         {
           "slug": "country-ambassadors",
@@ -209,7 +314,8 @@
           "subtitle": "Country-level outreach, translation, and local relationship-building",
           "summary": "A volunteer-first country ambassador model for trusted local outreach, translation, and early relationship-building.",
           "handout": "handout.md",
-          "slide_count": 11
+          "slide_count": 11,
+          "companion_documents": []
         }
       ]
     },
@@ -230,7 +336,14 @@
           "subtitle": "Brain networks, pathway expansion, literacy, and the case for SignWriting infrastructure",
           "summary": "Presentation 1 in The Science of Sutton SignWriting series.",
           "handout": "handout.md",
-          "slide_count": 14
+          "slide_count": 14,
+          "companion_documents": [
+            {
+              "file": "evidence-notes.md",
+              "label": "Evidence Notes",
+              "slug": "evidence-notes"
+            }
+          ]
         },
         {
           "slug": "the-shape-of-writing",
@@ -240,7 +353,14 @@
           "subtitle": "Why signed writing does not need to fit into a line",
           "summary": "Writing is not inherently linear. This second science entry explains why SignWriting should be understood as plane-based writing rather than as a line script with unusual symbols.",
           "handout": "handout.md",
-          "slide_count": 12
+          "slide_count": 12,
+          "companion_documents": [
+            {
+              "file": "technical-notes.md",
+              "label": "Technical Notes",
+              "slug": "technical-notes"
+            }
+          ]
         }
       ]
     },
@@ -261,7 +381,14 @@
           "subtitle": "Current position and why the issue keeps returning",
           "summary": "Short baseline explanation of why character naming, stable symbols, and written signs remain different questions for SignWriting.",
           "handout": "handout.md",
-          "slide_count": 6
+          "slide_count": 6,
+          "companion_documents": [
+            {
+              "file": "position-notes.md",
+              "label": "Position Notes",
+              "slug": "position-notes"
+            }
+          ]
         },
         {
           "slug": "developer-notes",
@@ -271,7 +398,14 @@
           "subtitle": "What to use now and what not to assume",
           "summary": "Implementation guidance for developers working with Sutton SignWriting data, conversion, symbol identity, and Unicode-facing workflows.",
           "handout": "handout.md",
-          "slide_count": 6
+          "slide_count": 6,
+          "companion_documents": [
+            {
+              "file": "package-and-tooling.md",
+              "label": "Package and Tooling Notes",
+              "slug": "package-and-tooling"
+            }
+          ]
         },
         {
           "slug": "chronology-and-record",
@@ -281,7 +415,19 @@
           "subtitle": "Official submissions, minutes, and related documents",
           "summary": "A dated record of the main Unicode and related SignWriting documents relevant to current compatibility and standards discussions.",
           "handout": "handout.md",
-          "slide_count": 5
+          "slide_count": 5,
+          "companion_documents": [
+            {
+              "file": "historical-notes.md",
+              "label": "Historical Notes",
+              "slug": "historical-notes"
+            },
+            {
+              "file": "source-register.md",
+              "label": "Source Register",
+              "slug": "source-register"
+            }
+          ]
         },
         {
           "slug": "wikimedia-brief",
@@ -291,7 +437,14 @@
           "subtitle": "What Wikimedia needs to understand about Unicode and SignWriting",
           "summary": "A short practical note for Wikimedia staff and collaborators about why naming characters is not enough for current SignWriting project needs.",
           "handout": "handout.md",
-          "slide_count": 5
+          "slide_count": 5,
+          "companion_documents": [
+            {
+              "file": "meeting-notes.md",
+              "label": "Meeting Notes",
+              "slug": "meeting-notes"
+            }
+          ]
         },
         {
           "slug": "utc-technical-note",
@@ -301,7 +454,19 @@
           "subtitle": "Draft note on compatibility, symbol identity, spatial composition, and next steps",
           "summary": "A formal draft note stating that official Unicode SignWriting can name much of the character set but still does not preserve stable symbol identity or provide compatible written-sign support.",
           "handout": "handout.md",
-          "slide_count": 7
+          "slide_count": 7,
+          "companion_documents": [
+            {
+              "file": "compatibility-matrix.md",
+              "label": "Compatibility Matrix",
+              "slug": "compatibility-matrix"
+            },
+            {
+              "file": "requested-work.md",
+              "label": "Requested Work",
+              "slug": "requested-work"
+            }
+          ]
         }
       ]
     },
@@ -322,7 +487,8 @@
           "subtitle": "A concise University of Iowa summary of the full opportunity",
           "summary": "A short University of Iowa-facing routing memo for internal forwarding, summarizing the opportunity and directing readers to the right next conversation.",
           "handout": "handout.md",
-          "slide_count": 5
+          "slide_count": 5,
+          "companion_documents": []
         },
         {
           "slug": "lab-home",
@@ -332,7 +498,8 @@
           "subtitle": "A practical path from 0 percent placement to grants and infrastructure",
           "summary": "A PI-facing presentation arguing that a lab home now is the first small decision that makes salary support, DMS collaborations, grant writing, and future infrastructure more plausible.",
           "handout": "handout.md",
-          "slide_count": 10
+          "slide_count": 10,
+          "companion_documents": []
         },
         {
           "slug": "steve-slevinski-value",
@@ -344,7 +511,8 @@
           "subtitle": "Practical DMS, repository, and research workflow value for the University of Iowa",
           "summary": "A University of Iowa-facing presentation focused on Steve Slevinski's immediate operational value through DMS planning, workflow design, code, data shaping, and repository delivery.",
           "handout": "handout.md",
-          "slide_count": 10
+          "slide_count": 10,
+          "companion_documents": []
         },
         {
           "slug": "sutton-signwriting-infrastructure-initiative",
@@ -354,7 +522,8 @@
           "subtitle": "A path to shared research infrastructure at the University of Iowa",
           "summary": "A University of Iowa-facing presentation about turning Sutton SignWriting from fragile independent maintenance into durable shared research infrastructure.",
           "handout": "handout.md",
-          "slide_count": 12
+          "slide_count": 12,
+          "companion_documents": []
         },
         {
           "slug": "infrastructure-core-and-philanthropy",
@@ -364,7 +533,14 @@
           "subtitle": "A University of Iowa support structure for global SignWriting infrastructure",
           "summary": "A University of Iowa-facing presentation framing the Sutton SignWriting Infrastructure Core as a philanthropic opportunity that complements the lab-home, operational-value, and grant-development structure.",
           "handout": "handout.md",
-          "slide_count": 17
+          "slide_count": 17,
+          "companion_documents": [
+            {
+              "file": "operational-notes.md",
+              "label": "Operational Notes",
+              "slug": "operational-notes"
+            }
+          ]
         },
         {
           "slug": "relevant-precedents-and-institutional-pathways",
@@ -374,7 +550,14 @@
           "subtitle": "What comparable university models suggest for SignWriting at Iowa",
           "summary": "A University of Iowa-facing supporting presentation using language, archive, sign-language, and data-infrastructure precedents to show that SignWriting follows a recognizable institutional path rather than requiring a speculative leap.",
           "handout": "handout.md",
-          "slide_count": 12
+          "slide_count": 12,
+          "companion_documents": [
+            {
+              "file": "precedent-notes.md",
+              "label": "Precedent Notes",
+              "slug": "precedent-notes"
+            }
+          ]
         }
       ]
     }
