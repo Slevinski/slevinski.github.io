@@ -7,7 +7,7 @@
   "synopsis": "Formal SignWriting depends on clear plain-text encodings. This entry explains FSW and SWU as two technical encodings of the same model, clarifies the usual canonical role of FSW in processing, makes the SWU inventory and numeric ranges explicit, and frames conversion as part of the encoding layer rather than the rendering layer.",
   "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
   "cover_image_alt": "Cover image for FSW and SWU in the Formal SignWriting series.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
@@ -17,7 +17,7 @@
     "series": "Formal SignWriting",
     "artifact_types": [
       "presentation",
-      "handout",
+      "essay",
       "technical-notes"
     ],
     "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",

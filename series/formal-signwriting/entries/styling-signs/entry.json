@@ -7,7 +7,7 @@
   "synopsis": "The style string deserves its own technical home. This entry explains it as optional light markup for customizing sign presentation, clarifies its relation to rendering, and argues against treating styling as part of canonical plain-text encoding.",
   "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
   "cover_image_alt": "Cover image for Styling Signs in the Formal SignWriting series.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
@@ -17,7 +17,7 @@
     "series": "Formal SignWriting",
     "artifact_types": [
       "presentation",
-      "handout",
+      "essay",
       "technical-notes"
     ],
     "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",

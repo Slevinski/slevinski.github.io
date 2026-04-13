@@ -4,7 +4,7 @@
 
 The Science of Sutton SignWriting is a research series about language beyond sound, writing beyond the line, and what becomes possible when signed language gains text of its own.
 
-It brings together presentations, handouts, diagrams, datasets, and future studies on the cognitive, neurological, educational, and technical study of signed language and SignWriting.
+It brings together presentations, essays, diagrams, datasets, and future studies on the cognitive, neurological, educational, and technical study of signed language and SignWriting.
 
 The primary audience is interdisciplinary collaborators and institutional readers in Deaf studies, literacy, linguistics, cognition, writing systems, and research support.
 
@@ -28,7 +28,7 @@ The series treats SignWriting not only as a writing system, but as a scientific 
 The series can include:
 
 - presentations
-- handouts
+- essays
 - evidence notes
 - diagrams and visual models
 - datasets and technical supplements
@@ -78,10 +78,10 @@ It offers point, line, and plane as an analytic lens for how writing uses space 
 For a new scientific collaborator, a clear path through the material is:
 
 1. **Language Without Sound presentation** for the main scientific argument
-2. **Language Without Sound handout** for a careful written version
+2. **Language Without Sound essay** for a careful written version
 3. **Language Without Sound evidence notes** for references, supporting evidence, and research depth
 4. **The Shape of Writing presentation** for the writing-theory extension
-5. **The Shape of Writing handout** for the clearest written statement
+5. **The Shape of Writing essay** for the clearest written statement
 6. **The Shape of Writing technical notes** for alphabet, encoding, and structural detail
 7. **The Shape of Writing evidence notes** for references, scholarly framing, and open questions
 8. later series entries as the scientific and infrastructural agenda expands
@@ -126,7 +126,7 @@ The series functions as one research record with separately citable parts.
 That means:
 
 - a presentation can stand on its own
-- a handout can stand on its own
+- a essay can stand on its own
 - an evidence notes document, dataset, diagram set, or report can also stand on its own
 - the series ties them together as one coherent scholarly program
 

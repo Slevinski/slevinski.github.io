@@ -103,7 +103,7 @@ Individual artifacts remain separately citable.
 That means:
 
 - a presentation can stand on its own
-- a handout can stand on its own
+- a essay can stand on its own
 - technical notes, a report, or a compatibility note can stand on its own
 - the series groups them as one technical reference set
 

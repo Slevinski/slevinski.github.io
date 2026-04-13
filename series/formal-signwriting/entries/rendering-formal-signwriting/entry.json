@@ -7,7 +7,7 @@
   "synopsis": "Formal SignWriting needs a clear distinction between canonical text and presentation layer. This entry states the rendering layer in its smallest stable form and explains SVG, fonts, standalone graphics, and web layout as rendering consequences of the model, while keeping styling as a separate presentation topic.",
   "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
   "cover_image_alt": "Cover image for Rendering Formal SignWriting in the Formal SignWriting series.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
@@ -17,7 +17,7 @@
     "series": "Formal SignWriting",
     "artifact_types": [
       "presentation",
-      "handout",
+      "essay",
       "technical-notes"
     ],
     "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",

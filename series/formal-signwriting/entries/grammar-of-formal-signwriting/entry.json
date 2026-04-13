@@ -7,7 +7,7 @@
   "synopsis": "Formal SignWriting becomes reliable technical text when its token patterns, syntax, and valid structures are stated clearly. This entry states what counts as well-formed text before search, rendering, or implementation begin.",
   "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
   "cover_image_alt": "Cover image for Grammar of Formal SignWriting in the Formal SignWriting series.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
@@ -17,7 +17,7 @@
     "series": "Formal SignWriting",
     "artifact_types": [
       "presentation",
-      "handout",
+      "essay",
       "technical-notes"
     ],
     "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",

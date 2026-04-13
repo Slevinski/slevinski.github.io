@@ -5,7 +5,7 @@
   "subtitle": "What to use now and what not to assume",
   "summary": "Implementation guidance for developers working with Sutton SignWriting data, conversion, symbol identity, and Unicode-facing workflows.",
   "synopsis": "These notes are for developers. They explain what to store, what to treat as canonical, why naming characters is not the same as preserving stable symbols or written signs, where official Unicode SignWriting falls short, and how FSW and SWU should be used in current tooling, interchange, and data workflows.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "companion_documents": [
     {
       "file": "package-and-tooling.md",

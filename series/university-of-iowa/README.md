@@ -1,6 +1,6 @@
 # University of Iowa
 
-*A presentation and handout series for University of Iowa alignment, outreach, and collaborator context*
+*A presentation and essay series for University of Iowa alignment, outreach, and collaborator context*
 
 This series is for materials tailored to University of Iowa faculty, grants staff, development staff, and prospective academic collaborators.
 

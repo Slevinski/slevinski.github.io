@@ -7,7 +7,7 @@
   "synopsis": "The specification matters most when it supports real libraries, transformations, datasets, corpora, and implementation pathways. This entry states the stewardship layer in its smallest stable form and connects the model to the broader software and data ecosystem.",
   "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
   "cover_image_alt": "Cover image for Formal SignWriting in Practice in the Formal SignWriting series.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
@@ -17,7 +17,7 @@
     "series": "Formal SignWriting",
     "artifact_types": [
       "presentation",
-      "handout",
+      "essay",
       "technical-notes"
     ],
     "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",

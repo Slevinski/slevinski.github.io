@@ -1,6 +1,6 @@
 # University of Iowa Series Rewrite Plan
 
-This document tracks the rebuild of the University of Iowa presentation series into a fully developed set of decks with strong slide text, visuals, speech, notes, and handouts.
+This document tracks the rebuild of the University of Iowa presentation series into a fully developed set of decks with strong slide text, visuals, speech, notes, and essays.
 
 ## Build Phases
 
@@ -40,13 +40,13 @@ This document tracks the rebuild of the University of Iowa presentation series i
 
 ### Phase 5 — Writing Depth
 
-- [x] Write a stand-alone handout for `Lab Home`
+- [x] Write a stand-alone essay for `Lab Home`
 - [x] Write developed speech and notes for `Lab Home`
-- [x] Write developed handout for `Steve Slevinski Value`
-- [x] Write developed handout for `Sutton SignWriting Infrastructure Initiative`
-- [x] Write developed handout for `Infrastructure Core and Philanthropy`
-- [x] Write developed handout for `Outreach Memo`
-- [x] Write developed handout for `Relevant Precedents and Institutional Pathways`
+- [x] Write developed essay for `Steve Slevinski Value`
+- [x] Write developed essay for `Sutton SignWriting Infrastructure Initiative`
+- [x] Write developed essay for `Infrastructure Core and Philanthropy`
+- [x] Write developed essay for `Outreach Memo`
+- [x] Write developed essay for `Relevant Precedents and Institutional Pathways`
 
 ### Phase 6 — Integration and Build
 

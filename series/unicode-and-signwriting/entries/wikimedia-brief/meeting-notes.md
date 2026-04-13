@@ -33,10 +33,10 @@ Begin with:
 
 ## Useful documents to send after the meeting
 
-- [Unicode Overview](/#series/unicode-and-signwriting/unicode-overview/handout)
-- [Wikimedia Brief](/#series/unicode-and-signwriting/wikimedia-brief/handout)
-- [Chronology and Record](/#series/unicode-and-signwriting/chronology-and-record/handout)
-- [UTC Technical Note](/#series/unicode-and-signwriting/utc-technical-note/handout), if the conversation becomes concrete
+- [Unicode Overview](/#series/unicode-and-signwriting/unicode-overview/essay)
+- [Wikimedia Brief](/#series/unicode-and-signwriting/wikimedia-brief/essay)
+- [Chronology and Record](/#series/unicode-and-signwriting/chronology-and-record/essay)
+- [UTC Technical Note](/#series/unicode-and-signwriting/utc-technical-note/essay), if the conversation becomes concrete
 
 ## Best outcome for a first meeting
 

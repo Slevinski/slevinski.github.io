@@ -51,7 +51,7 @@ The safest answer remains:
 - derive rendered output when needed
 - attach styling only when presentation requires it
 
-That keeps the main handout readable while preserving useful operational detail.
+That keeps the main essay readable while preserving useful operational detail.
 
 ## III. Canonical and derived layers
 

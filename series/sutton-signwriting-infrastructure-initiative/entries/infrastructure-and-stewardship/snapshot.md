@@ -6,7 +6,7 @@ _Companion snapshot for **Infrastructure and Stewardship**_
 
 This one-page snapshot is designed for fast reading.
 
-It distills the larger handout into a compact institutional view of:
+It distills the larger essay into a compact institutional view of:
 
 * what already exists
 * what is currently being stewarded

@@ -3,7 +3,7 @@
 **The Shape of Writing**  
 Interpretive framing, writing theory, and the case for plane-based writing
 
-Just as *Language Without Sound* argued that literacy does not require sound or vision, this companion piece argues that literacy does not require linearity. The aim here is to clarify the strongest technical points behind the handout, identify where the framework is interpretive rather than taxonomic, and show why SignWriting matters as a case of writable space rather than only as a notation for sign.
+Just as *Language Without Sound* argued that literacy does not require sound or vision, this companion piece argues that literacy does not require linearity. The aim here is to clarify the strongest technical points behind the essay, identify where the framework is interpretive rather than taxonomic, and show why SignWriting matters as a case of writable space rather than only as a notation for sign.
 
 The framework below clarifies why plane-based writing systems such as SignWriting deserve equal consideration as writing, literacy, and research support.
 

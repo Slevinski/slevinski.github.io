@@ -5,7 +5,7 @@
   "subtitle": "What comparable university models suggest for SignWriting at Iowa",
   "summary": "A University of Iowa-facing supporting presentation using language, archive, sign-language, and data-infrastructure precedents to show that SignWriting follows a recognizable institutional path rather than requiring a speculative leap.",
   "synopsis": "The SignWriting proposal fits a familiar institutional pattern. In multiple cases, a technically mature language or data resource already existed before a university provided a credible home, practical shared capacity, and grant leverage that allowed the effort to scale into durable infrastructure. This deck is meant to support the main Iowa materials by showing that the path is recognizable, not by restating the whole Iowa pitch on its own.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "secondary_artifact": {
     "file": "precedent-notes.md",
     "label": "Precedent Notes",

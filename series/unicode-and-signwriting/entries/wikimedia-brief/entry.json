@@ -5,7 +5,7 @@
   "subtitle": "What Wikimedia needs to understand about Unicode and SignWriting",
   "summary": "A short practical note for Wikimedia staff and collaborators about why naming characters is not enough for current SignWriting project needs.",
   "synopsis": "This brief is for Wikimedia readers. It explains why current SignWriting work in Wikimedia projects cannot rely on official Unicode SignWriting alone, why the real gap is larger than font support, how the facial system affects stable symbol identity, what the current Sutton SignWriting production stack uses instead, and where Wikimedia could help without flattening the problem into a solved-symbol-block story.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "companion_documents": [
     {
       "file": "meeting-notes.md",

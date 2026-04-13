@@ -5,7 +5,7 @@
   "subtitle": "From project systems to repository delivery",
   "summary": "An operational workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery, with a live Builder-plus-review service that helps teams start, update, and review plans.",
   "synopsis": "The Data Management and Sharing Plan becomes useful when treated as an operational workflow rather than a compliance attachment. The deck follows the messy middle between local project systems and external repository delivery, including source data, raw structured data, derivatives, standards, validation, timing pressure, and the practical forms of support that matter in both planning and execution. It also presents a live Builder-plus-review service: the Builder helps teams work through sections and questions, generate markdown, and prepare an actual plan for expert review rather than pretending to automate the entire process.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "links": [
     {
       "label": "DMS Builder",
@@ -74,7 +74,7 @@
         "That middle work needs structure and support"
       ],
       "speech": "Many teams already know they need a Data Management and Sharing Plan. Many also know where they are ultimately headed, whether that is NDA or another repository. The hard part is everything in between. That middle work includes gathering files from multiple systems, deciding what counts as source data, cleaning and normalizing structure, building documentation and dictionaries, harmonizing variables, validating delivery packages, and preparing repository-facing outputs. This is the messy middle of research data work, and the plan only becomes meaningful when that middle layer is understood and supported.",
-      "notes": "Use the handout logic here.\n- teams know they need a plan\n- teams often know the repository\n- the hard part is the messy middle\n- support is needed between project systems and delivery",
+      "notes": "Use the essay logic here.\n- teams know they need a plan\n- teams often know the repository\n- the hard part is the messy middle\n- support is needed between project systems and delivery",
       "image_prompt_concrete": "Professional academic slide showing a researcher, project team, and data pathway to repository delivery, clean white background",
       "image_prompt_abstract": "A clear pathway emerging from a dense field of inputs toward a defined destination"
     },

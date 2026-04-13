@@ -1,6 +1,6 @@
 # DMS Plan
 
-*A presentation and handout series for data management, workflow design, and repository delivery*
+*A presentation and essay series for data management, workflow design, and repository delivery*
 
 This series is for materials focused on the real work that sits between local project systems and successful repository delivery.
 
@@ -30,4 +30,4 @@ This series should answer practical DMS questions:
 The strongest default order is:
 
 1. **Data Management and Sharing Plan presentation** for the main workflow argument
-2. **Data Management and Sharing Plan handout** for a careful written version
+2. **Data Management and Sharing Plan essay** for a careful written version

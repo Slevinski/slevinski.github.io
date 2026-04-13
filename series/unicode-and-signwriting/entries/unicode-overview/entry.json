@@ -5,7 +5,7 @@
   "subtitle": "Current position and why the issue keeps returning",
   "summary": "Short baseline explanation of why character naming, stable symbols, and written signs remain different questions for SignWriting.",
   "synopsis": "This overview states the current position plainly. The official Unicode SignWriting encoding can name much of the character set, but it does not preserve stable writer-selected symbols cleanly across the full system and it does not provide a compatible model for written signs in practice. The real issues include symbol identity, the facial-diacritic model, spatial composition, sorting, tooling, dataset compatibility, and the difference between encoded characters and usable writing.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "companion_documents": [
     {
       "file": "position-notes.md",
@@ -62,7 +62,7 @@
         "The current gap becomes clearer once those questions are separated"
       ],
       "speech": "A useful correction is that this is not just a writing-level problem. The current official block can name much of the character inventory. That is one question. A second question is whether the model preserves stable writer-selected symbols. A third question is whether written signs can be encoded in a compatible practical way. The official model reaches the first point much more than the second or third. Once those three questions are separated, the Unicode gap becomes much easier to describe honestly.",
-      "notes": "This slide should now carry the main conceptual distinction from the handout.",
+      "notes": "This slide should now carry the main conceptual distinction from the essay.",
       "mermaid": "flowchart TD\n  A[Official Unicode SignWriting] --> B[Naming characters]\n  A --> C[Preserving writer-selected symbols]\n  A --> D[Encoding written signs]\n  B --> E[Largely advanced]\n  C --> F[Not preserved cleanly]\n  D --> G[Not compatibly solved]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef good fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  class A core;\n  class B,C,D node;\n  class E good;\n  class F,G risk;"
     },
     {

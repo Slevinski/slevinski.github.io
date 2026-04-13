@@ -8,7 +8,7 @@
   "subtitle": "Practical DMS, repository, and research workflow value for the University of Iowa",
   "summary": "A University of Iowa-facing presentation focused on Steve Slevinski's immediate operational value through DMS planning, workflow design, code, data shaping, and repository delivery.",
   "synopsis": "Steve Slevinski is best understood first as practical research capacity. The deck focuses on immediate usefulness in the messy middle between project systems and repository delivery, showing how Steve helps projects with DMS planning, workflow design, structure, validation, and execution.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "links": [
     {
       "label": "NIH Data Management and Sharing Policy",

@@ -78,6 +78,6 @@ Some related work still belongs elsewhere:
 - the formal architecture of sign text belongs in the Formal SignWriting series
 - Brazil and South Korea as empirical and institutional cases belong in the infrastructure series
 
-Start the science lane with [Language Without Sound](/#series/the-science-of-sutton-signwriting/language-without-sound/handout) and [The Shape of Writing](/#series/the-science-of-sutton-signwriting/the-shape-of-writing/handout).
+Start the science lane with [Language Without Sound](/#series/the-science-of-sutton-signwriting/language-without-sound/essay) and [The Shape of Writing](/#series/the-science-of-sutton-signwriting/the-shape-of-writing/essay).
 
 House rules for this lane live in [editorial-rules.md](./editorial-rules.md).

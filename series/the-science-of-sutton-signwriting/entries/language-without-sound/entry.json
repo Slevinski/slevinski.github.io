@@ -7,7 +7,7 @@
   "synopsis": "Language is not tied to sound. Spoken, signed, tactile, and written pathways together show that human language is not reducible to one privileged sensory channel. Sutton SignWriting provides a durable written pathway for signed language and opens the door to literacy, research, and shared infrastructure.",
   "cover_image": "/series/the-science-of-sutton-signwriting/entries/language-without-sound/cover.jpg",
   "cover_image_alt": "Cover image for Language Without Sound in The Science of Sutton SignWriting series.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "secondary_artifact": {
     "file": "evidence-notes.md",
     "label": "Evidence Notes",
@@ -17,7 +17,7 @@
     "series": "The Science of Sutton SignWriting",
     "artifact_types": [
       "presentation",
-      "handout",
+      "essay",
       "evidence-notes"
     ],
     "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",

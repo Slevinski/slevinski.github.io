@@ -5,7 +5,7 @@
   "subtitle": "Draft note on compatibility, symbol identity, spatial composition, and next steps",
   "summary": "A formal draft note stating that official Unicode SignWriting can name much of the character set but still does not preserve stable symbol identity or provide compatible written-sign support.",
   "synopsis": "This draft UTC note states the current technical position in a formal register. It separates character naming from stable symbol identity and written-sign encoding, explains how the facial-diacritic model shifts part of symbol formation into font behavior, identifies spatial composition and collation as unresolved issues, and requests renewed technical review rather than automatic migration pressure.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "companion_documents": [
     {
       "file": "compatibility-matrix.md",

@@ -7,7 +7,7 @@
   "synopsis": "Formal SignWriting supports serious search because its query language, matching logic, ranges, and variance rules can be treated as part of a coherent technical model. This entry states the matching layer in its smallest stable form and shows how signed text becomes searchable without confusing search with grammar or rendering.",
   "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
   "cover_image_alt": "Cover image for Searching Signed Text in the Formal SignWriting series.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
@@ -17,7 +17,7 @@
     "series": "Formal SignWriting",
     "artifact_types": [
       "presentation",
-      "handout",
+      "essay",
       "technical-notes"
     ],
     "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",

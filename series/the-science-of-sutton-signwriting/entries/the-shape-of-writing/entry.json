@@ -7,7 +7,7 @@
   "synopsis": "Most people think writing is a line because most modern literacy is taught that way. This entry argues that writing can also work through bounded units and through spatial composition, and that signed language therefore does not need to be forced into a line in order to be written. SignWriting matters here as a functioning case of plane-based writing built on a stable alphabet, with Formal SignWriting showing how that writing can remain processable as text without losing symbol identity or spatial composition.",
   "cover_image": "/series/the-science-of-sutton-signwriting/entries/the-shape-of-writing/cover.png",
   "cover_image_alt": "Cover image for The Shape of Writing in The Science of Sutton SignWriting series.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
@@ -18,7 +18,7 @@
     "series": "The Science of Sutton SignWriting",
     "artifact_types": [
       "presentation",
-      "handout",
+      "essay",
       "technical-notes",
       "evidence-notes"
     ],

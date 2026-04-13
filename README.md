@@ -10,6 +10,7 @@ This README is copied from `public/` into `dist/` during build.
 - `series/` contains the generated mirror copied from `docs/series/`
 - `site-index.json` is the generated public discovery manifest used by the site index and search page
 - `dist.zip` is created beside `dist/` after a successful build from the app root
+- old `#series/.../handout` links are normalized by the app to the canonical `#series/.../essay` route
 
 Refresh `series/` with:
 

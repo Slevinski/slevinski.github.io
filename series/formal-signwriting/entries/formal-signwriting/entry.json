@@ -7,7 +7,7 @@
   "synopsis": "Formal SignWriting models a sign as a structured word with a required spatial signbox and an optional temporal prefix. This opening entry states the core model in its smallest stable form and shows how theory-based sequence and spatial composition survive together in one text form that software can work with.",
   "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
   "cover_image_alt": "Cover image for Formal SignWriting in the Formal SignWriting series.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
@@ -17,7 +17,7 @@
     "series": "Formal SignWriting",
     "artifact_types": [
       "presentation",
-      "handout",
+      "essay",
       "technical-notes"
     ],
     "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",

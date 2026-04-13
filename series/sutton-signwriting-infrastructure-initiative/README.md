@@ -1,6 +1,6 @@
 # Sutton SignWriting Infrastructure Initiative
 
-*A presentation and handout series for explaining what already exists, what is at risk, and what support would help*
+*A presentation and essay series for explaining what already exists, what is at risk, and what support would help*
 
 This series is for materials that explain Sutton SignWriting as an existing system that now needs stronger long-term support, especially for institutional collaboration, international partnership, and continuity.
 

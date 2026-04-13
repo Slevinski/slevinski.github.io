@@ -5,7 +5,7 @@
   "subtitle": "A concise University of Iowa summary of the full opportunity",
   "summary": "A short University of Iowa-facing routing memo for internal forwarding, summarizing the opportunity and directing readers to the right next conversation.",
   "synopsis": "A concise bridge for faculty, grants staff, development staff, and other internal stakeholders who need the opportunity explained quickly without being pulled through every supporting argument. It states the immediate ask, gives the shortest useful summary of Steve Slevinski's present-tense value, and then routes readers toward PI, operational, infrastructure, or development conversations without collapsing those lanes together.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "slides": [
     {
       "id": "one-slide-summary",

@@ -3,9 +3,9 @@
 **The Shape of Writing**  
 Alphabet, authorship, encoding, and practical consequences
 
-These technical notes collect the heavier structural details behind the handout.
+These technical notes collect the heavier structural details behind the essay.
 
-The handout argues in plain language that writing does not have to be linear and that SignWriting is a genuine case of plane-based writing.
+The essay argues in plain language that writing does not have to be linear and that SignWriting is a genuine case of plane-based writing.
 
 These notes add the more technical layer:
 
@@ -134,7 +134,7 @@ Writers, readers, websites, editors, fonts, and datasets all depend on enough sh
 
 ## VI. Human writing and encoded text
 
-The technical distinction in the handout can be stated more sharply here.
+The technical distinction in the essay can be stated more sharply here.
 
 ### Human writing layer
 
@@ -249,7 +249,7 @@ This is especially important for a living writing system used by real writers ra
 
 ## X. Why these technical notes belong with this entry
 
-The handout should stay readable.
+The essay should stay readable.
 
 It should make the public-facing move clearly:
 

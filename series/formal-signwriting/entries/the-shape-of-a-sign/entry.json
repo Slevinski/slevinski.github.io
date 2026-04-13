@@ -7,7 +7,7 @@
   "synopsis": "A Formal SignWriting word is not complete until its symbols, coordinates, signbox behavior, tight bounding boxes, and centering logic are understood. This entry states the spatial layer in its smallest stable form and shows how the signbox works as a spatial arrangement carried in text.",
   "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
   "cover_image_alt": "Cover image for The Shape of a Sign in the Formal SignWriting series.",
-  "handout": "handout.md",
+  "essay": "essay.md",
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
@@ -17,7 +17,7 @@
     "series": "Formal SignWriting",
     "artifact_types": [
       "presentation",
-      "handout",
+      "essay",
       "technical-notes"
     ],
     "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
