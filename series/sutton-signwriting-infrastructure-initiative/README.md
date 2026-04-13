@@ -1,6 +1,6 @@
 # Sutton SignWriting Infrastructure Initiative
 
-*A presentation and essay series for explaining what already exists, what is at risk, and what support would help*
+*A series of slides and essays for explaining what already exists, what is at risk, and what support would help*
 
 This series is for materials that explain Sutton SignWriting as an existing system that now needs stronger long-term support, especially for institutional collaboration, international partnership, and continuity.
 
@@ -13,13 +13,13 @@ It should help a reader answer four questions quickly:
 - what already exists
 - what is currently fragile
 - what kind of support structure makes sense
-- which presentation should be used for which audience
+- which entry should be used for which audience
 
 ## Current deck set
 
 This is a small deck set with different jobs.
 
-## Primary presentations
+## Primary entries
 
 ### 1. Executive Brief
 
@@ -163,7 +163,7 @@ Main job:
 - **Brazil as the Empirical Center of SignWriting** — concise evidence brief on Brazil as the strongest documented institutional and research center for SignWriting
 - **South Korea as a Current Institutional Proof Point** — concise evidence brief on SignWriting inside current public dictionary infrastructure in South Korea
 - **Research Program for Literacy Without Sound** — practical bridge document defining what gets studied next, why Brazil matters, and what infrastructure makes the science reusable
-- **Other Sign Language Scripts and Their Conceptions** — a concise landscape presentation naming ASL-phabet, HamNoSys, ASLwrite, and the different conceptions they represent
+- **Other Sign Language Scripts and Their Conceptions** — a concise landscape entry naming ASL-phabet, HamNoSys, ASLwrite, and the different conceptions they represent
 - **International Shared Support** — international partnership and country-ambassador framing
 - **Country Ambassadors** — volunteer-first country-level outreach and relationship-building model
 

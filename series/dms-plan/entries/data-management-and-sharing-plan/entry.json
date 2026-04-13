@@ -3,7 +3,7 @@
   "number": 1,
   "title": "Data Management and Sharing Plan",
   "subtitle": "From project systems to repository delivery",
-  "summary": "An operational workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery, with a live Builder-plus-review service that helps teams start, update, and review plans.",
+  "summary": "An operational workflow entry showing how DMS planning becomes real work from source systems to structured data and repository delivery, with a live Builder-plus-review service that helps teams start, update, and review plans.",
   "synopsis": "The Data Management and Sharing Plan becomes useful when treated as an operational workflow rather than a compliance attachment. The deck follows the messy middle between local project systems and external repository delivery, including source data, raw structured data, derivatives, standards, validation, timing pressure, and the practical forms of support that matter in both planning and execution. It also presents a live Builder-plus-review service: the Builder helps teams work through sections and questions, generate markdown, and prepare an actual plan for expert review rather than pretending to automate the entire process.",
   "essay": "essay.md",
   "links": [

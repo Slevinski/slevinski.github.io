@@ -3,7 +3,7 @@
   "number": 3,
   "title": "Infrastructure and Stewardship",
   "subtitle": "Confirmed assets, current risks, and the case for stronger institutional support",
-  "summary": "A presentation showing Sutton SignWriting as existing infrastructure with real assets, active maintenance, and identifiable support risks.",
+  "summary": "An entry showing Sutton SignWriting as existing infrastructure with real assets, active maintenance, and identifiable support risks.",
   "synopsis": "The infrastructure conversation becomes stronger when it moves from general concern to concrete authority. Sutton SignWriting already includes domains, servers, software, datasets, and standards under active maintenance, and the central challenge is now keeping those systems running, documenting them clearly, and giving them stronger institutional support rather than creating them from scratch.",
   "essay": "essay.md",
   "secondary_artifact": {

@@ -3,7 +3,7 @@
   "number": 7,
   "title": "Other Sign Language Scripts and Their Conceptions",
   "subtitle": "ASL-phabet, HamNoSys, ASLwrite, and what they imply about written sign language",
-  "summary": "A concise infrastructure-facing presentation naming a few prominent sign-language script conceptions without turning them into the center of the SignWriting case.",
+  "summary": "A concise infrastructure-facing entry naming a few prominent sign-language script conceptions without turning them into the center of the SignWriting case.",
   "synopsis": "SignWriting does not exist in a vacuum. A small number of other visible systems emerged from different communities and for different purposes: alphabetic literacy instruction, analytic notation, and alternate plane-based script design. This deck names those systems briefly, clarifies the different jobs they were built to do, and explains why SignWriting remains the most complete path forward for durable writing, software, standards, and long-term infrastructure.",
   "essay": "essay.md",
   "secondary_artifact": {

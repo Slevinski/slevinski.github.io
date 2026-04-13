@@ -125,9 +125,9 @@ In that sense, Brazil is not merely an encouraging case.
 
 It is the strongest current base for building a serious empirical and infrastructural program around SignWriting.
 
-## What this brief does not claim
+## Limits of the claim
 
-This brief is intentionally narrower than a full national history.
+The claim here is intentionally narrower than a full national history.
 
 It does **not** claim:
 
@@ -136,7 +136,7 @@ It does **not** claim:
 - that every degree pathway or curriculum requirement involving SignWriting has already been mapped
 - that the Brazilian record alone settles every literacy question
 
-A full historical and institutional account of SignWriting in Brazil would be much longer than this document.
+A full historical and institutional account of SignWriting in Brazil would be much longer than this account.
 
 But that does not weaken the present point.
 
@@ -155,4 +155,3 @@ The strongest next steps are practical:
 Brazil therefore deserves to be treated not merely as a successful chapter in SignWriting history, but as the clearest current empirical center for what SignWriting has already become and what it can support next.
 
 For a denser presentation-by-presentation review of the symposium record, see [symposium-review.md](symposium-review.md).
-

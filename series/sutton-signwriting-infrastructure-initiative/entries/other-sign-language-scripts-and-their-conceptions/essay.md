@@ -2,7 +2,7 @@
 
 **ASL-phabet, HamNoSys, ASLwrite, and what they imply about written sign language**
 
-This presentation names a small number of other sign-language script conceptions because a serious SignWriting initiative should acknowledge the visible landscape around it.
+A small number of other sign-language script conceptions should be acknowledged because a serious SignWriting initiative should acknowledge the visible landscape around it.
 
 The point is not to produce a laundry list and not to turn every other system into an opponent.
 
@@ -222,7 +222,7 @@ The narrower and stronger claim for this project is:
 
 ## Why this belongs in the infrastructure case
 
-This presentation is useful because it makes several things easier to say clearly.
+Acknowledging these scripts makes several things easier to say clearly.
 
 First, it shows that SignWriting exists in a real field rather than in isolation.
 
@@ -267,4 +267,3 @@ build SignWriting as the strongest durable path forward for written signed langu
 - [ISO 15924 code list](https://unicode.org/iso15924/iso15924-codes.html)
 - [IANA language subtag registry](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
 - [RFC 5646 / BCP 47 language tags](https://www.rfc-editor.org/rfc/rfc5646)
-

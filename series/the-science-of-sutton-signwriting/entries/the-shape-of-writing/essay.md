@@ -20,7 +20,7 @@ That matters for how writing is read, written, edited, encoded, searched, and sh
 
 It also matters for how SignWriting should be understood.
 
-The core claim of this essay is simple:
+The core claim is simple:
 
 > writing is not inherently linear
 
@@ -219,6 +219,8 @@ The important point is:
 
 Signed languages are full human languages.
 
+The pathway model from *Language Without Sound* applies here: language pathways are complete without writing, while literacy adds a durable symbolic pathway that changes what can be read, written, revised, and shared.
+
 But they have often lacked equally durable written pathways.
 
 Instead, they have often been pushed toward:
@@ -238,7 +240,7 @@ Transcription supports analysis.
 
 But none of them automatically create everyday readable and writable text within the language itself.
 
-That is the structural gap:
+That is the infrastructure gap:
 
 > signed languages have full linguistic structure, but they have often lacked equally durable writable pathways
 
@@ -313,6 +315,23 @@ It is not only a theory of writing.
 
 It is also a practical claim about literacy, tools, compatibility, and research support.
 
+## Evidence and open questions
+
+Current evidence is strongest on feasibility and use, and weaker on comparative outcome scale.
+
+Evidence we can point to now:
+
+- Brazil as the strongest documented empirical center for plane-based sign-language writing in practice
+- localized instructional programs that show durable use within real classrooms and institutions
+- technical feasibility demonstrated through encoding, fonts, and usable writing workflows
+
+Open questions that still require stronger evidence:
+
+- updated national accounting beyond early self-reported counts
+- longitudinal comparisons against strong bilingual + video baselines
+- replication across additional communities with independent outcome measures
+These are also the success criteria for the next research phase.
+
 ## Conclusion
 
 Writing does not come in only one shape.
@@ -327,9 +346,12 @@ Once that is seen, signed language no longer has to be treated as if writing for
 
 Readable and writable plane-based text becomes thinkable.
 
+The strongest documented empirical anchor for that claim is Brazil, where a sustained SignWriting culture shows plane-based writing in real educational and institutional use. It does not resolve all scale questions, but it provides the clearest current base for feasibility and next-phase study design rather than a global default.
+
 Visible composition can remain with the writer, and processable encoding can support that writing without redefining it.
 
 And once that becomes thinkable, a whole new layer of literacy, tooling, compatibility, datasets, and research becomes possible.
 
-**QED,**  
+**QED**
+
 Steve Slevinski

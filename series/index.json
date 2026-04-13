@@ -15,7 +15,7 @@
           "number": 1,
           "title": "Data Management and Sharing Plan",
           "subtitle": "From project systems to repository delivery",
-          "summary": "An operational workflow presentation showing how DMS planning becomes real work from source systems to structured data and repository delivery, with a live Builder-plus-review service that helps teams start, update, and review plans.",
+          "summary": "An operational workflow entry showing how DMS planning becomes real work from source systems to structured data and repository delivery, with a live Builder-plus-review service that helps teams start, update, and review plans.",
           "essay": "essay.md",
           "slide_count": 12,
           "companion_documents": []
@@ -184,7 +184,7 @@
           "number": 1,
           "title": "Executive Brief",
           "subtitle": "Sutton SignWriting as research infrastructure",
-          "summary": "A concise forwardable presentation that states the mission, support gap, and opportunity around Sutton SignWriting.",
+          "summary": "A concise forwardable entry that states the mission, support gap, and opportunity around Sutton SignWriting.",
           "essay": "essay.md",
           "slide_count": 8,
           "companion_documents": []
@@ -206,7 +206,7 @@
           "number": 3,
           "title": "Infrastructure and Stewardship",
           "subtitle": "Confirmed assets, current risks, and the case for stronger institutional support",
-          "summary": "A presentation showing Sutton SignWriting as existing infrastructure with real assets, active maintenance, and identifiable support risks.",
+          "summary": "An entry showing Sutton SignWriting as existing infrastructure with real assets, active maintenance, and identifiable support risks.",
           "essay": "essay.md",
           "slide_count": 11,
           "companion_documents": [
@@ -284,7 +284,7 @@
           "number": 7,
           "title": "Other Sign Language Scripts and Their Conceptions",
           "subtitle": "ASL-phabet, HamNoSys, ASLwrite, and what they imply about written sign language",
-          "summary": "A concise infrastructure-facing presentation naming a few prominent sign-language script conceptions without turning them into the center of the SignWriting case.",
+          "summary": "A concise infrastructure-facing entry naming a few prominent sign-language script conceptions without turning them into the center of the SignWriting case.",
           "essay": "essay.md",
           "slide_count": 8,
           "companion_documents": [
@@ -334,7 +334,7 @@
           "number": 1,
           "title": "Language Without Sound",
           "subtitle": "Brain networks, pathway expansion, literacy, and the case for SignWriting infrastructure",
-          "summary": "Presentation 1 in The Science of Sutton SignWriting series.",
+          "summary": "Entry 1 in The Science of Sutton SignWriting series.",
           "essay": "essay.md",
           "slide_count": 14,
           "companion_documents": [
@@ -496,7 +496,7 @@
           "number": 2,
           "title": "Lab Home",
           "subtitle": "A practical path from 0 percent placement to grants and infrastructure",
-          "summary": "A PI-facing presentation arguing that a lab home now is the first small decision that makes salary support, DMS collaborations, grant writing, and future infrastructure more plausible.",
+          "summary": "A PI-facing entry arguing that a lab home now is the first small decision that makes salary support, DMS collaborations, grant writing, and future infrastructure more plausible.",
           "essay": "essay.md",
           "slide_count": 10,
           "companion_documents": []
@@ -509,7 +509,7 @@
           "number": 3,
           "title": "Steve Slevinski Value",
           "subtitle": "Practical DMS, repository, and research workflow value for the University of Iowa",
-          "summary": "A University of Iowa-facing presentation focused on Steve Slevinski's immediate operational value through DMS planning, workflow design, code, data shaping, and repository delivery.",
+          "summary": "A University of Iowa-facing entry focused on Steve Slevinski's immediate operational value through DMS planning, workflow design, code, data shaping, and repository delivery.",
           "essay": "essay.md",
           "slide_count": 10,
           "companion_documents": []
@@ -520,7 +520,7 @@
           "number": 4,
           "title": "Sutton SignWriting Infrastructure Initiative",
           "subtitle": "A path to shared research infrastructure at the University of Iowa",
-          "summary": "A University of Iowa-facing presentation about turning Sutton SignWriting from fragile independent maintenance into durable shared research infrastructure.",
+          "summary": "A University of Iowa-facing entry about turning Sutton SignWriting from fragile independent maintenance into durable shared research infrastructure.",
           "essay": "essay.md",
           "slide_count": 12,
           "companion_documents": []
@@ -531,7 +531,7 @@
           "number": 5,
           "title": "Infrastructure Core and Philanthropy",
           "subtitle": "A University of Iowa support structure for global SignWriting infrastructure",
-          "summary": "A University of Iowa-facing presentation framing the Sutton SignWriting Infrastructure Core as a philanthropic opportunity that complements the lab-home, operational-value, and grant-development structure.",
+          "summary": "A University of Iowa-facing entry framing the Sutton SignWriting Infrastructure Core as a philanthropic opportunity that complements the lab-home, operational-value, and grant-development structure.",
           "essay": "essay.md",
           "slide_count": 17,
           "companion_documents": [
@@ -548,7 +548,7 @@
           "number": 6,
           "title": "Relevant Precedents and Institutional Pathways",
           "subtitle": "What comparable university models suggest for SignWriting at Iowa",
-          "summary": "A University of Iowa-facing supporting presentation using language, archive, sign-language, and data-infrastructure precedents to show that SignWriting follows a recognizable institutional path rather than requiring a speculative leap.",
+          "summary": "A University of Iowa-facing supporting entry using language, archive, sign-language, and data-infrastructure precedents to show that SignWriting follows a recognizable institutional path rather than requiring a speculative leap.",
           "essay": "essay.md",
           "slide_count": 12,
           "companion_documents": [

@@ -6,7 +6,7 @@
 
 Assume the immediate practical case for Steve Slevinski and a lab home is already understood.
 
-The question in this document is the longer-term institutional one:
+The longer-term institutional question is:
 
 how does Sutton SignWriting move from fragile independent stewardship toward durable shared research infrastructure?
 
@@ -312,4 +312,3 @@ That would support:
 This is therefore not only a preservation opportunity.
 
 It is a practical institutional opportunity to support infrastructure that already matters and is ready for a stronger home.
-

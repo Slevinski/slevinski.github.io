@@ -4,117 +4,69 @@
 
 ## Short answer
 
-Current SignWriting support in Unicode is not sufficient for current Sutton SignWriting production use.
+Current official Unicode SignWriting support is not yet sufficient for real-world Sutton SignWriting production use.
 
-That matters for Wikimedia because sign-language projects that want to use SignWriting still need practical solutions for:
-
-- text storage
-- structured sign representation
-- display
-- search
-- compatibility with existing datasets
-
-In Wikimedia settings, this quickly becomes a question of what can actually be stored, rendered, shared, and reused without bending every project into custom maintenance.
-
-That is where the Unicode question stops being abstract.
+Wikimedia projects that want to host or work with SignWriting therefore still need practical, stable solutions for text storage, structured sign representation, display, search, and compatibility with existing datasets.
 
 ## What Wikimedia is likely to notice first
 
-Wikimedia projects may notice:
+You may see:
 
-- sign-language content or lexeme work relying on ASCII-based strings
+- sign-language content or lexeme work relying on ASCII-based strings (FSW)
 - custom user scripts or renderers
-- confusion about whether Unicode already solved the SignWriting problem
+- understandable confusion about whether Unicode already solved SignWriting
 
-That confusion is understandable.
+Unicode did encode a SignWriting block in Unicode 8.
 
-Unicode did encode a SignWriting block.
+That block names many characters, but it does not yet deliver a complete, compatible solution for stable symbols and plane-based written signs.
 
-But that did not create a complete, compatible, practical solution for stable symbols and written signs in current SignWriting projects.
+## The real gap
 
-## What the real gap is
-
-The real gap is not only that some fonts are missing.
-
-The larger gap is that current official Unicode SignWriting does not provide a workable compatible solution for:
+The gap is larger than missing fonts or rendering. Official Unicode SignWriting does not currently provide a workable compatible solution for:
 
 - stable symbol identity across the full system
-- direct writer selection of final symbols across the full system
-- full written signs
-- spatial composition
-- existing Sutton SignWriting datasets
-- current tooling and production workflows
+- direct writer selection of final symbols (especially in the facial system)
+- full written signs as they exist in production
+- spatial composition (the plane-based nature of the writing system)
+- seamless compatibility with current Sutton SignWriting datasets and tooling
 
-In the facial system, the official model does not simply preserve the writer's choice of facial symbols and their placement.
+In the facial system specifically, the official model asks the writer to enter a sequence of elements; the font then interprets and arranges them. This shifts part of symbol formation into font behavior rather than preserving a stable, writer-selected symbol inventory. That affects not just display but also how data is stored, compared, and reused.
 
-Instead, the writer enters a sequence of facial elements and the font takes on part of the job of arranging them into a rendered face.
+## What is used in practice today
 
-This shifts part of symbol formation into font behavior rather than into a stable, shared symbol identity.
+Current production workflows (tools, dictionaries, corpora, websites) use:
 
-This affects not only rendering, but also how data is stored, compared, and reused across systems.
+- **FSW** (Formal SignWriting) as the canonical production encoding
+- **SWU** (SignWriting in Unicode) as the supported Unicode-oriented isomorphic representation
 
-That means the most useful Wikimedia starting point is not:
+These are not temporary workarounds. They are the stable, production-tested baseline that already carries real datasets (including the 68 000-sign Brazilian dictionary and more than 1 million signs across languages).
 
-- “Unicode already encoded SignWriting, so what remains?”
+## Why this matters specifically to Wikimedia
 
-The more useful starting point is:
-
-- “What remains unresolved for actual project use?”
-
-So if someone asks whether this is mainly a font/rendering problem or mainly a Unicode problem, the best answer is:
-
-it is both, but primarily an encoding-and-interoperability problem
-
-Better fonts alone do not solve the absence of a workable compatible spatial model.
-
-They also do not address the way the facial-diacritic model shifts part of symbol selection and arrangement into font behavior.
-
-## What is used in practice now
-
-Current Sutton SignWriting workflows use:
-
-- **FSW** as the main production encoding
-- **SWU** as the Unicode-oriented isomorphic representation
-
-Those two forms are what current tools, datasets, and much of the production ecosystem are built around.
-
-Treat that production reality as the baseline, not as an awkward exception.
-
-## Why this matters to Wikimedia specifically
-
-If Wikimedia wants better SignWriting support, it helps to begin from the actual ecosystem rather than from the assumption that the official Unicode block already solves the problem.
-
-This matters for:
+Accurate handling here affects:
 
 - sign-language incubator projects
 - sign-language lexemes in Wikidata
-- reference examples and shared linguistic data
-- cross-platform support discussions
-- future public language infrastructure inside Wikimedia environments
+- shared linguistic data and reference examples
+- cross-platform rendering and search
+- future public language infrastructure inside Wikimedia
 
-It also matters because any public misunderstanding at Wikimedia scale tends to spread outward into documentation, libraries, and expectations.
+Prematurely treating the official Unicode block as "solved" risks spreading incorrect assumptions at Wikimedia scale.
 
 ## What would help
 
 Wikimedia could help by:
 
-- understanding the current technical gap accurately
-- not forcing a Unicode-only framing where current Unicode is still insufficient
+- starting from the actual production ecosystem rather than the assumption that the Unicode block already solves the problem
 - supporting interim practical use of FSW and SWU where needed
-- helping advocate inside Unicode as a voting member if a concrete technical path is worth pursuing
+- helping advocate inside the UTC (especially as a new participant or voting member) for concrete improvements if a viable technical path emerges
 
-Wikimedia could also help simply by refusing to flatten the issue into a solved-symbol-block story.
+## Good next step
 
-## What would count as a good next step
+A productive first step is simply to establish a shared factual baseline:
 
-A good next step would not be pretending the problem is already solved.
+- confirm the current production stack
+- agree on where the technical gaps remain
+- decide together whether reopening Unicode-level discussion is worth the investment
 
-A good next step would be:
-
-- establishing a shared technical baseline
-- understanding the existing production stack
-- identifying whether Unicode-level discussion is worth reopening
-- using Wikimedia's position to advocate accurately, not simplistically
-
-Accurate understanding at this stage is more valuable than premature conclusions.
-
+We are happy to provide the technical details, conversion tools, and datasets needed for Wikimedia to evaluate the options clearly.

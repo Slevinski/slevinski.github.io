@@ -19,7 +19,7 @@ The first case is simpler:
 
 > Steve helps research teams move from fragmented systems and good intentions to structured workflow execution and successful delivery.
 
-This document stays on that practical case.
+The focus here stays on that practical case.
 
 ## The problem Steve helps solve
 
@@ -264,4 +264,3 @@ The strongest first uses of Steve's work are practical:
 The first reason to engage Steve is still the simplest one:
 
 he helps research teams finish hard data work that matters.
-

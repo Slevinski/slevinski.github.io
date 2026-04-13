@@ -4,7 +4,7 @@
 
 ## **Overview**
 
-This document is the collaboration-facing overview of the Sutton SignWriting Infrastructure Initiative.
+The Sutton SignWriting Infrastructure Initiative needs a clear collaboration-facing overview.
 
 Sutton SignWriting is already a globally used writing and technical ecosystem for signed languages, but the support around its tools, data, and public systems is still too limited for its current value and reach.
 
@@ -97,4 +97,3 @@ Seeking faculty interested in:
 Steve Slevinski
 University of Iowa
 [steve-slevinski@uiowa.edu](mailto:steve-slevinski@uiowa.edu)
-

@@ -20,7 +20,7 @@ A second claim follows:
 
 > if language is not reducible to sound, then literacy depends on whether a language has durable readable and writable pathways
 
-That is where signed languages face a structural gap, and where SignWriting becomes important.
+That is where signed languages face an infrastructure gap in durable read-write pathways, and where SignWriting becomes important.
 
 ## A pathway model
 
@@ -150,7 +150,8 @@ That is not a minor gap.
 
 It is a missing layer of language infrastructure.
 
-Without writable pathways, signed languages remain at a systemic disadvantage in education, research, and technology, not because of the language itself, but because of missing infrastructure.
+Without writable pathways, signed languages face extra friction in education, research, and technology, not because of the language itself, but because of missing infrastructure.
+This is not a claim of linguistic incompleteness; it is a claim about missing durable symbolic pathways.
 
 ## Comparative cases
 
@@ -202,7 +203,7 @@ When language is socially present but not sufficiently accessible to the learner
 
 This contrast keeps the difference between language in the environment and language perceived by the learner in clear view.
 
-## The structural gap
+## The infrastructure gap
 
 Spoken languages usually have mature writing systems.
 
@@ -219,7 +220,7 @@ Both are valuable.
 
 Neither is the same as ordinary readable and writable text.
 
-That creates a structural gap:
+That creates an infrastructure gap:
 
 > signed languages are full human languages, but they have often lacked equally mature written pathways
 
@@ -295,6 +296,8 @@ It provides:
 - shareable and revisable written forms
 - reusable representations for corpora, annotation, and computation
 
+The strongest documented empirical anchor for that claim is Brazil, where sustained SignWriting culture shows that a community can build durable written pathways at scale within real educational and institutional use. It is not a complete census or a global default, but it is the clearest existing base for feasibility, adoption, and next-phase study design.
+
 The strongest formulation is not:
 
 > SignWriting solves signed-language education in general
@@ -351,6 +354,23 @@ The disciplined claim is:
 
 > the literature strongly supports feasibility, use, and scientific relevance more than it supports sweeping causal claims about large-scale educational outcomes
 
+## Evidence and open questions
+
+The current evidence supports feasibility and sustained use more than it supports population-scale outcome superiority.
+
+Evidence we can point to now:
+
+- Brazil as the strongest documented empirical center for institutional use, teacher training, curriculum integration, and sign-language writing culture
+- localized studies showing motivation, comfort, and literacy-related gains in specific settings
+- technical feasibility demonstrated through formal encoding, fonts, and usable reading and writing workflows
+
+Open questions that still require stronger evidence:
+
+- updated national accounting beyond early self-reported counts
+- comparative, longitudinal studies against strong bilingual + video baselines
+- replication across additional communities with independent outcome measures
+These are also the success criteria for the next research phase.
+
 ## Implication
 
 If language is not reducible to sound,
@@ -372,5 +392,6 @@ SignWriting addresses that gap.
 The next step is not to keep arguing that signed languages can be written.
 It is to build and sustain the infrastructure that allows them to function as written languages at scale.
 
-**QED,**  
+**QED**
+
 Steve Slevinski

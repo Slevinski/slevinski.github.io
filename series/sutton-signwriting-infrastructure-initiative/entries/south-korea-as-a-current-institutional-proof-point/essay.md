@@ -113,9 +113,9 @@ That matters for several reasons:
 
 In other words, Korea helps move the conversation from abstract defense toward institutional follow-through.
 
-## What this brief does not claim
+## Limits of the claim
 
-This brief makes a narrower claim than the Brazil brief.
+The claim here is narrower than the Brazil case.
 
 It does **not** claim:
 
@@ -141,4 +141,3 @@ The strongest next steps are practical:
 - treat Korea as live infrastructure evidence in future institutional conversations
 
 South Korea therefore deserves to be treated not as a passing international anecdote, but as one of the clearest current public proof points that SignWriting can function inside official language infrastructure now.
-

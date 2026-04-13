@@ -1,6 +1,6 @@
 # University of Iowa
 
-*A presentation and essay series for University of Iowa alignment, outreach, and collaborator context*
+*A series of slides and essays for University of Iowa alignment, outreach, and collaborator context*
 
 This series is for materials tailored to University of Iowa faculty, grants staff, development staff, and prospective academic collaborators.
 
@@ -10,7 +10,7 @@ The series answers one practical question from several different angles:
 
 Each item has a different audience and level of detail.
 
-## Primary presentations
+## Primary entries
 
 - **Lab Home** — the PI-facing first-step deck that argues for a lab home now as the small decision that gives the work a real base and makes later support easier to build
 - **Steve Slevinski Value** — the immediate operational-value deck focused on DMS, workflow support, code, structure, and repository delivery as a practical University resource

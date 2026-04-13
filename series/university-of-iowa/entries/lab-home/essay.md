@@ -18,9 +18,9 @@ It is asking for the first enabling structure:
 
 That one decision changes the environment around the work. It gives Steve an academic base, gives other collaborators a place to connect, and makes future grant writing, salary support, and infrastructure planning far more credible.
 
-This document stays intentionally narrow.
+The focus here stays intentionally narrow.
 
-Its job is to explain the PI decision clearly and keep the first step easy to understand.
+The aim is to explain the PI decision clearly and keep the first step easy to understand.
 
 ## Why this matters now
 
@@ -284,4 +284,3 @@ That is why the lab home matters so much.
 It is not the end goal.
 
 It is the first move that allows the rest of the strategy to work.
-

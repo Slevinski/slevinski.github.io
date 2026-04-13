@@ -4,7 +4,7 @@
 
 ## Purpose
 
-This memo is the shortest useful Iowa-facing artifact.
+The shortest useful Iowa-facing artifact is a routing memo.
 
 Its job is simple:
 
@@ -44,7 +44,7 @@ The main points are:
 
 Use the Iowa materials by role:
 
-- **Start here**: this memo
+- **Start here**: *University of Iowa Outreach Memo*
 - **For a PI**: *Lab Home*
 - **For practical research value**: *Steve Slevinski Value*
 - **For long-term institutional infrastructure**: *Sutton SignWriting Infrastructure Initiative*
@@ -62,7 +62,7 @@ The most useful next conversations are with:
 
 ## Best use
 
-This memo works best as:
+Its best uses are:
 
 - a forwarding link for internal stakeholders
 - a short entry point before a longer deck
@@ -79,4 +79,3 @@ It has done its job if the reader can say:
 Steve Slevinski  
 University of Iowa  
 [steve-slevinski@uiowa.edu](mailto:steve-slevinski@uiowa.edu)
-

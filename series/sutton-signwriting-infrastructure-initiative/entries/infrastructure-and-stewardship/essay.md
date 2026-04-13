@@ -2,7 +2,7 @@
 
 Sutton SignWriting already operates as infrastructure.
 
-This document shows the main assets, the work currently required to keep them running, and the main risks, so a PI, administrator, or collaborator can see what a host institution would actually be supporting.
+The main assets, the work currently required to keep them running, and the main risks are visible enough that a PI, administrator, or collaborator can see what a host institution would actually be supporting.
 
 ## Overview
 
@@ -284,4 +284,3 @@ The most important conclusion is simple:
 Sutton SignWriting has already passed the threshold from interesting project to real infrastructure.
 
 The remaining question is whether that infrastructure will continue under an informal maintenance model or be given the stronger academic, technical, and administrative home that its current scale now warrants.
-

@@ -2,9 +2,9 @@
 
 *A research series*
 
-The Science of Sutton SignWriting is a research series about language beyond sound, writing beyond the line, and what becomes possible when signed language gains text of its own.
+The Science of Sutton SignWriting is a research series about language beyond sound, writing beyond the line, and what becomes possible when signed language gains text of its own. The strongest documented empirical anchor for that claim is Brazil’s sustained SignWriting culture, which serves as the primary evidence base for the research program and the launchpad for next-phase study design rather than a global default.
 
-It brings together presentations, essays, diagrams, datasets, and future studies on the cognitive, neurological, educational, and technical study of signed language and SignWriting.
+It brings together entries, essays, diagrams, datasets, and future studies on the cognitive, neurological, educational, and technical study of signed language and SignWriting.
 
 The primary audience is interdisciplinary collaborators and institutional readers in Deaf studies, literacy, linguistics, cognition, writing systems, and research support.
 
@@ -27,7 +27,7 @@ The series treats SignWriting not only as a writing system, but as a scientific 
 
 The series can include:
 
-- presentations
+- entries and slides
 - essays
 - evidence notes
 - diagrams and visual models
@@ -49,7 +49,7 @@ Taken together, those ideas support a broader claim: signed language writing is 
 
 ## First entry
 
-**Presentation 1:** *Language Without Sound*
+**Entry 1:** *Language Without Sound*
 
 This opening foundation document introduces the main scientific frame:
 
@@ -61,7 +61,7 @@ This opening foundation document introduces the main scientific frame:
 
 ## Second entry
 
-**Presentation 2:** *The Shape of Writing*
+**Entry 2:** *The Shape of Writing*
 
 This second foundation document extends the series from language science into writing theory:
 
@@ -77,14 +77,15 @@ It offers point, line, and plane as an analytic lens for how writing uses space 
 
 For a new scientific collaborator, a clear path through the material is:
 
-1. **Language Without Sound presentation** for the main scientific argument
+1. **Language Without Sound slides** for the main scientific argument
 2. **Language Without Sound essay** for a careful written version
 3. **Language Without Sound evidence notes** for references, supporting evidence, and research depth
-4. **The Shape of Writing presentation** for the writing-theory extension
+4. **The Shape of Writing slides** for the writing-theory extension
 5. **The Shape of Writing essay** for the clearest written statement
 6. **The Shape of Writing technical notes** for alphabet, encoding, and structural detail
 7. **The Shape of Writing evidence notes** for references, scholarly framing, and open questions
-8. later series entries as the scientific and infrastructural agenda expands
+8. the Brazil bridge document and research program materials for empirical grounding and next-step study design
+9. later series entries as the scientific and infrastructural agenda expands
 
 ## Bridge Documents
 
@@ -125,14 +126,31 @@ The series functions as one research record with separately citable parts.
 
 That means:
 
-- a presentation can stand on its own
-- a essay can stand on its own
+- the slide set can stand on its own
+- the essay can stand on its own
 - an evidence notes document, dataset, diagram set, or report can also stand on its own
 - the series ties them together as one coherent scholarly program
 
 The working web edition lives in the repo and public series viewers.
 
 The DOI layer can live in Zenodo or a comparable archival home, with individual artifacts remaining separately citable as the series develops.
+
+## Evidence and open questions
+
+This series treats Brazil as the strongest documented empirical center for a sustained sign-language writing culture, but it also names the gaps that still require direct study.
+
+Current evidence supports:
+
+- feasibility, adoption, and instructional use in localized and institutional settings
+- sustained teacher training and curricular integration in Brazil
+- visible sign-language writing culture in education, literature, and research contexts
+
+Open questions that still require stronger evidence:
+
+- updated national accounting beyond earlier self-reported counts
+- longitudinal comparisons against strong bilingual + video baselines
+- replicated outcome studies beyond localized programs
+These are also the success criteria for the next research phase.
 
 ## Future direction
 

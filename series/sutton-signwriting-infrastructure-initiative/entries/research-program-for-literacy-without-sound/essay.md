@@ -216,7 +216,7 @@ The point is to make later work stronger, cheaper, and more cumulative.
 
 ## Why this belongs in the infrastructure initiative
 
-This document belongs here because it is a bridge between the science argument and the practical work needed to study it.
+It belongs here because it is a bridge between the science argument and the practical work needed to study it.
 
 It translates the scientific framing into:
 
@@ -240,4 +240,3 @@ It should:
 - let infrastructure make the science cumulative
 
 That is specific enough to start now and strong enough to justify real institutional support.
-
