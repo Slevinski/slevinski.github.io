@@ -1,69 +1,103 @@
-# Meeting Notes – Wikimedia / Sutton SignWriting Discussion
+# Meeting Notes
 
-**Date:** [Insert date]  
-**Participants:** [Your name], [Wikimedia contact name + any others]  
-**Goal of this first meeting:**  
-Establish a shared factual baseline and build collaborative goodwill. Full technical agreement is not the objective. Accurate understanding and clarity on next steps is.
+**Suggested structure for a Wikimedia conversation about Unicode and SignWriting**
 
-## Meeting framing (30-second opener)
+## Goal
 
-"Thank you for taking the time. I know you are joining the UTC and are asking the very practical question: why are people still using ASCII (FSW) for SignWriting in Wikimedia projects when a Unicode block exists?
+Establish a shared factual baseline about the current production stack, the remaining technical gap, and the kinds of support Wikimedia could realistically provide.
 
-The short answer is in the one-page Wikimedia Brief I sent. Official Unicode SignWriting names characters, but it does not yet give us a complete, compatible solution for stable symbols and plane-based written signs. Our production tools, datasets, and real-world use therefore still rely on FSW and SWU. I would like to make sure we are on the same page about the current reality, then talk about what Wikimedia could realistically help with, whether that is interim support, accurate documentation, or future advocacy inside the UTC."
+Full technical agreement is not the first objective.
 
-## Suggested agenda (45–60 minutes)
+Accurate understanding and a clear next step are enough for an initial meeting.
 
-1. **Quick confirmation of the brief (5 min)**  
-Did the Wikimedia Brief make sense? Any immediate questions or points that felt unclear?
+## Meeting framing
 
-Confirm they understand the difference between:
+A useful opening is to make the practical question explicit:
 
-- naming characters (what official Unicode does)
+- why are FSW and SWU still in active use when Unicode already has a SignWriting block?
+- what remains unresolved for real project use inside Wikimedia?
+- where could Wikimedia help most usefully: documentation, interim support, or future UTC advocacy?
+
+The core framing can stay simple:
+
+- the Unicode block names characters, but it does not yet provide a complete, compatible solution for stable symbols and plane-based written signs
+- current production tools, datasets, and real-world use therefore still rely on FSW and SWU
+- the first meeting is about shared understanding, not forcing an immediate standards conclusion
+
+## Suggested outline
+
+### 1. Confirm the practical question
+
+Start by confirming the reason for the conversation:
+
+- current SignWriting use on Wikimedia-facing infrastructure
+- why existing projects still rely on FSW and SWU
+- what Wikimedia wants to understand or support
+
+### 2. Clarify the technical distinction
+
+It helps to separate three ideas clearly:
+
+- naming characters in Unicode
 - preserving stable writer-selected symbols
-- encoding complete plane-based written signs (what production needs)
+- encoding complete plane-based written signs for storage, rendering, search, and reuse
 
-2. **Current production reality (10 min)**  
+This is usually the most important distinction in the conversation.
 
-- what FSW and SWU actually are and why they remain canonical
-- scale of the existing ecosystem (68k Brazilian signs, more than 1M signs total, live tools and corpora)
-- role of the bridge package `@sutton-signwriting/unicode8`
+### 3. Review current production reality
 
-3. **Wikimedia-specific implications (10 min)**  
+The production baseline is:
 
-- sign-language incubator projects, Wikidata lexemes, rendering and search
-- why "Unicode already solved it" framing creates downstream problems
+- **FSW** as the canonical production encoding
+- **SWU** as the supported Unicode-oriented isomorphic representation
+- existing tools, dictionaries, corpora, and websites built around that stack
+- bridge tooling such as `@sutton-signwriting/unicode8`
 
-4. **What Wikimedia could help with (15 min)**  
+### 4. Note the existing Wikimedia footprint
 
-Open discussion. Ask these three questions:
+This is not only a future-facing standards question.
 
-- What is Wikimedia primarily trying to achieve here? (Understand the issue? Support current project work? Advocate inside UTC?)
-- Would Wikimedia be open to an interim posture that supports FSW/SWU where needed?
-- If a concrete technical path opens in the UTC, would Wikimedia be willing to help advocate accurately?
+There is already a visible Wikimedia footprint:
 
-5. **Next steps and documents (5–10 min)**  
+- Wikidata property `P14164` ("SignWriting transcription") formats through `https://steveslevinski.me/#page/formal-signwriting-analyzer/fsw/$1`
+- Wikimedia Incubator has supported sign-language test wikis with a SignWriting gadget and related custom scripts
+- older Wikimedia Cloud VPS / Labs services such as `swserver.wmflabs.org` and `swis.wmflabs.org` show that SignWriting support has already required custom bridge services
 
-- agree on any follow-up actions
-- offer to send the full technical package if they want deeper reading
+That history matters because it shows both real demand and real drift.
 
-## Documents to send (or have ready)
+### 5. Discuss Wikimedia-specific implications
 
-- Wikimedia Brief (already sent)
-- Developer Notes (the practical "what to use now" guide)
-- Unicode Overview (one-page summary of the gap)
-- UTC Technical Note (only if they want the detailed technical position)
-- Chronology and Record (only if history becomes relevant, keep it off the first-meeting table)
+Accurate handling affects:
 
-## Best possible outcomes for this first meeting
+- sign-language incubator projects
+- sign-language lexemes in Wikidata
+- reference examples and shared linguistic data
+- rendering, search, and reuse across projects
+- future public language infrastructure inside Wikimedia
 
-- shared factual baseline ("we agree on what the current production stack is and where the gaps remain")
-- clear understanding that the issue is encoding and interoperability, not just fonts
-- goodwill and openness to collaborate
-- concrete next step decided (for example, "Wikimedia will review the bridge tooling" or "we will schedule a follow-up once you have looked at the datasets")
+### 6. Identify useful next steps
 
-## Tone reminders
+Useful next steps may include:
 
-- lead with pragmatism, not grievance
-- listen more than lecture
-- frame everything as "here is what works today for real users" rather than "Unicode failed"
-- be explicit that we are not asking Wikimedia to reject the official block; we are asking for accurate understanding of its current limitations
+- confirming the current production stack and where the technical gaps remain
+- supporting interim practical use of FSW and SWU where needed
+- reviewing bridge tooling and datasets
+- deciding whether a Unicode-level discussion is worth reopening
+- helping advocate accurately inside the UTC if a viable technical path emerges
+
+## Documents to send or keep ready
+
+- [Wikimedia Brief](/#series/unicode-and-signwriting/wikimedia-brief/essay)
+- [Developer Notes](/#series/unicode-and-signwriting/developer-notes/essay)
+- [Unicode Overview](/#series/unicode-and-signwriting/unicode-overview/essay)
+- [UTC Technical Note](/#series/unicode-and-signwriting/utc-technical-note/essay), if the discussion becomes concrete
+- [Chronology and Record](/#series/unicode-and-signwriting/chronology-and-record/essay), if history becomes relevant
+
+## Good outcome for a first meeting
+
+A strong first meeting ends with:
+
+- shared understanding of the current production ecosystem
+- clear recognition that the issue is about encoding and interoperability, not only fonts
+- a cooperative tone for future discussion
+- a concrete next step

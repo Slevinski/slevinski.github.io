@@ -41,6 +41,20 @@ Current production workflows (tools, dictionaries, corpora, websites) use:
 
 These are not temporary workarounds. They are the stable, production-tested baseline that already carries real datasets (including the 68 000-sign Brazilian dictionary and more than 1 million signs across languages).
 
+## Existing Wikimedia footprint
+
+This is not only a theoretical future issue for Wikimedia.
+
+There is already a visible SignWriting footprint across Wikimedia infrastructure:
+
+- **Wikidata property P14164** ("SignWriting transcription") currently uses a formatter URL pointing to the Formal SignWriting analyzer on `steveslevinski.me`
+- **Wikimedia Incubator** has maintained a sign-language gadget and a category of sign-language test wikis, including ASL, BSL, Libras, Tunisian Sign Language, Russian Sign Language, Italian Sign Language, and others over time
+- **Wikimedia Cloud VPS / Labs** has hosted SignWriting infrastructure such as `swserver.wmflabs.org` and `swis.wmflabs.org`, even though that stack is now deprecated and has drifted behind current production design
+
+That matters because Wikimedia is not deciding whether SignWriting has ever touched its ecosystem.
+
+Wikimedia is deciding how accurately to understand and support an existing footprint that has already depended on custom infrastructure, bridge tooling, and long-lived external services.
+
 ## Why this matters specifically to Wikimedia
 
 Accurate handling here affects:
@@ -52,6 +66,8 @@ Accurate handling here affects:
 - future public language infrastructure inside Wikimedia
 
 Prematurely treating the official Unicode block as "solved" risks spreading incorrect assumptions at Wikimedia scale.
+
+It also risks breaking or neglecting existing Wikimedia-facing integrations that were built around FSW, SWU, custom rendering, and external analyzer or image-server links.
 
 ## What would help
 
