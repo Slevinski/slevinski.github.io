@@ -128,14 +128,19 @@ The same pattern applies to:
 
 These fonts do not do the same job.
 
-- `Line` and `Fill` descend below the baseline and are useful for SVG and two-color output
-- that same alignment is not ideal for direct text-editor use
-- `OneD` is useful in text editors
-- `OneD` is not aligned for SVG in the same way and does not carry the second color
+| Font | Primary use | Baseline and color behavior |
+| --- | --- | --- |
+| `SuttonSignWritingLine` | line layer for font-backed SVG and graphics | descends below the baseline and aligns with the SVG-oriented symbol model |
+| `SuttonSignWritingFill` | fill layer for two-color output | pairs with `Line` for SVG-oriented output and second-color fills |
+| `SuttonSignWritingOneD` | one-dimensional text-editor display | aligns for text editing rather than SVG composition and does not carry the second color |
+
+This distinction matters because font choice is not only aesthetic. It affects baseline behavior, SVG compatibility, and whether two-color output is available.
 
 ## Layout and lanes
 
 Rendering becomes more interesting when signs are not isolated.
+
+A dedicated layout entry now defines vertical writing, horizontal writing, lane counts, centering strategy, and SW1-SW4 reading-level defaults. Rendering should use that layout model rather than redefining it inside the output layer.
 
 A real written passage requires:
 
@@ -166,6 +171,13 @@ Common implementation pathways include:
 
 These are not the model itself, but they are important pieces of how the model becomes usable in browsers and applications.
 
+The practical guidance is:
+
+- use `Line` and `Fill` together when the goal is SVG-oriented, two-color visual output
+- use `OneD` when the goal is compact text-editor display or one-dimensional inspection
+- do not treat a font's baseline behavior as part of canonical sign text
+- document which rendering profile a system uses when output alignment matters
+
 ## Styling is related, but separate
 
 Rendering and styling are closely related, but they are not the same topic.
@@ -178,4 +190,3 @@ Rendering can reference styling without taking over the entire style-string defi
 ## Core principle
 
 Rendering should make Formal SignWriting visible without redefining what the encoded text is.
-

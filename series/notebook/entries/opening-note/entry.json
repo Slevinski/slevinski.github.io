@@ -1,0 +1,23 @@
+{
+  "slug": "opening-note",
+  "number": 1,
+  "title": "Opening Note",
+  "subtitle": "Why this notebook exists and what belongs here",
+  "summary": "Opening entry for the Notebook series.",
+  "synopsis": "This opening note defines the purpose of the Notebook series as a place for valuable but not-yet-settled work: pathway sketches, conceptual fragments, exploratory reflections, and material that may later graduate into stronger public series. It keeps that work visible without forcing it too early into Sutton SignWriting Foundations, Sutton SignWriting Language and Literacy Research, or Writing and Representation in Sutton SignWriting.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "working-note",
+    "public_label": "Note",
+    "public_slug": "primary",
+    "publication_designation": "Working Note"
+  },
+  "publication": {
+    "status": "working-note",
+    "doi_candidate": false,
+    "repo_candidate": false,
+    "zenodo_record": "not-planned",
+    "citation_role": "working-note"
+  }
+}

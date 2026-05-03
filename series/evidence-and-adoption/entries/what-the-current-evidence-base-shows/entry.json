@@ -1,0 +1,17 @@
+{
+  "slug": "what-the-current-evidence-base-shows",
+  "number": 4,
+  "title": "What the Current Evidence Base Shows",
+  "subtitle": "Strong evidence, partial evidence, and how to read SignWriting adoption claims",
+  "summary": "A synthesis brief distinguishing strong, partial, and still-open evidence for SignWriting adoption and infrastructure claims.",
+  "abstract": "This synthesis brief defines what the current public evidence base for SignWriting supports, what remains partial, and how adoption claims should be read. It argues that SignWriting should no longer be treated as a merely hypothetical proposal: documented educational, institutional, scholarly, and technical use, especially in Brazil and South Korea, establishes real-world relevance. At the same time, the evidence does not yet amount to a complete global census, broad population-scale outcome evidence, or a single adoption story across all communities. The brief therefore treats SignWriting as real infrastructure and research material while keeping claims about scale, generalization, and educational outcomes bounded.",
+  "synopsis": "This entry synthesizes what the current public evidence base supports, what remains partial, and how Brazil, South Korea, and the wider SignWriting record should be interpreted without overclaiming. Its role is to give the empirical lane a top-layer synthesis so the platform can distinguish documented adoption from open empirical questions.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "brief",
+    "public_label": "Brief",
+    "public_slug": "primary",
+    "publication_designation": "Synthesis Brief"
+  }
+}

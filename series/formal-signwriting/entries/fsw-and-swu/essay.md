@@ -19,7 +19,7 @@ They are two technical ways to carry the same underlying model forward into proc
 
 From a stewardship perspective, the distinction should be stated plainly:
 
-- FSW is commonly the canonical internal form for processing, storage, and indexing
+- FSW is commonly used as the canonical processing form for storage, indexing, and validation
 - SWU is supported for input, output, conversion, and Unicode-oriented workflows
 
 ## Script code and language tags
@@ -50,6 +50,8 @@ A key such as `S10000` can be read as:
 This matters because base, fill, and rotation are preserved across conversion.
 
 The base identifies the symbol family and is the part used for range tests such as writing, movement, punctuation, `hcenter`, or `vcenter`.
+
+The exact conversion arithmetic belongs in the technical notes. The paper-level point is simpler: FSW and SWU preserve the same symbol identity and coordinate model through different character strategies.
 
 ## Character inventory at a glance
 
@@ -118,63 +120,23 @@ SWU: 𝠀񀀒񀀚񋚥񋛩𝠃𝤟𝤩񋛩𝣵𝤐񀀒𝤇𝣤񋚥𝤐𝤆񀀚�
 
 These examples matter because they show continuity of model across two different character strategies.
 
-## Symbol conversion logic
+## Conversion logic
 
-At the symbol level, conversion is systematic rather than ad hoc.
+Conversion is systematic rather than ad hoc.
 
-For an FSW key such as `S10000`:
+At the paper level, three facts matter most:
 
-- the base is `100`
-- the fill is `0`
-- the rotation is `0`
+- base symbol identity is preserved
+- fill and rotation are preserved
+- coordinates remain text rather than external metadata
 
-The SWU codepoint is derived from those three parts in two steps:
-
-```text
-id = ((base - 0x100) * 96) + (fill * 16) + rotation + 1
-code point = U+40000 + id
-```
-
-For `S10000`, that gives:
-
-- `id = 1`
-- `code point = U+40001`
-
-That formula is one reason SWU should still be understood as an encoding layer rather than as a rendering layer.
+That is enough to keep conversion inside the encoding layer rather than the rendering layer.
 
 ## Numbers and coordinates
 
-Both encodings use the same restricted numeric space for coordinates:
+Both encodings use the same restricted numeric space for coordinates.
 
-- minimum value: `250`
-- maximum value: `749`
-- total number space: `500` values
-
-In SWU, each one of those values maps to a dedicated Unicode number character:
-
-```text
-code point = U+1D80C + (value - 250)
-```
-
-So the range is explicit:
-
-```text
-250 -> U+1D80C
-500 -> U+1D906
-749 -> U+1D9FF
-```
-
-In FSW, a coordinate is written as:
-
-```text
-525x535
-```
-
-In SWU, the same coordinate is carried by two Unicode number characters, one for `x` and one for `y`, with no literal `x` separator:
-
-```text
-525x535 -> U+1D91F U+1D929
-```
+In FSW, a coordinate is written with decimal digits and an `x` separator. In SWU, the same coordinate is carried by dedicated Unicode number characters.
 
 This matters because spatial writing becomes processable only when coordinates remain part of the text model rather than external metadata.
 
@@ -210,7 +172,7 @@ That distinction protects the technical architecture from being flattened into d
 
 ## Core boundary
 
-- **FSW and SWU** are core encodings of Formal SignWriting text, with FSW commonly canonical in processing and SWU supported for Unicode-oriented interchange
+- **FSW and SWU** are core encodings of Formal SignWriting text, with FSW commonly used as the canonical processing form and SWU supported for Unicode-oriented interchange
 - **the style string** is an optional presentation layer and not part of the canonical encoding itself
 
 ## Standards references
@@ -218,4 +180,3 @@ That distinction protects the technical architecture from being flattened into d
 - [ISO 15924 code list](https://unicode.org/iso15924/iso15924-codes.html)
 - [IANA language subtag registry](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
 - [RFC 5646 / BCP 47 language tags](https://www.rfc-editor.org/rfc/rfc5646)
-

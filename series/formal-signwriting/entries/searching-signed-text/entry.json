@@ -5,24 +5,20 @@
   "subtitle": "Query language, matching, ranges, variance, and search logic",
   "summary": "Canonical statement of query language, matching, ranges, variance, and signed-text search.",
   "synopsis": "Formal SignWriting supports serious search because its query language, matching logic, ranges, and variance rules can be treated as part of a coherent technical model. This entry states the matching layer in its smallest stable form and shows how signed text becomes searchable without confusing search with grammar or rendering.",
-  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-  "cover_image_alt": "Cover image for Searching Signed Text in the Formal SignWriting series.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "technical-paper",
+    "public_label": "Technical Paper",
+    "public_slug": "primary",
+    "publication_designation": "Technical Paper"
+  },
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
-    "slug": "technical-notes"
-  },
-  "publication_plan": {
-    "series": "Formal SignWriting",
-    "artifact_types": [
-      "presentation",
-      "essay",
-      "technical-notes"
-    ],
-    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
-    "zenodo_record_title_suggestion": "Searching Signed Text: Query Language, Matching, Ranges, Variance, and Search Logic",
-    "citation_stub": "Slevinski, S. (2026). Searching Signed Text: Query Language, Matching, Ranges, Variance, and Search Logic. Formal SignWriting."
+    "slug": "technical-notes",
+    "artifact_type": "technical-notes",
+    "publication_designation": "Technical Notes"
   },
   "slides": [
     {
@@ -30,8 +26,6 @@
       "title": "Search Is Part of the Model",
       "kicker": "1",
       "summary": "Search is a first-class technical consequence of the model rather than an afterthought.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for search in Formal SignWriting.",
       "image_prompts": {
         "concrete": "Technical search architecture slide showing Formal SignWriting text, query strings, and result matching across a corpus, clean software-research style",
         "abstract": "Encoded signs radiating into structured search paths and results"
@@ -51,8 +45,6 @@
       "title": "A Query Language for Spatial Text",
       "kicker": "2",
       "summary": "Search needs a compact syntax that can express exact, general, and location-aware requests.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for a query language for signed text.",
       "image_prompts": {
         "concrete": "Search syntax slide showing query fragments for temporal prefix, signbox, and coordinate-aware search, precise educational layout",
         "abstract": "Compact search language branching into multiple kinds of request"
@@ -72,8 +64,6 @@
       "title": "Tolerance Without Vagueness",
       "kicker": "3",
       "summary": "Search becomes practical when it can tolerate controlled variation without collapsing into vagueness.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for search ranges and variance.",
       "image_prompts": {
         "concrete": "Technical search slide illustrating exact match, range match, and coordinate variance around a sign, clean corpus-research style",
         "abstract": "A tight search radius expanding carefully without losing shape"
@@ -93,8 +83,6 @@
       "title": "Search Is a Reproducible Pipeline",
       "kicker": "4",
       "summary": "Search is a pipeline that turns encoded text into structured matching behavior.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for text to query to results.",
       "bullets": [
         "Text to query",
         "Query to regular expression",

@@ -1,28 +1,24 @@
 {
   "slug": "rendering-formal-signwriting",
-  "number": 6,
+  "number": 7,
   "title": "Rendering Formal SignWriting",
   "subtitle": "SVG, fonts, layout, and output models",
   "summary": "Canonical statement of SVG, fonts, layout, and output models kept distinct from canonical text.",
   "synopsis": "Formal SignWriting needs a clear distinction between canonical text and presentation layer. This entry states the rendering layer in its smallest stable form and explains SVG, fonts, standalone graphics, and web layout as rendering consequences of the model, while keeping styling as a separate presentation topic.",
-  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-  "cover_image_alt": "Cover image for Rendering Formal SignWriting in the Formal SignWriting series.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "technical-paper",
+    "public_label": "Technical Paper",
+    "public_slug": "primary",
+    "publication_designation": "Technical Paper"
+  },
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
-    "slug": "technical-notes"
-  },
-  "publication_plan": {
-    "series": "Formal SignWriting",
-    "artifact_types": [
-      "presentation",
-      "essay",
-      "technical-notes"
-    ],
-    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
-    "zenodo_record_title_suggestion": "Rendering Formal SignWriting: Styling, SVG, Fonts, and Web Output",
-    "citation_stub": "Slevinski, S. (2026). Rendering Formal SignWriting: Styling, SVG, Fonts, and Web Output. Formal SignWriting."
+    "slug": "technical-notes",
+    "artifact_type": "technical-notes",
+    "publication_designation": "Technical Notes"
   },
   "slides": [
     {
@@ -30,8 +26,6 @@
       "title": "Rendering Is Downstream",
       "kicker": "1",
       "summary": "Rendering is a technical consequence of the model rather than the model itself.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for rendering as a layer.",
       "image_prompts": {
         "concrete": "Technical rendering slide showing encoded text becoming SVG and browser output, clean academic software style, white background",
         "abstract": "Structured sign text resolving into visible graphical form"
@@ -51,8 +45,6 @@
       "title": "Multiple Output Paths, One Source Text",
       "kicker": "2",
       "summary": "Rendering needs practical output models that preserve copyable text and visible form together.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for multiple rendering output paths.",
       "image_prompts": {
         "concrete": "Rendering architecture slide showing one Formal SignWriting source producing font based SVG, standalone SVG, and PNG outputs, elegant technical style",
         "abstract": "One source text unfolding into several visible output formats"
@@ -72,8 +64,6 @@
       "title": "Layout Is Where Rendering Gets Real",
       "kicker": "3",
       "summary": "Rendering has to solve layout questions that arise from vertical writing, sign sizing, and lane alignment.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for lane-aware layout and rendering.",
       "image_prompts": {
         "concrete": "Web layout slide showing vertical columns of SignWriting with lanes, centering, and responsive page behavior, clean publication-quality design",
         "abstract": "Vertical sign text finding order and balance on a page"
@@ -93,8 +83,6 @@
       "title": "Rendering Needs a Boundary",
       "kicker": "4",
       "summary": "A strong rendering architecture preserves canonical text while allowing multiple output strategies.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for rendering boundaries.",
       "bullets": [
         "Do not confuse rendering with encoding",
         "Do not confuse rendering with styling",

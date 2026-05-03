@@ -48,7 +48,7 @@ That middle work often includes:
 - preparing repository-facing outputs
 - repeating the process when updates are required
 
-This is the messy middle of research data work.
+This is the workflow implementation layer of research data work.
 
 The DMS Plan only becomes meaningful when this middle layer is understood and supported.
 
@@ -353,7 +353,7 @@ That means:
 - helping build the structure in between
 - supporting both workflow design and actual delivery
 
-In short, this role helps bridge the messy middle.
+In short, this role helps bridge the workflow implementation layer.
 
 This matters because many projects do not fail for lack of scientific purpose.
 
@@ -383,4 +383,3 @@ This work helps researchers and project teams:
 - deliver to the repository of choice
 
 That is why this work matters.
-

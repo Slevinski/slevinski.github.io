@@ -38,6 +38,38 @@ This compact example shows several ideas at once:
 - it can add whole-sign class and id style hooks
 - the underlying symbol key is still `S10000`
 
+## Style string syntax
+
+The compact example can be read as:
+
+```text
+S10000 - C P10 G_blue_ D_red,Cyan_ Z1.1 -- primary ! cursor !
+```
+
+At the paper level, the useful syntax model is:
+
+```text
+target "-" style-directives ("--" css-class)? ("!" id-value "!")?
+```
+
+The initial target identifies what is being styled. It may be a whole sign, a symbol key, or another supported output target depending on the renderer.
+
+The directives are compact presentation commands:
+
+| Directive | Meaning |
+| --- | --- |
+| `C` | colorize the sign or target using default color behavior |
+| `P10` | apply padding of `10` units |
+| `G_blue_` | set the line or primary glyph color to `blue` |
+| `D_red,Cyan_` | set two-color output values, commonly line and fill colors |
+| `Z1.1` | scale output by `1.1` |
+| `--primary` | add a CSS class hook |
+| `!cursor!` | add an id hook |
+
+This is a compact renderer-facing language rather than canonical sign grammar.
+
+The exact accepted directive set belongs in implementation reference material, but a publication entry should state enough syntax for readers to understand that the style string is structured, parseable, and separate from FSW or SWU text.
+
 ## Whole-sign customization
 
 The style string can describe appearance for an entire sign.
@@ -111,4 +143,3 @@ Separating styling from encoding and rendering keeps the central distinction cle
 - styling customizes the presentation of that rendering
 
 The style string can change how a sign is shown, but it does not change what sign text is being encoded.
-

@@ -5,40 +5,27 @@
   "subtitle": "The two-part word, sign text, and the core model",
   "summary": "Canonical opening statement of the two-part word and of sign text that software can store, search, check, and process.",
   "synopsis": "Formal SignWriting models a sign as a structured word with a required spatial signbox and an optional temporal prefix. This opening entry states the core model in its smallest stable form and shows how theory-based sequence and spatial composition survive together in one text form that software can work with.",
-  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-  "cover_image_alt": "Cover image for Formal SignWriting in the Formal SignWriting series.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "technical-paper",
+    "public_label": "Technical Paper",
+    "public_slug": "primary",
+    "publication_designation": "Technical Paper"
+  },
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
-    "slug": "technical-notes"
+    "slug": "technical-notes",
+    "artifact_type": "technical-notes",
+    "publication_designation": "Technical Notes"
   },
-  "publication_plan": {
-    "series": "Formal SignWriting",
-    "artifact_types": [
-      "presentation",
-      "essay",
-      "technical-notes"
-    ],
-    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
-    "zenodo_record_title_suggestion": "Formal SignWriting: The Two-Part Word, Spatial Text, and the Core Model",
-    "citation_stub": "Slevinski, S. (2026). Formal SignWriting: The Two-Part Word, Spatial Text, and the Core Model. Formal SignWriting."
-  },
-  "related_identifiers": [
-    {
-      "relation": "is-related-to",
-      "target": "Formal SignWriting Internet-Draft DOI",
-      "note": "The Internet-Draft remains a related historical artifact rather than the primary living home."
-    }
-  ],
   "slides": [
     {
       "id": "technical-home",
       "title": "Formal SignWriting as Sign Text",
       "kicker": "1",
       "summary": "Formal SignWriting treats written sign as text that can be stored and processed, not only displayed.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for Formal SignWriting as a technical home.",
       "image_prompts": {
         "concrete": "Scholarly technical title slide showing a SignWriting signbox, structured code text, and a clear spatial text architecture, white background, elegant and modern",
         "abstract": "A spatial sign crystallizing into one durable textual form, calm and academic"
@@ -58,8 +45,6 @@
       "title": "A Sign Is a Two-Part Word",
       "kicker": "2",
       "summary": "The central explanatory move is simple: a sign is a two-part word of time and space.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the two-part word model.",
       "image_prompts": {
         "concrete": "Clean technical diagram showing one Formal SignWriting word split into temporal prefix and spatial signbox, white background, standards-style clarity",
         "abstract": "One encoded word dividing into a linear stream and a spatial field, scholarly and precise"
@@ -79,8 +64,6 @@
       "title": "Time and Space Survive Together",
       "kicker": "3",
       "summary": "Formal SignWriting works because it does not force spatial writing into a purely linear account.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for time and space in Formal SignWriting.",
       "image_prompts": {
         "concrete": "Academic comparison slide showing what is lost in sequence-only versus space-only representations and what is preserved by Formal SignWriting, restrained modern design",
         "abstract": "Two incomplete halves joining into one complete technical model of writing"
@@ -100,8 +83,6 @@
       "title": "The Technical Order",
       "kicker": "4",
       "summary": "Once the two-part word is clear, the rest of the model follows in a stable technical order.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the Formal SignWriting series architecture.",
       "image_prompts": {
         "concrete": "Technical roadmap graphic showing the two-part word leading to encoding, geometry, grammar, search, rendering, styling, and implementation, clean academic diagram",
         "abstract": "One core idea branching into a complete technical architecture"

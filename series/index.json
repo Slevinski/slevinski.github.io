@@ -6,18 +6,188 @@
       "subtitle": "Data management, workflow design, and repository delivery",
       "description": "A series for operational DMS planning, data workflow design, and the path from project systems to repository-ready delivery.",
       "accepting_entries": true,
+      "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "operations-and-workflow-series",
       "entries": [
         {
+          "slug": "overview",
+          "number": 0,
+          "title": "DMS Plan Overview",
+          "subtitle": "Data management, workflow design, and repository delivery",
+          "summary": "Overview entry for the DMS Plan series and its operational workflow materials.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
           "slug": "data-management-and-sharing-plan",
-          "legacy_slugs": [],
           "number": 1,
           "title": "Data Management and Sharing Plan",
           "subtitle": "From project systems to repository delivery",
           "summary": "An operational workflow entry showing how DMS planning becomes real work from source systems to structured data and repository delivery, with a live Builder-plus-review service that helps teams start, update, and review plans.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "workflow-brief",
+            "public_label": "Guide",
+            "public_slug": "primary",
+            "publication_designation": "Workflow Document"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "workflow-brief",
+            "public_label": "Guide",
+            "public_slug": "primary",
+            "publication_designation": "Workflow Document"
+          },
           "slide_count": 12,
+          "companion_documents": []
+        }
+      ]
+    },
+    {
+      "slug": "evidence-and-adoption",
+      "title": "Sutton SignWriting Evidence and Adoption",
+      "subtitle": "Documented use, institutional proof points, lineages, and empirical anchors for SignWriting in practice",
+      "description": "A series for the empirical lane of the Sutton SignWriting platform: documented communities, institutions, proof points, adoption evidence, and evidence boundaries that show where SignWriting is real in practice without overstating outcome claims.",
+      "accepting_entries": true,
+      "about_doc": "README.md",
+      "home_doc": "README.md",
+      "kind": "evidence-series",
+      "entries": [
+        {
+          "slug": "overview",
+          "number": 0,
+          "title": "Sutton SignWriting Evidence and Adoption Overview",
+          "subtitle": "Documented use, institutional proof points, and evidence boundaries",
+          "summary": "Overview entry for the empirical lane of the Sutton SignWriting platform.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "brazil-as-the-empirical-center-of-signwriting",
+          "number": 1,
+          "title": "Brazil as the Empirical Center of SignWriting",
+          "subtitle": "Documented institutional density, research opportunity, and why Brazil matters",
+          "summary": "Primary country anchor for the Sutton SignWriting Evidence and Adoption series.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Research Brief"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Research Brief"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "south-korea-as-a-current-institutional-proof-point",
+          "number": 2,
+          "title": "South Korea as a Current Institutional Proof Point",
+          "subtitle": "National dictionary publication, current institutional use, and why Korea matters now",
+          "summary": "Current institutional proof-point anchor for the Sutton SignWriting Evidence and Adoption series.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Research Brief"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Research Brief"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "evidence-boundaries-and-adoption-limits",
+          "number": 3,
+          "title": "Evidence Boundaries and Adoption Limits",
+          "subtitle": "What current evidence supports, what remains open, and what resistance still needs documentation",
+          "summary": "Evidence-boundary entry for the Sutton SignWriting Evidence and Adoption series.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "evidence-note",
+            "public_label": "Evidence Note",
+            "public_slug": "primary",
+            "publication_designation": "Evidence Note"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "evidence-note",
+            "public_label": "Evidence Note",
+            "public_slug": "primary",
+            "publication_designation": "Evidence Note"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "what-the-current-evidence-base-shows",
+          "number": 4,
+          "title": "What the Current Evidence Base Shows",
+          "subtitle": "Strong evidence, partial evidence, and how to read SignWriting adoption claims",
+          "summary": "A synthesis brief distinguishing strong, partial, and still-open evidence for SignWriting adoption and infrastructure claims.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Synthesis Brief"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Synthesis Brief"
+          },
+          "slide_count": 0,
           "companion_documents": []
         }
       ]
@@ -25,342 +195,1101 @@
     {
       "slug": "formal-signwriting",
       "title": "Formal SignWriting",
-      "subtitle": "Plain-text encodings, grammar, search, rendering, styling, and implementation of written sign text",
-      "description": "A technical publication series on the Formal SignWriting model for sign text that can be stored, searched, checked, and processed by software, with a clear distinction between canonical text and presentation markup.",
+      "subtitle": "Plain-text encodings, grammar, search, layout, rendering, styling, and implementation of written sign text",
+      "description": "A technical publication series on the Formal SignWriting model for sign text that can be stored, searched, checked, laid out, rendered, and processed by software, with a clear distinction between canonical text, layout, and presentation markup.",
       "accepting_entries": true,
+      "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "technical-and-publication-series",
       "entries": [
         {
+          "slug": "overview",
+          "number": 0,
+          "title": "Formal SignWriting Overview",
+          "subtitle": "Plain-text encodings, grammar, search, rendering, styling, and implementation",
+          "summary": "Overview entry for the technical Formal SignWriting series.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
           "slug": "formal-signwriting",
-          "legacy_slugs": [],
           "number": 1,
           "title": "Formal SignWriting",
           "subtitle": "The two-part word, sign text, and the core model",
           "summary": "Canonical opening statement of the two-part word and of sign text that software can store, search, check, and process.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
           "slide_count": 4,
           "companion_documents": [
             {
               "file": "technical-notes.md",
               "label": "Technical Notes",
-              "slug": "technical-notes"
+              "slug": "technical-notes",
+              "artifact_type": "technical-notes",
+              "publication_designation": "Technical Notes"
             }
           ]
         },
         {
           "slug": "fsw-and-swu",
-          "legacy_slugs": [],
           "number": 2,
           "title": "FSW and SWU",
           "subtitle": "Plain-text encodings, character sets, and conversion",
           "summary": "Plain-text encodings, explicit character inventories, conversion, and canonical text boundaries.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
           "slide_count": 6,
           "companion_documents": [
             {
               "file": "technical-notes.md",
               "label": "Technical Notes",
-              "slug": "technical-notes"
+              "slug": "technical-notes",
+              "artifact_type": "technical-notes",
+              "publication_designation": "Technical Notes"
             }
           ]
         },
         {
           "slug": "the-shape-of-a-sign",
-          "legacy_slugs": [],
           "number": 3,
           "title": "The Shape of a Sign",
           "subtitle": "Symbols, coordinates, centering, and the signbox",
           "summary": "Canonical statement of symbols, coordinates, centering, and signbox structure.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
           "slide_count": 4,
           "companion_documents": [
             {
+              "file": "plane-writing-technical-bridge.md",
+              "label": "Plane Writing Technical Bridge",
+              "slug": "plane-writing-technical-bridge",
+              "artifact_type": "technical-bridge",
+              "publication_designation": "Technical Bridge"
+            },
+            {
               "file": "technical-notes.md",
               "label": "Technical Notes",
-              "slug": "technical-notes"
+              "slug": "technical-notes",
+              "artifact_type": "technical-notes",
+              "publication_designation": "Technical Notes"
             }
           ]
         },
         {
           "slug": "grammar-of-formal-signwriting",
-          "legacy_slugs": [],
           "number": 4,
           "title": "Grammar of Formal SignWriting",
           "subtitle": "Token patterns, syntax, and valid structure",
           "summary": "Token patterns, syntax, regular expressions, and well-formed Formal SignWriting text.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
           "slide_count": 4,
           "companion_documents": [
             {
               "file": "technical-notes.md",
               "label": "Technical Notes",
-              "slug": "technical-notes"
+              "slug": "technical-notes",
+              "artifact_type": "technical-notes",
+              "publication_designation": "Technical Notes"
             }
           ]
         },
         {
           "slug": "searching-signed-text",
-          "legacy_slugs": [],
           "number": 5,
           "title": "Searching Signed Text",
           "subtitle": "Query language, matching, ranges, variance, and search logic",
           "summary": "Canonical statement of query language, matching, ranges, variance, and signed-text search.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
           "slide_count": 4,
           "companion_documents": [
             {
               "file": "technical-notes.md",
               "label": "Technical Notes",
-              "slug": "technical-notes"
+              "slug": "technical-notes",
+              "artifact_type": "technical-notes",
+              "publication_designation": "Technical Notes"
             }
           ]
         },
         {
-          "slug": "rendering-formal-signwriting",
-          "legacy_slugs": [],
+          "slug": "sign-text-layout",
           "number": 6,
+          "title": "Sign Text Layout",
+          "subtitle": "Vertical writing, horizontal writing, lanes, centering, and reading levels",
+          "summary": "Canonical statement of sign text layout for vertical and horizontal writing, including lanes, centering strategy, and SW1-SW4 reading-level defaults.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
+          "slide_count": 1,
+          "companion_documents": []
+        },
+        {
+          "slug": "rendering-formal-signwriting",
+          "number": 7,
           "title": "Rendering Formal SignWriting",
           "subtitle": "SVG, fonts, layout, and output models",
           "summary": "Canonical statement of SVG, fonts, layout, and output models kept distinct from canonical text.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
           "slide_count": 4,
           "companion_documents": [
             {
               "file": "technical-notes.md",
               "label": "Technical Notes",
-              "slug": "technical-notes"
+              "slug": "technical-notes",
+              "artifact_type": "technical-notes",
+              "publication_designation": "Technical Notes"
             }
           ]
         },
         {
           "slug": "styling-signs",
-          "legacy_slugs": [],
-          "number": 7,
+          "number": 8,
           "title": "Styling Signs",
           "subtitle": "The style string as light markup for customization and rich presentation",
           "summary": "The style string as optional light markup for customization and rich presentation.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
           "slide_count": 4,
           "companion_documents": [
             {
               "file": "technical-notes.md",
               "label": "Technical Notes",
-              "slug": "technical-notes"
+              "slug": "technical-notes",
+              "artifact_type": "technical-notes",
+              "publication_designation": "Technical Notes"
             }
           ]
         },
         {
           "slug": "formal-signwriting-in-practice",
-          "legacy_slugs": [],
-          "number": 8,
+          "number": 9,
           "title": "Formal SignWriting in Practice",
           "subtitle": "Libraries, datasets, transformations, and implementation pathways",
           "summary": "Canonical statement of libraries, datasets, transformations, and real implementation pathways.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-paper",
+            "public_label": "Technical Paper",
+            "public_slug": "primary",
+            "publication_designation": "Technical Paper"
+          },
           "slide_count": 4,
           "companion_documents": [
             {
+              "file": "encoding-history.md",
+              "label": "Encoding History",
+              "slug": "encoding-history",
+              "artifact_type": "historical-notes",
+              "publication_designation": "Historical Notes"
+            },
+            {
               "file": "technical-notes.md",
               "label": "Technical Notes",
-              "slug": "technical-notes"
+              "slug": "technical-notes",
+              "artifact_type": "technical-notes",
+              "publication_designation": "Technical Notes"
             }
           ]
         }
       ]
     },
     {
-      "slug": "sutton-signwriting-infrastructure-initiative",
-      "title": "Sutton SignWriting Infrastructure Initiative",
-      "subtitle": "Infrastructure, partnership, and sustainability materials",
-      "description": "A series for collaboration, institutional support, international partnership, and long-term SignWriting infrastructure framing.",
+      "slug": "foundations",
+      "title": "Sutton SignWriting Foundations",
+      "subtitle": "Language, literacy, writing, and the core conceptual argument for SignWriting",
+      "description": "A public conceptual series for the core Sutton SignWriting argument: language is not sound, writing is not only a line, and signed languages need durable written pathways of their own.",
       "accepting_entries": true,
+      "about_doc": "README.md",
+      "home_doc": "README.md",
+      "kind": "public-conceptual-series",
+      "entries": [
+        {
+          "slug": "start-here",
+          "number": 1,
+          "title": "Start Here",
+          "subtitle": "What Sutton SignWriting is, why it matters, and where to go next",
+          "summary": "Plain-language orientation to Sutton SignWriting, the Sutton SignWriting Foundations series, and the core public argument.",
+          "essay": "orientation.md",
+          "primary_artifact": {
+            "file": "orientation.md",
+            "artifact_type": "orientation",
+            "public_label": "Orientation",
+            "public_slug": "primary",
+            "publication_designation": "Orientation"
+          },
+          "primaryArtifact": {
+            "file": "orientation.md",
+            "artifact_type": "orientation",
+            "public_label": "Orientation",
+            "public_slug": "primary",
+            "publication_designation": "Orientation"
+          },
+          "slide_count": 9,
+          "companion_documents": []
+        },
+        {
+          "slug": "language-without-sound",
+          "number": 2,
+          "title": "Language Without Sound",
+          "subtitle": "Brain networks, pathway expansion, literacy, and the case for SignWriting infrastructure",
+          "summary": "A Sutton SignWriting Foundations working paper arguing that language is not reducible to sound, literacy is a durable symbolic layer, and SignWriting offers a native-facing written pathway for signed languages.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 14,
+          "companion_documents": []
+        },
+        {
+          "slug": "the-shape-of-writing",
+          "number": 3,
+          "title": "The Shape of Writing",
+          "subtitle": "Why signed writing does not need to fit into a line",
+          "summary": "A Sutton SignWriting Foundations working paper arguing that writing is not inherently linear and that SignWriting is a strong case of plane-based writing.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 12,
+          "companion_documents": []
+        }
+      ]
+    },
+    {
+      "slug": "infrastructure-and-program",
+      "title": "Sutton SignWriting Infrastructure and Program",
+      "subtitle": "Continuity, stewardship, support structure, and the practical program behind the Sutton SignWriting platform",
+      "description": "A series for the stewardship and program lane of the Sutton SignWriting platform: support models, continuity needs, infrastructure reality, international participation, country-level coordination, and the institutional structures that make the work cumulative.",
+      "accepting_entries": true,
+      "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "infrastructure-series",
       "entries": [
         {
-          "slug": "executive-brief",
-          "legacy_slugs": [],
-          "number": 1,
-          "title": "Executive Brief",
-          "subtitle": "Sutton SignWriting as research infrastructure",
-          "summary": "A concise forwardable entry that states the mission, support gap, and opportunity around Sutton SignWriting.",
+          "slug": "overview",
+          "number": 0,
+          "title": "Sutton SignWriting Infrastructure and Program Overview",
+          "subtitle": "Continuity, stewardship, support structure, and program design",
+          "summary": "Overview entry for the support, continuity, and stewardship lane of the Sutton SignWriting platform.",
           "essay": "essay.md",
-          "slide_count": 8,
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "slide_count": 0,
           "companion_documents": []
         },
         {
-          "slug": "initiative-overview",
-          "legacy_slugs": [],
-          "number": 2,
-          "title": "Initiative Overview",
-          "subtitle": "What already exists, why it matters now, and where collaboration fits",
-          "summary": "A collaboration-facing overview of the program lanes, evidence base, and institutional value around Sutton SignWriting.",
+          "slug": "executive-brief",
+          "number": 1,
+          "title": "Executive Brief",
+          "subtitle": "Sutton SignWriting as research infrastructure",
+          "summary": "First support-facing anchor for the Sutton SignWriting Infrastructure and Program series.",
           "essay": "essay.md",
-          "slide_count": 6,
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Research Brief"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Research Brief"
+          },
+          "slide_count": 0,
           "companion_documents": []
         },
         {
           "slug": "infrastructure-and-stewardship",
-          "legacy_slugs": [],
-          "number": 3,
+          "number": 2,
           "title": "Infrastructure and Stewardship",
           "subtitle": "Confirmed assets, current risks, and the case for stronger institutional support",
-          "summary": "An entry showing Sutton SignWriting as existing infrastructure with real assets, active maintenance, and identifiable support risks.",
+          "summary": "Second support-facing anchor for the Sutton SignWriting Infrastructure and Program series.",
           "essay": "essay.md",
-          "slide_count": 11,
-          "companion_documents": [
-            {
-              "file": "snapshot.md",
-              "label": "Snapshot",
-              "slug": "snapshot"
-            }
-          ]
-        },
-        {
-          "slug": "brazil-as-the-empirical-center-of-signwriting",
-          "legacy_slugs": [],
-          "number": 4,
-          "title": "Brazil as the Empirical Center of SignWriting",
-          "subtitle": "Documented institutional density, research opportunity, and why Brazil matters",
-          "summary": "A compact evidence brief showing why Brazil is the strongest documented empirical center for SignWriting use, instruction, and future research.",
-          "essay": "essay.md",
-          "slide_count": 7,
-          "companion_documents": [
-            {
-              "file": "evidence-notes.md",
-              "label": "Evidence Notes",
-              "slug": "evidence-notes"
-            },
-            {
-              "file": "symposium-review.md",
-              "label": "Symposium Review",
-              "slug": "symposium-review"
-            },
-            {
-              "file": "key-works.md",
-              "label": "Key Works",
-              "slug": "key-works"
-            }
-          ]
-        },
-        {
-          "slug": "south-korea-as-a-current-institutional-proof-point",
-          "legacy_slugs": [],
-          "number": 5,
-          "title": "South Korea as a Current Institutional Proof Point",
-          "subtitle": "National dictionary publication, current institutional use, and why Korea matters now",
-          "summary": "A compact evidence brief showing that SignWriting is already present inside a public Korean Sign Language dictionary published by the National Institute of Korean Language.",
-          "essay": "essay.md",
-          "slide_count": 7,
-          "companion_documents": [
-            {
-              "file": "evidence-notes.md",
-              "label": "Evidence Notes",
-              "slug": "evidence-notes"
-            }
-          ]
-        },
-        {
-          "slug": "research-program-for-literacy-without-sound",
-          "legacy_slugs": [],
-          "number": 6,
-          "title": "Research Program for Literacy Without Sound",
-          "subtitle": "What could be studied next, why Brazil matters, and what support would make it possible",
-          "summary": "A practical brief that turns the science framing into a buildable SignWriting research program without turning the project into a comparison contest.",
-          "essay": "essay.md",
-          "slide_count": 11,
-          "companion_documents": [
-            {
-              "file": "program-notes.md",
-              "label": "Program Notes",
-              "slug": "program-notes"
-            }
-          ]
-        },
-        {
-          "slug": "other-sign-language-scripts-and-their-conceptions",
-          "legacy_slugs": [],
-          "number": 7,
-          "title": "Other Sign Language Scripts and Their Conceptions",
-          "subtitle": "ASL-phabet, HamNoSys, ASLwrite, and what they imply about written sign language",
-          "summary": "A concise infrastructure-facing entry naming a few prominent sign-language script conceptions without turning them into the center of the SignWriting case.",
-          "essay": "essay.md",
-          "slide_count": 8,
-          "companion_documents": [
-            {
-              "file": "comparison-notes.md",
-              "label": "Comparison Notes",
-              "slug": "comparison-notes"
-            }
-          ]
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "white-paper",
+            "public_label": "White Paper",
+            "public_slug": "primary",
+            "publication_designation": "White Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "white-paper",
+            "public_label": "White Paper",
+            "public_slug": "primary",
+            "publication_designation": "White Paper"
+          },
+          "slide_count": 0,
+          "companion_documents": []
         },
         {
           "slug": "international-shared-support",
-          "legacy_slugs": [],
-          "number": 8,
+          "number": 3,
           "title": "International Shared Support",
-          "subtitle": "How international partners can help keep the system stable and connected",
-          "summary": "An international support model combining University of Iowa backing, partner relationships, and country ambassadors.",
+          "subtitle": "Institutional backing, international participation, and shared continuity for Sutton SignWriting",
+          "summary": "A support model for sustaining Sutton SignWriting as shared international language infrastructure rather than a single-maintainer project.",
           "essay": "essay.md",
-          "slide_count": 5,
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Program Brief"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Program Brief"
+          },
+          "slide_count": 3,
           "companion_documents": []
         },
         {
           "slug": "country-ambassadors",
-          "legacy_slugs": [],
-          "number": 9,
+          "number": 4,
           "title": "Country Ambassadors",
           "subtitle": "Country-level outreach, translation, and local relationship-building",
-          "summary": "A volunteer-first country ambassador model for trusted local outreach, translation, and early relationship-building.",
+          "summary": "A volunteer-first ambassador model for local outreach, translation, relationship-building, and support documentation.",
           "essay": "essay.md",
-          "slide_count": 11,
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Program Brief"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Program Brief"
+          },
+          "slide_count": 3,
+          "companion_documents": []
+        },
+        {
+          "slug": "institutional-home-and-host-requirements",
+          "number": 5,
+          "title": "Institutional Home and Host Requirements",
+          "subtitle": "What a durable home for Sutton SignWriting infrastructure would need to provide",
+          "summary": "A generalized public entry describing the functions a university, lab, institute, nonprofit, or consortium would need to provide in order to house Sutton SignWriting responsibly.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Program Brief"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Program Brief"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "infrastructure-core-and-philanthropy",
+          "number": 6,
+          "title": "Infrastructure Core and Philanthropy",
+          "subtitle": "A support model for staffing, translation, coordination, and continuity",
+          "summary": "A generalized public entry describing how a focused SignWriting infrastructure core and philanthropic support could stabilize existing tools, standards, data, and international access work.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Program Brief"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Program Brief"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "relevant-precedents-for-signwriting-infrastructure",
+          "number": 7,
+          "title": "Relevant Precedents for SignWriting Infrastructure",
+          "subtitle": "What comparable archive, language, data, and research-infrastructure models suggest",
+          "summary": "A public precedent entry showing that SignWriting follows a recognizable infrastructure path: mature assets first, institutional anchoring second, staffing and support next, and grants or philanthropy after that.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Program Brief"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "brief",
+            "public_label": "Brief",
+            "public_slug": "primary",
+            "publication_designation": "Program Brief"
+          },
+          "slide_count": 0,
           "companion_documents": []
         }
       ]
     },
     {
-      "slug": "the-science-of-sutton-signwriting",
-      "title": "The Science of Sutton SignWriting",
-      "subtitle": "Language, literacy, brain pathways, and SignWriting as research infrastructure",
-      "description": "A research series on the science of signed language, written sign, literacy, and the infrastructure needed to study them well.",
+      "slug": "language-and-literacy-research",
+      "title": "Sutton SignWriting Language and Literacy Research",
+      "subtitle": "Developmental pathways, literacy layering, reading questions, and research-program design",
+      "description": "A research-facing series for the harder language, literacy, reading, and study-design questions opened by signed-language writing.",
       "accepting_entries": true,
+      "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "research-series",
       "entries": [
         {
-          "slug": "language-without-sound",
-          "legacy_slugs": [],
-          "number": 1,
-          "title": "Language Without Sound",
-          "subtitle": "Brain networks, pathway expansion, literacy, and the case for SignWriting infrastructure",
-          "summary": "Entry 1 in The Science of Sutton SignWriting series.",
+          "slug": "overview",
+          "number": 0,
+          "title": "Sutton SignWriting Language and Literacy Research Overview",
+          "subtitle": "Developmental pathways, literacy layering, reading questions, and signed-language research",
+          "summary": "Overview entry for the research-facing language and literacy lane of the Sutton SignWriting platform.",
           "essay": "essay.md",
-          "slide_count": 14,
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "the-four-language-pathways",
+          "number": 1,
+          "title": "The Four Language Pathways",
+          "subtitle": "A developmental model of language, literacy, and signed-language writing",
+          "summary": "Opening model paper for the Sutton SignWriting Language and Literacy Research series.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "reading-signed-text",
+          "number": 2,
+          "title": "Reading Signed Text",
+          "subtitle": "Recognition, syntax, and spatial reference in signed-language literacy",
+          "summary": "Second research-facing paper for the Sutton SignWriting Language and Literacy Research series.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "research-program-for-literacy-without-sound",
+          "number": 3,
+          "title": "Research Program for Literacy Without Sound",
+          "subtitle": "Study design, materials, corpora, and the next empirical steps for signed-language literacy",
+          "summary": "Third research-facing anchor for the Sutton SignWriting Language and Literacy Research series: a SignWriting-centered program of early studies, materials work, and reusable research infrastructure.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "research-program",
+            "public_label": "Research Program",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "research-program",
+            "public_label": "Research Program",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
           "companion_documents": [
             {
-              "file": "evidence-notes.md",
-              "label": "Evidence Notes",
-              "slug": "evidence-notes"
+              "file": "evidence-and-model-notes.md",
+              "label": "Evidence and Model Notes",
+              "slug": "evidence-and-model-notes",
+              "artifact_type": "research-notes",
+              "publication_designation": "Research Notes"
+            },
+            {
+              "file": "program-notes.md",
+              "label": "Program Notes",
+              "slug": "program-notes",
+              "artifact_type": "program-notes",
+              "publication_designation": "Program Notes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "notebook",
+      "title": "Notebook",
+      "subtitle": "Working notes, conceptual fragments, and exploratory material that is valuable but not yet settled",
+      "description": "A low-prominence series for exploratory SignWriting notes, pathway sketches, conceptual fragments, and material that may later graduate into stronger public series.",
+      "accepting_entries": true,
+      "about_doc": "README.md",
+      "home_doc": "README.md",
+      "kind": "working-notes-series",
+      "entries": [
+        {
+          "slug": "overview",
+          "number": 0,
+          "title": "Notebook Overview",
+          "subtitle": "Working notes, conceptual fragments, and exploratory material",
+          "summary": "Overview entry for the low-prominence working-notes series.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "opening-note",
+          "number": 1,
+          "title": "Opening Note",
+          "subtitle": "Why this notebook exists and what belongs here",
+          "summary": "Opening entry for the Notebook series.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "working-note",
+            "public_label": "Note",
+            "public_slug": "primary",
+            "publication_designation": "Working Note"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "working-note",
+            "public_label": "Note",
+            "public_slug": "primary",
+            "publication_designation": "Working Note"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        }
+      ]
+    },
+    {
+      "slug": "signed-language-writing-critical-review",
+      "title": "Signed Language Writing Critical Review Series",
+      "subtitle": "Structure, encoding, and evaluation in signed language writing",
+      "description": "A structured review series for the Sutton SignWriting platform: readable standalone review papers on academic work, theses, standards, and proposals, supported by a deeper shared critique framework.",
+      "accepting_entries": true,
+      "about_doc": "README.md",
+      "home_doc": "README.md",
+      "kind": "literature-review-series",
+      "entries": [
+        {
+          "slug": "overview",
+          "number": 0,
+          "title": "Signed Language Writing Critical Review Series Overview",
+          "subtitle": "Scope, method, structure, reading paths, and future direction for the review series",
+          "summary": "Overview entry for the Signed Language Writing critical review series.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview-essay",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview-essay",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "slide_count": 0,
+          "companion_documents": [
+            {
+              "file": "start-here.md",
+              "label": "Start Here",
+              "slug": "start-here",
+              "artifact_type": "orientation-note",
+              "publication_designation": "Start Here Note"
             }
           ]
         },
         {
-          "slug": "the-shape-of-writing",
-          "legacy_slugs": [],
-          "number": 2,
-          "title": "The Shape of Writing",
-          "subtitle": "Why signed writing does not need to fit into a line",
-          "summary": "Writing is not inherently linear. This second science entry explains why SignWriting should be understood as plane-based writing rather than as a line script with unusual symbols.",
+          "slug": "a-unified-critique-framework-for-signed-language-writing-systems",
+          "number": 1,
+          "title": "A Unified Critique Framework for Signed Language Writing, Encoding, and Representation",
+          "subtitle": "A methodological guide for evaluating literature, proposals, and standards",
+          "summary": "A reusable evaluation framework for signed language writing systems, encodings, standards, and representation proposals.",
           "essay": "essay.md",
-          "slide_count": 12,
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "framework-essay",
+            "public_label": "Framework",
+            "public_slug": "primary",
+            "publication_designation": "Working Framework"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "framework-essay",
+            "public_label": "Framework",
+            "public_slug": "primary",
+            "publication_designation": "Working Framework"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "sutton-signwriting-and-formal-signwriting-through-the-framework",
+          "number": 2,
+          "title": "Sutton SignWriting and Formal SignWriting Through the Framework",
+          "subtitle": "A self-application of the review method to the writing system and its technical model",
+          "summary": "A framework-based analysis distinguishing SignWriting as the writing system from Formal SignWriting as its technical text model.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "framework-application-essay",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "framework-application-essay",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "a-layer-based-evaluation-of-signed-language-writing-systems",
+          "number": 3,
+          "title": "A Layer-Based Evaluation of Signed Language Writing Systems",
+          "subtitle": "A comparative demonstration across Filhol, Grushkin, Thiessen, and Unicode SignWriting",
+          "summary": "A bounded four-case comparison showing how layer discipline clarifies signed language writing, encoding, and standards claims.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "comparative-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "comparative-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
           "companion_documents": [
             {
-              "file": "technical-notes.md",
-              "label": "Technical Notes",
-              "slug": "technical-notes"
+              "file": "comparative-matrix.md",
+              "label": "Comparative Matrix",
+              "slug": "comparative-matrix",
+              "artifact_type": "comparative-matrix",
+              "publication_designation": "Comparative Matrix"
             }
           ]
+        },
+        {
+          "slug": "official-unicode-signwriting-the-character-problem-and-the-written-sign-problem",
+          "number": 4,
+          "title": "Official Unicode SignWriting: The Character Problem and the Written-Sign Problem",
+          "subtitle": "A standards review of partial standardization, unresolved text structure, and later over-reading",
+          "summary": "A standards review of the official Unicode SignWriting design in the Signed Language Writing review series.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "standards-review-essay",
+            "public_label": "Standards Review",
+            "public_slug": "primary",
+            "publication_designation": "Working Review"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "standards-review-essay",
+            "public_label": "Standards Review",
+            "public_slug": "primary",
+            "publication_designation": "Working Review"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "grushkin-2017-writing-signed-languages-what-for-what-form",
+          "number": 5,
+          "title": "Grushkin (2017): Writing Signed Languages: What For? What Form?",
+          "subtitle": "A review of the need for signed writing and the alphabetic-bias problem",
+          "summary": "Review essay on Grushkin's 2017 writing-and-literacy argument.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "literature-review-essay",
+            "public_label": "Review",
+            "public_slug": "primary",
+            "publication_designation": "Working Review"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "literature-review-essay",
+            "public_label": "Review",
+            "public_slug": "primary",
+            "publication_designation": "Working Review"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "filhol-2020-a-human-editable-sign-language-representation",
+          "number": 6,
+          "title": "Filhol (2020): A Human-Editable Sign Language Representation . . . and a Writing System?",
+          "subtitle": "A review of semantic-layer insight, SignWriting misclassification, and overstated novelty claims",
+          "summary": "Review essay on Filhol's 2020 representation proposal.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "literature-review-essay",
+            "public_label": "Review",
+            "public_slug": "primary",
+            "publication_designation": "Working Review"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "literature-review-essay",
+            "public_label": "Review",
+            "public_slug": "primary",
+            "publication_designation": "Working Review"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "thiessen-2011-a-grammar-of-signwriting",
+          "number": 7,
+          "title": "Thiessen (2011): A Grammar of SignWriting",
+          "subtitle": "A review of real structural insight placed one level too low",
+          "summary": "Review essay on Thiessen's 2011 thesis.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "literature-review-essay",
+            "public_label": "Review",
+            "public_slug": "primary",
+            "publication_designation": "Working Review"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "literature-review-essay",
+            "public_label": "Review",
+            "public_slug": "primary",
+            "publication_designation": "Working Review"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "martin-2000-from-notation-to-writing",
+          "number": 8,
+          "title": "Martin (2000): From Notation to Writing",
+          "subtitle": "A review of an early SignWriting-positive comparison with real insight and overstated claims",
+          "summary": "Review essay on Joe Martin's 2000 comparison of Stokoe Notation and Sutton SignWriting.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "literature-review-essay",
+            "public_label": "Review",
+            "public_slug": "primary",
+            "publication_designation": "Working Review"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "literature-review-essay",
+            "public_label": "Review",
+            "public_slug": "primary",
+            "publication_designation": "Working Review"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "meletis-and-durscheid-2022-writing-systems-and-their-use",
+          "number": 9,
+          "title": "Meletis and Durscheid (2022): Writing Systems and Their Use",
+          "subtitle": "A review of a major comparative writing theory and its typological limit with signed language writing",
+          "summary": "Review essay on Dimitrios Meletis and Christa Durscheid's 2022 grapholinguistic monograph Writing Systems and Their Use.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "literature-review-essay",
+            "public_label": "Review",
+            "public_slug": "primary",
+            "publication_designation": "Working Review"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "literature-review-essay",
+            "public_label": "Review",
+            "public_slug": "primary",
+            "publication_designation": "Working Review"
+          },
+          "slide_count": 0,
+          "companion_documents": [
+            {
+              "file": "signed-writing-as-a-pressure-test-for-general-writing-theory.md",
+              "label": "Companion Paper",
+              "slug": "pressure-test",
+              "artifact_type": "companion-paper",
+              "publication_designation": "Companion Paper"
+            }
+          ]
+        },
+        {
+          "slug": "from-critique-to-construction-priorities-for-signed-language-writing-infrastructure",
+          "number": 10,
+          "title": "From Critique to Construction: Priorities for Signed Language Writing Infrastructure",
+          "subtitle": "A constructive synthesis for research, tooling, standards, and adoption",
+          "summary": "A forward-looking synthesis paper that turns the review series from diagnosis toward infrastructure priorities for signed language writing.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "synthesis-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "synthesis-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
+          "companion_documents": []
         }
       ]
     },
@@ -368,103 +1297,207 @@
       "slug": "unicode-and-signwriting",
       "title": "Unicode and SignWriting",
       "subtitle": "Compatibility, chronology, and direct-link technical notes",
-      "description": "A hidden document library for Unicode history, compatibility, Wikimedia context, developer guidance, and UTC-facing notes.",
+      "description": "A technical companion series for Unicode history, compatibility, Wikimedia context, developer guidance, and UTC-facing notes.",
       "accepting_entries": true,
+      "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "briefing-series",
       "entries": [
         {
+          "slug": "overview",
+          "number": 0,
+          "title": "Unicode and SignWriting Overview",
+          "subtitle": "Unicode history, compatibility, and standards-facing discussion",
+          "summary": "Overview entry for Unicode history, compatibility, and standards-facing SignWriting materials.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
           "slug": "unicode-overview",
-          "legacy_slugs": [],
           "number": 1,
           "title": "Unicode Overview",
           "subtitle": "Current position and why the issue keeps returning",
           "summary": "Short baseline explanation of why character naming, stable symbols, and written signs remain different questions for SignWriting.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-briefing",
+            "public_label": "Technical Note",
+            "public_slug": "primary",
+            "publication_designation": "Technical Note"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-briefing",
+            "public_label": "Technical Note",
+            "public_slug": "primary",
+            "publication_designation": "Technical Note"
+          },
           "slide_count": 6,
           "companion_documents": [
             {
               "file": "position-notes.md",
               "label": "Position Notes",
-              "slug": "position-notes"
+              "slug": "position-notes",
+              "artifact_type": "technical-notes",
+              "publication_designation": "Technical Notes"
             }
           ]
         },
         {
           "slug": "developer-notes",
-          "legacy_slugs": [],
           "number": 2,
           "title": "Developer Notes",
           "subtitle": "What to use now and what not to assume",
           "summary": "Implementation guidance for developers working with Sutton SignWriting data, conversion, symbol identity, and Unicode-facing workflows.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-briefing",
+            "public_label": "Technical Note",
+            "public_slug": "primary",
+            "publication_designation": "Technical Note"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-briefing",
+            "public_label": "Technical Note",
+            "public_slug": "primary",
+            "publication_designation": "Technical Note"
+          },
           "slide_count": 6,
           "companion_documents": [
             {
               "file": "package-and-tooling.md",
               "label": "Package and Tooling Notes",
-              "slug": "package-and-tooling"
+              "slug": "package-and-tooling",
+              "artifact_type": "technical-notes",
+              "publication_designation": "Technical Notes"
             }
           ]
         },
         {
           "slug": "chronology-and-record",
-          "legacy_slugs": [],
           "number": 3,
           "title": "Chronology and Record",
           "subtitle": "Official submissions, minutes, and related documents",
           "summary": "A dated record of the main Unicode and related SignWriting documents relevant to current compatibility and standards discussions.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-briefing",
+            "public_label": "Briefing",
+            "public_slug": "primary",
+            "publication_designation": "Technical Briefing"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-briefing",
+            "public_label": "Briefing",
+            "public_slug": "primary",
+            "publication_designation": "Technical Briefing"
+          },
           "slide_count": 5,
           "companion_documents": [
             {
               "file": "historical-notes.md",
               "label": "Historical Notes",
-              "slug": "historical-notes"
+              "slug": "historical-notes",
+              "artifact_type": "historical-notes",
+              "publication_designation": "Historical Notes"
             },
             {
               "file": "source-register.md",
               "label": "Source Register",
-              "slug": "source-register"
+              "slug": "source-register",
+              "artifact_type": "source-register",
+              "publication_designation": "Source Register"
             }
           ]
         },
         {
           "slug": "wikimedia-brief",
-          "legacy_slugs": [],
           "number": 4,
           "title": "Wikimedia Brief",
           "subtitle": "What Wikimedia needs to understand about Unicode and SignWriting",
           "summary": "A short practical note for Wikimedia staff and collaborators about why naming characters is not enough for current SignWriting project needs.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-briefing",
+            "public_label": "Briefing",
+            "public_slug": "primary",
+            "publication_designation": "Technical Briefing"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-briefing",
+            "public_label": "Briefing",
+            "public_slug": "primary",
+            "publication_designation": "Technical Briefing"
+          },
           "slide_count": 5,
           "companion_documents": [
             {
               "file": "meeting-notes.md",
-              "label": "Meeting Notes",
-              "slug": "meeting-notes"
+              "label": "Discussion Outline",
+              "slug": "meeting-notes",
+              "artifact_type": "meeting-notes",
+              "publication_designation": "Meeting Notes"
             }
           ]
         },
         {
           "slug": "utc-technical-note",
-          "legacy_slugs": [],
           "number": 5,
           "title": "UTC Technical Note",
           "subtitle": "Draft note on compatibility, symbol identity, spatial composition, and next steps",
           "summary": "A formal draft note stating that official Unicode SignWriting can name much of the character set but still does not preserve stable symbol identity or provide compatible written-sign support.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-briefing",
+            "public_label": "Technical Note",
+            "public_slug": "primary",
+            "publication_designation": "Technical Note"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "technical-briefing",
+            "public_label": "Technical Note",
+            "public_slug": "primary",
+            "publication_designation": "Technical Note"
+          },
           "slide_count": 7,
           "companion_documents": [
             {
               "file": "compatibility-matrix.md",
               "label": "Compatibility Matrix",
-              "slug": "compatibility-matrix"
+              "slug": "compatibility-matrix",
+              "artifact_type": "compatibility-matrix",
+              "publication_designation": "Compatibility Matrix"
             },
             {
               "file": "requested-work.md",
               "label": "Requested Work",
-              "slug": "requested-work"
+              "slug": "requested-work",
+              "artifact_type": "requested-work",
+              "publication_designation": "Requested Work"
             }
           ]
         }
@@ -474,90 +1507,319 @@
       "slug": "university-of-iowa",
       "title": "University of Iowa",
       "subtitle": "University-facing outreach and collaboration materials",
-      "description": "A series for faculty, grants, development, and institutional-collaboration framing related to Sutton SignWriting.",
+      "description": "A public Iowa-facing collaboration packet for practical research data support, PI or lab base conversations, and longer-term Sutton SignWriting infrastructure alignment.",
       "accepting_entries": true,
+      "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "institutional-series",
       "entries": [
         {
-          "slug": "outreach-memo",
-          "legacy_slugs": [],
-          "number": 1,
-          "title": "Outreach Memo",
-          "subtitle": "A concise University of Iowa summary of the full opportunity",
-          "summary": "A short University of Iowa-facing routing memo for internal forwarding, summarizing the opportunity and directing readers to the right next conversation.",
+          "slug": "overview",
+          "number": 0,
+          "title": "University of Iowa Overview",
+          "subtitle": "Practical research support, PI or lab base conversations, and infrastructure alignment",
+          "summary": "Overview entry for Iowa-facing collaboration around practical research data support, a possible PI or lab base, and longer-term Sutton SignWriting infrastructure alignment.",
           "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "research-team-value",
+          "number": 1,
+          "title": "Research Team Value",
+          "subtitle": "Practical DMS Plan, workflow implementation, and repository delivery value for the University of Iowa",
+          "summary": "A University of Iowa-facing entry focused on Steve Slevinski's immediate operational value through DMS Plan support, workflow implementation, code, data shaping, validation, documentation, and repository delivery.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "operational-brief",
+            "public_label": "Operational Brief",
+            "public_slug": "primary",
+            "publication_designation": "Operational Brief"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "operational-brief",
+            "public_label": "Operational Brief",
+            "public_slug": "primary",
+            "publication_designation": "Operational Brief"
+          },
+          "slide_count": 10,
+          "companion_documents": []
+        },
+        {
+          "slug": "pi-or-lab-base",
+          "number": 2,
+          "title": "PI or Lab Base",
+          "subtitle": "A practical base for project support, grants, and infrastructure",
+          "summary": "A PI-facing entry arguing that a PI or lab base now is the small first decision that makes project support, sustained research capacity, grant writing, and future infrastructure more plausible.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "operational-brief",
+            "public_label": "Operational Brief",
+            "public_slug": "primary",
+            "publication_designation": "Operational Brief"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "operational-brief",
+            "public_label": "Operational Brief",
+            "public_slug": "primary",
+            "publication_designation": "Operational Brief"
+          },
+          "slide_count": 10,
+          "companion_documents": []
+        },
+        {
+          "slug": "outreach-memo",
+          "number": 3,
+          "title": "Outreach Memo",
+          "subtitle": "A concise Iowa summary for first conversations",
+          "summary": "A short University of Iowa-facing memo for internal forwarding that summarizes Steve's immediate research value, the PI or lab base opportunity, and the longer infrastructure upside.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "memo",
+            "public_label": "Memo",
+            "public_slug": "primary",
+            "publication_designation": "Memo"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "memo",
+            "public_label": "Memo",
+            "public_slug": "primary",
+            "publication_designation": "Memo"
+          },
           "slide_count": 5,
           "companion_documents": []
+        }
+      ]
+    },
+    {
+      "slug": "writing-and-representation",
+      "title": "Writing and Representation in Sutton SignWriting",
+      "subtitle": "Plane-based writing, authored space, perspective, and the conceptual place of SignWriting as writing",
+      "description": "A series on SignWriting as writing: its use of space, script typology, authored viewpoint, iconicity, convention, legibility, handwriting, human authorship, machine encoding, kinematography, representational logic, and relationship to broader writing-systems questions.",
+      "accepting_entries": true,
+      "about_doc": "README.md",
+      "home_doc": "README.md",
+      "kind": "research-series",
+      "entries": [
+        {
+          "slug": "overview",
+          "number": 0,
+          "title": "Writing and Representation in Sutton SignWriting Overview",
+          "subtitle": "Plane-based writing, authored space, representation, and writing-systems questions",
+          "summary": "Overview entry for the writing-systems lane of the Sutton SignWriting platform.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "series-overview",
+            "public_label": "Overview",
+            "public_slug": "primary",
+            "publication_designation": "Series Overview"
+          },
+          "slide_count": 0,
+          "companion_documents": []
         },
         {
-          "slug": "lab-home",
-          "legacy_slugs": [],
+          "slug": "plane-based-writing-and-script-typology",
+          "number": 1,
+          "title": "Plane-Based Writing and Script Typology",
+          "subtitle": "Where SignWriting fits, and where existing writing-system categories strain",
+          "summary": "Native anchor paper for the Writing and Representation in Sutton SignWriting series on SignWriting, plane-based composition, and writing-system typology.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
+          "companion_documents": [
+            {
+              "file": "point-line-plane-evidence-notes.md",
+              "label": "Point, Line, and Plane Evidence Notes",
+              "slug": "point-line-plane-evidence-notes",
+              "artifact_type": "writing-theory-notes",
+              "publication_designation": "Evidence Notes"
+            }
+          ]
+        },
+        {
+          "slug": "perspective-and-authored-space",
           "number": 2,
-          "title": "Lab Home",
-          "subtitle": "A practical path from 0 percent placement to grants and infrastructure",
-          "summary": "A PI-facing entry arguing that a lab home now is the first small decision that makes salary support, DMS collaborations, grant writing, and future infrastructure more plausible.",
+          "title": "Perspective and Authored Space",
+          "subtitle": "Viewpoint, placement, and the authored space of signed writing",
+          "summary": "Native anchor draft for the Writing and Representation in Sutton SignWriting series.",
           "essay": "essay.md",
-          "slide_count": 10,
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
           "companion_documents": []
         },
         {
-          "slug": "steve-slevinski-value",
-          "legacy_slugs": [
-            "steve-slevinski-background"
-          ],
+          "slug": "iconicity-convention-and-legibility",
           "number": 3,
-          "title": "Steve Slevinski Value",
-          "subtitle": "Practical DMS, repository, and research workflow value for the University of Iowa",
-          "summary": "A University of Iowa-facing entry focused on Steve Slevinski's immediate operational value through DMS planning, workflow design, code, data shaping, and repository delivery.",
+          "title": "Iconicity, Convention, and Legibility",
+          "subtitle": "How motivated visual form becomes disciplined writing",
+          "summary": "Native anchor paper for the Writing and Representation in Sutton SignWriting series on visual motivation, convention, and legibility in SignWriting.",
           "essay": "essay.md",
-          "slide_count": 10,
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
           "companion_documents": []
         },
         {
-          "slug": "sutton-signwriting-infrastructure-initiative",
-          "legacy_slugs": [],
+          "slug": "handwriting-and-spatial-script-practice",
           "number": 4,
-          "title": "Sutton SignWriting Infrastructure Initiative",
-          "subtitle": "A path to shared research infrastructure at the University of Iowa",
-          "summary": "A University of Iowa-facing entry about turning Sutton SignWriting from fragile independent maintenance into durable shared research infrastructure.",
+          "title": "Handwriting and Spatial Script Practice",
+          "subtitle": "Block printing, shorthand, cursive forms, and ordinary signed writing",
+          "summary": "Native anchor paper for the Writing and Representation in Sutton SignWriting series on handwriting, material practice, and script culture in SignWriting.",
           "essay": "essay.md",
-          "slide_count": 12,
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
           "companion_documents": []
         },
         {
-          "slug": "infrastructure-core-and-philanthropy",
-          "legacy_slugs": [],
+          "slug": "human-writing-and-machine-encoding",
           "number": 5,
-          "title": "Infrastructure Core and Philanthropy",
-          "subtitle": "A University of Iowa support structure for global SignWriting infrastructure",
-          "summary": "A University of Iowa-facing entry framing the Sutton SignWriting Infrastructure Core as a philanthropic opportunity that complements the lab-home, operational-value, and grant-development structure.",
+          "title": "Human Writing and Machine Encoding",
+          "subtitle": "Authorship, serialization, and the layers of signed text",
+          "summary": "Native anchor draft for the Writing and Representation in Sutton SignWriting series on the distinction between human signed writing and machine encoding.",
           "essay": "essay.md",
-          "slide_count": 17,
-          "companion_documents": [
-            {
-              "file": "operational-notes.md",
-              "label": "Operational Notes",
-              "slug": "operational-notes"
-            }
-          ]
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
+          "companion_documents": []
         },
         {
-          "slug": "relevant-precedents-and-institutional-pathways",
-          "legacy_slugs": [],
+          "slug": "kinematography-and-the-limits-of-writing-system-typology",
           "number": 6,
-          "title": "Relevant Precedents and Institutional Pathways",
-          "subtitle": "What comparable university models suggest for SignWriting at Iowa",
-          "summary": "A University of Iowa-facing supporting entry using language, archive, sign-language, and data-infrastructure precedents to show that SignWriting follows a recognizable institutional path rather than requiring a speculative leap.",
+          "title": "Kinematography and the Limits of Writing-System Typology",
+          "subtitle": "Signed writing as a pressure test for grapholinguistics",
+          "summary": "Native capstone paper for the Writing and Representation in Sutton SignWriting series on signed writing, kinematography, and the limits of current writing-system typology.",
           "essay": "essay.md",
-          "slide_count": 12,
-          "companion_documents": [
-            {
-              "file": "precedent-notes.md",
-              "label": "Precedent Notes",
-              "slug": "precedent-notes"
-            }
-          ]
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
+          "companion_documents": []
+        },
+        {
+          "slug": "other-sign-language-scripts-and-their-conceptions",
+          "number": 7,
+          "title": "Other Sign Language Scripts and Their Conceptions",
+          "subtitle": "ASL-phabet, HamNoSys, ASLwrite, and what they imply about written sign language",
+          "summary": "Comparative writing-systems draft for the Writing and Representation in Sutton SignWriting series.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "theoretical-paper",
+            "public_label": "Paper",
+            "public_slug": "primary",
+            "publication_designation": "Working Paper"
+          },
+          "slide_count": 0,
+          "companion_documents": []
         }
       ]
     }

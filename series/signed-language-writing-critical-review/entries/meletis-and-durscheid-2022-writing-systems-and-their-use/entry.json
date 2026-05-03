@@ -1,0 +1,25 @@
+{
+  "slug": "meletis-and-durscheid-2022-writing-systems-and-their-use",
+  "number": 9,
+  "title": "Meletis and Durscheid (2022): Writing Systems and Their Use",
+  "subtitle": "A review of a major comparative writing theory and its typological limit with signed language writing",
+  "summary": "Review essay on Dimitrios Meletis and Christa Durscheid's 2022 grapholinguistic monograph Writing Systems and Their Use.",
+  "synopsis": "This review treats Writing Systems and Their Use as one of the strongest recent comparative theories of writing. It argues that the book meaningfully advances grapholinguistics by rejecting crude speech-dependence, giving writing internal structure, and taking visual form and typological self-critique seriously, while also arguing that the framework still appears typologically incomplete once signed language writing and SignWriting are treated as real writing on their own terms.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "literature-review-essay",
+    "public_label": "Review",
+    "public_slug": "primary",
+    "publication_designation": "Working Review"
+  },
+  "companion_documents": [
+    {
+      "file": "signed-writing-as-a-pressure-test-for-general-writing-theory.md",
+      "label": "Companion Paper",
+      "slug": "pressure-test",
+      "artifact_type": "companion-paper",
+      "publication_designation": "Companion Paper"
+    }
+  ]
+}

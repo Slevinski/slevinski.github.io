@@ -1,0 +1,16 @@
+{
+  "slug": "executive-brief",
+  "number": 1,
+  "title": "Executive Brief",
+  "subtitle": "Sutton SignWriting as research infrastructure",
+  "summary": "First support-facing anchor for the Sutton SignWriting Infrastructure and Program series.",
+  "synopsis": "This entry gives the shortest forwardable support-facing case for Sutton SignWriting. It frames the work as an existing global system with real assets, a real support gap, a stronger empirical base in Brazil, a current institutional proof point in South Korea, and a clear opportunity for a PI or host institution to convert informal stewardship into a durable program.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "brief",
+    "public_label": "Brief",
+    "public_slug": "primary",
+    "publication_designation": "Research Brief"
+  }
+}

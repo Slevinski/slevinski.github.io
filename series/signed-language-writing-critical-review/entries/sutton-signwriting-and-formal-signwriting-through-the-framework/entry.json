@@ -1,0 +1,17 @@
+{
+  "slug": "sutton-signwriting-and-formal-signwriting-through-the-framework",
+  "number": 2,
+  "title": "Sutton SignWriting and Formal SignWriting Through the Framework",
+  "subtitle": "A self-application of the review method to the writing system and its technical model",
+  "summary": "A framework-based analysis distinguishing SignWriting as the writing system from Formal SignWriting as its technical text model.",
+  "abstract": "This framework application evaluates Sutton SignWriting and Formal SignWriting with the same criteria used elsewhere in the critical review series. It distinguishes SignWriting as the human writing system from Formal SignWriting as the technical text model that preserves written signs for storage, search, processing, and rendering. The analysis concludes that the combined system is strongest where the framework asks about durable signed text, structured written units, and infrastructure viability, while remaining careful about adoption, literacy outcomes, handwriting practice, and unresolved standards questions. Its central claim is disciplined: SignWriting and Formal SignWriting establish a coherent full-path model for plane-based signed writing, but they do not settle every educational, empirical, or institutional question by themselves.",
+  "synopsis": "This entry applies the review framework to SignWriting and Formal SignWriting themselves. It uses the framework not only against external literature, but also against the system it is meant to clarify. The result is a sharper distinction between SignWriting as a writing system and Formal SignWriting as a text model, along with a clearer statement of what the combined system does and does not yet establish.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "framework-application-essay",
+    "public_label": "Paper",
+    "public_slug": "primary",
+    "publication_designation": "Working Paper"
+  }
+}

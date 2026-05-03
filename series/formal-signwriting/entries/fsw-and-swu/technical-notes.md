@@ -3,7 +3,9 @@
 **FSW and SWU**  
 Plain-text encodings, character sets, and conversion
 
-These technical notes collect compact notes behind the encoding layer.
+Implementation reference only. Read the companion technical paper for the conceptual account; use these notes when checking implementation details, conversion arithmetic, and encoding cautions.
+
+These technical notes are the implementation-oriented companion to the paper. They are the primary home for conversion arithmetic, range details, regex-level patterns, and encoding cautions that would overburden the main paper.
 
 ## 0. Quick examples
 
@@ -25,7 +27,7 @@ FSW and SWU are core encodings of Formal SignWriting text.
 
 They belong to the technical model rather than to an auxiliary display layer, but their operational roles can still differ.
 
-For stewardship and implementation work, FSW is commonly the canonical internal form for processing, storage, and indexing, while SWU is supported for conversion, input/output boundaries, and Unicode-oriented workflows.
+For stewardship and implementation work, FSW is commonly used as the canonical processing form for storage, indexing, and validation, while SWU is supported for conversion, input/output boundaries, and Unicode-oriented workflows.
 
 ## II. Minimal inventory
 
@@ -154,7 +156,7 @@ That is why conversion belongs to the encoding layer and not to rendering.
 
 ## IX. Recurring confusions to avoid
 
-Three confusions recur often:
+Several confusions recur often:
 
 - confusing encoding with rendering
 - confusing text with styling
@@ -168,7 +170,7 @@ Those confusions create downstream trouble in software, teaching, and technical 
 
 The important point is not only that FSW is ASCII and SWU is Unicode.
 
-The important point is that both are still plain text, even when one is commonly used as the canonical internal form and the other is preferred for some Unicode-facing workflows.
+The important point is that both are still plain text, even when one is commonly used as the canonical processing form and the other is preferred for some Unicode-facing workflows.
 
 That is why they can support:
 

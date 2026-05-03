@@ -4,6 +4,8 @@
 
 Formal SignWriting is a technical model for sign text that can be stored, searched, checked, and processed by software without losing the written form.
 
+This paper assumes the conceptual claim developed in `Sutton SignWriting Foundations: The Shape of Writing` and `Writing and Representation in Sutton SignWriting: Perspective and Authored Space`: signed writing can preserve authored spatial composition without imitating the line. Formal SignWriting gives that plane-based writing claim its technical form.
+
 Its central idea is simple:
 
 > a sign can be modeled as a two-part word of time and space
@@ -16,6 +18,8 @@ That word therefore contains:
 - a required **spatial signbox**, which preserves a two-dimensional arrangement of writing symbols
 
 The opening task is to define the core model clearly enough that every later layer stays legible.
+
+The implementation history behind this model is documented in `From Experimental Encodings to Formal SignWriting`, now placed with `Formal SignWriting in Practice` because the encoding history is a practice and migration story.
 
 ## Core claim
 
@@ -36,7 +40,7 @@ The core vocabulary is small:
 | sign | a required spatial signbox, optionally preceded by a temporal prefix |
 | temporal prefix | the optional sequence-preserving part, used mainly for sorting and sometimes for analysis |
 | spatial signbox | the required composition-preserving part |
-| FSW or SWU | plain-text encodings of the model, with FSW commonly canonical in processing and SWU supported for Unicode-oriented interchange |
+| FSW or SWU | plain-text encodings of the model, with FSW commonly used as the canonical processing form and SWU supported for Unicode-oriented interchange |
 | style string | optional presentation markup, not canonical sign text |
 
 If these definitions are clear, the rest of the model becomes much easier to hold in view.
@@ -160,4 +164,3 @@ Formal SignWriting works because it lets one textual form preserve two things at
 - the spatial composition of the written sign
 
 That is what makes written sign text both faithful to the writing and usable in software.
-

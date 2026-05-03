@@ -1,0 +1,17 @@
+{
+  "slug": "a-unified-critique-framework-for-signed-language-writing-systems",
+  "number": 1,
+  "title": "A Unified Critique Framework for Signed Language Writing, Encoding, and Representation",
+  "subtitle": "A methodological guide for evaluating literature, proposals, and standards",
+  "summary": "A reusable evaluation framework for signed language writing systems, encodings, standards, and representation proposals.",
+  "abstract": "This framework provides a reusable method for evaluating signed language writing systems, encodings, standards, and representation proposals without collapsing distinct layers into a single judgment. It separates language, writing system, notation, semantic representation, encoding, rendering, empirical grounding, and institutional infrastructure, then asks what each source actually claims to solve. The framework is especially useful for assessing SignWriting-related literature because SignWriting exposes recurring confusions between symbols and written signs, serialization and writing, encoding and rendering, and technical feasibility and durable text infrastructure. Its purpose is not to dismiss alternative approaches, but to preserve useful insights while identifying level confusion, overreach, and missing infrastructure requirements.",
+  "synopsis": "This entry provides the shared evaluative framework for the review series. It distinguishes language, writing, notation, semantic representation, encoding, rendering, empirical grounding, and institutional infrastructure, then gives a reusable method for evaluating papers, theses, proposals, and standards without collapsing distinct layers into opinion.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "framework-essay",
+    "public_label": "Framework",
+    "public_slug": "primary",
+    "publication_designation": "Working Framework"
+  }
+}

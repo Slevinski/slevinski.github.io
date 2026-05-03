@@ -1,0 +1,9 @@
+{
+  "slug": "notebook",
+  "title": "Notebook",
+  "subtitle": "Working notes, conceptual fragments, and exploratory material that is valuable but not yet settled",
+  "description": "A low-prominence series for exploratory SignWriting notes, pathway sketches, conceptual fragments, and material that may later graduate into stronger public series.",
+  "accepting_entries": true,
+  "kind": "working-notes-series",
+  "home_doc": "README.md"
+}

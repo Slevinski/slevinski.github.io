@@ -179,7 +179,6 @@ It would require:
 - acknowledgment that the facial-diacritic model does not preserve stable writer-selected symbol identity cleanly
 - acknowledgment that spatial composition remains unresolved
 - honest technical discussion of collation, compatibility, and migration
-- a concrete path for renewed discussion with the support of a voting member
+- a concrete path for renewed discussion only if meaningful technical and institutional interest actually exists
 
 That is the minimum honest starting point.
-

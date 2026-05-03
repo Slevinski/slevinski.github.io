@@ -1,0 +1,60 @@
+{
+  "slug": "country-ambassadors",
+  "number": 4,
+  "title": "Country Ambassadors",
+  "subtitle": "Country-level outreach, translation, and local relationship-building",
+  "summary": "A volunteer-first ambassador model for local outreach, translation, relationship-building, and support documentation.",
+  "synopsis": "Country ambassadors can give Sutton SignWriting trusted local help with introductions, translation, context, documentation, and follow-up while staying inside clear role boundaries. This entry defines the role, what ambassadors do, what they do not do, how a volunteer-first pilot can work, and how future stipends might be handled responsibly.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "brief",
+    "public_label": "Brief",
+    "public_slug": "primary",
+    "publication_designation": "Program Brief"
+  },
+  "slides": [
+    {
+      "id": "why-needed",
+      "title": "Why The Role Is Needed",
+      "kicker": "1",
+      "summary": "Local context matters, and international outreach cannot be centralized well without trusted country-level help.",
+      "bullets": [
+        "Local language and culture",
+        "Local institutions",
+        "Local SignWriting communities",
+        "Local follow-up"
+      ],
+      "speech": "Country-level outreach is hard to run well from one central point. Local language, culture, institutions, communities, and follow-up patterns matter.",
+      "notes": "Open with need, not title."
+    },
+    {
+      "id": "role-boundaries",
+      "title": "Clear Role Boundaries",
+      "kicker": "2",
+      "summary": "Ambassadors are local connectors, not legal, financial, or institutional representatives.",
+      "bullets": [
+        "No legal commitments",
+        "No financial commitments",
+        "No institutional negotiation",
+        "No formal university representation unless authorized"
+      ],
+      "speech": "The role works only if its boundaries are clear. Ambassadors help with local relationships and communication. They do not make legal or financial commitments or represent an institution unless explicitly authorized.",
+      "notes": "Guardrails are part of trust."
+    },
+    {
+      "id": "pilot-model",
+      "title": "Volunteer-First Pilot",
+      "kicker": "3",
+      "summary": "Start with a small pilot, shared materials, visible recognition, and clear follow-up.",
+      "bullets": [
+        "Three to five countries",
+        "Shared outreach materials",
+        "Simple tracking",
+        "Visible recognition"
+      ],
+      "speech": "The model should begin as a small volunteer-first pilot in three to five countries, with shared materials, simple tracking, visible recognition, and enough structure to learn before expanding.",
+      "notes": "Keep the first step manageable."
+    }
+  ]
+}

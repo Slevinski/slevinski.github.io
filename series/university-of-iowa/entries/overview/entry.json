@@ -1,0 +1,22 @@
+{
+  "slug": "overview",
+  "number": 0,
+  "title": "University of Iowa Overview",
+  "subtitle": "Practical research support, PI or lab base conversations, and infrastructure alignment",
+  "summary": "Overview entry for Iowa-facing collaboration around practical research data support, a possible PI or lab base, and longer-term Sutton SignWriting infrastructure alignment.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "series-overview",
+    "public_label": "Overview",
+    "public_slug": "primary",
+    "publication_designation": "Series Overview"
+  },
+  "publication": {
+    "status": "web-first",
+    "doi_candidate": false,
+    "repo_candidate": false,
+    "zenodo_record": "not-planned",
+    "citation_role": "series-overview"
+  }
+}

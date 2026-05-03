@@ -1,35 +1,38 @@
 {
   "slug": "outreach-memo",
-  "number": 1,
+  "number": 3,
   "title": "Outreach Memo",
-  "subtitle": "A concise University of Iowa summary of the full opportunity",
-  "summary": "A short University of Iowa-facing routing memo for internal forwarding, summarizing the opportunity and directing readers to the right next conversation.",
-  "synopsis": "A concise bridge for faculty, grants staff, development staff, and other internal stakeholders who need the opportunity explained quickly without being pulled through every supporting argument. It states the immediate ask, gives the shortest useful summary of Steve Slevinski's present-tense value, and then routes readers toward PI, operational, infrastructure, or development conversations without collapsing those lanes together.",
+  "subtitle": "A concise Iowa summary for first conversations",
+  "summary": "A short University of Iowa-facing memo for internal forwarding that summarizes Steve's immediate research value, the PI or lab base opportunity, and the longer infrastructure upside.",
+  "synopsis": "A concise bridge for faculty, grants staff, development staff, and other internal stakeholders who need the opportunity explained quickly. It leads with practical research data value, names the PI or lab base opportunity, and points readers toward the supporting material that matches their role.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "memo",
+    "public_label": "Memo",
+    "public_slug": "primary",
+    "publication_designation": "Memo"
+  },
   "slides": [
     {
       "id": "one-slide-summary",
       "title": "University of Iowa Outreach Memo",
       "kicker": "1",
-      "summary": "The shortest version of the case is simple: route the Iowa conversation clearly between lab placement, practical DMS value, and the separate long-term infrastructure opportunity.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the outreach memo overview.",
+      "summary": "The shortest version of the case is simple: Steve can help Iowa research teams now, and a PI or lab base would make that value easier to use, support, and grow.",
       "bullets": [
-        "Lab home under a PI",
-        "Immediate DMS and repository value",
-        "Separate long-term infrastructure lane"
+        "Practical research data support now",
+        "A PI or lab base as the institutional base",
+        "Longer-term SignWriting infrastructure upside"
       ],
-      "speech": "The University of Iowa opportunity can be stated simply. One conversation is about a lab home under a PI. Another is about practical DMS and repository work that Steve can support right now. A third is about longer-term SignWriting infrastructure. The memo exists to route those conversations clearly rather than blur them together.",
-      "notes": "A busy reader should be able to understand the full argument in under a minute.",
-      "mermaid": "graph TD\n  A[Lab Home Under PI]\n  B[Immediate DMS and Repository Value]\n  C[Shared Research Infrastructure]\n  D[Route To The Right Next Conversation] --> A\n  D --> B\n  D --> C"
+      "speech": "The University of Iowa opportunity can be stated simply. Steve can help research teams now with DMS Plans, workflow implementation, validation, documentation, and repository delivery. A PI or lab base would give that work a real home, and that home can later support grants, sustained research capacity, and the longer SignWriting infrastructure opportunity.",
+      "notes": "A busy reader should understand the practical value before hearing the larger infrastructure story.",
+      "mermaid": "graph TD\n  A[Practical Research Support Now] --> B[PI Or Lab Base]\n  B --> C[Support And Grants]\n  B --> D[Longer-Term SignWriting Infrastructure]"
     },
     {
       "id": "why-now",
       "title": "Why Now",
       "kicker": "2",
       "summary": "The timing matters because the work is already active, the need is current, and a durable next structure is more credible when built now rather than after momentum is lost.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for why now.",
       "bullets": [
         "The current structure is too fragile",
         "A near-term PI path exists now",
@@ -41,54 +44,55 @@
       "image_prompt_abstract": "A brief opening in a wall leading to a brighter structured corridor"
     },
     {
-      "id": "steves-role",
+      "id": "steves-work",
       "title": "Why Steve Matters Now",
       "kicker": "3",
-      "summary": "Steve's role is immediately useful because he can help with DMS planning, workflow design, data shaping, code, and repository delivery in the places where research teams often get stuck.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for Steve's immediate value.",
+      "summary": "Steve's work is immediately useful because he can help with DMS Plans, workflow implementation, data shaping, code, validation, documentation, and repository delivery.",
       "bullets": [
-        "DMS planning and execution",
-        "Workflow and code support",
+        "DMS Plan support",
+        "Workflow implementation and code support",
         "Repository-facing technical delivery"
       ],
-      "speech": "Steve matters now because he can create immediate practical value. He can help with Data Management and Sharing Plans, workflow design, code and data shaping, and the difficult path from project systems to repository delivery. That makes him useful to real projects immediately, not only to future plans.",
-      "notes": "This is the slide that turns abstract support into a concrete personnel case.",
-      "mermaid": "graph LR\n  A[Steve Slevinski] --> B[DMS Planning]\n  A --> C[Workflow and Code]\n  A --> D[Repository Delivery]"
+      "speech": "Steve matters now because he can create immediate practical value. He can help with Data Management and Sharing Plans, workflow implementation, code and data shaping, validation, documentation, and the difficult path from project systems to repository delivery. That makes him useful to real projects immediately, not only to future plans.",
+      "notes": "This is the slide that turns abstract interest into a concrete value case.",
+      "mermaid": "graph LR\n  A[Steve Slevinski] --> B[DMS Plan Support]\n  A --> C[Workflow And Code]\n  A --> D[Repository Delivery]"
     },
     {
       "id": "infrastructure-opportunity",
       "title": "The Larger Opportunity",
       "kicker": "4",
-      "summary": "The larger infrastructure opportunity is real, but it should remain a separate routed conversation rather than being folded into every Iowa-facing artifact.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the larger infrastructure opportunity.",
+      "summary": "The larger infrastructure opportunity is real because Sutton SignWriting already depends on public technical assets that need durable stewardship.",
       "bullets": [
         "Already globally used",
         "Still structurally fragile",
-        "Use a separate infrastructure deck when that lane is the real topic"
+        "Stronger when attached to visible research value"
       ],
-      "speech": "There is a larger opportunity around Sutton SignWriting as shared research infrastructure. That opportunity is real, but the memo should not force every reader into that larger conversation. When that is the real topic, route the reader to the separate infrastructure deck.",
-      "notes": "Keep the memo disciplined and route-heavy.",
+      "speech": "There is a larger opportunity around Sutton SignWriting as shared research infrastructure. That opportunity becomes more credible when it is attached to visible research value, a real institutional base, and collaborators who can help the work grow responsibly.",
+      "notes": "Keep the infrastructure story present but secondary to immediate usefulness.",
       "mermaid": "graph TD\n  A[Global Use] --> B[Current Fragility]\n  B --> C[Institutional Home]\n  C --> D[Grant-Funded Infrastructure]"
     },
     {
       "id": "next-conversations",
       "title": "Recommended Next Conversations",
       "kicker": "5",
-      "summary": "The right next step is not one generic meeting, but a routed conversation about lab placement, project support, infrastructure development, or philanthropic interest depending on the audience.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for recommended next conversations.",
+      "summary": "The next step should match the reader: practical project support, PI or lab base discussion, infrastructure development, or philanthropic interest.",
       "bullets": [
-        "PI and faculty collaborators -> Lab Home",
-        "Researchers who need DMS and repository help -> Steve Slevinski Value",
-        "Institutional strategy -> Infrastructure Initiative",
-        "Development and donor interest -> Infrastructure Core and Philanthropy"
+        "Researchers who need DMS and repository help -> Research Team Value",
+        "PI and faculty collaborators -> PI or Lab Base",
+        "Institutional strategy -> Infrastructure Program",
+        "Development and donor interest -> public Infrastructure Core and Philanthropy"
       ],
-      "speech": "The next conversations should be practical. Some conversations are about a PI and lab home. Some are about active DMS and repository needs. Others are about long-term infrastructure or development pathways. The memo helps route each conversation into the right next step and the right supporting document.",
-      "notes": "Close with practical routing language so this deck can be forwarded easily.",
-      "image_prompt_concrete": "Decision-routing slide showing four conversation lanes: PI, DMS support, infrastructure, and grants/development",
+      "speech": "The next conversations should be practical. Some readers need the PI or lab base case. Some need the immediate research support case. Others need the long-term infrastructure or development materials. The point is to make the next conversation concrete.",
+      "notes": "Close with practical next actions and keep the language forwardable.",
+      "image_prompt_concrete": "Decision slide showing four next conversations: PI, DMS support, infrastructure, and grants/development",
       "image_prompt_abstract": "One central hub branching into four purposeful next-step paths"
     }
-  ]
+  ],
+  "publication": {
+    "status": "operational-bridge",
+    "doi_candidate": false,
+    "repo_candidate": false,
+    "zenodo_record": "not-planned",
+    "citation_role": "bridge-document"
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "slug": "infrastructure-and-stewardship",
+  "number": 2,
+  "title": "Infrastructure and Stewardship",
+  "subtitle": "Confirmed assets, current risks, and the case for stronger institutional support",
+  "summary": "Second support-facing anchor for the Sutton SignWriting Infrastructure and Program series.",
+  "synopsis": "This entry serves as the main support-facing anchor of the Sutton SignWriting Infrastructure and Program series. It presents Sutton SignWriting as existing infrastructure with real assets, active stewardship, and identifiable continuity risks that justify stronger institutional support.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "white-paper",
+    "public_label": "White Paper",
+    "public_slug": "primary",
+    "publication_designation": "White Paper"
+  }
+}

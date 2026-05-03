@@ -1,0 +1,15 @@
+{
+  "slug": "overview",
+  "number": 0,
+  "title": "Sutton SignWriting Language and Literacy Research Overview",
+  "subtitle": "Developmental pathways, literacy layering, reading questions, and signed-language research",
+  "summary": "Overview entry for the research-facing language and literacy lane of the Sutton SignWriting platform.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "series-overview",
+    "public_label": "Overview",
+    "public_slug": "primary",
+    "publication_designation": "Series Overview"
+  }
+}

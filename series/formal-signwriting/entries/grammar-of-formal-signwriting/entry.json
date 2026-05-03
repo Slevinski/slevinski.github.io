@@ -5,24 +5,20 @@
   "subtitle": "Token patterns, syntax, and valid structure",
   "summary": "Token patterns, syntax, regular expressions, and well-formed Formal SignWriting text.",
   "synopsis": "Formal SignWriting becomes reliable technical text when its token patterns, syntax, and valid structures are stated clearly. This entry states what counts as well-formed text before search, rendering, or implementation begin.",
-  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-  "cover_image_alt": "Cover image for Grammar of Formal SignWriting in the Formal SignWriting series.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "technical-paper",
+    "public_label": "Technical Paper",
+    "public_slug": "primary",
+    "publication_designation": "Technical Paper"
+  },
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
-    "slug": "technical-notes"
-  },
-  "publication_plan": {
-    "series": "Formal SignWriting",
-    "artifact_types": [
-      "presentation",
-      "essay",
-      "technical-notes"
-    ],
-    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
-    "zenodo_record_title_suggestion": "Grammar of Formal SignWriting: Token Patterns, Syntax, and Valid Structure",
-    "citation_stub": "Slevinski, S. (2026). Grammar of Formal SignWriting: Token Patterns, Syntax, and Valid Structure. Formal SignWriting."
+    "slug": "technical-notes",
+    "artifact_type": "technical-notes",
+    "publication_designation": "Technical Notes"
   },
   "slides": [
     {
@@ -30,8 +26,6 @@
       "title": "Validity Before Search",
       "kicker": "1",
       "summary": "Grammar defines what counts as well-formed text before search or rendering begins.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for grammar and validity.",
       "image_prompts": {
         "concrete": "Academic technical slide showing a valid Formal SignWriting string, token grouping, and a validation check, white background, clear standards-style layout",
         "abstract": "A string resolving into a well-formed structural pattern, precise and scholarly"
@@ -51,8 +45,6 @@
       "title": "Token Families Make Structure Legible",
       "kicker": "2",
       "summary": "Grammar begins by naming the technical roles of the token families.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for token families and structural roles.",
       "image_prompts": {
         "concrete": "Technical teaching slide showing Formal SignWriting tokens grouped by structural markers, symbols, and coordinates, clean standards-style layout",
         "abstract": "A dense string separating into understandable structural families"
@@ -72,8 +64,6 @@
       "title": "A Word Is Valid or It Is Not",
       "kicker": "3",
       "summary": "Grammar explains how prefix, signbox, symbols, and coordinates fit together.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for a well-formed Formal SignWriting word.",
       "image_prompts": {
         "concrete": "Validation slide comparing a complete well formed Formal SignWriting sign and an incomplete malformed one, academic software presentation style",
         "abstract": "One structure locking into place while another falls apart"
@@ -93,8 +83,6 @@
       "title": "Regular Expressions Make Grammar Operational",
       "kicker": "4",
       "summary": "Regular expressions matter because they make the grammar processable rather than merely descriptive.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for regular expressions in grammar.",
       "bullets": [
         "Pattern matching",
         "Validation workflows",

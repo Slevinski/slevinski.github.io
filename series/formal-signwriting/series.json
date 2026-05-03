@@ -1,15 +1,9 @@
 {
   "slug": "formal-signwriting",
   "title": "Formal SignWriting",
-  "subtitle": "Plain-text encodings, grammar, search, rendering, styling, and implementation of written sign text",
-  "description": "A technical publication series on the Formal SignWriting model for sign text that can be stored, searched, checked, and processed by software, with a clear distinction between canonical text and presentation markup.",
+  "subtitle": "Plain-text encodings, grammar, search, layout, rendering, styling, and implementation of written sign text",
+  "description": "A technical publication series on the Formal SignWriting model for sign text that can be stored, searched, checked, laid out, rendered, and processed by software, with a clear distinction between canonical text, layout, and presentation markup.",
   "accepting_entries": true,
   "kind": "technical-and-publication-series",
-  "home_doc": "README.md",
-  "publication_strategy": {
-    "web_home": "repo-and-public-series-viewers",
-    "doi_home": "zenodo-community",
-    "artifact_model": "one-record-per-artifact",
-    "notes": "The series is the primary technical home for Formal SignWriting, while the Internet-Draft remains a related historical artifact with its own DOI."
-  }
+  "home_doc": "README.md"
 }

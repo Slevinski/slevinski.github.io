@@ -1,0 +1,25 @@
+{
+  "slug": "plane-based-writing-and-script-typology",
+  "number": 1,
+  "title": "Plane-Based Writing and Script Typology",
+  "subtitle": "Where SignWriting fits, and where existing writing-system categories strain",
+  "summary": "Native anchor paper for the Writing and Representation in Sutton SignWriting series on SignWriting, plane-based composition, and writing-system typology.",
+  "synopsis": "This entry argues that SignWriting is best understood through a two-axis typological account: one axis asks what linguistic or embodied structure writing represents, and the other asks how the written unit is organized for reading. It defines plane-based writing as an analytic descriptor, distinguishes it from pictorial drawing, featural script, notation, and encoding, and explains why SignWriting pressures inherited writing-system categories without discarding them.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "theoretical-paper",
+    "public_label": "Paper",
+    "public_slug": "primary",
+    "publication_designation": "Working Paper"
+  },
+  "companion_documents": [
+    {
+      "file": "point-line-plane-evidence-notes.md",
+      "label": "Point, Line, and Plane Evidence Notes",
+      "slug": "point-line-plane-evidence-notes",
+      "artifact_type": "writing-theory-notes",
+      "publication_designation": "Evidence Notes"
+    }
+  ]
+}

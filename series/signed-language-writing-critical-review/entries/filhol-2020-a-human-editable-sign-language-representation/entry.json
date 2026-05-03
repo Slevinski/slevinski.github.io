@@ -1,0 +1,16 @@
+{
+  "slug": "filhol-2020-a-human-editable-sign-language-representation",
+  "number": 6,
+  "title": "Filhol (2020): A Human-Editable Sign Language Representation . . . and a Writing System?",
+  "subtitle": "A review of semantic-layer insight, SignWriting misclassification, and overstated novelty claims",
+  "summary": "Review essay on Filhol's 2020 representation proposal.",
+  "synopsis": "This review argues that Filhol is right about the limits of video and the importance of editable, queryable signed-language representation, but wrong to treat SignWriting as merely phonographic and structurally inadequate. The paper's durable value is as semantic-layer prompting, not as a successful reclassification of SignWriting.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "literature-review-essay",
+    "public_label": "Review",
+    "public_slug": "primary",
+    "publication_designation": "Working Review"
+  }
+}

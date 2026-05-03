@@ -1,28 +1,24 @@
 {
   "slug": "styling-signs",
-  "number": 7,
+  "number": 8,
   "title": "Styling Signs",
   "subtitle": "The style string as light markup for customization and rich presentation",
   "summary": "The style string as optional light markup for customization and rich presentation.",
   "synopsis": "The style string deserves its own technical home. This entry explains it as optional light markup for customizing sign presentation, clarifies its relation to rendering, and argues against treating styling as part of canonical plain-text encoding.",
-  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-  "cover_image_alt": "Cover image for Styling Signs in the Formal SignWriting series.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "technical-paper",
+    "public_label": "Technical Paper",
+    "public_slug": "primary",
+    "publication_designation": "Technical Paper"
+  },
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
-    "slug": "technical-notes"
-  },
-  "publication_plan": {
-    "series": "Formal SignWriting",
-    "artifact_types": [
-      "presentation",
-      "essay",
-      "technical-notes"
-    ],
-    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
-    "zenodo_record_title_suggestion": "Styling Signs: The Style String as Light Markup for Customization and Rich Presentation",
-    "citation_stub": "Slevinski, S. (2026). Styling Signs: The Style String as Light Markup for Customization and Rich Presentation. Formal SignWriting."
+    "slug": "technical-notes",
+    "artifact_type": "technical-notes",
+    "publication_designation": "Technical Notes"
   },
   "slides": [
     {
@@ -30,8 +26,6 @@
       "title": "Styling Is a Separate Layer",
       "kicker": "1",
       "summary": "The style string belongs to the presentation layer rather than the canonical encoding layer.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the style string as a presentation layer.",
       "image_prompts": {
         "concrete": "Scholarly technical slide showing one encoded sign with attached style string and a styled output preview, clean white background",
         "abstract": "One stable sign with a light customization halo surrounding it"
@@ -51,8 +45,6 @@
       "title": "Whole-Sign Styling",
       "kicker": "2",
       "summary": "The style string can describe whole-sign appearance without redefining the underlying sign text.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for whole-sign styling controls.",
       "image_prompts": {
         "concrete": "Technical styling slide showing one sign with padding, color, and scale variations controlled by a style string, clear white background",
         "abstract": "One stable sign wearing several carefully controlled visual treatments"
@@ -72,8 +64,6 @@
       "title": "Symbol-Level Styling",
       "kicker": "3",
       "summary": "The style string can also target particular symbols inside a sign for finer visual control.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for symbol-level styling controls.",
       "image_prompts": {
         "concrete": "Instructional slide highlighting individual symbols inside one sign with color overrides from a style string, academic technical layout",
         "abstract": "A single sign with selected symbols gently illuminated for emphasis"
@@ -93,8 +83,6 @@
       "title": "Keep Styling Out of Canonical Text",
       "kicker": "4",
       "summary": "Separating styling from encoding and rendering keeps the technical architecture clean and teachable.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for keeping styling separate.",
       "bullets": [
         "Not canonical sign text",
         "Not a replacement for rendering",

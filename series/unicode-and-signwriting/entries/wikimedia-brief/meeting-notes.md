@@ -1,28 +1,28 @@
-# Meeting Notes
+# Discussion Outline
 
-**Suggested structure for a Wikimedia conversation about Unicode and SignWriting**
+**Public discussion structure for Unicode and SignWriting conversations**
 
-## Goal
+## Purpose
 
-Establish a shared factual baseline about the current production stack, the remaining technical gap, and the kinds of support Wikimedia could realistically provide.
+Establish a shared factual baseline about the current production stack, the remaining technical gap, and the realistic scope of any platform-side discussion.
 
-Full technical agreement is not the first objective.
+Full technical agreement is not required for an initial discussion.
 
-Accurate understanding and a clear next step are enough for an initial meeting.
+Accurate understanding and a clear next step are enough for an initial discussion.
 
-## Meeting framing
+## Framing
 
 A useful opening is to make the practical question explicit:
 
 - why are FSW and SWU still in active use when Unicode already has a SignWriting block?
 - what remains unresolved for real project use inside Wikimedia?
-- where could Wikimedia help most usefully: documentation, interim support, or future UTC advocacy?
+- what kind of documentation or technical clarification would actually be useful?
 
 The core framing can stay simple:
 
 - the Unicode block names characters, but it does not yet provide a complete, compatible solution for stable symbols and plane-based written signs
 - current production tools, datasets, and real-world use therefore still rely on FSW and SWU
-- the first meeting is about shared understanding, not forcing an immediate standards conclusion
+- the first discussion is about shared understanding, not forcing an immediate standards conclusion
 
 ## Suggested outline
 
@@ -32,7 +32,7 @@ Start by confirming the reason for the conversation:
 
 - current SignWriting use on Wikimedia-facing infrastructure
 - why existing projects still rely on FSW and SWU
-- what Wikimedia wants to understand or support
+- what the platform side actually needs to understand
 
 ### 2. Clarify the technical distinction
 
@@ -80,22 +80,21 @@ Accurate handling affects:
 Useful next steps may include:
 
 - confirming the current production stack and where the technical gaps remain
-- supporting interim practical use of FSW and SWU where needed
 - reviewing bridge tooling and datasets
 - deciding whether a Unicode-level discussion is worth reopening
-- helping advocate accurately inside the UTC if a viable technical path emerges
+- documenting the present limitations accurately in any public-facing support material
 
 ## Documents to send or keep ready
 
-- [Wikimedia Brief](/#series/unicode-and-signwriting/wikimedia-brief/essay)
-- [Developer Notes](/#series/unicode-and-signwriting/developer-notes/essay)
-- [Unicode Overview](/#series/unicode-and-signwriting/unicode-overview/essay)
-- [UTC Technical Note](/#series/unicode-and-signwriting/utc-technical-note/essay), if the discussion becomes concrete
-- [Chronology and Record](/#series/unicode-and-signwriting/chronology-and-record/essay), if history becomes relevant
+- [Wikimedia Brief](/#series/unicode-and-signwriting/wikimedia-brief/primary)
+- [Developer Notes](/#series/unicode-and-signwriting/developer-notes/primary)
+- [Unicode Overview](/#series/unicode-and-signwriting/unicode-overview/primary)
+- [UTC Technical Note](/#series/unicode-and-signwriting/utc-technical-note/primary), if the discussion becomes concrete
+- [Chronology and Record](/#series/unicode-and-signwriting/chronology-and-record/primary), if history becomes relevant
 
-## Good outcome for a first meeting
+## Useful outcome for an initial discussion
 
-A strong first meeting ends with:
+A strong discussion ends with:
 
 - shared understanding of the current production ecosystem
 - clear recognition that the issue is about encoding and interoperability, not only fonts

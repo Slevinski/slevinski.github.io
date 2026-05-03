@@ -1,0 +1,22 @@
+{
+  "slug": "overview",
+  "number": 0,
+  "title": "Notebook Overview",
+  "subtitle": "Working notes, conceptual fragments, and exploratory material",
+  "summary": "Overview entry for the low-prominence working-notes series.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "series-overview",
+    "public_label": "Overview",
+    "public_slug": "primary",
+    "publication_designation": "Series Overview"
+  },
+  "publication": {
+    "status": "web-first",
+    "doi_candidate": false,
+    "repo_candidate": false,
+    "zenodo_record": "not-planned",
+    "citation_role": "series-overview"
+  }
+}

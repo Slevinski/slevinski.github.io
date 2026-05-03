@@ -1,0 +1,16 @@
+{
+  "slug": "thiessen-2011-a-grammar-of-signwriting",
+  "number": 7,
+  "title": "Thiessen (2011): A Grammar of SignWriting",
+  "subtitle": "A review of real structural insight placed one level too low",
+  "summary": "Review essay on Thiessen's 2011 thesis.",
+  "synopsis": "This review treats Thiessen as one of the stronger early engagements with SignWriting. It argues that the thesis correctly recognizes rule-governed structure and computational need, but mislocates the main abstraction at the level of symbols rather than at the level of the written sign and sign text.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "literature-review-essay",
+    "public_label": "Review",
+    "public_slug": "primary",
+    "publication_designation": "Working Review"
+  }
+}

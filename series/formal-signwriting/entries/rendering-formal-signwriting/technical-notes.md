@@ -3,7 +3,9 @@
 **Rendering Formal SignWriting**  
 SVG, fonts, layout, and output models
 
-These technical notes collect practical rendering notes and supporting examples.
+Implementation reference only. Read the companion technical paper for the conceptual account; use these notes when checking implementation details, SVG fragments, and rendering cautions.
+
+These technical notes are the implementation-oriented companion to the rendering paper. They collect practical SVG fragments, font behavior, passage rendering cautions, and boundary rules.
 
 ## 0. Minimal rendering example
 

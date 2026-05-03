@@ -1,0 +1,16 @@
+{
+  "slug": "perspective-and-authored-space",
+  "number": 2,
+  "title": "Perspective and Authored Space",
+  "subtitle": "Viewpoint, placement, and the authored space of signed writing",
+  "summary": "Native anchor draft for the Writing and Representation in Sutton SignWriting series.",
+  "synopsis": "This entry deepens the writing-systems lane by treating authored viewpoint, spatial relation, symbol placement, and passage orientation as part of the writing problem rather than as secondary visual detail. It follows Plane-Based Writing and Script Typology and prepares readers for The Shape of a Sign, Sign Text Layout, and the more formal signbox model.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "theoretical-paper",
+    "public_label": "Paper",
+    "public_slug": "primary",
+    "publication_designation": "Working Paper"
+  }
+}

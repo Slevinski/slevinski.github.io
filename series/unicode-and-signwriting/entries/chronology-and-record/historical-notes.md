@@ -81,7 +81,7 @@ Historically, this is one of the moments where the appearance of progress risked
 
 Wikimedia's renewed outreach in 2026 marks another turning point.
 
-It suggests that the Unicode issue may become live again in a more practical way if a voting member is willing to engage.
+It suggests that the Unicode issue may become live again in a more practical way when public-platform questions run into the unresolved technical gap.
 
 The issue is no longer only about what happened.
 

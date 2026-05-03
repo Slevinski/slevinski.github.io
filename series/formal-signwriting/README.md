@@ -1,133 +1,79 @@
 # Formal SignWriting
 
-*A technical publication series*
+Repository and series-about page for the `Formal SignWriting` series.
 
-Formal SignWriting is the technical record for sign text that can be stored, searched, checked, and processed by software without losing the written form.
+## What This Series Is
 
-Its central claim is simple:
+`Formal SignWriting` is the technical publication series for sign text that can be stored, searched, checked, laid out, rendered, and processed by software without losing the written form.
+
+Its central claim is:
 
 > a sign can be modeled as a two-part word of time and space
 
-In practical terms, a full sign always has a spatial signbox. It may also carry a temporal prefix.
+This is the mechanism layer of the wider Sutton SignWriting platform.
 
-That word therefore contains:
+This series is for:
 
-- a **temporal prefix**
-- a **spatial signbox**
+- developers
+- standards-minded readers
+- corpus and tooling collaborators
+- formal-language readers
+- NLP and AI collaborators
+- readers who need the technical text model directly
 
-From that opening move, the rest of the architecture follows:
+## Public Reading Path
 
-- FSW and SWU as plain-text encodings
-- the signbox as a spatial model
-- grammar as valid structure
-- search as structured matching
-- rendering as downstream visible output
-- styling as optional presentation markup
-- implementation as long-term maintenance practice
+Readers arriving from the public platform should begin with:
 
-This series documents that architecture.
+- `Sutton SignWriting Foundations: The Shape of Writing`
+- `Writing and Representation in Sutton SignWriting: Perspective and Authored Space`
+- `Formal SignWriting: The Shape of a Sign`
 
-## Canonical Core
+Technical readers can begin with:
 
-The canonical core is small.
+- `Formal SignWriting: Formal SignWriting Overview`
+- `Formal SignWriting: Formal SignWriting`
+- `Formal SignWriting: FSW and SWU`
+- `Formal SignWriting: The Shape of a Sign`
 
-It can be stated in a few propositions:
+The full public overview now lives as a series entry:
 
-- a sign is modeled with sequence and signbox, or in broader terms, time and space
-- sequence and signbox must both survive in the text model
-- FSW and SWU are plain-text encodings of the same model, with FSW commonly used as the canonical internal form and SWU supported for Unicode-oriented interchange
-- grammar, search, and rendering are consequences of the model, not substitutes for it
-- the style string is optional presentation markup and not canonical sign text
+- [entries/overview/essay.md](./entries/overview/essay.md)
 
-These propositions orient the series.
+## Series Contents
 
-The entries, technical notes, tools, and future reports elaborate them in more detail.
+- `entries/overview/` - public overview for the technical lane
+- `entries/formal-signwriting/` - opening technical model and technical notes
+- `entries/fsw-and-swu/` - plain-text encodings and conversion
+- `entries/the-shape-of-a-sign/` - symbols, coordinates, centering, signbox structure, and the technical bridge from plane-based writing to Formal SignWriting
+- `entries/grammar-of-formal-signwriting/` - valid token patterns and grammar
+- `entries/searching-signed-text/` - query language and matching logic
+- `entries/sign-text-layout/` - vertical writing, horizontal writing, lanes, centering, and reading levels
+- `entries/rendering-formal-signwriting/` - SVG, fonts, layout, and output models
+- `entries/styling-signs/` - style string and presentation markup
+- `entries/formal-signwriting-in-practice/` - libraries, datasets, transformations, implementation pathways, and encoding-history companion
 
-## Minimal Vocabulary
+## Publication And Citation Model
 
-The series depends on a compact vocabulary:
+Publication metadata, DOI posture, release files, and citation stubs live in [publishing.md](./publishing.md).
 
-| Term | Working meaning |
-| --- | --- |
-| sign | a required spatial signbox, optionally preceded by a temporal prefix |
-| temporal prefix | the optional sequence-preserving part of the sign, used mainly for sorting and sometimes for analysis |
-| spatial signbox | the required composition-preserving part of the sign |
-| FSW | the ASCII-oriented plain-text encoding and the usual canonical internal form |
-| SWU | the Unicode-oriented plain-text encoding used for Unicode-facing interchange and workflows |
-| style string | optional light markup for customization and presentation |
+This series should maintain a clear distinction between canonical sign text, layout behavior, presentation markup, rendering, and downstream tooling.
 
-These definitions should stay stable even as tools, examples, and appendices grow.
+## Source Of Truth
 
-## Current Canon and Reading Order
+Edit this series in `docs/series/formal-signwriting/`.
 
-- **Formal SignWriting** — the two-part word, sign text, and the core model
-- **FSW and SWU** — plain-text encodings, character sets, and conversion
-- **The Shape of a Sign** — symbols, coordinates, centering, and the signbox
-- **Grammar of Formal SignWriting** — token patterns, syntax, and valid structure
-- **Searching Signed Text** — query language, ranges, variance, and search logic
-- **Rendering Formal SignWriting** — SVG, fonts, layout, and output models
-- **Styling Signs** — the style string as optional light markup
-- **Formal SignWriting in Practice** — libraries, datasets, transformations, and implementation pathways
+The public site mirror under `apps/steveslevinski-me/public/series/formal-signwriting/` is generated by:
 
-Together these entries define the model, its consequences, and its practical maintenance surface.
+```bash
+node apps/steveslevinski-me/scripts/sync-docs.mjs
+```
 
-For most technical readers, this is also the right reading order.
+Do not hand-edit the generated mirror unless repairing a sync problem.
 
-The sequence moves from model to encoding, from encoding to structure, and from structure to search, rendering, styling, and implementation.
+## Related Series
 
-## Relationship to The Science of Sutton SignWriting
-
-The two series are complementary.
-
-They form a clear stack:
-
-1. **Formal SignWriting** defines the technical model
-2. **The Science of Sutton SignWriting** defines the scientific framing
-3. future studies, tools, datasets, and collaborations build evidence and practice on top of both
-
-In short:
-
-- *The Science of Sutton SignWriting* asks why signed writing matters
-- *Formal SignWriting* asks how the technical model works
-
-## Relationship to the Internet-Draft
-
-The Internet-Draft remains a historical technical artifact and can still be cited through its DOI.
-
-This series is the current reference-oriented publication set for the same technical area.
-
-## Publication Structure
-
-Individual artifacts remain separately citable.
-
-That means:
-
-- the slide set can stand on its own
-- the essay can stand on its own
-- technical notes, a report, or a compatibility note can stand on its own
-- the series groups them as one technical reference set
-
-The working web edition lives in the repo and public series viewers.
-
-The DOI layer can live in Zenodo or a comparable archival publication home.
-
-## Extension
-
-The canonical core should stay small and stable.
-
-The technical record around it can keep growing.
-
-Reasonable future extensions include:
-
-- query and regex reference material
-- tokenization guidance for NLP and tooling
-- compatibility and migration notes
-- corpus and dataset conventions
-- rendering and API reference material
-- implementation reports for libraries and software stacks
-
-This is the working balance for the series:
-
-- a clear core
-- a growing edge
-- one technical record that can keep expanding without losing clarity
+- `Sutton SignWriting Foundations` explains why signed writing matters.
+- `Writing and Representation in Sutton SignWriting` explains the writing-systems concepts behind the model.
+- `Unicode and SignWriting` tracks standards and compatibility issues.
+- `Signed Language Writing Critical Review Series` evaluates technical and standards claims.

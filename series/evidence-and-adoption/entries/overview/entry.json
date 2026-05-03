@@ -1,0 +1,15 @@
+{
+  "slug": "overview",
+  "number": 0,
+  "title": "Sutton SignWriting Evidence and Adoption Overview",
+  "subtitle": "Documented use, institutional proof points, and evidence boundaries",
+  "summary": "Overview entry for the empirical lane of the Sutton SignWriting platform.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "series-overview",
+    "public_label": "Overview",
+    "public_slug": "primary",
+    "publication_designation": "Series Overview"
+  }
+}

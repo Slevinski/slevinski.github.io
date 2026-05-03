@@ -1,0 +1,16 @@
+{
+  "slug": "kinematography-and-the-limits-of-writing-system-typology",
+  "number": 6,
+  "title": "Kinematography and the Limits of Writing-System Typology",
+  "subtitle": "Signed writing as a pressure test for grapholinguistics",
+  "summary": "Native capstone paper for the Writing and Representation in Sutton SignWriting series on signed writing, kinematography, and the limits of current writing-system typology.",
+  "synopsis": "This entry develops kinematography as a candidate analytic term for writing whose primary representational work is the durable inscription of articulatory-spatial-kinetic form. It distinguishes kinematography from phonography, morphography, featural description, pictography, notation, semasiography, and plane-based organization, while adding criteria, failure conditions, and a worked typological contrast that keep the term bounded as a pressure test rather than settled field terminology.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "theoretical-paper",
+    "public_label": "Paper",
+    "public_slug": "primary",
+    "publication_designation": "Working Paper"
+  }
+}

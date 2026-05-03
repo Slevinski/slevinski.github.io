@@ -1,0 +1,16 @@
+{
+  "slug": "infrastructure-core-and-philanthropy",
+  "number": 6,
+  "title": "Infrastructure Core and Philanthropy",
+  "subtitle": "A support model for staffing, translation, coordination, and continuity",
+  "summary": "A generalized public entry describing how a focused SignWriting infrastructure core and philanthropic support could stabilize existing tools, standards, data, and international access work.",
+  "synopsis": "Grants are essential for research, but they often leave continuity, staffing, translation, and infrastructure follow-through underfunded. This entry generalizes the infrastructure-core idea: a small focused support unit for standards, software, data, translation, access, and coordination, with philanthropy treated as a bridge that complements grants rather than replacing them.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "brief",
+    "public_label": "Brief",
+    "public_slug": "primary",
+    "publication_designation": "Program Brief"
+  }
+}

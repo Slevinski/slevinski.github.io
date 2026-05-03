@@ -5,33 +5,36 @@
   "subtitle": "Symbols, coordinates, centering, and the signbox",
   "summary": "Canonical statement of symbols, coordinates, centering, and signbox structure.",
   "synopsis": "A Formal SignWriting word is not complete until its symbols, coordinates, signbox behavior, tight bounding boxes, and centering logic are understood. This entry states the spatial layer in its smallest stable form and shows how the signbox works as a spatial arrangement carried in text.",
-  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-  "cover_image_alt": "Cover image for The Shape of a Sign in the Formal SignWriting series.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "technical-paper",
+    "public_label": "Technical Paper",
+    "public_slug": "primary",
+    "publication_designation": "Technical Paper"
+  },
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
-    "slug": "technical-notes"
+    "slug": "technical-notes",
+    "artifact_type": "technical-notes",
+    "publication_designation": "Technical Notes"
   },
-  "publication_plan": {
-    "series": "Formal SignWriting",
-    "artifact_types": [
-      "presentation",
-      "essay",
-      "technical-notes"
-    ],
-    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
-    "zenodo_record_title_suggestion": "The Shape of a Sign: Symbols, Coordinates, Centering, and the Signbox",
-    "citation_stub": "Slevinski, S. (2026). The Shape of a Sign: Symbols, Coordinates, Centering, and the Signbox. Formal SignWriting."
-  },
+  "companion_documents": [
+    {
+      "file": "plane-writing-technical-bridge.md",
+      "label": "Plane Writing Technical Bridge",
+      "slug": "plane-writing-technical-bridge",
+      "artifact_type": "technical-bridge",
+      "publication_designation": "Technical Bridge"
+    }
+  ],
   "slides": [
     {
       "id": "spatial-model",
       "title": "The Signbox Is a Spatial Arrangement",
       "kicker": "1",
       "summary": "The signbox is where Formal SignWriting becomes visibly spatial and technically precise.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the signbox as a spatial arrangement.",
       "image_prompts": {
         "concrete": "Technical diagram of a SignWriting signbox with symbols arranged spatially and labeled as text plus spatial arrangement, scholarly and clean",
         "abstract": "A spatial field of symbols forming one coherent written object"
@@ -51,8 +54,6 @@
       "title": "Symbol Classes Define Technical Roles",
       "kicker": "2",
       "summary": "Symbol classes matter because they support different jobs in writing, centering, search, and rendering.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for symbol classes in Formal SignWriting.",
       "image_prompts": {
         "concrete": "Scholarly classification slide showing grouped SignWriting symbol families with labels for writing, location, and punctuation, clean white background",
         "abstract": "Distinct families of symbols organizing themselves into technical roles"
@@ -72,8 +73,6 @@
       "title": "Coordinates Turn Space Into Data",
       "kicker": "3",
       "summary": "Coordinates, tight bounding boxes, and maximum coordinates make the signbox usable in software.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for coordinates and tight bounding boxes in the signbox.",
       "image_prompts": {
         "concrete": "Technical diagram of a SignWriting signbox with coordinate labels, tight bounding boxes, and axis-style annotations, precise and academic",
         "abstract": "Spatial placement becoming measurable and computational"
@@ -94,8 +93,6 @@
       "title": "Centering Makes Signs Travel Well",
       "kicker": "4",
       "summary": "Normalization is one of the strongest technical moves in the system.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for centering and normalization.",
       "bullets": [
         "hcenter and vcenter filters",
         "Fallback to all symbols",

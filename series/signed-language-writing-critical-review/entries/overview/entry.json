@@ -1,0 +1,25 @@
+{
+  "slug": "overview",
+  "number": 0,
+  "title": "Signed Language Writing Critical Review Series Overview",
+  "subtitle": "Scope, method, structure, reading paths, and future direction for the review series",
+  "summary": "Overview entry for the Signed Language Writing critical review series.",
+  "synopsis": "This overview states the series question, method, structure, main review set, reading paths, recurring critique categories, and future direction. It is the public overview entry for the series rather than only a repository document.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "series-overview-essay",
+    "public_label": "Overview",
+    "public_slug": "primary",
+    "publication_designation": "Series Overview"
+  },
+  "companion_documents": [
+    {
+      "file": "start-here.md",
+      "label": "Start Here",
+      "slug": "start-here",
+      "artifact_type": "orientation-note",
+      "publication_designation": "Start Here Note"
+    }
+  ]
+}

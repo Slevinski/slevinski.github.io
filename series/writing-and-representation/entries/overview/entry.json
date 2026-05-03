@@ -1,0 +1,15 @@
+{
+  "slug": "overview",
+  "number": 0,
+  "title": "Writing and Representation in Sutton SignWriting Overview",
+  "subtitle": "Plane-based writing, authored space, representation, and writing-systems questions",
+  "summary": "Overview entry for the writing-systems lane of the Sutton SignWriting platform.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "series-overview",
+    "public_label": "Overview",
+    "public_slug": "primary",
+    "publication_designation": "Series Overview"
+  }
+}

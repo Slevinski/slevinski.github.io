@@ -1,0 +1,187 @@
+{
+  "slug": "research-team-value",
+  "number": 1,
+  "title": "Research Team Value",
+  "subtitle": "Practical DMS Plan, workflow implementation, and repository delivery value for the University of Iowa",
+  "summary": "A University of Iowa-facing entry focused on Steve Slevinski's immediate operational value through DMS Plan support, workflow implementation, code, data shaping, validation, documentation, and repository delivery.",
+  "synopsis": "Steve Slevinski is best understood first as practical research capacity. The brief focuses on immediate usefulness between project systems and repository delivery, showing how Steve helps projects with DMS Plans, workflow implementation, structure, validation, documentation, and execution.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "operational-brief",
+    "public_label": "Operational Brief",
+    "public_slug": "primary",
+    "publication_designation": "Operational Brief"
+  },
+  "links": [
+    {
+      "label": "NIH Data Management and Sharing Policy",
+      "href": "https://sharing.nih.gov/data-management-and-sharing-policy",
+      "description": "NIH guidance showing why DMS Plans and execution are now core project responsibilities."
+    },
+    {
+      "label": "NIMH Data Archive",
+      "href": "https://nda.nih.gov/",
+      "description": "Repository example that illustrates the real technical burden of harmonization, validation, and recurring submission."
+    }
+  ],
+  "slides": [
+    {
+      "id": "core-value",
+      "title": "Research Team Value",
+      "kicker": "1",
+      "summary": "Steve brings immediate operational value through DMS Plan support, workflow implementation, data shaping, technical problem-solving, validation, documentation, and repository delivery.",
+      "bullets": [
+        "Practical Data Management and Sharing Plan support",
+        "Workflow implementation across complex project systems",
+        "Direct help with repository-facing delivery"
+      ],
+      "speech": "Steve Slevinski brings immediate practical value to research teams. He can help investigators build and maintain a Data Management and Sharing Plan, work through complex data workflows, and support the path from project systems to repository delivery.",
+      "notes": "Open with immediate usefulness rather than the larger mission.",
+      "mermaid": "graph TD\n  A[DMS Plan] --> B[Workflow Implementation]\n  B --> C[Data Shaping]\n  C --> D[Repository Delivery]"
+    },
+    {
+      "id": "workflow-implementation-layer",
+      "title": "Workflow Implementation",
+      "kicker": "2",
+      "summary": "Many projects can collect data and name a repository target, but the difficult work sits in workflow implementation where data has to be organized, transformed, documented, validated, and made deliverable.",
+      "bullets": [
+        "Data comes from many systems",
+        "Formats are inconsistent",
+        "Repository requirements are strict",
+        "Projects need help with implementation"
+      ],
+      "speech": "The real problem is often not collecting the data and not naming the repository. The real problem is workflow implementation. Projects pull from REDCap, spreadsheets, exports, scripts, scanners, and outside systems, then have to reshape that material into something valid and deliverable. That is where Steve is useful.",
+      "notes": "Help the audience feel seen in their real project pain points.",
+      "image_prompt_concrete": "Research data workflow diagram showing multiple local sources converging into one ordered repository submission pipeline, clean university visual",
+      "image_prompt_abstract": "Scattered fragments of data being pulled into a single clean structured channel"
+    },
+    {
+      "id": "dms-plan-value",
+      "title": "Data Management and Sharing Plan Value",
+      "kicker": "3",
+      "summary": "A DMS Plan is not just a compliance document; it is an execution problem that requires practical decisions, technical structures, and ongoing follow-through.",
+      "bullets": [
+        "Create and refine DMS Plans",
+        "Translate policy into executable workflows",
+        "Keep the plan aligned with reality over time"
+      ],
+      "speech": "A Data Management and Sharing Plan is not only a policy document. It is a practical statement about what will actually happen to the data. Steve can help teams shape that plan, align it with real workflows, and revise it as projects change.",
+      "notes": "Keep this at the level of execution, not compliance theater.",
+      "mermaid": "graph TD\n  A[NIH Policy] --> B[DMS Plan]\n  B --> C[Real Workflow]\n  C --> D[Repository Delivery]"
+    },
+    {
+      "id": "workflow-and-code-value",
+      "title": "Workflow and Code Value",
+      "kicker": "4",
+      "summary": "The value becomes visible in practical outputs such as reports, scripts, transformations, validation, data structures, and repeatable workflows that make teams more effective.",
+      "bullets": [
+        "REDCap and report structures",
+        "CSV and data dictionary workflows",
+        "Bash and Python transformations",
+        "Repository preparation and validation"
+      ],
+      "speech": "Steve's value is not abstract. It shows up in report design, data dictionaries, scripting, restructuring, validation, and repeatable workflows that help projects move from local complexity toward something usable and shareable.",
+      "notes": "Technical credibility should become unmistakable here.",
+      "image_prompt_concrete": "Screens showing REDCap reports, CSV tables, scripts, and validation outputs in a professional research operations environment",
+      "image_prompt_abstract": "Clean geometric forms representing code, tables, and workflow logic locking into place"
+    },
+    {
+      "id": "repository-delivery",
+      "title": "Repository Delivery Value",
+      "kicker": "5",
+      "summary": "Repository submission is where planning becomes real and the technical labor of packaging, checking, documenting, and delivering data becomes unavoidable.",
+      "bullets": [
+        "Harmonize variables and structures",
+        "Validate against repository rules",
+        "Prepare recurring submission cycles",
+        "Help complete delivery, not just discuss it"
+      ],
+      "speech": "Repository submission is often where projects discover how much work is still left. Harmonization, validation, file preparation, recurring uploads, and issue resolution all require real labor. Steve can help teams get through that work rather than stopping at advice.",
+      "notes": "This is the slide that makes real support feel justified.",
+      "mermaid": "graph TD\n  A[Local Project Systems] --> B[Harmonization]\n  B --> C[Validation]\n  C --> D[Repository Submission]\n  D --> E[Recurring Updates]"
+    },
+    {
+      "id": "research-credibility",
+      "title": "Research Credibility",
+      "kicker": "6",
+      "summary": "This value is grounded in real work around actual NIH-funded studies and active research environments rather than hypothetical consulting scenarios.",
+      "bullets": [
+        "Growth and development of Striatal-Cerebellum circuitry in subjects at risk for Huntington's Disease — $11,355,231.00 — PI Peggy Nopoulos",
+        "Suicidality in Bipolar and Major Depression Disorders — $3,633,329.00 — PI Vincent Magnotta",
+        "Cerebellar metabolism, neural circuits, and symptoms in bipolar disorder — $2,302,624.00 — PI Vincent Magnotta"
+      ],
+      "speech": "This is not theoretical value. It is grounded in work tied to real NIH-funded studies of real scale. Those examples matter because they show that the DMS and repository work sits inside projects with high institutional stakes and real delivery demands.",
+      "notes": "Keep the scale and seriousness visible.",
+      "image_prompt_concrete": "NIH-funded research portfolio slide with project titles, PI names, and grant amounts, polished and serious institutional design",
+      "image_prompt_abstract": "Three pillars of funded research feeding into one operational support system"
+    },
+    {
+      "id": "who-benefits",
+      "title": "Who Benefits",
+      "kicker": "7",
+      "summary": "This support is useful to one lab immediately, but the same capacity can also serve multiple labs, projects, and units across the University over time.",
+      "bullets": [
+        "Individual PIs and labs",
+        "Coordinators and project teams",
+        "Grants and compliance workflows",
+        "Cross-campus research collaborations"
+      ],
+      "speech": "The value is local and broad at the same time. One PI or lab can benefit directly, but the same kind of DMS and repository support can serve multiple projects across a department or across the University. That makes Steve useful not only as a project contributor, but as a cross-campus operational asset.",
+      "notes": "This is the institutional leverage slide.",
+      "image_prompt_concrete": "One technical research support capacity connected to multiple labs and project teams across a university network",
+      "image_prompt_abstract": "A central support node connected to many differently colored project pathways"
+    },
+    {
+      "id": "shared-capacity-case",
+      "title": "Why This Should Be Treated As Shared Capacity",
+      "kicker": "8",
+      "summary": "This work is stronger when it is understood as shared operational capacity that multiple projects can use rather than as one isolated personnel request.",
+      "bullets": [
+        "Useful across more than one project",
+        "Improves day-to-day availability for active work",
+        "Strengthens technical follow-through",
+        "Makes the function visible institutionally"
+      ],
+      "speech": "The operational case is stronger when this work is treated as shared capacity. More than one project can benefit from DMS Plan support, workflow cleanup, validation, and repository delivery support. The point is to name a useful function clearly and show why it matters across active research work.",
+      "notes": "Keep the slide on function and institutional usefulness, not on funding mechanics.",
+      "mermaid": "graph LR\n  A[Shared Capacity] --> B[Availability]\n  A --> C[Execution Capacity]\n  A --> D[Follow-Through]\n  A --> E[Cross-Project Use]"
+    },
+    {
+      "id": "immediate-and-strategic",
+      "title": "Best First Use Cases",
+      "kicker": "9",
+      "summary": "The strongest first uses are concrete: DMS Plan cleanup, workflow repair, repository preparation, and the implementation work teams often underestimate.",
+      "bullets": [
+        "Refresh a DMS Plan so it matches real practice",
+        "Stabilize workflow implementation between systems and submission",
+        "Help teams finish documentation, validation, and delivery work"
+      ],
+      "speech": "The strongest first use cases are practical. Bring Steve in when a DMS Plan needs to match the real workflow, when workflow implementation between systems and submission is slowing the project down, or when documentation, validation, and repository delivery work needs hands-on support.",
+      "notes": "Make the audience picture where this help enters first.",
+      "image_prompt_concrete": "Clean academic slide showing practical first use cases like DMS cleanup, workflow repair, and repository preparation",
+      "image_prompt_abstract": "Three practical work channels converging into one clear delivery path"
+    },
+    {
+      "id": "closing-ask",
+      "title": "Closing Ask",
+      "kicker": "10",
+      "summary": "The closing ask is simple: bring Steve into active research projects that need practical DMS Plan, workflow implementation, and repository-delivery help.",
+      "bullets": [
+        "Bring Steve into active research data work",
+        "Start with DMS Plan, workflow, and repository problems",
+        "Start where a real project is already under pressure"
+      ],
+      "speech": "The closing ask is straightforward. Bring Steve into active projects that need DMS Plan, workflow implementation, and repository-delivery help. Start where a real team is already feeling pressure and needs clearer structure and stronger follow-through.",
+      "notes": "End with disciplined usefulness.",
+      "mermaid": "graph TD\n  A[Bring Steve Into Active Work] --> B[Better Project Delivery]\n  B --> C[Clearer DMS Workflows]\n  C --> D[Successful Repository Outcomes]"
+    }
+  ],
+  "publication": {
+    "status": "operational-bridge",
+    "doi_candidate": false,
+    "repo_candidate": false,
+    "zenodo_record": "not-planned",
+    "citation_role": "bridge-document"
+  }
+}

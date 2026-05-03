@@ -1,0 +1,22 @@
+{
+  "slug": "overview",
+  "number": 0,
+  "title": "DMS Plan Overview",
+  "subtitle": "Data management, workflow design, and repository delivery",
+  "summary": "Overview entry for the DMS Plan series and its operational workflow materials.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "series-overview",
+    "public_label": "Overview",
+    "public_slug": "primary",
+    "publication_designation": "Series Overview"
+  },
+  "publication": {
+    "status": "web-first",
+    "doi_candidate": false,
+    "repo_candidate": false,
+    "zenodo_record": "not-planned",
+    "citation_role": "series-overview"
+  }
+}

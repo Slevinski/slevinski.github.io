@@ -1,0 +1,16 @@
+{
+  "slug": "iconicity-convention-and-legibility",
+  "number": 3,
+  "title": "Iconicity, Convention, and Legibility",
+  "subtitle": "How motivated visual form becomes disciplined writing",
+  "summary": "Native anchor paper for the Writing and Representation in Sutton SignWriting series on visual motivation, convention, and legibility in SignWriting.",
+  "synopsis": "This entry argues that iconicity is not the opposite of writing. It explains how visually motivated forms become writing when they are stabilized through convention, contrast, teachability, repeatability, correction, and reader practice. It distinguishes iconic language writing from free illustration, pictograms, emoji, and merely intuitive visual communication, treating SignWriting as a disciplined writing system whose iconic resources are organized by learned conventions.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "theoretical-paper",
+    "public_label": "Paper",
+    "public_slug": "primary",
+    "publication_designation": "Working Paper"
+  }
+}

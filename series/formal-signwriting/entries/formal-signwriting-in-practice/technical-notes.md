@@ -3,7 +3,9 @@
 **Formal SignWriting in Practice**  
 Libraries, datasets, transformations, and implementation pathways
 
-These technical notes collect supporting material behind software, data, and maintenance practice.
+Implementation reference only. Read the companion technical paper for the conceptual account; use these notes when checking implementation details, ecosystem roles, and maintenance cautions.
+
+These technical notes are the implementation-oriented companion to the practice paper. They collect ecosystem details, maintenance cautions, and package-level notes that should stay out of the main stewardship argument.
 
 ## 0. Minimal ecosystem sketch
 
@@ -19,6 +21,8 @@ Concrete package examples already give the ecosystem a visible shape:
 - `@sutton-signwriting/signmaker`
 
 That is enough to show that the model already lives in real software artifacts.
+
+Treat this list as a release-time snapshot. The maintained package inventory should live in the public reference data and library documentation so the paper does not become the only source for ecosystem state.
 
 ## I. Practice is part of the argument
 

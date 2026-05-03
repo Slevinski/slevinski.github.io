@@ -129,7 +129,7 @@ This mattered because it showed that a font could be produced for the official d
 
 - Wikimedia renewed outreach after regaining Unicode Consortium membership and asked whether better Unicode support for SignWriting could be pursued together.
 
-That renewed outreach raises again the question of whether a voting member could support renewed technical discussion.
+That renewed outreach shows again that the Unicode issue reappears when public-platform work runs into unresolved compatibility questions.
 
 It also marks a practical shift:
 
@@ -151,4 +151,3 @@ The core historical fact is this:
 That remains the central documentary problem.
 
 Everything else in the chronology is easier to interpret once that line is held in view.
-

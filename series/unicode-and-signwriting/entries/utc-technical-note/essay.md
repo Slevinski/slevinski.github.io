@@ -40,13 +40,6 @@ Renewed technical review is needed rather than continued assumption that migrati
 - **SWU**: SignWriting in Unicode, the Unicode-oriented isomorphic representation supported by the Sutton SignWriting Resources
 - **official Unicode SignWriting**: the current SignWriting encoding standardized in Unicode 8 and later versions
 
-In some internal discussions, the official Unicode encoding is informally called **uni8** to distinguish it from SWU.
-
-Inside the current ecosystem, that informal term helps prevent confusion between:
-
-- official Unicode SignWriting
-- SWU as supported by the Sutton SignWriting Resources
-
 ## Current problem
 
 The current problem is not whether Unicode can name SignWriting characters.
@@ -230,18 +223,18 @@ The current ecosystem includes more than one million written signs across dozens
 
 In addition, current country-level cases such as Brazil and South Korea show that encoded SignWriting is not hypothetical or merely local.
 
-They also show why the standard of evaluation should be real writing and real infrastructure, not only internal standards elegance.
+They also show why the standard of evaluation should be real writing and real infrastructure, not only abstract standards elegance.
 
-## Requested next step
+## Disciplined next step
 
-The requested next step is modest and concrete:
+A disciplined next step would be modest and concrete:
 
 - acknowledgment that current official Unicode SignWriting is not sufficient for compatible production use
 - acknowledgment that symbol identity is not preserved cleanly across the full system
 - acknowledgment that the facial-diacritic model mediates part of symbol selection and arrangement through font behavior
 - acknowledgment that spatial composition remains unresolved
 - renewed technical review of compatibility, collation, and migration
-- a concrete path for follow-up discussion with support from a voting member
+- a concrete path for follow-up discussion only if meaningful technical and institutional interest exists
 
 Start with honest technical acknowledgment of the present gap.
 
@@ -258,4 +251,3 @@ In the facial system, it displaced writer-selected symbol identity with font-med
 That distinction remains the central technical issue.
 
 Everything else depends on whether that distinction is acknowledged clearly.
-

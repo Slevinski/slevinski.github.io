@@ -1,0 +1,16 @@
+{
+  "slug": "handwriting-and-spatial-script-practice",
+  "number": 4,
+  "title": "Handwriting and Spatial Script Practice",
+  "subtitle": "Block printing, shorthand, cursive forms, and ordinary signed writing",
+  "summary": "Native anchor paper for the Writing and Representation in Sutton SignWriting series on handwriting, material practice, and script culture in SignWriting.",
+  "synopsis": "This entry argues that a writing system is not only a formal model, font-rendered output, or machine-readable text stream. It also becomes writing through ordinary practice: handwriting, abbreviation, learner forms, personal variation, correction, reuse, and material habits. It connects SignWriting handwriting to grapholinguistic questions of materiality, treats block, shorthand, and cursive traditions as important but under-documented evidence for spatial script practice, and identifies the research needed to understand handwritten signed text more fully.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "theoretical-paper",
+    "public_label": "Paper",
+    "public_slug": "primary",
+    "publication_designation": "Working Paper"
+  }
+}

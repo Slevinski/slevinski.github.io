@@ -53,7 +53,7 @@ There is already a visible SignWriting footprint across Wikimedia infrastructure
 
 That matters because Wikimedia is not deciding whether SignWriting has ever touched its ecosystem.
 
-Wikimedia is deciding how accurately to understand and support an existing footprint that has already depended on custom infrastructure, bridge tooling, and long-lived external services.
+The more realistic question is how accurately to document and understand an existing footprint that has already depended on custom infrastructure, bridge tooling, and long-lived external services.
 
 ## Why this matters specifically to Wikimedia
 
@@ -69,13 +69,13 @@ Prematurely treating the official Unicode block as "solved" risks spreading inco
 
 It also risks breaking or neglecting existing Wikimedia-facing integrations that were built around FSW, SWU, custom rendering, and external analyzer or image-server links.
 
-## What would help
+## A realistic public posture
 
-Wikimedia could help by:
+A realistic public posture would:
 
-- starting from the actual production ecosystem rather than the assumption that the Unicode block already solves the problem
-- supporting interim practical use of FSW and SWU where needed
-- helping advocate inside the UTC (especially as a new participant or voting member) for concrete improvements if a viable technical path emerges
+- start from the actual production ecosystem rather than the assumption that the Unicode block already solves the problem
+- acknowledge that FSW and SWU remain the practical baseline where SignWriting is already in use
+- avoid claims that the current Unicode block already provides a complete compatible solution
 
 ## Good next step
 
@@ -85,4 +85,4 @@ A productive first step is simply to establish a shared factual baseline:
 - agree on where the technical gaps remain
 - decide together whether reopening Unicode-level discussion is worth the investment
 
-We are happy to provide the technical details, conversion tools, and datasets needed for Wikimedia to evaluate the options clearly.
+Any future Unicode discussion is only worth the effort if it begins from those realities rather than from the assumption that the compatibility problem is already solved.

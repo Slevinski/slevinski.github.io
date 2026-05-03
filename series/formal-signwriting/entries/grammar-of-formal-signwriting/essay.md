@@ -116,6 +116,50 @@ It is that the pattern can be checked consistently across tools, which means:
 - tokenization can be reproduced
 - later processing does not have to guess what counts as a sign
 
+## Passage-level scope
+
+The core grammar in this entry is sign-level grammar.
+
+It defines what counts as:
+
+- a valid symbol key
+- a valid coordinate
+- a valid temporal prefix
+- a valid spatial signbox
+- a valid full sign
+
+Passage-level structure is deliberately thinner. A passage is an ordered stream or collection of valid signs, punctuation signs, and layout information. The grammar does not redefine a passage as one larger hidden sign, and it does not make layout choices part of canonical sign identity.
+
+In practice:
+
+- adjacent signs are separated by the surrounding text format, data structure, or parser boundary
+- punctuation is represented with punctuation symbols and signbox structure
+- vertical or horizontal flow belongs to layout
+- lane behavior belongs to layout
+- document-level segmentation belongs to the host format or corpus convention
+
+That division keeps the grammar strict where it needs to be strict while leaving passage layout and document packaging to the layers designed for them.
+
+## Tokenization and NLP
+
+At the grammar layer, tokenization means that valid text can be separated into recognizable structural parts.
+
+Tokenization can happen at several levels:
+
+- sign as token
+- temporal prefix as sequence tokens
+- spatial signbox as placed symbol tokens
+- symbol key as base, fill, and rotation
+- coordinate pairs as spatial features
+
+For search and validation, sign-level and symbol-level tokenization are usually enough.
+
+For NLP, machine learning, corpus analysis, and other downstream tasks, the detailed guidance belongs in `Formal SignWriting in Practice`. The grammar rule is narrower:
+
+> preserve the full canonical sign text, then derive task-specific tokens from it
+
+Derived token streams should remain reproducible from the stored FSW or SWU source.
+
 ## Downstream use
 
 Once the grammar layer is explicit, later entries can build on it:
@@ -127,4 +171,3 @@ Once the grammar layer is explicit, later entries can build on it:
 ## Core rule
 
 Before text can be searched, rendered, or maintained confidently, it has to be recognizably well formed.
-

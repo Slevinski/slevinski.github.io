@@ -4,13 +4,22 @@
   "title": "Wikimedia Brief",
   "subtitle": "What Wikimedia needs to understand about Unicode and SignWriting",
   "summary": "A short practical note for Wikimedia staff and collaborators about why naming characters is not enough for current SignWriting project needs.",
-  "synopsis": "This brief is for Wikimedia readers. It explains why current SignWriting work in Wikimedia projects cannot rely on official Unicode SignWriting alone, why the real gap is larger than font support, how the facial system affects stable symbol identity, what the current Sutton SignWriting production stack uses instead, and where Wikimedia could help without flattening the problem into a solved-symbol-block story.",
+  "synopsis": "This brief is for Wikimedia and other public-platform readers. It explains why current SignWriting work cannot rely on official Unicode SignWriting alone, why the real gap is larger than font support, how the facial system affects stable symbol identity, what the current Sutton SignWriting production stack uses instead, and what a realistic public posture looks like without flattening the problem into a solved-symbol-block story.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "technical-briefing",
+    "public_label": "Briefing",
+    "public_slug": "primary",
+    "publication_designation": "Technical Briefing"
+  },
   "companion_documents": [
     {
       "file": "meeting-notes.md",
-      "label": "Meeting Notes",
-      "slug": "meeting-notes"
+      "label": "Discussion Outline",
+      "slug": "meeting-notes",
+      "artifact_type": "meeting-notes",
+      "publication_designation": "Meeting Notes"
     }
   ],
   "slides": [
@@ -19,8 +28,6 @@
       "title": "What Wikimedia Needs To Know First",
       "kicker": "1",
       "summary": "The Unicode issue is still practical for Wikimedia projects that want to support SignWriting well.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for Wikimedia brief baseline.",
       "bullets": [
         "Official Unicode SignWriting is not sufficient by itself",
         "Current projects still depend on FSW and SWU",
@@ -37,8 +44,6 @@
       "title": "What Wikimedia Is Likely To Notice",
       "kicker": "2",
       "summary": "Wikimedia projects usually encounter the problem first as custom strings, scripts, and uncertainty about whether Unicode already solved it.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for what Wikimedia projects see.",
       "bullets": [
         "ASCII-based strings in real project work",
         "Custom renderers or user scripts",
@@ -54,8 +59,6 @@
       "title": "What The Real Gap Is",
       "kicker": "3",
       "summary": "The real gap is not only missing fonts. It includes stable symbol identity, written-sign encoding, and interoperability.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the real Wikimedia gap.",
       "bullets": [
         "The issue is larger than rendering",
         "Naming characters is not the same as preserving stable symbols",
@@ -72,34 +75,37 @@
       "title": "What The Current Stack Uses",
       "kicker": "4",
       "summary": "Current Sutton SignWriting workflows rely on FSW and SWU because that stack already carries the real ecosystem.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the current SignWriting stack.",
       "bullets": [
         "FSW is the main production encoding",
         "SWU is the supported Unicode-oriented isomorphic form",
         "Current tools and datasets are built around them",
         "Treat that production reality as the baseline"
       ],
-      "speech": "If Wikimedia wants to help accurately, it helps to start from the real production stack rather than from the assumption that the official block already solved the problem. Current Sutton SignWriting workflows rely on FSW and SWU. That is not an awkward exception. It is the present baseline for tools, datasets, and interoperability.",
+      "speech": "If Wikimedia wants to describe or handle SignWriting accurately, it helps to start from the real production stack rather than from the assumption that the official block already solved the problem. Current Sutton SignWriting workflows rely on FSW and SWU. That is not an awkward exception. It is the present baseline for tools, datasets, and interoperability.",
       "notes": "Use this to keep the conversation grounded.",
       "mermaid": "flowchart LR\n  A[Current ecosystem] --> B[FSW]\n  A --> C[SWU]\n  B --> D[Canonical production workflows]\n  C --> E[Unicode-oriented interchange]\n  D --> F[What projects use now]\n  E --> F\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D,E node;\n  class F out;"
     },
     {
-      "id": "what-wikimedia-could-do",
-      "title": "What Wikimedia Could Do",
+      "id": "realistic-public-posture",
+      "title": "What A Realistic Public Posture Looks Like",
       "kicker": "5",
-      "summary": "Wikimedia can be most useful by understanding the gap accurately and advocating from that reality.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for what Wikimedia could do.",
+      "summary": "Public discussion is most useful when it starts from the actual production stack and avoids claiming the problem is already solved.",
       "bullets": [
         "Establish a shared technical baseline",
         "Avoid flattening the issue into a solved-symbol-block story",
-        "Support practical use of FSW and SWU where needed",
-        "Consider Unicode advocacy only from an accurate foundation"
+        "Recognize FSW and SWU as the practical baseline",
+        "Revisit Unicode only from an accurate technical foundation"
       ],
-      "speech": "A good next step is not to pretend the problem is already solved. A good next step is to establish a shared technical baseline, understand the current production stack, and decide whether Unicode-level discussion is worth reopening. Accurate understanding at this stage is more valuable than premature conclusions.",
-      "notes": "End with practical collaboration, not pressure.",
+      "speech": "A realistic public posture begins by acknowledging the current production stack rather than assuming the Unicode block already solved the problem. FSW and SWU remain the practical baseline. Accurate understanding matters more than premature standards conclusions, and any future Unicode discussion is only worth the effort if it begins from that reality.",
+      "notes": "End with clarity and restraint, not with an ask for support.",
       "mermaid": "flowchart TD\n  A[Shared technical baseline] --> B[Accurate advocacy]\n  A --> C[Practical current support]\n  B --> D[Possible future Unicode work]\n  C --> D\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D node;\n  class D out;"
     }
-  ]
+  ],
+  "publication": {
+    "status": "working-briefing",
+    "doi_candidate": false,
+    "repo_candidate": true,
+    "zenodo_record": "not-planned",
+    "citation_role": "reference-briefing"
+  }
 }

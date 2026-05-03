@@ -1,37 +1,40 @@
 {
   "slug": "formal-signwriting-in-practice",
-  "number": 8,
+  "number": 9,
   "title": "Formal SignWriting in Practice",
   "subtitle": "Libraries, datasets, transformations, and implementation pathways",
   "summary": "Canonical statement of libraries, datasets, transformations, and real implementation pathways.",
   "synopsis": "The specification matters most when it supports real libraries, transformations, datasets, corpora, and implementation pathways. This entry states the stewardship layer in its smallest stable form and connects the model to the broader software and data ecosystem.",
-  "cover_image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-  "cover_image_alt": "Cover image for Formal SignWriting in Practice in the Formal SignWriting series.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "technical-paper",
+    "public_label": "Technical Paper",
+    "public_slug": "primary",
+    "publication_designation": "Technical Paper"
+  },
   "secondary_artifact": {
     "file": "technical-notes.md",
     "label": "Technical Notes",
-    "slug": "technical-notes"
+    "slug": "technical-notes",
+    "artifact_type": "technical-notes",
+    "publication_designation": "Technical Notes"
   },
-  "publication_plan": {
-    "series": "Formal SignWriting",
-    "artifact_types": [
-      "presentation",
-      "essay",
-      "technical-notes"
-    ],
-    "doi_strategy": "publish as distinct citable artifacts connected by series identity and related identifiers",
-    "zenodo_record_title_suggestion": "Formal SignWriting in Practice: Libraries, Datasets, and Implementation Pathways",
-    "citation_stub": "Slevinski, S. (2026). Formal SignWriting in Practice: Libraries, Datasets, and Implementation Pathways. Formal SignWriting."
-  },
+  "companion_documents": [
+    {
+      "file": "encoding-history.md",
+      "label": "Encoding History",
+      "slug": "encoding-history",
+      "artifact_type": "historical-notes",
+      "publication_designation": "Historical Notes"
+    }
+  ],
   "slides": [
     {
       "id": "implementation-pathways",
       "title": "Formal SignWriting in Practice",
       "kicker": "1",
       "summary": "The technical model becomes durable when it is connected to real libraries, datasets, and implementation paths.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for Formal SignWriting in practice.",
       "image_prompts": {
         "concrete": "Research-software ecosystem graphic showing libraries, corpora, rendering, and shared tools connected through Formal SignWriting, clean and modern",
         "abstract": "One technical model branching into software, data, and maintenance pathways"
@@ -51,8 +54,6 @@
       "title": "Real Libraries Make the Model Usable",
       "kicker": "2",
       "summary": "A serious technical model should be traceable through real software artifacts.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for libraries and packages in practice.",
       "image_prompts": {
         "concrete": "Research software slide showing core processing libraries, rendering packages, and web components connected to Formal SignWriting, clean ecosystem diagram",
         "abstract": "A technical model turning into reusable tools and packages"
@@ -72,8 +73,6 @@
       "title": "Corpora Give the Model Consequences",
       "kicker": "3",
       "summary": "The model becomes most valuable when it supports real collections, annotations, and reproducible workflows.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for corpora and workflows in practice.",
       "image_prompts": {
         "concrete": "Technical workflow slide showing lexicons, corpora, annotation pipelines, and search results built on Formal SignWriting, scholarly software design",
         "abstract": "Many signed data workflows converging into a reproducible technical practice"
@@ -93,8 +92,6 @@
       "title": "A Maintainable Technical Home",
       "kicker": "4",
       "summary": "Future builders need a stable model, a legible ecosystem, and a path forward.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for maintenance and continuity.",
       "bullets": [
         "Canonical versus derived data",
         "Interoperability across generations",

@@ -3,22 +3,16 @@
 **Formal SignWriting**  
 The two-part word, sign text, and the core model
 
-These technical notes collect a few compact details behind the core model.
+Implementation reference only. Read the companion technical paper for the conceptual account; use these notes when checking implementation details, validity boundaries, and maintenance cautions.
 
-## 0. Minimal example
+These technical notes are the implementation-oriented companion to the opening paper. They avoid restating the whole argument and focus on validity boundaries, sequence-theory cautions, and downstream consequences.
 
-One compact example is enough to show the architecture:
+## 0. Minimal structure
 
-```text
-AS10011S10019S2e704S2e748M525x535S2e748483x510S10011501x466S2e704510x500S10019476x475
-```
+The opening paper gives the worked example. The reference structure is:
 
-The structure is:
-
-- `A...` for the temporal prefix
-- `M525x535...` for the spatial signbox
-
-That is the whole architecture in miniature. The rest of the model simply makes the consequences explicit.
+- `A...` for an optional temporal prefix
+- `[BLMR]nnnxnnn...` for the required spatial signbox
 
 ## I. Minimal definitions
 
@@ -29,7 +23,7 @@ The opening layer depends on a few stable definitions:
 | sign | a required signbox with an optional temporal prefix |
 | temporal prefix | the optional sequence-preserving part of the word |
 | spatial signbox | the required composition-preserving part of the word |
-| FSW and SWU | plain-text encodings of the same model, with FSW commonly canonical in processing and SWU supported for Unicode-oriented interchange |
+| FSW and SWU | plain-text encodings of the same model, with FSW commonly used as the canonical processing form and SWU supported for Unicode-oriented interchange |
 | style string | optional markup for presentation and customization |
 
 These definitions should remain stable even as later appendices and tools become more detailed.
@@ -57,7 +51,7 @@ The technical position is:
 
 - Formal SignWriting is a stable technical model for written sign text
 - the visible writing and the computational representation are related but distinct layers
-- FSW and SWU are plain-text encodings of the same model, with FSW commonly canonical in processing and SWU supported for Unicode-oriented interchange
+- FSW and SWU are plain-text encodings of the same model, with FSW commonly used as the canonical processing form and SWU supported for Unicode-oriented interchange
 - the style string is not canonical sign text and should be treated as optional markup for presentation
 - the two-part word is the core explanatory move
 - search, sorting, rendering, and transformation are consequences of that move
@@ -76,13 +70,13 @@ It is the move that lets the rest of the architecture stay coherent:
 
 Without this opening move, later layers risk feeling like a loose collection of mechanisms.
 
-## V. Minimal example broken apart
+## V. Minimal structure broken apart
 
-The worked sign can be broken apart this way:
+Any full sign with a prefix can be read as:
 
 ```text
-A S10011 S10019 S2e704 S2e748
-M525x535 S2e748483x510 S10011501x466 S2e704510x500 S10019476x475
+A symbol symbol symbol...
+[B/L/M/R] coordinate symbol coordinate...
 ```
 
 The first line preserves theory-based sequence data.

@@ -4,6 +4,8 @@
 
 The signbox is where Formal SignWriting becomes visibly spatial and technically precise.
 
+It is also the clearest public handoff from the writing lane into the formal technical model.
+
 Its core claim is simple:
 
 > the signbox is a spatial arrangement carried in text
@@ -75,6 +77,8 @@ The signbox uses coordinates to preserve spatial relation.
 These coordinates are not incidental metadata.
 
 They are part of how the written form becomes usable in software.
+
+The normalized sign center used by later layout is `500x500`. That common center lets an authored signbox keep its internal spatial composition while still aligning predictably inside passages, lanes, and rendered output.
 
 For example, the signbox portion of this sign:
 
@@ -163,3 +167,7 @@ Without this spatial layer, Formal SignWriting risks being misunderstood as only
 
 With it, the model becomes visibly coherent and usable in software.
 
+## Related Platform Routes
+
+- `Sign Text Layout` explains how centered signboxes become vertical and horizontal passages.
+- `Rendering Formal SignWriting` explains how that layout becomes visible output.

@@ -3,7 +3,9 @@
 **The Shape of a Sign**  
 Symbols, coordinates, centering, and the signbox
 
-These technical notes hold deeper details behind the spatial model.
+Implementation reference only. Read the companion technical paper for the conceptual account; use these notes when checking implementation details, symbol ranges, coordinate behavior, and centering rules.
+
+These technical notes are the implementation-oriented companion to the spatial model paper. They focus on symbol ranges, coordinate behavior, centering, and validation consequences that would crowd the main paper.
 
 ## 0. Minimal spatial example
 

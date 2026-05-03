@@ -1,0 +1,16 @@
+{
+  "slug": "reading-signed-text",
+  "number": 2,
+  "title": "Reading Signed Text",
+  "subtitle": "Recognition, syntax, and spatial reference in signed-language literacy",
+  "summary": "Second research-facing paper for the Sutton SignWriting Language and Literacy Research series.",
+  "synopsis": "This entry asks the next hard-science question after The Four Language Pathways: what reading would mean in a signed writing system. It outlines a research-facing account of recognition, lexical comparison, layout direction, syntax, spatial reference, and the limits of current evidence, with the vertical-layout history sourced to Sutton's published SignWriting records.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "theoretical-paper",
+    "public_label": "Paper",
+    "public_slug": "primary",
+    "publication_designation": "Working Paper"
+  }
+}

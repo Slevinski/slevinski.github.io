@@ -1,0 +1,186 @@
+{
+  "slug": "pi-or-lab-base",
+  "number": 2,
+  "title": "PI or Lab Base",
+  "subtitle": "A practical base for project support, grants, and infrastructure",
+  "summary": "A PI-facing entry arguing that a PI or lab base now is the small first decision that makes project support, sustained research capacity, grant writing, and future infrastructure more plausible.",
+  "synopsis": "Give Steve Slevinski a PI or lab base now so practical work can begin immediately and broader support can grow around demonstrated value. The brief keeps the PI ask narrow and disciplined: institutional base first, broader support second, and the larger infrastructure story as the consequence of making the right first move.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "operational-brief",
+    "public_label": "Operational Brief",
+    "public_slug": "primary",
+    "publication_designation": "Operational Brief"
+  },
+  "links": [
+    {
+      "label": "NIH Data Management and Sharing Policy",
+      "href": "https://sharing.nih.gov/data-management-and-sharing-policy",
+      "description": "NIH guidance that supports the case for practical DMS Plan and execution help."
+    },
+    {
+      "label": "NIMH Data Archive",
+      "href": "https://nda.nih.gov/",
+      "description": "Example external repository showing the complexity of real repository delivery work."
+    }
+  ],
+  "slides": [
+    {
+      "id": "why-now",
+      "title": "The First Institutional Step",
+      "kicker": "1",
+      "summary": "The immediate need is not a mature center. It is a PI or lab base now, because that first institutional home creates a real base for useful work and makes every larger step more credible.",
+      "bullets": [
+        "A PI or lab base is needed now",
+        "Useful research support can begin from that base"
+      ],
+      "speech": "This conversation is happening now because the immediate need is not a fully built center. It is a PI or lab base. That base gives the work a real university home, lets useful project support begin, and makes the next steps far more credible.",
+      "notes": "Open with practical urgency, make the first ask feel modest, and keep the brief narrowly PI-facing.",
+      "mermaid": "graph TD\n  A[Immediate Need] --> B[PI Or Lab Base]\n  B --> C[Institutional Base]\n  C --> D[Future Growth]"
+    },
+    {
+      "id": "base-first",
+      "title": "Base First",
+      "kicker": "2",
+      "summary": "An institutional base matters even before full funding exists because the first step is affiliation, accountability, and a real home for useful work.",
+      "bullets": [
+        "The institutional base comes first",
+        "Support can grow around demonstrated value",
+        "The first ask is smaller than the long-term vision"
+      ],
+      "speech": "The first step is the institutional home. Funding, project support, grants, gifts, and infrastructure support can grow around demonstrated value. That makes the initial decision smaller, clearer, and more realistic.",
+      "notes": "Reassure the PI that the initial move is structural and practical.",
+      "image_prompt_concrete": "Clean academic diagram showing a small first step labeled PI or lab base leading to larger steps labeled sustained capacity, grants, and infrastructure, minimal white background",
+      "image_prompt_abstract": "A single foothold growing into a structured pathway of connected platforms, calm strategic visual"
+    },
+    {
+      "id": "why-a-pi-benefits",
+      "title": "Why A PI Benefits",
+      "kicker": "3",
+      "summary": "A PI benefits because Steve adds practical capacity to the lab through DMS Plan support, workflow cleanup, documentation, code, and repository-facing execution.",
+      "bullets": [
+        "Immediate DMS Plan and repository value",
+        "Cross-project technical and workflow support",
+        "A platform for future grants and collaborations"
+      ],
+      "speech": "This is not only an act of generosity. A PI gains practical help with DMS Plans, project workflows, repository preparation, and future grant development. The lab becomes a place where useful work starts happening immediately, and the broader operational case can be developed further through Research Team Value.",
+      "notes": "Keep the value local to the PI's projects, deadlines, and team needs.",
+      "mermaid": "graph LR\n  A[PI Or Lab Base] --> B[DMS Plan Support]\n  A --> C[Repository Support]\n  A --> D[Grant Development]\n  A --> E[Future Collaborations]"
+    },
+    {
+      "id": "what-steve-brings-now",
+      "title": "What Steve Brings Immediately",
+      "kicker": "4",
+      "summary": "What Steve brings now is help with workflow implementation between project systems, data organization, technical workflows, standards, and final repository delivery.",
+      "bullets": [
+        "DMS Plan support",
+        "Workflow implementation",
+        "Data shaping and validation",
+        "Repository delivery support"
+      ],
+      "speech": "Steve's immediate value is practical. He can help teams shape a DMS Plan, understand the workflow, organize and validate data, and help carry the project from local systems toward repository delivery.",
+      "notes": "Describe him as a working collaborator who can make real progress quickly.",
+      "image_prompt_concrete": "Research operations infographic showing REDCap, spreadsheets, scripts, and repository icons connected by one technical coordinator, professional university style",
+      "image_prompt_abstract": "Streams of complex data becoming ordered and deliverable through one guiding pathway"
+    },
+    {
+      "id": "support-paths",
+      "title": "The Support Paths",
+      "kicker": "5",
+      "summary": "The model works because several support paths can reinforce each other: institutional base first, direct project value, grants under a PI, and complementary gifts or donations.",
+      "bullets": [
+        "PI or lab base",
+        "Role support",
+        "Grants",
+        "Gifts and donations"
+      ],
+      "speech": "The plan does not depend on one funding source solving everything immediately. The PI or lab base is first. Partial capacity support can come through advocates and collaborators. Grants can be written under the PI. Gifts and donations can provide bridge support and follow-through through that same home.",
+      "notes": "Make the structure feel coherent, staged, and low-friction.",
+      "mermaid": "graph LR\n  A[PI Or Lab Base] --> B[Partial Role Support]\n  A --> C[Grant Writing Under PI]\n  A --> D[Gifts and Donations]\n  B --> E[Follow-Through]\n  C --> E\n  D --> E"
+    },
+    {
+      "id": "why-others-matter",
+      "title": "Why Other University Connections Matter",
+      "kicker": "6",
+      "summary": "The PI or lab base is the anchor, but broader University relationships matter because one base can create outward-facing value across research support, accessibility, and collaboration.",
+      "bullets": [
+        "Connect with researchers who need DMS help",
+        "Get into code and data workflows",
+        "Help teams reach the repository of choice",
+        "Build future collaborators"
+      ],
+      "speech": "A PI or lab base is the anchor, but it should not be the only relationship. Steve also wants to connect with others across the University to help with DMS Plan work, code and data workflows, repository delivery, and future grant collaborations.",
+      "notes": "Help the PI see that saying yes creates institutional leverage, not just private benefit.",
+      "image_prompt_concrete": "University collaboration network with one lab hub connected to research teams, code workflows, and external repositories, professional academic diagram",
+      "image_prompt_abstract": "A central node in a university network radiating lines to teams, data systems, and repositories"
+    },
+    {
+      "id": "grant-path",
+      "title": "The Grant Path",
+      "kicker": "7",
+      "summary": "Once Steve is housed in a lab, the grant story becomes structurally credible because proposals can point to a real base, clear collaborators, and an existing pattern of useful work.",
+      "bullets": [
+        "Write grants under the PI",
+        "Sustain Steve's work",
+        "Support software and maintenance",
+        "Grow Sutton SignWriting infrastructure"
+      ],
+      "speech": "Once there is a PI or lab base, grants can be written under that PI. That makes it possible to sustain Steve's work, support DMS Plan, workflow, and repository work, strengthen software maintenance, and build toward Sutton SignWriting as shared research infrastructure.",
+      "notes": "Keep the future concrete and tied to the first step.",
+      "mermaid": "graph LR\n  A[PI Or Lab Base] --> B[Grant Writing]\n  B --> C[Steve's Role]\n  B --> D[DMS Plan And Delivery Work]\n  B --> E[SignWriting Infrastructure]"
+    },
+    {
+      "id": "gifts-and-donations",
+      "title": "Gifts And Donations",
+      "kicker": "8",
+      "summary": "Gifts and donations can serve as complementary support through the PI or institution, but they should strengthen the model rather than replace the core research structure.",
+      "bullets": [
+        "Bridge support",
+        "Follow-through support",
+        "Infrastructure support",
+        "Complementary to grants, not a substitute"
+      ],
+      "speech": "There is also an altruistic path through gifts and donations. Through the PI or institution, this support can help with bridge funding, follow-through, and infrastructure needs. It should be framed as complementary to grants, not as a replacement for research funding.",
+      "notes": "Present this as disciplined and secondary, not the central solution.",
+      "image_prompt_concrete": "Academic funding pathways diagram showing grants as a primary path and gifts and donations as complementary support, clean institutional style",
+      "image_prompt_abstract": "Two streams of support feeding one growing structure, one broad and one narrow"
+    },
+    {
+      "id": "low-risk-high-upside",
+      "title": "Low Risk, High Upside",
+      "kicker": "9",
+      "summary": "The initial ask is intentionally small, but the upside is strategic because one low-risk base can unlock collaboration, grants, support pathways, and a real home for the work.",
+      "bullets": [
+        "Small first decision",
+        "Immediate practical value",
+        "Room for future growth"
+      ],
+      "speech": "The strongest way to understand this is as a low-risk, high-upside step. The first decision is simply to provide a PI or lab base. That creates immediate practical value and leaves room for sustained capacity, grants, and infrastructure to grow over time.",
+      "notes": "This is the calming slide that helps the audience feel the asymmetry of risk and upside.",
+      "image_prompt_concrete": "Minimalist decision slide showing small input arrow leading to large tree of outcomes, academic and polished",
+      "image_prompt_abstract": "A small doorway opening into a large structured landscape of future possibilities"
+    },
+    {
+      "id": "clear-ask",
+      "title": "The Immediate Ask",
+      "kicker": "10",
+      "summary": "The ask is straightforward: provide the PI or lab base now so the practical work can continue and the broader support structure can be built from a stable base.",
+      "bullets": [
+        "Place Steve in the lab now",
+        "Let support grow around demonstrated value",
+        "Use the PI or lab base to build grants, collaborations, and infrastructure"
+      ],
+      "speech": "The immediate ask is straightforward: provide the PI or lab base now. That one decision makes it possible to build the rest of the structure around demonstrated value, including sustained capacity, DMS Plan and workflow collaborations, grant writing, and the broader Sutton SignWriting infrastructure program.",
+      "notes": "End with a clean, confident ask and no unnecessary complexity.",
+      "mermaid": "graph LR\n  A[Immediate Ask<br/>PI Or Lab Base] --> B[Real Base]\n  A --> C[Role Support]\n  A --> D[Grants]\n  A --> E[Collaborations]\n  A --> F[Infrastructure]"
+    }
+  ],
+  "publication": {
+    "status": "operational-bridge",
+    "doi_candidate": false,
+    "repo_candidate": false,
+    "zenodo_record": "not-planned",
+    "citation_role": "bridge-document"
+  }
+}

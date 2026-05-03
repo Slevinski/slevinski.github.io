@@ -6,11 +6,20 @@
   "summary": "Short baseline explanation of why character naming, stable symbols, and written signs remain different questions for SignWriting.",
   "synopsis": "This overview states the current position plainly. The official Unicode SignWriting encoding can name much of the character set, but it does not preserve stable writer-selected symbols cleanly across the full system and it does not provide a compatible model for written signs in practice. The real issues include symbol identity, the facial-diacritic model, spatial composition, sorting, tooling, dataset compatibility, and the difference between encoded characters and usable writing.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "technical-briefing",
+    "public_label": "Technical Note",
+    "public_slug": "primary",
+    "publication_designation": "Technical Note"
+  },
   "companion_documents": [
     {
       "file": "position-notes.md",
       "label": "Position Notes",
-      "slug": "position-notes"
+      "slug": "position-notes",
+      "artifact_type": "technical-notes",
+      "publication_designation": "Technical Notes"
     }
   ],
   "slides": [
@@ -19,8 +28,6 @@
       "title": "The Baseline Problem",
       "kicker": "1",
       "summary": "Unicode can name SignWriting characters, but the current official model still does not carry the established production ecosystem.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for Unicode overview baseline.",
       "bullets": [
         "The issue is not whether Unicode contains SignWriting characters",
         "The issue is whether the official model can carry the real ecosystem",
@@ -36,8 +43,6 @@
       "title": "Why This Issue Keeps Returning",
       "kicker": "2",
       "summary": "People often treat a Unicode block as proof that the writing problem is solved.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for why the issue keeps returning.",
       "bullets": [
         "Unicode visibility shapes expectations",
         "People infer that a block means a solved writing system",
@@ -53,8 +58,6 @@
       "title": "Three Different Questions",
       "kicker": "3",
       "summary": "Naming characters, preserving writer-selected symbols, and encoding complete written signs are not the same thing.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for symbols versus writing.",
       "bullets": [
         "The official block covers much of the character inventory",
         "That is not the same as preserving stable writer-selected symbols",
@@ -70,8 +73,6 @@
       "title": "The Facial System Shows the Break",
       "kicker": "4",
       "summary": "In the facial system, the official model shifts part of symbol formation from the writer-selected inventory to the font.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the facial system break.",
       "bullets": [
         "Formal SignWriting expects writer-selected ISWA symbols",
         "The facial-diacritic model uses a sequence merged by the font",
@@ -88,8 +89,6 @@
       "title": "What the Production Stack Uses",
       "kicker": "5",
       "summary": "The current ecosystem still relies on FSW and SWU because that stack already carries real data, tools, and publishing.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the current production stack.",
       "bullets": [
         "FSW remains the canonical production encoding",
         "SWU remains the Unicode-oriented isomorphic representation",
@@ -104,19 +103,24 @@
       "id": "progress",
       "title": "What Would Count as Progress",
       "kicker": "6",
-      "summary": "A useful next step begins with honest acknowledgment of the present gap.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for what would count as progress.",
+      "summary": "Any realistic next step begins with honest acknowledgment of the present gap.",
       "bullets": [
         "Acknowledge current incompatibility",
         "Acknowledge the symbol-identity break in the facial system",
         "Acknowledge unresolved spatial composition",
         "Review collation and symbol-model issues honestly",
-        "Open a concrete technical path with real support"
+        "Only reopen discussion from an accurate technical baseline"
       ],
-      "speech": "Progress does not require instant agreement on every design decision. It begins with accurate acknowledgment. The current official model is not sufficient for compatible production use. The facial system does not preserve stable writer-selected symbol identity cleanly. Spatial composition remains unresolved. Collation and symbol-model issues remain active. The right next step is not migration pressure. It is a concrete technical path for renewed discussion with real institutional support.",
+      "speech": "Progress does not require instant agreement on every design decision. It begins with accurate acknowledgment. The current official model is not sufficient for compatible production use. The facial system does not preserve stable writer-selected symbol identity cleanly. Spatial composition remains unresolved. Collation and symbol-model issues remain active. The right next step is not migration pressure. It is to decide whether any renewed discussion is worth the effort, and only proceed from an accurate technical baseline.",
       "notes": "End on disciplined next steps, not frustration.",
-      "mermaid": "flowchart TD\n  A[Acknowledge current incompatibility] --> B[Acknowledge symbol-identity break]\n  B --> C[Review collation and spatial issues]\n  C --> D[Seek supported follow-up path]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D node;\n  class D out;"
+      "mermaid": "flowchart TD\n  A[Acknowledge current incompatibility] --> B[Acknowledge symbol-identity break]\n  B --> C[Review collation and spatial issues]\n  C --> D[Decide whether renewed discussion is warranted]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D node;\n  class D out;"
     }
-  ]
+  ],
+  "publication": {
+    "status": "working-briefing",
+    "doi_candidate": false,
+    "repo_candidate": true,
+    "zenodo_record": "not-planned",
+    "citation_role": "reference-briefing"
+  }
 }

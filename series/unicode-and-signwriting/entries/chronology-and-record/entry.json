@@ -6,16 +6,27 @@
   "summary": "A dated record of the main Unicode and related SignWriting documents relevant to current compatibility and standards discussions.",
   "synopsis": "This chronology collects the main Unicode proposals, support letters, collation responses, design notes, and related records from 2011 forward. It is meant as a stable reference trail for historians, standards readers, and anyone who needs the documentary path behind the current distinctions among character naming, stable symbol identity, and written-sign encoding.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "technical-briefing",
+    "public_label": "Briefing",
+    "public_slug": "primary",
+    "publication_designation": "Technical Briefing"
+  },
   "companion_documents": [
     {
       "file": "historical-notes.md",
       "label": "Historical Notes",
-      "slug": "historical-notes"
+      "slug": "historical-notes",
+      "artifact_type": "historical-notes",
+      "publication_designation": "Historical Notes"
     },
     {
       "file": "source-register.md",
       "label": "Source Register",
-      "slug": "source-register"
+      "slug": "source-register",
+      "artifact_type": "source-register",
+      "publication_designation": "Source Register"
     }
   ],
   "slides": [
@@ -24,8 +35,6 @@
       "title": "Why the Record Matters",
       "kicker": "1",
       "summary": "The current position comes from a real document trail showing what advanced and what did not.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for chronology and record.",
       "bullets": [
         "There were multiple proposals, responses, and minutes",
         "The two-stage expectation matters",
@@ -42,8 +51,6 @@
       "title": "2011 to 2012: The Two-Stage Path",
       "kicker": "2",
       "summary": "Early Unicode discussions proceeded under a two-stage expectation: first the symbol set, then a later solution for written signs.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the two-stage path.",
       "bullets": [
         "Early proposals addressed symbol encoding",
         "The expectation of a second stage for written signs was explicit",
@@ -60,8 +67,6 @@
       "title": "2015: Block Approval Did Not End the Problem",
       "kicker": "3",
       "summary": "The official block was approved, but stable symbol identity and written-sign questions remained active rather than resolved.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the 2015 turn.",
       "bullets": [
         "Unicode 8 added the SignWriting block",
         "Character naming advanced",
@@ -78,8 +83,6 @@
       "title": "2016 to 2017: Renewed Design Work, No Durable Follow-Through",
       "kicker": "4",
       "summary": "Later design presentations and options clarified the problem further, but they did not produce a completed compatible path.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for 2016 to 2017 design work.",
       "bullets": [
         "Design notes and presentations continued",
         "Auxiliary and alternative options were explored",
@@ -95,8 +98,6 @@
       "title": "What the Record Shows",
       "kicker": "5",
       "summary": "The documentary trail supports a compatibility critique, not the story that Unicode fully solved the problem and only local reluctance remained.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for what the record shows.",
       "bullets": [
         "Character naming, stable symbol identity, and written-sign encoding did not advance equally",
         "The symbol stage and the written-sign stage were distinct",
@@ -108,5 +109,12 @@
       "notes": "Close with the interpretive value of the record.",
       "mermaid": "flowchart TD\n  A[Two-stage expectation] --> D[Historically grounded present position]\n  B[Collation and model concerns] --> D\n  C[Incomplete later follow-through] --> D\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,B,C,D node;"
     }
-  ]
+  ],
+  "publication": {
+    "status": "working-briefing",
+    "doi_candidate": false,
+    "repo_candidate": true,
+    "zenodo_record": "not-planned",
+    "citation_role": "reference-briefing"
+  }
 }

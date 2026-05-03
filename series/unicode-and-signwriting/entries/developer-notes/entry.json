@@ -6,11 +6,20 @@
   "summary": "Implementation guidance for developers working with Sutton SignWriting data, conversion, symbol identity, and Unicode-facing workflows.",
   "synopsis": "These notes are for developers. They explain what to store, what to treat as canonical, why naming characters is not the same as preserving stable symbols or written signs, where official Unicode SignWriting falls short, and how FSW and SWU should be used in current tooling, interchange, and data workflows.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "technical-briefing",
+    "public_label": "Technical Note",
+    "public_slug": "primary",
+    "publication_designation": "Technical Note"
+  },
   "companion_documents": [
     {
       "file": "package-and-tooling.md",
       "label": "Package and Tooling Notes",
-      "slug": "package-and-tooling"
+      "slug": "package-and-tooling",
+      "artifact_type": "technical-notes",
+      "publication_designation": "Technical Notes"
     }
   ],
   "slides": [
@@ -19,8 +28,6 @@
       "title": "Current Implementation Baseline",
       "kicker": "1",
       "summary": "Use FSW as canonical production text and SWU as the supported Unicode-oriented isomorphic form.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for developer notes baseline.",
       "bullets": [
         "FSW for canonical storage and processing",
         "SWU for Unicode-oriented interchange and inspection",
@@ -36,8 +43,6 @@
       "title": "Keep the Encoding Boundaries Visible",
       "kicker": "2",
       "summary": "A healthy codebase makes canonical, interchange, compatibility, and experimental layers explicit.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for encoding boundaries.",
       "bullets": [
         "Canonical text should be explicit",
         "Interchange forms should be named clearly",
@@ -53,8 +58,6 @@
       "title": "Why Character Naming And Fonts Are Not Enough",
       "kicker": "3",
       "summary": "Developers need more than named characters and fonts. They need stable symbol identity, predictable storage, search, sorting, and interoperability.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for not only a rendering problem.",
       "bullets": [
         "Rendering matters but is not the main issue",
         "Naming characters is not the same as preserving stable symbols",
@@ -71,8 +74,6 @@
       "title": "The Safe Migration Test",
       "kicker": "4",
       "summary": "Do not migrate existing data unless the compatibility questions are clearly answered first.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for safe migration test.",
       "bullets": [
         "Are stable writer-selected symbols preserved across the full system?",
         "Can full signs be represented without loss?",
@@ -89,8 +90,6 @@
       "title": "Current AI and Data Reality",
       "kicker": "5",
       "summary": "The computational question is now more about dataset quality and scale than about whether usable encodings exist.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for AI and data reality.",
       "bullets": [
         "FSW remains strong canonical text",
         "SWU is usable for AI-oriented workflows",
@@ -106,8 +105,6 @@
       "title": "What `@sutton-signwriting/unicode8` Is For",
       "kicker": "6",
       "summary": "Bridge packages are useful, but they should be described as compatibility tooling rather than proof that the deeper problem is solved.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for unicode8 package role.",
       "bullets": [
         "The package processes official Unicode 8 SignWriting where needed",
         "It also bridges FSW and SWU",
@@ -118,5 +115,12 @@
       "notes": "End by acknowledging practical tooling without surrendering the larger position.",
       "mermaid": "flowchart TD\n  A[unicode8 package] --> B[Official Unicode 8 processing]\n  A --> C[Bridge to FSW]\n  A --> D[Bridge to SWU]\n  B --> E[Useful compatibility support]\n  C --> E\n  D --> E\n  E --> F[Not a proof that the standards problem is solved]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#fefce8,color:black,stroke:#ca8a04,stroke-width:2px;\n  class A,B,C,D,E,F node;\n  class F out;"
     }
-  ]
+  ],
+  "publication": {
+    "status": "working-briefing",
+    "doi_candidate": false,
+    "repo_candidate": true,
+    "zenodo_record": "not-planned",
+    "citation_role": "reference-briefing"
+  }
 }

@@ -4,8 +4,15 @@
   "title": "Data Management and Sharing Plan",
   "subtitle": "From project systems to repository delivery",
   "summary": "An operational workflow entry showing how DMS planning becomes real work from source systems to structured data and repository delivery, with a live Builder-plus-review service that helps teams start, update, and review plans.",
-  "synopsis": "The Data Management and Sharing Plan becomes useful when treated as an operational workflow rather than a compliance attachment. The deck follows the messy middle between local project systems and external repository delivery, including source data, raw structured data, derivatives, standards, validation, timing pressure, and the practical forms of support that matter in both planning and execution. It also presents a live Builder-plus-review service: the Builder helps teams work through sections and questions, generate markdown, and prepare an actual plan for expert review rather than pretending to automate the entire process.",
+  "synopsis": "The Data Management and Sharing Plan becomes useful when treated as an operational workflow rather than a compliance attachment. The deck follows the workflow implementation layer between local project systems and external repository delivery, including source data, raw structured data, derivatives, standards, validation, timing pressure, and the practical forms of support that matter in both planning and execution. It also presents a live Builder-plus-review service: the Builder helps teams work through sections and questions, generate markdown, and prepare an actual plan for expert review rather than pretending to automate the entire process.",
   "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "workflow-brief",
+    "public_label": "Guide",
+    "public_slug": "primary",
+    "publication_designation": "Workflow Document"
+  },
   "links": [
     {
       "label": "DMS Builder",
@@ -49,8 +56,6 @@
       "title": "A DMS Plan Is A Workflow",
       "kicker": "1",
       "summary": "A DMS Plan is a living workflow guide for what will actually happen to the data from collection through organization, transformation, documentation, and sharing.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the DMS plan as a workflow.",
       "bullets": [
         "Not just a compliance attachment",
         "A working guide for the data lifecycle",
@@ -64,17 +69,15 @@
       "id": "current-reality",
       "title": "Why This Matters Now",
       "kicker": "2",
-      "summary": "Many teams already know they need a DMS Plan and know where they are headed. The hard part is the messy middle between project systems and repository delivery.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the current reality of DMS support.",
+      "summary": "Many teams already know they need a DMS Plan and know where they are headed. The hard part is workflow implementation between project systems and repository delivery.",
       "bullets": [
         "Teams know they need a DMS Plan",
         "Teams often know the destination repository",
         "The hard part is everything in between",
         "That middle work needs structure and support"
       ],
-      "speech": "Many teams already know they need a Data Management and Sharing Plan. Many also know where they are ultimately headed, whether that is NDA or another repository. The hard part is everything in between. That middle work includes gathering files from multiple systems, deciding what counts as source data, cleaning and normalizing structure, building documentation and dictionaries, harmonizing variables, validating delivery packages, and preparing repository-facing outputs. This is the messy middle of research data work, and the plan only becomes meaningful when that middle layer is understood and supported.",
-      "notes": "Use the essay logic here.\n- teams know they need a plan\n- teams often know the repository\n- the hard part is the messy middle\n- support is needed between project systems and delivery",
+      "speech": "Many teams already know they need a Data Management and Sharing Plan. Many also know where they are ultimately headed, whether that is NDA or another repository. The hard part is everything in between. That workflow implementation work includes gathering files from multiple systems, deciding what counts as source data, cleaning and normalizing structure, building documentation and dictionaries, harmonizing variables, validating delivery packages, and preparing repository-facing outputs. This is the workflow implementation layer of research data work, and the plan only becomes meaningful when that layer is understood and supported.",
+      "notes": "Use the essay logic here.\n- teams know they need a plan\n- teams often know the repository\n- the hard part is workflow implementation\n- support is needed between project systems and delivery",
       "image_prompt_concrete": "Professional academic slide showing a researcher, project team, and data pathway to repository delivery, clean white background",
       "image_prompt_abstract": "A clear pathway emerging from a dense field of inputs toward a defined destination"
     },
@@ -83,8 +86,6 @@
       "title": "Who Is Involved",
       "kicker": "3",
       "summary": "The DMS environment includes the researcher, the project team, project systems, outside collaborators or entities, and the destination repository, all of which shape what the data must become.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for DMS participants and systems.",
       "bullets": [
         "Researcher and principal investigator",
         "Project team and coordinators",
@@ -101,8 +102,6 @@
       "title": "Source Data",
       "kicker": "4",
       "summary": "Source data is the original material gathered or received by a project, and it is often broad, messy, heterogeneous, and difficult to use directly for analysis or sharing.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for source data.",
       "bullets": [
         "REDCap exports",
         "Spreadsheets and CSV files",
@@ -120,8 +119,6 @@
       "title": "Raw Structured Data",
       "kicker": "5",
       "summary": "Raw data is the cleaned, organized, and structured form prepared from source material so it can support analysis, documentation, and later sharing.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for raw structured data.",
       "bullets": [
         "Cleaned and normalized",
         "Consistently named",
@@ -137,8 +134,6 @@
       "title": "Derivatives",
       "kicker": "6",
       "summary": "Derivatives are the outputs built from structured data, including analysis-facing products for research teams and repository-facing products for long-term access and reuse.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for derivatives.",
       "bullets": [
         "Reports and summary tables",
         "Visualizations and models",
@@ -155,8 +150,6 @@
       "title": "Standards and Structures",
       "kicker": "7",
       "summary": "Standards and formal structures make data understandable, reusable, interoperable, and deliverable by giving projects a consistent way to describe and package what they produce.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for standards and structures.",
       "bullets": [
         "BIDS where appropriate",
         "CSV with clear data dictionaries",
@@ -172,8 +165,6 @@
       "title": "Tools and Workflows",
       "kicker": "8",
       "summary": "The DMS Plan becomes real through concrete tools and workflows such as reports, data dictionaries, scripts, validation routines, transforms, and repeatable project procedures.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for DMS tools and workflows.",
       "bullets": [
         "REDCap reports and dictionaries",
         "Excel and macros where useful",
@@ -190,8 +181,6 @@
       "title": "Repository Delivery",
       "kicker": "9",
       "summary": "Repository delivery is where planning, documentation, data structure, standards, and technical labor finally converge into the package that must actually be submitted and understood by others.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for repository delivery.",
       "bullets": [
         "Choose the right repository early",
         "Harmonize and validate carefully",
@@ -207,8 +196,6 @@
       "title": "Timing and Pressure",
       "kicker": "10",
       "summary": "DMS work is uneven and pressure-heavy because the hardest labor often concentrates around analysis milestones, manuscript preparation, repository submission, or grant deadlines.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for timing and pressure in DMS work.",
       "bullets": [
         "Biannual repository cycles",
         "Annual project review cycles",
@@ -225,8 +212,6 @@
       "title": "Two Working Modes",
       "kicker": "11",
       "summary": "This work helps in two practical ways: planning and workflow guidance for teams that need structure, and hands-on project help for teams that need substantial delivery work.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for two working modes.",
       "bullets": [
         "Planning: Builder, review, workflow design, repository guidance",
         "Hands-on: restructuring, validation, harmonization, delivery work",
@@ -241,17 +226,22 @@
       "title": "Core Message",
       "kicker": "12",
       "summary": "The core message is that a DMS Plan is a living guide to real work, and this service helps make that work practical from early planning through repository delivery.",
-      "image": "/series/the-science-of-sutton-signwriting/assets/placeholder-slide.svg",
-      "image_alt": "Placeholder image for the core DMS message.",
       "bullets": [
         "A DMS Plan is only useful if it matches reality",
-        "Projects need help in the messy middle",
+        "Projects need help with workflow implementation",
         "Practical support can carry the work from structure through repository delivery"
       ],
-      "speech": "The core message is simple. A Data Management and Sharing Plan is only useful if it matches reality. The hardest work sits in the messy middle between project systems and repository delivery. This service helps make that path practical, structured, and finishable.",
+      "speech": "The core message is simple. A Data Management and Sharing Plan is only useful if it matches reality. The hardest work sits in workflow implementation between project systems and repository delivery. This service helps make that path practical, structured, and finishable.",
       "notes": "End with calm confidence and operational clarity.",
       "image_prompt_concrete": "A clean final slide showing the complete path from local project systems to successful repository delivery, polished academic style",
       "image_prompt_abstract": "A complete pathway illuminated from start to finish"
     }
-  ]
+  ],
+  "publication": {
+    "status": "operational-bridge",
+    "doi_candidate": false,
+    "repo_candidate": false,
+    "zenodo_record": "not-planned",
+    "citation_role": "bridge-document"
+  }
 }

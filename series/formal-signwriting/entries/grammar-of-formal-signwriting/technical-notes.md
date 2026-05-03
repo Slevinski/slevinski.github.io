@@ -3,14 +3,16 @@
 **Grammar of Formal SignWriting**  
 Token patterns, syntax, and valid structure
 
-These technical notes collect compact notes behind validation and token structure.
+Implementation reference only. Read the companion technical paper for the conceptual account; use these notes when checking implementation details, validation boundaries, and token roles.
+
+These technical notes are the implementation-oriented companion to the grammar paper. They focus on validation boundaries, token roles, and the distinction between grammar and search.
 
 ## 0. Minimal validation example
 
-A well-formed example:
+A schematic full sign:
 
 ```text
-AS10011S10019S2e704S2e748M525x535S2e748483x510S10011501x466S2e704510x500S10019476x475
+(A symbol+)? signbox-marker coordinate (symbol coordinate)*
 ```
 
 A not-yet-complete fragment:
@@ -19,7 +21,7 @@ A not-yet-complete fragment:
 AS10011S10019
 ```
 
-The difference is grammatical, not aesthetic. One is a full sign. The other is only a prefix fragment.
+The difference is grammatical, not aesthetic. The first pattern can match a full sign. The second example is only a prefix fragment.
 
 ## I. Token families at a glance
 

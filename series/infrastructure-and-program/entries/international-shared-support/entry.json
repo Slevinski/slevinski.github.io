@@ -1,0 +1,60 @@
+{
+  "slug": "international-shared-support",
+  "number": 3,
+  "title": "International Shared Support",
+  "subtitle": "Institutional backing, international participation, and shared continuity for Sutton SignWriting",
+  "summary": "A support model for sustaining Sutton SignWriting as shared international language infrastructure rather than a single-maintainer project.",
+  "synopsis": "Sutton SignWriting already supports international education, research, public language resources, and community use. This entry explains why support should combine an institutional home, international partner relationships, letters and statements of use, country-level coordination, and future grant, gift, donation, and collaboration pathways.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "brief",
+    "public_label": "Brief",
+    "public_slug": "primary",
+    "publication_designation": "Program Brief"
+  },
+  "slides": [
+    {
+      "id": "shared-infrastructure",
+      "title": "Shared Language Infrastructure",
+      "kicker": "1",
+      "summary": "Sutton SignWriting has international dependence, so its support model should be international too.",
+      "bullets": [
+        "Educational use",
+        "Research use",
+        "Public language resources",
+        "International relationships"
+      ],
+      "speech": "Sutton SignWriting is no longer only a personal project or a technical archive. It supports education, research, public language resources, and community use across countries. The support model should match that reality.",
+      "notes": "Open with infrastructure reality, not outreach rhetoric."
+    },
+    {
+      "id": "support-model",
+      "title": "Support Model",
+      "kicker": "2",
+      "summary": "The model combines an institutional home, partner evidence, country coordination, and future funding pathways.",
+      "bullets": [
+        "Institutional home",
+        "Partner statements and letters",
+        "Country-level coordination",
+        "Grants, gifts, and donations"
+      ],
+      "speech": "The strongest model combines an institutional home with international partner statements, country-level coordination, and future grants, gifts, donations, or collaboration pathways. No single partner has to carry the whole structure.",
+      "notes": "Make this feel practical and distributed."
+    },
+    {
+      "id": "partner-participation",
+      "title": "How Partners Help",
+      "kicker": "3",
+      "summary": "Partners can strengthen the case through evidence, introductions, proposals, and local context.",
+      "bullets": [
+        "Statements of use",
+        "Letters of support",
+        "Institutional introductions",
+        "Proposal collaboration"
+      ],
+      "speech": "International partners can help by documenting local use, writing letters of support, introducing appropriate institutional contacts, collaborating on proposals, and explaining what support would make the work more useful in their own setting.",
+      "notes": "Keep the participation modes flexible."
+    }
+  ]
+}

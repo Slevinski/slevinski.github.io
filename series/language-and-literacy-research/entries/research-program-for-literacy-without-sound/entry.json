@@ -1,0 +1,32 @@
+{
+  "slug": "research-program-for-literacy-without-sound",
+  "number": 3,
+  "title": "Research Program for Literacy Without Sound",
+  "subtitle": "Study design, materials, corpora, and the next empirical steps for signed-language literacy",
+  "summary": "Third research-facing anchor for the Sutton SignWriting Language and Literacy Research series: a SignWriting-centered program of early studies, materials work, and reusable research infrastructure.",
+  "synopsis": "This entry turns the pathway model and reading-signed-text agenda into a practical research program. It defines three research lanes: reading and literacy studies, Brazil-grounded empirical work, and corpus, materials, and reusable research infrastructure. The emphasis is on realistic early studies, durable research assets, research ethics, external-validity limits, and disciplined evidence-building rather than script-comparison contests or premature large-scale claims.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "research-program",
+    "public_label": "Research Program",
+    "public_slug": "primary",
+    "publication_designation": "Working Paper"
+  },
+  "secondary_artifact": {
+    "file": "program-notes.md",
+    "label": "Program Notes",
+    "slug": "program-notes",
+    "artifact_type": "program-notes",
+    "publication_designation": "Program Notes"
+  },
+  "companion_documents": [
+    {
+      "file": "evidence-and-model-notes.md",
+      "label": "Evidence and Model Notes",
+      "slug": "evidence-and-model-notes",
+      "artifact_type": "research-notes",
+      "publication_designation": "Research Notes"
+    }
+  ]
+}

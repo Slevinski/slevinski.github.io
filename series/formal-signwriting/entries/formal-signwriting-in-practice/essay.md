@@ -4,9 +4,11 @@
 
 Specifications matter most when they support real work.
 
-Its core claim is simple:
+The practice layer's core claim is simple:
 
 > a durable model needs durable stewardship
+
+For the technical history behind the model itself, read `From Experimental Encodings to Formal SignWriting` as this entry's historical companion. The encoding story is a practice story because implementation pressure, real datasets, and lossless migration shaped the model more than abstract theory alone.
 
 ## Minimal vocabulary
 
@@ -47,6 +49,8 @@ Examples in the current ecosystem include:
 - `@sutton-signwriting/signmaker`
 
 Those package names help make the ecosystem concrete rather than abstract, but the important point is not the inventory by itself. The important point is that the model is already implemented across multiple languages, rendering paths, and user-facing environments.
+
+Because package names and roles change faster than the formal model, this list should be treated as a current ecosystem snapshot. The maintained reference inventory belongs in the Sutton SignWriting public reference data and library documentation rather than in this paper alone.
 
 Their roles divide this way:
 
@@ -113,12 +117,38 @@ That matters for:
 
 That is where the technical model becomes evidence-bearing. A format that supports corpora, lexicons, annotation, and retrieval is much more than a display convention.
 
+Current Sutton SignWriting data already gives that claim scale. The Brazilian Sign Language dictionary alone contains nearly **68,000 signs**, and the broader accumulated dataset across languages contains well over **one million unique signs**. These counts should be refreshed against the current SignPuddle and SignBank data exports before each formal release, but their order of magnitude is already part of the practical argument.
+
 Useful dataset practice usually needs:
 
 - stable canonical text
 - derived search indexes
 - reproducible rendered output
 - enough metadata to track provenance and version changes
+
+If a corpus mixes temporal-prefix theories, the corpus should not pretend that all signs sort under one shared theory.
+
+Practical options include:
+
+- normalize the corpus to one documented sorting theory
+- preserve the original prefixes and add metadata naming the theory or source
+- store an additional derived sort key for a chosen project-specific ordering
+
+The important rule is that mixed sequence theories should be documented rather than silently combined.
+
+## Tokenization and derived views
+
+The grammar layer defines valid sign-level structure and names the main token roles.
+
+Practice has a different question: what derived views should downstream tasks use?
+
+No single tokenization level should be treated as universally correct for every corpus, NLP, machine-learning, rendering, or translation task. A project may need sign-level tokens, symbol-level tokens, base-fill-rotation features, coordinate features, handshape-focused features, or task-specific derived indexes.
+
+The practical rule is:
+
+> preserve the full canonical sign text, then derive task-specific tokens from it
+
+Derived token streams should remain reproducible from the stored FSW or SWU source.
 
 ## Implementation pathways
 
@@ -162,7 +192,20 @@ Future builders need a stable answer to questions like:
 
 They also need to know which transformations are deterministic, which outputs are convenient but non-canonical, and which boundaries must remain explicit between text, rendering, and styling.
 
+## Maintenance surface
+
+The stable core does not eliminate maintenance work. It makes the work assignable.
+
+| Surface | Primary responsibility |
+| --- | --- |
+| package inventory and roles | library maintainers |
+| corpus conventions and sorting-theory metadata | corpus maintainers and dataset publishers |
+| NLP and machine-learning tokenization profiles | research collaborators, with core-library support |
+| passage-layout profiles | renderer and publication-tool maintainers |
+| legacy compatibility and migration notes | core maintainers and infrastructure stewards |
+
+That division turns open edges into stewardship tasks instead of treating them as weaknesses in the model.
+
 ## Core claim
 
 Formal SignWriting is not only specifiable. It is implementable, maintainable, and reusable across software and data workflows.
-

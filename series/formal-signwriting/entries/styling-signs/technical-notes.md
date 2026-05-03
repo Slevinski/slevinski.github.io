@@ -3,7 +3,9 @@
 **Styling Signs**  
 The style string as light markup for customization and rich presentation
 
-These technical notes collect compact notes behind the style string.
+Implementation reference only. Read the companion technical paper for the conceptual account; use these notes when checking implementation details, style-string syntax, and renderer-facing interpretation.
+
+These technical notes are the implementation-oriented companion to the style string paper. They collect syntax details, parsing cautions, and renderer-facing interpretation notes.
 
 ## 0. Minimal style example
 
@@ -19,7 +21,39 @@ The style string is not part of canonical sign text.
 
 It is an optional adjunct layer for presentation.
 
-## II. Why the markup analogy helps
+## II. Practical syntax model
+
+A style string can be treated as a compact sequence of renderer directives attached to a target.
+
+The working shape is:
+
+```text
+target "-" directives ("--" class-name)? ("!" id-value "!")?
+```
+
+For the example:
+
+```text
+S10000-CP10G_blue_D_red,Cyan_Z1.1--primary!cursor!
+```
+
+the parts are:
+
+| Part | Interpretation |
+| --- | --- |
+| `S10000` | target symbol or output target |
+| `-` | start of style directives |
+| `C` | colorize |
+| `P10` | padding value |
+| `G_blue_` | glyph or line color |
+| `D_red,Cyan_` | two-color directive |
+| `Z1.1` | scale |
+| `--primary` | CSS class hook |
+| `!cursor!` | id hook |
+
+Parsers should treat unknown directives conservatively: preserve the canonical sign text, ignore or report unsupported styling, and avoid treating a style parse failure as a failure of the sign text itself.
+
+## III. Why the markup analogy helps
 
 The markup analogy is useful because it separates:
 
@@ -28,7 +62,7 @@ The markup analogy is useful because it separates:
 
 That is not a perfect identity with HTML, but it is the right architectural direction.
 
-## III. What styling is good for
+## IV. What styling is good for
 
 The style string is useful because it gives a compact way to express:
 
@@ -38,7 +72,7 @@ The style string is useful because it gives a compact way to express:
 
 That makes it a practical layer even while it remains optional.
 
-## IV. Why the split matters
+## V. Why the split matters
 
 Separating styling from rendering keeps each layer focused:
 
@@ -47,7 +81,7 @@ Separating styling from rendering keeps each layer focused:
 
 That produces a cleaner and more teachable technical architecture.
 
-## V. Why this position is worth stating clearly
+## VI. Why this position is worth stating clearly
 
 Readers should not have to infer the architectural status of the style string.
 
@@ -57,7 +91,7 @@ It is better to say it directly:
 - it is not the canonical encoded sign
 - it can be important without being foundational
 
-## VI. Appendix note on scope
+## VII. Appendix note on scope
 
 Styling belongs in the technical record because it is useful and widely practical.
 

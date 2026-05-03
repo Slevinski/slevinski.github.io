@@ -1,0 +1,32 @@
+{
+  "slug": "sign-text-layout",
+  "number": 6,
+  "title": "Sign Text Layout",
+  "subtitle": "Vertical writing, horizontal writing, lanes, centering, and reading levels",
+  "summary": "Canonical statement of sign text layout for vertical and horizontal writing, including lanes, centering strategy, and SW1-SW4 reading-level defaults.",
+  "synopsis": "Sign text layout extends the signbox into passages. This entry explains vertical and horizontal writing, lane counts and lane meaning, the 500x500 sign center, centering behavior, punctuation placement, and SW1-SW4 layout defaults.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "technical-paper",
+    "public_label": "Technical Paper",
+    "public_slug": "primary",
+    "publication_designation": "Technical Paper"
+  },
+  "slides": [
+    {
+      "id": "layout-beyond-signbox",
+      "title": "Layout Extends the Signbox",
+      "kicker": "1",
+      "summary": "Passages need rules for writing direction, lanes, centering, and text-level spacing.",
+      "bullets": [
+        "Vertical and horizontal writing",
+        "Lane-aware passage layout",
+        "Sign center and centering strategy",
+        "Reading-level defaults"
+      ],
+      "speech": "The signbox preserves the spatial shape of one sign. Sign text layout explains how signs become passages, with vertical and horizontal writing, lane behavior, centering strategy, and reading-level defaults. This is the bridge between the formal sign model and visible text flow.",
+      "notes": "Use this as the stable technical home for passage-level layout behavior."
+    }
+  ]
+}

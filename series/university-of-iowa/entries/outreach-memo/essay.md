@@ -1,78 +1,60 @@
 # University of Iowa Outreach Memo
 
-**A concise summary of the full opportunity**
-
-## Purpose
-
-The shortest useful Iowa-facing artifact is a routing memo.
-
-Its job is simple:
-
-- state the opportunity in one page
-- explain why it matters now
-- identify the right next conversation
-- route the reader to the right supporting deck
-
-It is a routing memo, not the full case.
+**A concise Iowa summary for first conversations**
 
 ## One-paragraph summary
 
-The immediate Iowa question is whether Steve Slevinski should have a lab home under a PI. Separately, Steve already provides practical value through Data Management and Sharing Plan work, workflow support, code and data shaping, and repository delivery. A third lane concerns the longer-term Sutton SignWriting infrastructure opportunity. These lanes reinforce one another, but they should be routed separately so each conversation can stay clear.
+Steve Slevinski can help University of Iowa research teams with practical data work now: Data Management and Sharing Plans, workflow implementation, code and data shaping, validation, documentation, and repository delivery. A PI or lab base would give that work a real institutional home so project support, collaborations, grants, and longer-term Sutton SignWriting infrastructure can grow from something concrete. The immediate case is not a fully built center. The immediate case is useful research capacity with a clear base.
 
 ## Why this matters now
 
-The work already has practical value, but the current structure is still too fragile.
+Research teams increasingly need more than a written sharing plan. They need a workable path from project systems to validated repository delivery.
 
-The immediate step is small:
+That path often includes:
 
-- secure a lab home
-- create institutional continuity
-- give future grants and collaborations a real base
+- REDCap reports and exports
+- spreadsheets, CSV files, scripts, and data dictionaries
+- imaging or external-system outputs
+- repository-specific validation and submission rules
+- recurring correction and update cycles
 
-Without that first structure, every later conversation is harder to ground.
+Steve can help in that operational space.
 
-## What the reader should understand
+The Iowa opportunity is to make that help easier to use, support, and grow.
 
-The main points are:
+## What Iowa can do first
 
-- Steve is useful now through DMS, workflow, code, and repository delivery work
-- the first ask is a lab home under a PI
-- the larger SignWriting infrastructure opportunity is real, but it belongs in its own conversation
-- different readers belong in different next conversations
+The first institutional move can stay modest:
 
-## Best next routes
+- connect Steve with active teams that need DMS Plan, workflow, or repository help
+- establish a PI or lab base that gives the work an academic home
+- use early project value to support later grants, sustained research capacity, and infrastructure planning
 
-Use the Iowa materials by role:
+This keeps the conversation practical. Iowa does not need to solve the whole future before useful work begins.
 
-- **Start here**: *University of Iowa Outreach Memo*
-- **For a PI**: *Lab Home*
-- **For practical research value**: *Steve Slevinski Value*
-- **For long-term institutional infrastructure**: *Sutton SignWriting Infrastructure Initiative*
-- **For development and donor conversations**: *Infrastructure Core and Philanthropy*
-- **For comparable models and outside examples**: *Relevant Precedents and Institutional Pathways*
+## What different readers should notice
+
+- **PIs and faculty collaborators**: Steve can add practical capacity to active research projects while a PI or lab base creates a home for future collaboration.
+- **Research teams**: Steve can help with DMS Plans, workflow implementation, validation, documentation, and repository delivery.
+- **Grants and administrative staff**: a PI or lab base makes support, accountability, proposals, and project relationships easier to organize.
+- **Development and infrastructure readers**: the longer Sutton SignWriting opportunity is real, but it becomes more credible when attached to visible research value.
+
+## Useful next materials
+
+- **Research Team Value** for the immediate research-data support case.
+- **PI or Lab Base** for the PI-facing institutional-base conversation.
+- **Sutton SignWriting Infrastructure and Program: Institutional Home and Host Requirements** for the broader infrastructure case.
+- **Sutton SignWriting Infrastructure and Program: Infrastructure Core and Philanthropy** for development and donor conversations.
+- **Sutton SignWriting Infrastructure and Program: Relevant Precedents for SignWriting Infrastructure** for comparable models and outside examples.
 
 ## Recommended next conversations
 
-The most useful next conversations are with:
+The most useful conversations are with:
 
-- a PI or faculty collaborator who can provide a lab home
-- research teams that need DMS and repository help
-- grants staff who can help shape proposals
-- development staff who understand gift pathways
-
-## Best use
-
-Its best uses are:
-
-- a forwarding link for internal stakeholders
-- a short entry point before a longer deck
-- a way to help someone quickly identify which Iowa lane they belong in
-
-It has done its job if the reader can say:
-
-- “I understand the opportunity”
-- “I understand why it matters now”
-- “I know which next document or conversation I need”
+- a PI or faculty collaborator who can provide a PI or lab base
+- research teams facing DMS Plan, workflow, validation, or repository pressure
+- grants staff who can help shape proposals around visible project value
+- development staff who understand gifts, bridge support, and long-term infrastructure support
 
 ## Contact
 

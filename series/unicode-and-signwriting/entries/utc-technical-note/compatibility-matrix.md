@@ -15,6 +15,7 @@
 | Can serve as current canonical production text | Yes | Supported, but not usually canonical | No |
 | Suitable for current AI and dataset workflows | Yes | Yes | Limited and ecosystem-dependent |
 | Solves the written-sign problem by itself | Yes, in the current ecosystem | Yes, as equivalent form | No |
+| Solves the writing-system problem as text | Yes, in the current ecosystem | Yes, in the current ecosystem | No, character layer only |
 
 ## What this table is meant to show
 

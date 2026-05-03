@@ -3,7 +3,9 @@
 **Searching Signed Text**  
 Query language, matching, ranges, variance, and search logic
 
-These technical notes collect compact notes behind search.
+Implementation reference only. Read the companion technical paper for the conceptual account; use these notes when checking implementation details, query construction, and search-specific cautions.
+
+These technical notes are the implementation-oriented companion to the search paper. They focus on query construction, range handling, variance, and search-specific cautions rather than restating the grammar layer.
 
 ## 0. Minimal search example
 

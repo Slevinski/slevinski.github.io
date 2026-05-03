@@ -1,0 +1,16 @@
+{
+  "slug": "south-korea-as-a-current-institutional-proof-point",
+  "number": 2,
+  "title": "South Korea as a Current Institutional Proof Point",
+  "subtitle": "National dictionary publication, current institutional use, and why Korea matters now",
+  "summary": "Current institutional proof-point anchor for the Sutton SignWriting Evidence and Adoption series.",
+  "synopsis": "This entry treats South Korea as a current institutional proof point for SignWriting. It keeps the claim disciplined: Korea is not the broad empirical center that Brazil is, but it does show that SignWriting can function inside current public dictionary infrastructure connected to a national-language institution.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "brief",
+    "public_label": "Brief",
+    "public_slug": "primary",
+    "publication_designation": "Research Brief"
+  }
+}
