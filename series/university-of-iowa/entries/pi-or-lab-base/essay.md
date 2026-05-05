@@ -1,32 +1,32 @@
 # PI or Lab Base
 
-**A practical case for giving Steve Slevinski a PI or lab base now**
+**A practical case for giving Steve Slevinski a PI, lab, or unit relationship now**
 
 ## Core message
 
 The first move is small, practical, and immediate:
 
-- give Steve Slevinski a PI or lab base now
-- let useful research support begin from a real institutional base
+- give Steve Slevinski a PI, lab, or unit relationship now
+- let useful research support begin from an accountable institutional location
 - allow funding, grants, collaborations, and infrastructure support to grow around that base
 
 The University of Iowa is not being asked to fund a fully developed center all at once.
 
 It is asking for the first enabling structure:
 
-> a PI or lab base that makes practical work easier to use, support, and grow
+> a PI, lab, or unit relationship that makes practical work easier to use, support, and grow
 
-That one decision changes the environment around the work. It gives Steve an academic base, gives other collaborators a place to connect, and makes future grant writing, sustained capacity, and infrastructure planning far more credible.
+That one decision changes the environment around the work. It gives Steve an academic location, gives other collaborators a place to connect, and makes future grant writing, sustained capacity, and infrastructure planning far more credible.
 
 The focus here stays intentionally narrow: make the first institutional decision clear enough that useful work can begin.
 
 ## Why this matters now
 
-The timing matters because the work already has practical value and real long-term potential, but it is harder to stabilize either one without a real home inside the University.
+The timing matters because the work already has practical value and real long-term potential, but it is harder to stabilize either one without an accountable location inside the University.
 
 A PI or lab base matters now because it:
 
-- gives the work a place to live inside the University
+- gives the work a visible place inside the University
 - gives the work an academic and administrative location
 - makes conversations with collaborators more concrete
 - creates a place from which grant concepts can be developed
@@ -55,7 +55,7 @@ The immediate ask is disciplined:
 - support can grow around the base
 - the first institutional step remains smaller than the full future structure
 
-The larger structure can then grow around that base through several reinforcing support paths:
+The larger structure can then grow around that base through several reinforcing continuity paths:
 
 - partial capacity support
 - project-based DMS Plan, workflow, and repository work
@@ -69,7 +69,7 @@ The strength of this model is that it does not require one conversation or one f
 
 The PI is being asked to provide:
 
-- a PI or lab base
+- a PI, lab, or unit relationship
 - academic affiliation and credibility
 - a real university base for future work
 
@@ -77,7 +77,7 @@ This is important because it keeps the ask clear.
 
 The ask is:
 
-> provide the first real home so useful work can begin now and broader support can grow around it
+> provide the first accountable academic location so useful work can begin now and broader support can grow around demonstrated value
 
 ## Why a PI benefits
 
@@ -144,9 +144,9 @@ This is especially relevant for projects that use combinations of:
 
 The practical value here is not theoretical. It is the kind of work that helps projects avoid confusion, reduce delay, and finish difficult repository and compliance tasks successfully.
 
-## The support model
+## The continuity model
 
-The long-term strength of this plan comes from having several reinforcing support paths instead of one all-or-nothing path.
+The long-term strength of this plan comes from having several reinforcing continuity paths instead of one all-or-nothing path.
 
 These paths matter because the first base does not have to carry the whole future by itself.
 
@@ -189,7 +189,7 @@ Once Steve is institutionally based, grants can be written under the PI to suppo
 
 ### Path 5: Gifts and donations
 
-There is also a complementary bridge-support path through gifts and donations.
+There is also a complementary bridge-continuity path through gifts and donations.
 
 It can support:
 
@@ -225,7 +225,7 @@ This is a low-risk first step because:
 
 - the immediate ask is small
 - the practical value is already clear
-- multiple support paths can grow around the base
+- multiple continuity paths can grow around the base
 - the lab gains useful capacity right away
 
 It is high upside because:

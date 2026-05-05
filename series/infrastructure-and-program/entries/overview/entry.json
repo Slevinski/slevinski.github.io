@@ -2,8 +2,8 @@
   "slug": "overview",
   "number": 0,
   "title": "Sutton SignWriting Infrastructure and Program Overview",
-  "subtitle": "Continuity, stewardship, support structure, and program design",
-  "summary": "Overview entry for the support, continuity, and stewardship lane of the Sutton SignWriting platform.",
+  "subtitle": "Continuity, stewardship, host structure, and program design",
+  "summary": "Overview entry for the stewardship, continuity, and program-design series of the Sutton SignWriting platform.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -11,5 +11,79 @@
     "public_label": "Overview",
     "public_slug": "primary",
     "publication_designation": "Series Overview"
-  }
+  },
+  "slides": [
+    {
+      "id": "what-this-series-asks",
+      "title": "What This Series Asks",
+      "kicker": "1",
+      "summary": "Existing SignWriting infrastructure needs a stewardship structure that keeps it usable, maintained, and cumulative.",
+      "image_prompts": {
+        "concrete": "Governance overview slide showing domains, code, data, fonts, standards, documentation, coordination, and succession planning under a stewardship structure",
+        "abstract": "Infrastructure functions arranged under a stable stewardship frame"
+      },
+      "bullets": [
+        "Continuity for existing assets",
+        "Technical and human stewardship",
+        "Host structure and program design",
+        "International coordination"
+      ],
+      "speech": "The stewardship question is practical: what structure would let existing SignWriting infrastructure remain usable, maintained, cumulative, and accountable over time?",
+      "notes": "Keep the tone governance-oriented, not urgent."
+    },
+    {
+      "id": "stewardship-functions",
+      "title": "Stewardship Functions",
+      "kicker": "2",
+      "summary": "The series names concrete continuity functions instead of treating stewardship as a vague institutional wish.",
+      "image_prompts": {
+        "concrete": "Function map slide showing domains, servers, code, fonts, data, standards, documentation, partner coordination, and succession planning",
+        "abstract": "Named infrastructure functions connected by continuity lines"
+      },
+      "bullets": [
+        "Domains, servers, code, and fonts",
+        "Data, documentation, and standards",
+        "Partner coordination and translation",
+        "Succession and continuity planning"
+      ],
+      "speech": "The series works best when stewardship is named by function. Domains, code, data, fonts, standards, documentation, coordination, and succession planning are concrete responsibilities. That makes the stewardship case practical rather than rhetorical.",
+      "notes": "Keep the vocabulary functional and governance-oriented."
+    },
+    {
+      "id": "reading-path",
+      "title": "Reading Path",
+      "kicker": "3",
+      "summary": "Readers can start with the executive brief, then move into stewardship, host requirements, philanthropy, international coordination, and precedents.",
+      "image_prompts": {
+        "concrete": "Institutional reading path slide moving from Executive Brief to Infrastructure and Stewardship, Host Structure, Infrastructure Core, International Shared Support, and Precedents",
+        "abstract": "A calm institutional path through stewardship documents"
+      },
+      "bullets": [
+        "Executive Brief for the short case",
+        "Infrastructure and Stewardship for functions",
+        "Host Structure for requirements",
+        "International and philanthropy entries for models"
+      ],
+      "speech": "The fastest path is the Executive Brief first. Then readers can move into Infrastructure and Stewardship, Host Structure and Stewardship Requirements, Infrastructure Core and Philanthropy, International Shared Support, and the precedents entry depending on their institutional role.",
+      "notes": "Make the route useful for grant officers, fiscal sponsors, and institutional readers."
+    },
+    {
+      "id": "accountable-models",
+      "title": "Accountable Models",
+      "kicker": "4",
+      "summary": "Stewardship can be organized through a host, consortium, fiscal sponsor, or related accountable structure.",
+      "image_prompts": {
+        "concrete": "Accountable stewardship model slide showing host, consortium, fiscal sponsor, technical stewardship, data preservation, partner coordination, and succession planning",
+        "abstract": "Several accountable structures connected to named stewardship functions"
+      },
+      "bullets": [
+        "Host or consortium structure",
+        "Fiscal-sponsor pathway where appropriate",
+        "Named technical and data responsibilities",
+        "Clear limits on implied authority"
+      ],
+      "speech": "The model can vary, but the responsibilities need to be named. A host, consortium, fiscal sponsor, or related accountable structure should make technical stewardship, data preservation, partner coordination, and succession planning easier to sustain without implying authority that has not been formally granted.",
+      "notes": "Keep the models practical and bounded."
+    }
+  ]
 }

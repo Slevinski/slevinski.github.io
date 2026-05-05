@@ -4,7 +4,7 @@
   "title": "The Four Language Pathways",
   "subtitle": "A developmental model of language, literacy, and signed-language writing",
   "summary": "Opening model paper for the Sutton SignWriting Language and Literacy Research series.",
-  "synopsis": "This entry defines a research-facing model that distinguishes language input, language output, literacy input, and literacy output. It positions the model against language-acquisition and reading frameworks, states testable expectations, and clarifies how language development, literacy layering, and signed-language writing relate without forcing those questions back into the more public foundations lane.",
+  "synopsis": "This entry defines a research-facing model that distinguishes language input, language output, literacy input, and literacy output. It positions the model against language-acquisition and reading frameworks, states testable expectations, and clarifies how language development, literacy layering, and signed-language writing relate without forcing those questions back into the more public Foundations series.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -12,5 +12,97 @@
     "public_label": "Paper",
     "public_slug": "primary",
     "publication_designation": "Working Paper"
-  }
+  },
+  "slides": [
+    {
+      "id": "problem-statement",
+      "title": "Problem Statement",
+      "kicker": "1",
+      "summary": "Language development, literacy, and signed-language writing need a model that does not reduce language to sound or literacy to print.",
+      "image_prompts": {
+        "concrete": "Research model slide showing language input, language output, literacy input, and literacy output as four distinct pathways for signed-language development",
+        "abstract": "Four developmental pathways opening from language into literacy"
+      },
+      "bullets": [
+        "Language is not reducible to sound",
+        "Literacy is not reducible to print",
+        "Signed-language writing adds a new condition",
+        "The model separates four pathways"
+      ],
+      "speech": "This paper begins from a developmental problem. Signed languages require a model that separates language from sound and literacy from print. The Four Language Pathways gives that model a research-facing structure.",
+      "notes": "Open as a research model, not a finished outcome claim."
+    },
+    {
+      "id": "four-pathways",
+      "title": "Four Pathways",
+      "kicker": "2",
+      "summary": "The model distinguishes language input, language output, literacy input, and literacy output.",
+      "image_prompts": {
+        "concrete": "Four-quadrant developmental model slide labeled language input, language output, literacy input, and literacy output",
+        "abstract": "Four connected pathways balancing language and literacy"
+      },
+      "bullets": [
+        "Language input",
+        "Language output",
+        "Literacy input",
+        "Literacy output"
+      ],
+      "speech": "The model has four pathways. Language input is access to language. Language output is expressive use. Literacy input is reading or receiving durable text. Literacy output is producing durable text. Keeping these apart makes later research questions clearer.",
+      "notes": "This is the central model slide."
+    },
+    {
+      "id": "testable-expectations",
+      "title": "Testable Expectations",
+      "kicker": "3",
+      "summary": "The model creates testable expectations about early access, direct signed literacy, literacy output, and revision if the evidence does not support the claims.",
+      "image_prompts": {
+        "concrete": "Research expectations slide with four testable claims connected to future study designs",
+        "abstract": "A model turning into testable research questions"
+      },
+      "bullets": [
+        "Early language access should matter",
+        "Direct signed literacy should create distinct affordances",
+        "Writing output should matter",
+        "The model must be revised if evidence requires it"
+      ],
+      "speech": "The value of the model is that it can be tested. It predicts that early language access matters, that direct signed-language literacy creates distinct affordances, and that literacy output matters. It also stays accountable: if durable signed text does not change use, the model should be revised.",
+      "notes": "Emphasize falsifiability and discipline."
+    },
+    {
+      "id": "research-questions",
+      "title": "Research Questions",
+      "kicker": "4",
+      "summary": "The pathway model leads into reading, recognition, syntax, spatial reference, education, corpora, and reusable infrastructure.",
+      "image_prompts": {
+        "concrete": "Research agenda slide showing pathways leading to reading recognition, syntax, education, corpora, and reusable research infrastructure",
+        "abstract": "Four pathways branching into empirical research questions"
+      },
+      "bullets": [
+        "Development and access",
+        "Reading and recognition",
+        "Syntax and spatial reference",
+        "Education, corpora, and infrastructure"
+      ],
+      "speech": "The model leads directly into research questions: development and access, reading and recognition, syntax and spatial reference, education and institutional use, corpora, and reusable infrastructure.",
+      "notes": "Close by pointing to Reading Signed Text and the research program entry."
+    },
+    {
+      "id": "what-the-model-does-not-claim",
+      "title": "What The Model Does Not Claim",
+      "kicker": "5",
+      "summary": "The pathway model defines a research space; it does not claim that all mechanisms, outcome advantages, or educational questions are already settled.",
+      "image_prompts": {
+        "concrete": "Research model boundary slide showing four language pathways with open boxes for mechanisms, outcomes, education, reading, syntax, and empirical validation",
+        "abstract": "A useful developmental model surrounded by clearly marked open research questions"
+      },
+      "bullets": [
+        "Mechanisms are not all settled",
+        "Outcome advantages need evidence",
+        "Writing alone does not solve deprivation",
+        "The model should be revised if evidence requires it"
+      ],
+      "speech": "The pathway model defines a research space. It does not claim that all mechanisms are already settled, that every outcome advantage has been demonstrated, or that signed-language writing alone solves early language deprivation. Its value is that it makes those questions clearer and keeps them testable.",
+      "notes": "Close the model with discipline. This is the guardrail that keeps the paper research-facing rather than triumphalist."
+    }
+  ]
 }

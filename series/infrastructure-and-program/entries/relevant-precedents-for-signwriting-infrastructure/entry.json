@@ -3,7 +3,7 @@
   "number": 7,
   "title": "Relevant Precedents for SignWriting Infrastructure",
   "subtitle": "What comparable archive, language, data, and research-infrastructure models suggest",
-  "summary": "A public precedent entry showing that SignWriting follows a recognizable infrastructure path: mature assets first, institutional anchoring second, staffing and support next, and grants or philanthropy after that.",
+  "summary": "A public precedent entry showing that SignWriting follows a recognizable infrastructure path: mature assets first, institutional anchoring second, staffing and continuity next, and grants or philanthropy after that.",
   "synopsis": "Sutton SignWriting is unusual, but the institutional pattern it needs is not. This entry generalizes precedent material from the institutional packet and reviews comparable archive, data, language, sign-language, and research-infrastructure models including ICPSR, ELDP/ELAR, PARADISEC, BSL Corpus and SignBank, ASLLRP, and MIDAS.",
   "essay": "essay.md",
   "primary_artifact": {
@@ -12,5 +12,79 @@
     "public_label": "Brief",
     "public_slug": "primary",
     "publication_designation": "Program Brief"
-  }
+  },
+  "slides": [
+    {
+      "id": "why-precedents-matter",
+      "title": "Why Precedents Matter",
+      "kicker": "1",
+      "summary": "SignWriting is unusual, but the infrastructure pattern it needs is recognizable.",
+      "image_prompts": {
+        "concrete": "Precedent slide showing SignWriting beside archive, language, data, sign-language corpus, and research-infrastructure examples",
+        "abstract": "An unusual asset following a recognizable infrastructure path"
+      },
+      "bullets": [
+        "Unusual system, recognizable pattern",
+        "Mature assets come first",
+        "Anchoring and staffing follow",
+        "Funding becomes more credible after structure"
+      ],
+      "speech": "The point of precedents is to show that SignWriting is unusual, but the infrastructure pattern it needs is not. Mature assets often come first. Anchoring, staffing, and funding structures follow when institutions recognize the value already present.",
+      "notes": "This slide prevents the case from sounding sui generis."
+    },
+    {
+      "id": "closest-analogs",
+      "title": "Closest Analogs",
+      "kicker": "2",
+      "summary": "Archive, language documentation, corpus, and data-infrastructure examples show how existing assets become durable programs.",
+      "image_prompts": {
+        "concrete": "Comparison slide with ICPSR, ELDP/ELAR, PARADISEC, BSL Corpus and SignBank, ASLLRP, and MIDAS as precedent models",
+        "abstract": "Several infrastructure precedents mapped to shared stewardship patterns"
+      },
+      "bullets": [
+        "ICPSR and MIDAS for data infrastructure",
+        "ELDP, ELAR, and PARADISEC for language archives",
+        "BSL Corpus and SignBank for sign-language resources",
+        "ASLLRP and ASL resources for adjacent models"
+      ],
+      "speech": "The precedents are not identical, but they are useful. Data infrastructure, language archives, sign-language corpora, sign banks, and research platforms all show ways that valuable assets become more durable through institutional structure.",
+      "notes": "Use analogs carefully, not as exact matches."
+    },
+    {
+      "id": "shared-pattern",
+      "title": "Shared Pattern",
+      "kicker": "3",
+      "summary": "The shared pattern is mature assets first, institutional anchoring second, staffing and credibility next, then grants, philanthropy, and growth.",
+      "image_prompts": {
+        "concrete": "Pattern slide showing four stages: mature assets, institutional anchoring, staffing and credibility, grants philanthropy and growth",
+        "abstract": "A staged infrastructure path from assets to durable growth"
+      },
+      "bullets": [
+        "Mature assets first",
+        "Institutional anchoring second",
+        "Staffing and credibility next",
+        "Grants, philanthropy, and growth after that"
+      ],
+      "speech": "Across the examples, the pattern is recognizable: mature assets first, institutional anchoring second, staffing and credibility next, and then grants, philanthropy, and longer-term growth become more plausible.",
+      "notes": "This is the reusable model."
+    },
+    {
+      "id": "how-to-use-precedents",
+      "title": "How To Use Precedents",
+      "kicker": "4",
+      "summary": "Precedents should support host conversations without implying that any one model can simply be copied.",
+      "image_prompts": {
+        "concrete": "Institutional strategy slide showing precedents informing but not dictating a SignWriting host structure",
+        "abstract": "Several precedent paths feeding into one tailored stewardship model"
+      },
+      "bullets": [
+        "Use precedents to make the pattern legible",
+        "Do not copy models mechanically",
+        "Adapt to SignWriting's actual assets",
+        "Keep the host question function-based"
+      ],
+      "speech": "The precedents should make the pattern legible. They should not be copied mechanically. The useful question is which functions SignWriting needs and which host, consortium, or fiscal-sponsor model can provide them responsibly.",
+      "notes": "Close with function-based comparison."
+    }
+  ]
 }

@@ -13,6 +13,98 @@
     "public_slug": "primary",
     "publication_designation": "Working Paper"
   },
+  "slides": [
+    {
+      "id": "typology-problem",
+      "title": "The Typology Problem",
+      "kicker": "1",
+      "summary": "SignWriting strains familiar writing-system categories because its written unit is organized spatially rather than only sequentially.",
+      "image_prompts": {
+        "concrete": "Scholarly writing-systems slide comparing alphabetic line writing, character blocks, notation, and a spatial SignWriting signbox",
+        "abstract": "A line of text opening into a two-dimensional written field"
+      },
+      "bullets": [
+        "Existing typology still matters",
+        "Sequence-centered categories are not enough",
+        "SignWriting uses composed spatial organization",
+        "The question needs a second axis"
+      ],
+      "speech": "The paper begins with a typology problem. Existing writing-system categories remain useful, but they often assume that the written unit is primarily organized through sequence. SignWriting exposes a missing question: how is the written unit organized for reading?",
+      "notes": "Do not dismiss existing typology. The argument is extension and pressure, not replacement."
+    },
+    {
+      "id": "missing-axis",
+      "title": "The Missing Axis",
+      "kicker": "2",
+      "summary": "A two-axis account separates what writing represents from how the written unit is organized.",
+      "image_prompts": {
+        "concrete": "Two-axis typology slide with representational axis and organizational axis, placing SignWriting in a plane-based region",
+        "abstract": "Two crossing axes locating a composed written sign"
+      },
+      "bullets": [
+        "Representational axis: what is represented",
+        "Organizational axis: how the written unit is arranged",
+        "Plane-based writing names organization",
+        "It does not replace representational typology"
+      ],
+      "speech": "The key move is to separate two questions. One asks what the writing represents. The other asks how the written unit is organized. Plane-based writing names the organizational side of SignWriting without pretending that organization is the whole theory.",
+      "notes": "This is the central conceptual slide."
+    },
+    {
+      "id": "what-signwriting-is-not",
+      "title": "What SignWriting Is Not",
+      "kicker": "3",
+      "summary": "The paper distinguishes SignWriting from pictorial drawing, featural script, notation, and encoding.",
+      "image_prompts": {
+        "concrete": "Comparison slide with four rejected reductions: pictorial drawing, featural script, notation, and encoding, contrasted with plane-based writing",
+        "abstract": "Four simplified labels set aside around a stable writing-system center"
+      },
+      "bullets": [
+        "Not merely pictorial",
+        "Not merely featural",
+        "Not merely notation",
+        "Not merely encoding"
+      ],
+      "speech": "The paper also clears away reductions. SignWriting is not merely pictorial drawing, not merely a featural script, not merely notation, and not merely an encoding. Each comparison reveals something, but none of them is sufficient alone.",
+      "notes": "Keep this comparative rather than defensive."
+    },
+    {
+      "id": "typological-contribution",
+      "title": "Typological Contribution",
+      "kicker": "4",
+      "summary": "SignWriting contributes a clearer case for plane-based writing and prepares the series for authored space, legibility, handwriting, and encoding.",
+      "image_prompts": {
+        "concrete": "Reading path slide moving from plane-based writing to authored space, legibility, handwriting, machine encoding, and kinematography",
+        "abstract": "A plane-based written sign opening into the next theoretical papers"
+      },
+      "bullets": [
+        "Plane-based writing is an analytic descriptor",
+        "SignWriting pressures inherited categories",
+        "The claim remains bounded",
+        "The next question is authored space"
+      ],
+      "speech": "The contribution is bounded but important. Plane-based writing gives a clearer descriptor for one part of SignWriting's structure. It pressures inherited categories without discarding them. The next paper then asks what the writer actually authors inside that plane.",
+      "notes": "Close by pointing to Perspective and Authored Space."
+    },
+    {
+      "id": "claims-and-limits",
+      "title": "Claims And Limits",
+      "summary": "Plane-based writing names an organizational axis; it does not replace all writing-system typology or settle every empirical question.",
+      "image_prompts": {
+        "concrete": "Two-axis writing typology slide with a clear boundary around plane-based organization and separate open boxes for evidence, reading research, and encoding",
+        "abstract": "A plane-based written sign located on one axis while other questions remain open"
+      },
+      "bullets": [
+        "Names organization, not the whole theory",
+        "Extends typology without discarding it",
+        "Does not prove literacy outcomes by itself",
+        "Prepares authored-space and encoding questions"
+      ],
+      "speech": "The bounded claim is important. Plane-based writing names an organizational axis. It does not replace all existing typology, prove literacy outcomes by itself, or settle every technical question. Its value is that it makes the next questions clearer: authored space, legibility, handwriting, and encoding.",
+      "notes": "This slide protects the central term from becoming too large. Keep the tone confident and disciplined.",
+      "kicker": "5"
+    }
+  ],
   "companion_documents": [
     {
       "file": "point-line-plane-evidence-notes.md",

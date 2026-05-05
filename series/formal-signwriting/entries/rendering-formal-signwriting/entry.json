@@ -91,7 +91,11 @@
       ],
       "speech": "Rendering becomes cleaner when its boundary is explicit. It should realize the text model, not redefine it. It should work with styling, not collapse into styling. And it should keep the encoded text durable even when the visible output changes across platforms and generations. That boundary is what lets the rendering layer stay flexible without making the model unstable.",
       "notes": "End on architectural discipline.",
-      "mermaid": "flowchart LR\n  A[Encoding] --> B[Grammar]\n  B --> C[Canonical sign text]\n  C --> D[Rendering]\n  E[Styling] --> D\n  D --> F[Visible output]\n  C --> G[Copyable durable text]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D core;\n  class E,F node;\n  class G out;"
+      "mermaid": "flowchart LR\n  A[Encoding] --> B[Grammar]\n  B --> C[Canonical sign text]\n  C --> D[Rendering]\n  E[Styling] --> D\n  D --> F[Visible output]\n  C --> G[Copyable durable text]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D core;\n  class E,F node;\n  class G out;",
+      "image_prompts": {
+        "concrete": "Rendering boundary slide showing canonical sign text flowing into rendering and styling layers while durable copyable text remains separate",
+        "abstract": "Visible output and durable text held apart by a clear rendering boundary"
+      }
     }
   ]
 }

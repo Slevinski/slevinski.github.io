@@ -2,7 +2,7 @@
 
 **Strong evidence, partial evidence, and how to read SignWriting adoption claims**
 
-This brief gives the `Sutton SignWriting Evidence and Adoption` series its synthesis layer.
+This brief gives *Sutton SignWriting Evidence and Adoption* its synthesis layer.
 
 Its purpose is not to replace the country briefs.
 
@@ -16,7 +16,7 @@ That is the right level of confidence.
 
 ## What the evidence is already strong on
 
-Several claims are now strong enough to state clearly.
+Several claims are strong enough to state clearly.
 
 ### 1. SignWriting is real in practice, not only in theory
 
@@ -138,7 +138,7 @@ The public evidence base is stronger on successful, visible, and institutionally
 
 That is a limitation.
 
-A serious evidence lane should eventually include:
+A serious evidence series should eventually include:
 
 - cases where SignWriting instruction was tried and did not continue
 - communities or institutions that preferred other approaches
@@ -150,7 +150,7 @@ The point is not to weaken the evidence.
 
 The point is to make the evidence more complete.
 
-That documentation now has a named home in this series: `Evidence Boundaries and Adoption Limits`.
+That documentation belongs in *Evidence Boundaries and Adoption Limits*.
 
 ### 5. Comparative adoption evidence remains incomplete
 
@@ -224,35 +224,35 @@ The current public evidence does not yet justify:
 - claims that dated institutional floors prove present-tense activity everywhere they once documented
 - claims that SignWriting's adoption has already been systematically compared against all alternative systems
 
-That discipline strengthens the evidence lane rather than weakening it.
+That discipline strengthens the evidence series rather than weakening it.
 
 It lets the strongest claims stand on firmer ground.
 
 ## Why this matters for the rest of the platform
 
-This synthesis matters because every other lane depends on it.
+This synthesis matters because every other series depends on it.
 
-- `Sutton SignWriting Foundations` should not sound purely theoretical.
-- `Sutton SignWriting Language and Literacy Research` should not sound like a research program in search of users.
-- `Sutton SignWriting Infrastructure and Program` should not sound like support for a hypothetical system.
+- *Sutton SignWriting Foundations* should not sound purely theoretical.
+- *Sutton SignWriting Language and Literacy Research* should not sound like a research program in search of users.
+- *Sutton SignWriting Infrastructure and Program* should not sound like stewardship planning for a hypothetical system.
 
-The evidence lane is what keeps the rest of the platform honest.
+The evidence series is what keeps the rest of the platform honest.
 
 It says:
 
 - what is already real
-- what is strongest now
+- where the evidence is strongest
 - what still needs better documentation
 
-That is exactly what an empirical lane should do.
+That is exactly what an empirical series should do.
 
 ## Go Next
 
-- `Sutton SignWriting Evidence and Adoption: Brazil as the Empirical Center of SignWriting` for the strongest documented empirical center
-- `Sutton SignWriting Evidence and Adoption: South Korea as a Current Institutional Proof Point` for one of the clearest current institutional evidence points
-- `Sutton SignWriting Evidence and Adoption: Evidence Boundaries and Adoption Limits` for the evidence limits, adoption limits, and negative-case documentation agenda
+- *Brazil as the Empirical Center of SignWriting* for the strongest documented empirical center
+- *South Korea as a Current Institutional Proof Point* for one of the clearest current institutional evidence points
+- *Evidence Boundaries and Adoption Limits* for the evidence limits, adoption limits, and negative-case documentation agenda
 
-After completing this evidence series, `Sutton SignWriting Infrastructure and Program: Executive Brief` carries the support-facing consequence of the evidence base.
+After completing this evidence series, *Sutton SignWriting Infrastructure and Program: Executive Brief* carries the stewardship consequence of the evidence base.
 
 ## Selected sources
 

@@ -64,7 +64,7 @@
       "slug": "evidence-and-adoption",
       "title": "Sutton SignWriting Evidence and Adoption",
       "subtitle": "Documented use, institutional proof points, lineages, and empirical anchors for SignWriting in practice",
-      "description": "A series for the empirical lane of the Sutton SignWriting platform: documented communities, institutions, proof points, adoption evidence, and evidence boundaries that show where SignWriting is real in practice without overstating outcome claims.",
+      "description": "A series for the empirical series of the Sutton SignWriting platform: documented communities, institutions, proof points, adoption evidence, and evidence boundaries that show where SignWriting is real in practice without overstating outcome claims.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -75,7 +75,7 @@
           "number": 0,
           "title": "Sutton SignWriting Evidence and Adoption Overview",
           "subtitle": "Documented use, institutional proof points, and evidence boundaries",
-          "summary": "Overview entry for the empirical lane of the Sutton SignWriting platform.",
+          "summary": "Overview entry for the empirical series of the Sutton SignWriting platform.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -91,7 +91,7 @@
             "public_slug": "primary",
             "publication_designation": "Series Overview"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -115,14 +115,14 @@
             "public_slug": "primary",
             "publication_designation": "Research Brief"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": []
         },
         {
           "slug": "south-korea-as-a-current-institutional-proof-point",
           "number": 2,
           "title": "South Korea as a Current Institutional Proof Point",
-          "subtitle": "National dictionary publication, current institutional use, and why Korea matters now",
+          "subtitle": "National dictionary publication, current institutional use, and why Korea matters",
           "summary": "Current institutional proof-point anchor for the Sutton SignWriting Evidence and Adoption series.",
           "essay": "essay.md",
           "primary_artifact": {
@@ -139,7 +139,7 @@
             "public_slug": "primary",
             "publication_designation": "Research Brief"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -163,7 +163,7 @@
             "public_slug": "primary",
             "publication_designation": "Evidence Note"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -187,7 +187,7 @@
             "public_slug": "primary",
             "publication_designation": "Synthesis Brief"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": []
         }
       ]
@@ -223,7 +223,7 @@
             "public_slug": "primary",
             "publication_designation": "Series Overview"
           },
-          "slide_count": 0,
+          "slide_count": 3,
           "companion_documents": []
         },
         {
@@ -414,7 +414,7 @@
             "public_slug": "primary",
             "publication_designation": "Technical Paper"
           },
-          "slide_count": 1,
+          "slide_count": 5,
           "companion_documents": []
         },
         {
@@ -609,8 +609,8 @@
     {
       "slug": "infrastructure-and-program",
       "title": "Sutton SignWriting Infrastructure and Program",
-      "subtitle": "Continuity, stewardship, support structure, and the practical program behind the Sutton SignWriting platform",
-      "description": "A series for the stewardship and program lane of the Sutton SignWriting platform: support models, continuity needs, infrastructure reality, international participation, country-level coordination, and the institutional structures that make the work cumulative.",
+      "subtitle": "Continuity, stewardship structure, and the practical program behind the Sutton SignWriting platform",
+      "description": "A series for the stewardship and program series of the Sutton SignWriting platform: stewardship models, continuity requirements, infrastructure reality, international participation, country-level coordination, and the institutional structures that make the work cumulative.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -620,8 +620,8 @@
           "slug": "overview",
           "number": 0,
           "title": "Sutton SignWriting Infrastructure and Program Overview",
-          "subtitle": "Continuity, stewardship, support structure, and program design",
-          "summary": "Overview entry for the support, continuity, and stewardship lane of the Sutton SignWriting platform.",
+          "subtitle": "Continuity, stewardship, host structure, and program design",
+          "summary": "Overview entry for the stewardship, continuity, and program-design series of the Sutton SignWriting platform.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -637,7 +637,7 @@
             "public_slug": "primary",
             "publication_designation": "Series Overview"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -645,7 +645,7 @@
           "number": 1,
           "title": "Executive Brief",
           "subtitle": "Sutton SignWriting as research infrastructure",
-          "summary": "First support-facing anchor for the Sutton SignWriting Infrastructure and Program series.",
+          "summary": "First stewardship anchor for the Sutton SignWriting Infrastructure and Program series.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -661,15 +661,15 @@
             "public_slug": "primary",
             "publication_designation": "Research Brief"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
           "slug": "infrastructure-and-stewardship",
           "number": 2,
           "title": "Infrastructure and Stewardship",
-          "subtitle": "Confirmed assets, current risks, and the case for stronger institutional support",
-          "summary": "Second support-facing anchor for the Sutton SignWriting Infrastructure and Program series.",
+          "subtitle": "Confirmed assets, current risks, and the case for stronger stewardship structure",
+          "summary": "Second stewardship anchor for the Sutton SignWriting Infrastructure and Program series.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -685,7 +685,7 @@
             "public_slug": "primary",
             "publication_designation": "White Paper"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -693,7 +693,7 @@
           "number": 3,
           "title": "International Shared Support",
           "subtitle": "Institutional backing, international participation, and shared continuity for Sutton SignWriting",
-          "summary": "A support model for sustaining Sutton SignWriting as shared international language infrastructure rather than a single-maintainer project.",
+          "summary": "A shared stewardship model for sustaining Sutton SignWriting as international language infrastructure rather than a single-maintainer project.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -709,7 +709,7 @@
             "public_slug": "primary",
             "publication_designation": "Program Brief"
           },
-          "slide_count": 3,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -733,15 +733,15 @@
             "public_slug": "primary",
             "publication_designation": "Program Brief"
           },
-          "slide_count": 3,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
-          "slug": "institutional-home-and-host-requirements",
+          "slug": "host-structure-and-stewardship-requirements",
           "number": 5,
-          "title": "Institutional Home and Host Requirements",
-          "subtitle": "What a durable home for Sutton SignWriting infrastructure would need to provide",
-          "summary": "A generalized public entry describing the functions a university, lab, institute, nonprofit, or consortium would need to provide in order to house Sutton SignWriting responsibly.",
+          "title": "Host Structure and Stewardship Requirements",
+          "subtitle": "Functions a durable stewardship structure would need to provide",
+          "summary": "A generalized public entry describing the functions a university, lab, institute, nonprofit, or consortium would need to provide in order to steward Sutton SignWriting responsibly.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -757,14 +757,14 @@
             "public_slug": "primary",
             "publication_designation": "Program Brief"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
           "slug": "infrastructure-core-and-philanthropy",
           "number": 6,
           "title": "Infrastructure Core and Philanthropy",
-          "subtitle": "A support model for staffing, translation, coordination, and continuity",
+          "subtitle": "A stewardship model for staffing, translation, coordination, and continuity",
           "summary": "A generalized public entry describing how a focused SignWriting infrastructure core and philanthropic support could stabilize existing tools, standards, data, and international access work.",
           "essay": "essay.md",
           "primary_artifact": {
@@ -781,7 +781,7 @@
             "public_slug": "primary",
             "publication_designation": "Program Brief"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -789,7 +789,7 @@
           "number": 7,
           "title": "Relevant Precedents for SignWriting Infrastructure",
           "subtitle": "What comparable archive, language, data, and research-infrastructure models suggest",
-          "summary": "A public precedent entry showing that SignWriting follows a recognizable infrastructure path: mature assets first, institutional anchoring second, staffing and support next, and grants or philanthropy after that.",
+          "summary": "A public precedent entry showing that SignWriting follows a recognizable infrastructure path: mature assets first, institutional anchoring second, staffing and continuity next, and grants or philanthropy after that.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -805,7 +805,7 @@
             "public_slug": "primary",
             "publication_designation": "Program Brief"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         }
       ]
@@ -825,7 +825,7 @@
           "number": 0,
           "title": "Sutton SignWriting Language and Literacy Research Overview",
           "subtitle": "Developmental pathways, literacy layering, reading questions, and signed-language research",
-          "summary": "Overview entry for the research-facing language and literacy lane of the Sutton SignWriting platform.",
+          "summary": "Overview entry for the research-facing language and literacy series of the Sutton SignWriting platform.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -841,7 +841,7 @@
             "public_slug": "primary",
             "publication_designation": "Series Overview"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -865,7 +865,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": []
         },
         {
@@ -889,7 +889,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": []
         },
         {
@@ -913,7 +913,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": [
             {
               "file": "evidence-and-model-notes.md",
@@ -1024,7 +1024,7 @@
             "public_slug": "primary",
             "publication_designation": "Series Overview"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": [
             {
               "file": "start-here.md",
@@ -1056,7 +1056,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Framework"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": []
         },
         {
@@ -1080,7 +1080,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -1104,7 +1104,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": [
             {
               "file": "comparative-matrix.md",
@@ -1136,7 +1136,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Review"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -1160,7 +1160,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Review"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -1184,7 +1184,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Review"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -1208,7 +1208,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Review"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -1232,7 +1232,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Review"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -1256,7 +1256,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Review"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": [
             {
               "file": "signed-writing-as-a-pressure-test-for-general-writing-theory.md",
@@ -1288,7 +1288,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         }
       ]
@@ -1324,7 +1324,7 @@
             "public_slug": "primary",
             "publication_designation": "Series Overview"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -1466,8 +1466,8 @@
           "slug": "utc-technical-note",
           "number": 5,
           "title": "UTC Technical Note",
-          "subtitle": "Draft note on compatibility, symbol identity, spatial composition, and next steps",
-          "summary": "A formal draft note stating that official Unicode SignWriting can name much of the character set but still does not preserve stable symbol identity or provide compatible written-sign support.",
+          "subtitle": "Technical note on compatibility, symbol identity, spatial composition, and next steps",
+          "summary": "A formal technical note stating that official Unicode SignWriting can name much of the character set but still does not preserve stable symbol identity or provide compatible written-sign support.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1626,7 +1626,7 @@
           "number": 0,
           "title": "Writing and Representation in Sutton SignWriting Overview",
           "subtitle": "Plane-based writing, authored space, representation, and writing-systems questions",
-          "summary": "Overview entry for the writing-systems lane of the Sutton SignWriting platform.",
+          "summary": "Overview entry for the writing-systems series of the Sutton SignWriting platform.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1642,7 +1642,7 @@
             "public_slug": "primary",
             "publication_designation": "Series Overview"
           },
-          "slide_count": 0,
+          "slide_count": 4,
           "companion_documents": []
         },
         {
@@ -1666,7 +1666,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": [
             {
               "file": "point-line-plane-evidence-notes.md",
@@ -1682,7 +1682,7 @@
           "number": 2,
           "title": "Perspective and Authored Space",
           "subtitle": "Viewpoint, placement, and the authored space of signed writing",
-          "summary": "Native anchor draft for the Writing and Representation in Sutton SignWriting series.",
+          "summary": "Writing-systems paper for the Writing and Representation in Sutton SignWriting series.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1698,7 +1698,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": []
         },
         {
@@ -1722,7 +1722,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": []
         },
         {
@@ -1746,7 +1746,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": []
         },
         {
@@ -1754,7 +1754,7 @@
           "number": 5,
           "title": "Human Writing and Machine Encoding",
           "subtitle": "Authorship, serialization, and the layers of signed text",
-          "summary": "Native anchor draft for the Writing and Representation in Sutton SignWriting series on the distinction between human signed writing and machine encoding.",
+          "summary": "Writing-systems paper for the Writing and Representation in Sutton SignWriting series on the distinction between human signed writing and machine encoding.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1770,7 +1770,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": []
         },
         {
@@ -1794,7 +1794,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": []
         },
         {
@@ -1802,7 +1802,7 @@
           "number": 7,
           "title": "Other Sign Language Scripts and Their Conceptions",
           "subtitle": "ASL-phabet, HamNoSys, ASLwrite, and what they imply about written sign language",
-          "summary": "Comparative writing-systems draft for the Writing and Representation in Sutton SignWriting series.",
+          "summary": "Comparative writing-systems paper for the Writing and Representation in Sutton SignWriting series.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1818,7 +1818,7 @@
             "public_slug": "primary",
             "publication_designation": "Working Paper"
           },
-          "slide_count": 0,
+          "slide_count": 5,
           "companion_documents": []
         }
       ]

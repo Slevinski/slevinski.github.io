@@ -492,6 +492,6 @@ Each review in this series applies the framework in practice, so readers can see
 
 ## Go Next
 
-- `Signed Language Writing Critical Review Series: Sutton SignWriting and Formal SignWriting Through the Framework` for self-application of the framework
-- `Signed Language Writing Critical Review Series: A Layer-Based Evaluation of Signed Language Writing Systems` for the comparative demonstration
-- `Signed Language Writing Critical Review Series: From Critique to Construction: Priorities for Signed Language Writing Infrastructure` for the constructive synthesis
+- *Sutton SignWriting and Formal SignWriting Through the Framework* for self-application of the framework
+- *A Layer-Based Evaluation of Signed Language Writing Systems* for the comparative demonstration
+- *From Critique to Construction: Priorities for Signed Language Writing Infrastructure* for the constructive synthesis

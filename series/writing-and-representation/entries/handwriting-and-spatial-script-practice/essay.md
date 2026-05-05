@@ -2,11 +2,11 @@
 
 **Block printing, shorthand, cursive forms, and ordinary signed writing**
 
-This paper is a native anchor of the `Writing and Representation in Sutton SignWriting` series.
+This paper develops the handwriting and material-practice argument in *Writing and Representation in Sutton SignWriting*.
 
 It follows *Iconicity, Convention, and Legibility* and prepares the ground for *Human Writing and Machine Encoding*.
 
-The earlier papers in this lane argue that SignWriting is plane-based, authored, and conventionally legible.
+The earlier papers in this series argue that SignWriting is plane-based, authored, and conventionally legible.
 
 This paper asks a more ordinary question:
 
@@ -126,7 +126,7 @@ The stronger question is:
 
 > can handwritten signs preserve enough symbol identity, placement, relation, and boundary structure to function as readable signed text?
 
-That question belongs in the writing-systems lane.
+That question belongs in the writing-systems series.
 
 ## Block printing, shorthand, and cursive
 
@@ -531,7 +531,7 @@ It is part of the writing-system question.
 
 Block printing, shorthand, cursive forms, classroom writing, personal notes, and correction practices all show how a spatial script becomes ordinary.
 
-The current platform has a strong technical record.
+Sutton SignWriting has a strong technical record.
 
 The handwriting record needs to become more visible.
 

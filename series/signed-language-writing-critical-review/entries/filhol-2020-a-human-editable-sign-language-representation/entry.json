@@ -12,5 +12,79 @@
     "public_label": "Review",
     "public_slug": "primary",
     "publication_designation": "Working Review"
-  }
+  },
+  "slides": [
+    {
+      "id": "what-filhol-sees",
+      "title": "What Filhol Sees",
+      "kicker": "1",
+      "summary": "Filhol is right that video is not writing and that editable, queryable signed-language representation matters.",
+      "bullets": [
+        "Video is not writing",
+        "Queryability matters",
+        "Computation matters",
+        "Two-dimensional composition matters"
+      ],
+      "speech": "This review begins by crediting Filhol's strongest insight. Video is not writing, and signed-language research needs editable, queryable, computationally usable representation. The paper also recognizes the importance of two-dimensional composition.",
+      "notes": "Lead with the useful insight.",
+      "image_prompts": {
+        "concrete": "Review slide crediting Filhol for identifying the limits of video and the need for editable, queryable, computational signed-language representation",
+        "abstract": "A useful computational insight separated from broader replacement claims"
+      }
+    },
+    {
+      "id": "where-it-overreaches",
+      "title": "Where The Claim Overreaches",
+      "kicker": "2",
+      "summary": "The paper overreaches when it treats SignWriting as merely phonographic and structurally inadequate.",
+      "bullets": [
+        "SignWriting is misclassified",
+        "Solved technical problems are treated as unsolved",
+        "Semantic representation is treated as writing replacement",
+        "Novelty claims become too broad"
+      ],
+      "speech": "The review's critique is that Filhol overreaches. SignWriting is treated as merely phonographic and structurally inadequate, and a semantic-layer proposal begins to sound like a replacement for a writing system.",
+      "notes": "Focus on layer placement.",
+      "image_prompts": {
+        "concrete": "Critical review slide showing a semantic representation proposal overextended into a writing-system replacement claim",
+        "abstract": "A useful layer stretching beyond its proper boundary"
+      }
+    },
+    {
+      "id": "framework-reading",
+      "title": "Framework Reading",
+      "kicker": "3",
+      "summary": "Through the framework, Filhol is valuable as semantic-layer prompting, not as a successful reclassification of SignWriting.",
+      "bullets": [
+        "Strong semantic-layer prompt",
+        "Weak writing-system classification",
+        "Weak engagement with Formal SignWriting",
+        "Useful computational pressure"
+      ],
+      "speech": "Through the framework, Filhol's durable value is semantic-layer prompting. It pressures the field to care about editability, queryability, and computation, but it does not successfully reclassify SignWriting or replace its writing-system account.",
+      "notes": "This slide preserves the value while naming the limit.",
+      "image_prompts": {
+        "concrete": "Layer-based reading slide separating writing need, alphabetic bias, structural unit analysis, spatial organization, and claims versus evidence",
+        "abstract": "A source claim passed through a clear layer-based review frame"
+      }
+    },
+    {
+      "id": "platform-relevance",
+      "title": "Platform Relevance",
+      "kicker": "4",
+      "summary": "The review clarifies why semantic representation, signed writing, and machine-readable text must remain separate layers.",
+      "bullets": [
+        "Semantic representation matters",
+        "Writing remains a separate target",
+        "Formal text models matter",
+        "Layer discipline prevents false replacement claims"
+      ],
+      "speech": "The platform relevance is clear: semantic representation matters, but it is not the same layer as signed writing or machine-readable text. Keeping those layers separate prevents useful proposals from becoming false replacement claims.",
+      "notes": "Close with layer discipline.",
+      "image_prompts": {
+        "concrete": "Platform relevance slide separating semantic representation, signed writing, formal text models, and machine-readable infrastructure",
+        "abstract": "Several related layers aligned without collapsing into one another"
+      }
+    }
+  ]
 }

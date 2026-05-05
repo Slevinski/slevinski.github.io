@@ -101,7 +101,11 @@
       ],
       "speech": "Centering is one of the strongest technical moves in Formal SignWriting. Horizontal centering uses `hcenter` symbols when available, and vertical centering uses `vcenter` symbols when available, with fallback to all symbols when those ranges are absent. The sign is temporarily expanded into tight bounding boxes, the midpoint is calculated from the relevant extents, and all coordinates are shifted together. Without that normalization, too much of the system becomes fragile or inconsistent. With it, the spatial layer becomes much more consistent across search, rendering, and implementation.",
       "notes": "This is where the deck should start pointing forward to search, rendering, and implementation.",
-      "mermaid": "flowchart TD\n  A[Unnormalized sign] --> B[Centering rules]\n  B --> C[Normalized sign]\n  C --> D[Stable layout]\n  C --> E[Stable search]\n  C --> F[Stable rendering]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class B,C core;\n  class D,E,F out;"
+      "mermaid": "flowchart TD\n  A[Unnormalized sign] --> B[Centering rules]\n  B --> C[Normalized sign]\n  C --> D[Stable layout]\n  C --> E[Stable search]\n  C --> F[Stable rendering]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class B,C core;\n  class D,E,F out;",
+      "image_prompts": {
+        "concrete": "Technical signbox slide showing an unnormalized sign centered to 500x500 and then reused for stable layout, search, and rendering",
+        "abstract": "A spatial sign recentered so it can travel reliably across systems"
+      }
     }
   ]
 }

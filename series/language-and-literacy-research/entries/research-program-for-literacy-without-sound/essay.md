@@ -2,7 +2,7 @@
 
 **Study design, materials, corpora, and the next empirical steps for signed-language literacy**
 
-This entry is the third research-facing anchor of the `Sutton SignWriting Language and Literacy Research` series.
+This entry turns *Sutton SignWriting Language and Literacy Research* toward practical study design.
 
 It follows:
 
@@ -19,11 +19,11 @@ Its core claim is simple:
 
 The point is not to defend signed-language writing in the abstract forever.
 
-The point is to turn the research lane into a program that can begin.
+The point is to turn the research series into a program that can begin.
 
 ## Why This Program Belongs Here
 
-This program belongs in `Sutton SignWriting Language and Literacy Research` because its center is empirical study design.
+This program is research-facing because its center is empirical study design.
 
 It asks:
 
@@ -35,9 +35,9 @@ It asks:
 
 Infrastructure still matters, but here it matters as research infrastructure.
 
-The support, stewardship, and institutional case belongs in `Sutton SignWriting Infrastructure and Program`.
+The stewardship and institutional case belongs in *Sutton SignWriting Infrastructure and Program*.
 
-This entry should connect to that support lane without becoming a support brief itself.
+This entry should connect to that stewardship series without becoming a stewardship brief itself.
 
 ## What This Program Is Not
 
@@ -51,7 +51,7 @@ It is not:
 - an argument that neuroscience should come first
 - a substitute for the public foundations or evidence series
 
-The stronger lane is narrower and more constructive:
+The stronger research path is narrower and more constructive:
 
 - study SignWriting as readable and writable text
 - use real materials and real reader populations
@@ -60,13 +60,13 @@ The stronger lane is narrower and more constructive:
 
 That is enough.
 
-## Three Research Lanes
+## Three Research Areas
 
-The program has three mutually reinforcing lanes.
+The program has three mutually reinforcing work areas.
 
 ### 1. Reading And Literacy Studies
 
-This lane asks what happens when signed language becomes durable readable and writable text.
+This work area asks what happens when signed language becomes durable readable and writable text.
 
 The central questions include:
 
@@ -77,7 +77,7 @@ The central questions include:
 - how text use differs from relying on video alone
 - what kinds of texts are easiest or hardest for different reader groups
 
-This lane follows directly from *Reading Signed Text*.
+This work area follows directly from *Reading Signed Text*.
 
 It treats reading as a research problem rather than as a simple yes-or-no claim.
 
@@ -118,7 +118,7 @@ Early Brazil-grounded work could include:
 
 ### 3. Corpus, Materials, And Reusable Research Infrastructure
 
-This lane makes the science cumulative.
+This work area makes the science cumulative.
 
 It asks:
 
@@ -129,7 +129,7 @@ It asks:
 - what annotation and search tools are needed?
 - what documentation lets later researchers understand and reuse the material?
 
-Without this lane, each study risks becoming isolated.
+Without this research-infrastructure strand, each study risks becoming isolated.
 
 With it, later studies can compare results, reuse materials, refine tasks, and build a stronger field.
 
@@ -389,13 +389,13 @@ Research infrastructure includes:
 - rights documentation
 - reproducible stimuli and tasks
 
-Those needs connect this entry to `Sutton SignWriting Infrastructure and Program`.
+Those needs connect this entry to *Sutton SignWriting Infrastructure and Program*.
 
 But the research program should remain research-facing.
 
 Its job is to define what should be studied and what reusable assets the studies should produce.
 
-The infrastructure series explains the support model that can make that work durable.
+The infrastructure series explains the stewardship model that can make that work durable.
 
 ## Good-Idea Test
 

@@ -2,7 +2,7 @@
 
 **What current evidence supports, what remains open, and what resistance still needs documentation**
 
-This entry belongs in `Sutton SignWriting Evidence and Adoption` because evidence discipline should not be buried as a footnote to positive cases.
+This entry belongs in *Sutton SignWriting Evidence and Adoption* because evidence discipline should not be buried as a footnote to positive cases.
 
 It answers a skeptical empirical question:
 
@@ -14,7 +14,7 @@ It also answers a second question:
 
 This entry is not yet a complete negative-case catalog.
 
-It is the series' current boundary statement: the place where supportable claims, open questions, and known documentation gaps are kept visible.
+It is the series boundary statement: the place where supportable claims, open questions, and known documentation gaps are kept visible.
 
 ## What current evidence supports
 
@@ -105,7 +105,7 @@ The current evidence base is stronger on successful, visible, and institutionall
 
 That is a limitation of the evidence base.
 
-A serious evidence lane should document:
+A serious evidence series should document:
 
 - cases where SignWriting instruction was tried and did not continue
 - communities or institutions that preferred other approaches
@@ -144,18 +144,18 @@ Those are related, but they are not the same evidence category.
 
 ## Relationship to Sutton SignWriting Foundations
 
-`Sutton SignWriting Foundations: Language Without Sound` uses evidence to make a conceptual and infrastructural argument.
+*Sutton SignWriting Foundations: Language Without Sound* uses evidence to make a conceptual and infrastructural argument.
 
-This entry keeps the empirical burden in the evidence lane.
+This entry keeps the empirical burden in the evidence series.
 
-When citing the conceptual argument, cite `Language Without Sound`.
+When citing the conceptual argument, cite *Language Without Sound*.
 
 When citing the evidence boundary, cite:
 
-- `What the Current Evidence Base Shows`
-- `Brazil as the Empirical Center of SignWriting`
-- `South Korea as a Current Institutional Proof Point`
-- `Evidence Boundaries and Adoption Limits`
+- *What the Current Evidence Base Shows*
+- *Brazil as the Empirical Center of SignWriting*
+- *South Korea as a Current Institutional Proof Point*
+- *Evidence Boundaries and Adoption Limits*
 
 ## Open evidence questions
 

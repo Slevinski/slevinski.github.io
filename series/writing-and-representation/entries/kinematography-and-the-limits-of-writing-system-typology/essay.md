@@ -2,7 +2,7 @@
 
 **Signed writing as a pressure test for grapholinguistics**
 
-This paper is a native capstone of the `Writing and Representation in Sutton SignWriting` series.
+This paper is the typological capstone of *Writing and Representation in Sutton SignWriting*.
 
 It follows *Human Writing and Machine Encoding* and prepares the way for the comparative support entry, *Other Sign Language Scripts and Their Conceptions*.
 
@@ -22,7 +22,7 @@ The signed writing system considered here is Sutton SignWriting.
 
 The answer proposed here is cautious:
 
-> `kinematography` may be a useful candidate term for writing whose primary representational work is the durable inscription of articulatory-spatial-kinetic form
+> kinematography may be a useful candidate term for writing whose primary representational work is the durable inscription of articulatory-spatial-kinetic form
 
 This is not offered as settled field terminology.
 
@@ -452,7 +452,7 @@ The typology depends on keeping both halves in view.
 
 ## Relation to the Critical Review series
 
-The term `kinematography` was raised earlier in the `Signed Language Writing Critical Review Series`, especially in the Meletis and Durscheid review and companion paper.
+The term *kinematography* was raised earlier in the *Signed Language Writing Critical Review Series*, especially in the Meletis and Durscheid review and companion paper.
 
 There, its role was diagnostic.
 
@@ -460,7 +460,7 @@ It helped ask whether a strong grapholinguistic framework could house signed wri
 
 This paper gives the term a different role.
 
-Here, it is developed inside the writing-systems lane as a native theoretical proposal.
+Here, it is developed inside the writing-systems series as a native theoretical proposal.
 
 The critical-review use asks:
 
@@ -494,7 +494,7 @@ Sixth, signed writing should be treated as a theory-shaping case for grapholingu
 
 ## What this paper does not claim
 
-The paper does not claim that `kinematography` is settled field terminology.
+The paper does not claim that *kinematography* is settled field terminology.
 
 It does not claim that grapholinguistics must adopt this exact word.
 
@@ -534,7 +534,7 @@ This paper adds the capstone question:
 
 If the answer cannot be stated cleanly with phonography, morphography, featural writing, pictography, notation, or semasiography, then the typology is being asked to grow.
 
-`Kinematography` may or may not become the final term.
+*Kinematography* may or may not become the final term.
 
 The pressure it names is real.
 

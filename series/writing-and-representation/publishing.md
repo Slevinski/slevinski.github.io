@@ -17,7 +17,7 @@
 
 ## Series Description
 
-`Writing and Representation in Sutton SignWriting` is the writing-systems lane for SignWriting as writing: plane-based organization, authored space, iconicity, convention, legibility, handwriting, machine encoding, and kinematography.
+`Writing and Representation in Sutton SignWriting` is the writing-systems series for SignWriting as writing: plane-based organization, authored space, iconicity, convention, legibility, handwriting, machine encoding, and kinematography.
 
 ## Repository Description
 

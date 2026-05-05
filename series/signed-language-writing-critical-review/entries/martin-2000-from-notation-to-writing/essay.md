@@ -274,13 +274,13 @@ That deserves to be preserved.
 
 At the same time, the paper should not be treated as a final account.
 
-Its strongest value now is:
+Its strongest continuing value is:
 
 - as an early SignWriting-positive comparison
 - as a historically revealing argument for writing beyond linear assumptions
 - as a sympathetic paper whose strongest insights still need more disciplined present-day framing
 
-That is what makes it a good review candidate and now a good review entry.
+That is what makes it a strong review entry.
 
 It shows that the series can do more than correct hostile or confused work.
 

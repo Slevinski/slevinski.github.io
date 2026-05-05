@@ -6,7 +6,7 @@ Repository and series-about page for the `DMS Plan` series.
 
 `DMS Plan` is an operations and workflow series for data management, workflow design, and repository delivery.
 
-It is part of Steve Slevinski's professional research-support work on the current bridge site. It is not a SignWriting theory lane.
+It is part of Steve Slevinski's professional research-support work on the current bridge site. It is not a SignWriting theory series.
 
 This series is for:
 
@@ -29,7 +29,7 @@ The full public overview now lives as a series entry:
 
 ## Series Contents
 
-- `entries/overview/` - public overview for the DMS workflow lane
+- `entries/overview/` - public overview for the DMS workflow track
 - `entries/data-management-and-sharing-plan/` - guide and slides on the path from project systems to repository delivery
 
 ## Publication And Citation Model

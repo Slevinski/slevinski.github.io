@@ -6,7 +6,7 @@ This paper asks the next research-facing question after *The Four Language Pathw
 
 > if signed language gains durable written form, what would reading mean in that system?
 
-That question matters because a research lane cannot stop at the claim that signed language can be written.
+That question matters because a research series cannot stop at the claim that signed language can be written.
 
 It has to say, more carefully, what becomes legible, what kinds of recognition problems emerge, how syntax and spatial reference might survive into text, and which questions remain open.
 
@@ -16,9 +16,9 @@ Its narrower purpose is to define the reading problem clearly enough that the re
 
 ## Terminology note
 
-This paper uses `reading pathways` in a narrower sense than the developmental pathway model.
+This paper uses *reading pathways* in a narrower sense than the developmental pathway model.
 
-*The Four Language Pathways* used `pathways` for developmental routes into language and literacy.
+*The Four Language Pathways* used *pathways* for developmental routes into language and literacy.
 
 This paper is narrower. It asks how signed text becomes readable:
 
@@ -35,7 +35,7 @@ This paper is narrower. It asks how signed text becomes readable:
 - literacy comes second
 - literacy input and literacy output pathways matter
 
-That model opens the research lane.
+That model opens the research series.
 
 The next step is to ask what the literacy layer would actually require once it exists.
 
@@ -211,7 +211,7 @@ written spoken languages often map temporal order into spatial order fairly dire
 
 That means syntax cannot be treated as an afterthought.
 
-A serious research lane has to ask:
+A serious research series has to ask:
 
 - how much structure remains sequential in reading?
 - how much structure is carried by the bounded written sign?
@@ -250,7 +250,7 @@ Some questions are about language processing.
 
 Others are about representational convention.
 
-The current research lane should make both visible.
+The current research series should make both visible.
 
 ## What the current evidence does and does not support
 
@@ -304,7 +304,7 @@ Once the reading problem is stated more clearly, the next studies become easier 
 
 These are not fantasy studies.
 
-They become realistic precisely because the platform now has:
+They become realistic because the platform has:
 
 - real texts
 - real users
@@ -313,7 +313,7 @@ They become realistic precisely because the platform now has:
 
 ## Why this paper matters
 
-This paper matters because it narrows the research lane to something more recognizable.
+This paper matters because it narrows the research series to something more recognizable.
 
 It says that the hard-science question is not:
 
@@ -344,7 +344,7 @@ That problem includes:
 
 Those questions are not yet fully answered.
 
-But they are now clear enough to define a real research program.
+But they are clear enough to define a real research program.
 
 That is the contribution of this paper.
 

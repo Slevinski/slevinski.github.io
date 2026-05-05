@@ -11,7 +11,7 @@ The expectation described in the SignWriting materials was a two-stage path:
 - first the symbol inventory
 - then an encoding that takes symbols and turns them into signs
 
-Keep that two-stage framing in view, and the later disagreement becomes much easier to understand.
+That two-stage framing makes the later disagreement easier to understand.
 
 ## The early compromise problem
 

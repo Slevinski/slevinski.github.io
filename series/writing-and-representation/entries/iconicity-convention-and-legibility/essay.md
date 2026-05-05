@@ -2,7 +2,7 @@
 
 **How motivated visual form becomes disciplined writing**
 
-This paper is a native anchor of the `Writing and Representation in Sutton SignWriting` series.
+This paper develops the legibility and convention argument in *Writing and Representation in Sutton SignWriting*.
 
 It follows *Perspective and Authored Space* and prepares the ground for *Handwriting and Spatial Script Practice*.
 
@@ -458,7 +458,7 @@ A conventional system can still have open questions:
 
 These questions should be studied rather than hidden.
 
-They belong partly in `Sutton SignWriting Language and Literacy Research`, partly in *Handwriting and Spatial Script Practice*, and partly in evidence-building around actual readers and texts.
+They belong partly in *Sutton SignWriting Language and Literacy Research*, partly in *Handwriting and Spatial Script Practice*, and partly in evidence-building around actual readers and texts.
 
 The presence of open questions does not reduce SignWriting to illustration.
 
@@ -577,7 +577,7 @@ It does not claim that the questions of handwriting, reader studies, or educatio
 
 Those questions remain important.
 
-They should be handled in the series and research lanes where they belong.
+They should be handled in the writing-systems and research series where they belong.
 
 ## Conclusion
 

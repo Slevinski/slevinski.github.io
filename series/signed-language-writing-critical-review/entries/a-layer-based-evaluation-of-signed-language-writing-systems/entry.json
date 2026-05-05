@@ -14,6 +14,80 @@
     "public_slug": "primary",
     "publication_designation": "Working Paper"
   },
+  "slides": [
+    {
+      "id": "bounded-comparison",
+      "title": "Bounded Comparison",
+      "kicker": "1",
+      "summary": "The paper applies the framework to Filhol, Grushkin, Thiessen, and Unicode SignWriting as a compact demonstration set.",
+      "bullets": [
+        "Four representative cases",
+        "Not a complete survey",
+        "A test of layer discipline",
+        "A demonstration of recurring patterns"
+      ],
+      "speech": "This paper is a bounded comparison, not a complete survey. It uses Filhol, Grushkin, Thiessen, and Unicode SignWriting to demonstrate how layer discipline clarifies signed-language writing, encoding, and standards claims.",
+      "notes": "Set the scope tightly.",
+      "image_prompts": {
+        "concrete": "Comparative review slide showing four cases: Filhol, Grushkin, Thiessen, and Unicode SignWriting inside a bounded demonstration set",
+        "abstract": "Four reviewed cases arranged within a clear comparison boundary"
+      }
+    },
+    {
+      "id": "recurring-pattern",
+      "title": "Recurring Pattern",
+      "kicker": "2",
+      "summary": "Each case sees a real part of the problem, but often shifts that insight onto the wrong layer or treats it as the whole answer.",
+      "bullets": [
+        "Filhol sees queryable representation",
+        "Grushkin sees the need for writing",
+        "Thiessen sees structure and computation",
+        "Unicode solves part of the character layer"
+      ],
+      "speech": "The recurring pattern is that each work sees something real. Filhol sees queryability. Grushkin sees the need for writing. Thiessen sees structure and computation. Unicode solves part of the character layer. The trouble begins when a partial insight is treated as the whole answer.",
+      "notes": "Credit each source first.",
+      "image_prompts": {
+        "concrete": "Pattern slide showing each reviewed source identifying a real problem layer, then sometimes treating that layer as the whole answer",
+        "abstract": "Partial insights moving through layers and revealing a recurring review pattern"
+      }
+    },
+    {
+      "id": "cross-case-result",
+      "title": "Cross-Case Result",
+      "kicker": "3",
+      "summary": "The comparison shows why semantic representation, literacy design, symbol analysis, character standardization, text models, and rendering must remain distinct.",
+      "bullets": [
+        "Semantic representation is one layer",
+        "Literacy design is one layer",
+        "Symbol analysis is one layer",
+        "Text model and rendering are separate layers"
+      ],
+      "speech": "The cross-case result is methodological. Signed writing analysis becomes clearer when semantic representation, literacy design, symbol analysis, character standardization, writing systems, text models, and rendering remain distinct.",
+      "notes": "This slide turns comparison into method.",
+      "image_prompts": {
+        "concrete": "Cross-case result slide separating semantic representation, literacy design, symbol analysis, character standardization, text models, and rendering",
+        "abstract": "Many signed-writing layers laid out as distinct but connected review results"
+      }
+    },
+    {
+      "id": "why-it-matters",
+      "title": "Why It Matters",
+      "kicker": "4",
+      "summary": "Layer discipline preserves valid insights while preventing incomplete solutions from becoming field-wide conclusions.",
+      "bullets": [
+        "Avoid false dismissals",
+        "Avoid overclaiming partial solutions",
+        "Preserve useful work",
+        "Build better research and infrastructure"
+      ],
+      "speech": "The conclusion is that the field needs layer discipline. Without it, useful insights are either dismissed too quickly or overextended into complete solutions. With it, critique can preserve what is valid and build better infrastructure.",
+      "notes": "Close with constructive value.",
+      "image_prompts": {
+        "concrete": "Constructive review slide showing layer discipline preventing false dismissal and overclaiming while preserving useful work",
+        "abstract": "Layer discipline as a stabilizing bridge between critique and construction"
+      }
+    }
+  ],
   "companion_documents": [
     {
       "file": "comparative-matrix.md",

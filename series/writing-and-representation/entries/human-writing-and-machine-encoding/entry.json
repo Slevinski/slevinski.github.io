@@ -3,7 +3,7 @@
   "number": 5,
   "title": "Human Writing and Machine Encoding",
   "subtitle": "Authorship, serialization, and the layers of signed text",
-  "summary": "Native anchor draft for the Writing and Representation in Sutton SignWriting series on the distinction between human signed writing and machine encoding.",
+  "summary": "Writing-systems paper for the Writing and Representation in Sutton SignWriting series on the distinction between human signed writing and machine encoding.",
   "synopsis": "This entry argues that SignWriting is first a human writing system and only secondarily a machine-encoded text format. It distinguishes written signs, symbol inventories, signboxes, encodings, rendering, styling, layout, search, and analysis; uses an FSW/SWU example to show the layer relationship; and explains why serialization does not make plane-based writing into line-based writing.",
   "essay": "essay.md",
   "primary_artifact": {
@@ -12,5 +12,97 @@
     "public_label": "Paper",
     "public_slug": "primary",
     "publication_designation": "Working Paper"
-  }
+  },
+  "slides": [
+    {
+      "id": "human-writing-first",
+      "title": "Human Writing First",
+      "kicker": "1",
+      "summary": "SignWriting is first a human writing system and only secondarily a machine-encoded text format.",
+      "image_prompts": {
+        "concrete": "Layered slide showing a human-authored SignWriting sign above machine encodings, rendering, search, and analysis layers",
+        "abstract": "A written sign preserved through technical layers without being replaced by them"
+      },
+      "bullets": [
+        "The written sign comes first",
+        "Encoding serves the writing",
+        "Rendering is downstream",
+        "Search and analysis are later layers"
+      ],
+      "speech": "This paper begins with a simple ordering principle: SignWriting is first a human writing system and only secondarily a machine-encoded text format. Encoding should preserve authored writing, not replace it.",
+      "notes": "This is the paper's central correction."
+    },
+    {
+      "id": "serialization-not-linearization",
+      "title": "Serialization Is Not Linearization",
+      "kicker": "2",
+      "summary": "A spatial written sign can be serialized for machines without becoming line-based writing.",
+      "image_prompts": {
+        "concrete": "Technical concept slide showing a spatial signbox serialized into text while preserving coordinates and symbol identity",
+        "abstract": "A plane-based sign passing through a sequence without flattening"
+      },
+      "bullets": [
+        "Machines need storage order",
+        "Storage order is not reading order",
+        "Plane-based writing can be serialized",
+        "The authored spatial object must remain recoverable"
+      ],
+      "speech": "The key distinction is serialization versus linearization. Machines need storage order. That does not mean the writing system itself has become line-based. A good encoding preserves the authored spatial object.",
+      "notes": "This slide is essential for standards and software readers."
+    },
+    {
+      "id": "layers-of-signed-text",
+      "title": "Layers Of Signed Text",
+      "kicker": "3",
+      "summary": "The paper separates human written signs, symbol inventory, signbox, encoding, rendering, styling, layout, search, and analysis.",
+      "image_prompts": {
+        "concrete": "Layer model slide for signed text: human written sign, symbol inventory, signbox, encoding, rendering, styling, layout, search, analysis",
+        "abstract": "A stack of signed-text layers around a stable written object"
+      },
+      "bullets": [
+        "Symbol inventory is not the whole system",
+        "Encoding is not the whole system",
+        "Rendering is not the whole system",
+        "Each layer answers a different question"
+      ],
+      "speech": "The paper's layer model keeps the system readable. Symbol inventory, signbox, encoding, rendering, styling, layout, search, and analysis all matter, but none of them alone is the whole writing system.",
+      "notes": "This slide prevents layer collapse."
+    },
+    {
+      "id": "formal-signwriting-solution",
+      "title": "Formal SignWriting As Worked Solution",
+      "kicker": "4",
+      "summary": "Formal SignWriting shows how authored plane-based signs can remain processable as text without reducing them to images or lines.",
+      "image_prompts": {
+        "concrete": "Worked solution slide showing FSW and SWU preserving the same authored signbox for rendering, search, and conversion",
+        "abstract": "Two encoding paths preserving one authored spatial sign"
+      },
+      "bullets": [
+        "Preserves symbol identity",
+        "Preserves sign boundaries",
+        "Preserves spatial placement",
+        "Supports rendering, search, and conversion"
+      ],
+      "speech": "Formal SignWriting is the worked solution in this platform. FSW and SWU show how authored plane-based signs can remain processable as text while preserving symbol identity, sign boundaries, and spatial placement.",
+      "notes": "Close with the bridge into the Formal SignWriting series."
+    },
+    {
+      "id": "common-layer-mistakes",
+      "title": "Common Layer Mistakes",
+      "summary": "The paper warns against treating symbols alone as writing, rendered images as text, fonts as the writing system, or encoding as the author.",
+      "image_prompts": {
+        "concrete": "Four-mistake technical writing slide separating symbols alone, rendered images, fonts, and encoding from the human-authored written sign",
+        "abstract": "Four layer mistakes arranged around a stable authored written sign"
+      },
+      "bullets": [
+        "Symbols alone are not the whole writing system",
+        "Rendered images are not text by themselves",
+        "Fonts are not the writing system",
+        "Encoding is not the author"
+      ],
+      "speech": "The layer mistakes are recurring. Symbols alone are not the whole writing system. Rendered images are not text by themselves. Fonts are not the writing system. Encoding is not the author. A good technical model preserves human-authored writing instead of replacing it with one downstream layer.",
+      "notes": "This is a useful citation slide for standards and software readers. It makes the paper practical.",
+      "kicker": "5"
+    }
+  ]
 }

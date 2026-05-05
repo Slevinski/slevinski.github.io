@@ -12,5 +12,79 @@
     "public_label": "Paper",
     "public_slug": "primary",
     "publication_designation": "Working Paper"
-  }
+  },
+  "slides": [
+    {
+      "id": "point-of-construction",
+      "title": "Point Of Construction",
+      "kicker": "1",
+      "summary": "The review series should lead from diagnosis toward infrastructure priorities for signed-language writing.",
+      "bullets": [
+        "Critique is not the endpoint",
+        "The next work is constructive",
+        "Priorities should be practical",
+        "Open questions remain visible"
+      ],
+      "speech": "This synthesis turns the review series from diagnosis toward construction. The goal is not only to say where prior work falls short, but to name practical priorities for evidence, corpora, tooling, standards, education, and collaboration.",
+      "notes": "Open as forward-looking synthesis.",
+      "image_prompts": {
+        "concrete": "Synthesis slide moving from critical diagnosis to practical infrastructure priorities for signed-language writing",
+        "abstract": "A review path turning from critique toward construction"
+      }
+    },
+    {
+      "id": "what-review-clarified",
+      "title": "What Review Clarified",
+      "kicker": "2",
+      "summary": "The review series clarified that signed writing must be judged as writing and that durable text is the infrastructure threshold.",
+      "bullets": [
+        "Judge signed writing as writing",
+        "Durable text is the threshold",
+        "SignWriting has the strongest documented full path",
+        "Alternative systems still matter"
+      ],
+      "speech": "The review series clarifies several things. Signed writing should be judged as writing, not only notation. Durable text is the real infrastructure threshold. SignWriting currently provides the strongest documented full path, while alternative systems still matter.",
+      "notes": "This slide summarizes the series without triumphalism.",
+      "image_prompts": {
+        "concrete": "Review synthesis slide showing durable text, writing as writing, SignWriting full-path strengths, and alternative systems as separate clarified findings",
+        "abstract": "Lessons from review arranged into a constructive map"
+      }
+    },
+    {
+      "id": "construction-priorities",
+      "title": "Construction Priorities",
+      "kicker": "3",
+      "summary": "The next priorities are evidence, corpora, tooling, interoperability, education, handwriting, standards, and collaboration.",
+      "bullets": [
+        "Evidence beyond plausibility",
+        "Corpora and reusable signed text",
+        "Tooling and interoperability",
+        "Education, handwriting, standards, collaboration"
+      ],
+      "speech": "The constructive priorities are practical: evidence beyond plausibility, corpora and reusable signed text, tooling that lowers the cost of writing, interoperability, education, handwriting and fluency, standards engagement, and broader collaboration.",
+      "notes": "Keep this as a usable agenda.",
+      "image_prompts": {
+        "concrete": "Agenda slide listing evidence, corpora, tooling, interoperability, education, handwriting, standards, and collaboration as construction priorities",
+        "abstract": "Practical infrastructure priorities radiating from durable signed text"
+      }
+    },
+    {
+      "id": "constructive-tone",
+      "title": "Constructive Tone",
+      "kicker": "4",
+      "summary": "Construction should sound disciplined, collaborative, and evidence-building rather than dismissive or prematurely settled.",
+      "bullets": [
+        "Disciplined rather than dismissive",
+        "Collaborative rather than isolated",
+        "Evidence-building rather than overclaiming",
+        "Infrastructure-focused rather than purely argumentative"
+      ],
+      "speech": "The final message is about tone and direction. Construction should sound disciplined, collaborative, evidence-building, and infrastructure-focused. The field's open questions are empirical and infrastructural, not reasons to stop.",
+      "notes": "Close the review series with momentum.",
+      "image_prompts": {
+        "concrete": "Closing synthesis slide showing disciplined, collaborative, evidence-building, infrastructure-focused work as the review series outcome",
+        "abstract": "A careful critical tone becoming constructive momentum"
+      }
+    }
+  ]
 }

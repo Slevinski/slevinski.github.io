@@ -1,24 +1,27 @@
 # Sutton SignWriting Evidence and Adoption
 
-Repository and series-about page for the `Sutton SignWriting Evidence and Adoption` series.
+*Evidence briefs on documented use, institutional proof points, and adoption limits*
 
-## What This Series Is
+This repository contains the empirical series of the Sutton SignWriting platform. It documents communities, institutions, proof points, and evidence boundaries without turning documented use into sweeping outcome claims.
 
-`Sutton SignWriting Evidence and Adoption` is the empirical lane of the Sutton SignWriting platform.
-
-It answers the direct skeptical question:
+The direct skeptical question is:
 
 > is this real?
-
-The series documents communities, institutions, proof points, and evidence boundaries without collapsing documented use into sweeping outcome claims.
-
-It carries the evidence-facing material that should not be mixed into conceptual or technical documents.
 
 The cleaner empirical question is:
 
 > what is already visible, documented, and strong enough to build from?
 
-This series is for:
+## Repository Details
+
+- Repository: `sutton-signwriting/evidence-and-adoption`
+- Living site: `https://steveslevinski.me/#series/evidence-and-adoption`
+- Version: `v1.0.0`
+- Publication year: `2026`
+- License: `CC BY 4.0`
+- Series DOI: `https://doi.org/10.5281/zenodo.20042446`
+
+## Who This Repository Is For
 
 - skeptical scientists
 - institutional readers
@@ -26,58 +29,45 @@ This series is for:
 - journalists
 - collaborators who need to know where actual use is strongest
 
-## Public Reading Path
-
-Public readers can take either a synthesis-first or evidence-first path.
+## How To Read This Series
 
 The due-diligence path begins with the bounded conclusion:
 
-- `Sutton SignWriting Evidence and Adoption: Overview`
-- `Sutton SignWriting Evidence and Adoption: What the Current Evidence Base Shows`
-- `Sutton SignWriting Evidence and Adoption: Brazil as the Empirical Center of SignWriting`
-- `Sutton SignWriting Evidence and Adoption: South Korea as a Current Institutional Proof Point`
-- `Sutton SignWriting Evidence and Adoption: Evidence Boundaries and Adoption Limits`
+1. [Sutton SignWriting Evidence and Adoption Overview](entries/overview/essay.md)
+2. [What the Current Evidence Base Shows](entries/what-the-current-evidence-base-shows/essay.md)
+3. [Brazil as the Empirical Center of SignWriting](entries/brazil-as-the-empirical-center-of-signwriting/essay.md)
+4. [South Korea as a Current Institutional Proof Point](entries/south-korea-as-a-current-institutional-proof-point/essay.md)
+5. [Evidence Boundaries and Adoption Limits](entries/evidence-boundaries-and-adoption-limits/essay.md)
 
 The evidence-first path begins with the anchor briefs:
 
-- `Sutton SignWriting Evidence and Adoption: Overview`
-- `Sutton SignWriting Evidence and Adoption: Brazil as the Empirical Center of SignWriting`
-- `Sutton SignWriting Evidence and Adoption: South Korea as a Current Institutional Proof Point`
-- `Sutton SignWriting Evidence and Adoption: Evidence Boundaries and Adoption Limits`
-- `Sutton SignWriting Evidence and Adoption: What the Current Evidence Base Shows`
+1. [Sutton SignWriting Evidence and Adoption Overview](entries/overview/essay.md)
+2. [Brazil as the Empirical Center of SignWriting](entries/brazil-as-the-empirical-center-of-signwriting/essay.md)
+3. [South Korea as a Current Institutional Proof Point](entries/south-korea-as-a-current-institutional-proof-point/essay.md)
+4. [Evidence Boundaries and Adoption Limits](entries/evidence-boundaries-and-adoption-limits/essay.md)
+5. [What the Current Evidence Base Shows](entries/what-the-current-evidence-base-shows/essay.md)
 
-The full public overview now lives as a series entry:
+## Contents
 
-- [entries/overview/essay.md](./entries/overview/essay.md)
+- [Sutton SignWriting Evidence and Adoption Overview](entries/overview/essay.md) - public overview for the empirical series
+- [What the Current Evidence Base Shows](entries/what-the-current-evidence-base-shows/essay.md) - synthesis brief on strong evidence, partial evidence, and open questions
+- [Brazil as the Empirical Center of SignWriting](entries/brazil-as-the-empirical-center-of-signwriting/essay.md) - strongest documented empirical center
+- [South Korea as a Current Institutional Proof Point](entries/south-korea-as-a-current-institutional-proof-point/essay.md) - public institutional proof point connected to national dictionary infrastructure
+- [Evidence Boundaries and Adoption Limits](entries/evidence-boundaries-and-adoption-limits/essay.md) - evidence boundaries, adoption limits, and negative-case documentation needs
+- [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
-## Series Contents
+## Citation
 
-- `entries/overview/` - public overview for the empirical lane
-- `entries/brazil-as-the-empirical-center-of-signwriting/` - strongest documented empirical center
-- `entries/south-korea-as-a-current-institutional-proof-point/` - current official institutional proof point
-- `entries/evidence-boundaries-and-adoption-limits/` - evidence boundaries, adoption limits, and negative-case documentation needs
-- `entries/what-the-current-evidence-base-shows/` - synthesis brief on current evidence and limits
-
-## Publication And Citation Model
-
-Publication metadata, DOI posture, release files, and citation stubs live in [publishing.md](./publishing.md).
-
-This series should keep the difference between feasibility, documented use, adoption density, and outcome evidence explicit.
-
-## Source Of Truth
-
-Edit this series in `docs/series/evidence-and-adoption/`.
-
-The public site mirror under `apps/steveslevinski-me/public/series/evidence-and-adoption/` is generated by:
-
-```bash
-node apps/steveslevinski-me/scripts/sync-docs.mjs
+```text
+Slevinski, S. (2026). Sutton SignWriting Evidence and Adoption (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20042446
 ```
 
-Do not hand-edit the generated mirror unless repairing a sync problem.
+Use the series DOI when citing the evidence series as a whole. Use an artifact DOI when citing a specific brief that has its own record.
 
-## Related Series
+## Platform Context
 
-- `Sutton SignWriting Foundations` explains why signed-language writing matters.
-- `Sutton SignWriting Language and Literacy Research` defines the research questions that adoption evidence can support.
-- `Sutton SignWriting Infrastructure and Program` explains how real use becomes durable support structure.
+This repository is one of eight series in the Sutton SignWriting platform release. It keeps the difference between feasibility, documented use, adoption density, institutional visibility, and outcome evidence explicit.
+
+## License
+
+Unless otherwise noted, the contents are released under the Creative Commons Attribution 4.0 International License (`CC BY 4.0`).

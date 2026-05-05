@@ -12,5 +12,97 @@
     "public_label": "Paper",
     "public_slug": "primary",
     "publication_designation": "Working Paper"
-  }
+  },
+  "slides": [
+    {
+      "id": "writing-in-hands",
+      "title": "Writing In Hands",
+      "kicker": "1",
+      "summary": "A writing system is not only a formal model or font-rendered output; it also becomes writing through ordinary material practice.",
+      "image_prompts": {
+        "concrete": "Scholarly slide showing handwritten SignWriting notes, block forms, shorthand marks, correction, and reusable written practice",
+        "abstract": "A formal sign becoming ordinary handwritten practice"
+      },
+      "bullets": [
+        "Handwriting is not decorative",
+        "Material practice matters",
+        "Learner forms and correction matter",
+        "Ordinary reuse makes writing visible"
+      ],
+      "speech": "This paper argues that writing is not only a formal model, font output, or machine-readable stream. A writing system also becomes real through handwriting, abbreviation, learner forms, correction, reuse, and material habits.",
+      "notes": "Open by grounding theory in practice."
+    },
+    {
+      "id": "block-shorthand-cursive",
+      "title": "Block, Shorthand, Cursive",
+      "kicker": "2",
+      "summary": "Block printing, shorthand, and cursive traditions are important but underdocumented evidence for spatial script practice.",
+      "image_prompts": {
+        "concrete": "Comparison slide showing block SignWriting, shorthand forms, cursive movement, and printed forms as related handwriting practices",
+        "abstract": "Three handwriting styles showing different degrees of compression and fluency"
+      },
+      "bullets": [
+        "Block forms support clarity",
+        "Shorthand supports speed",
+        "Cursive forms show fluency questions",
+        "All need better documentation"
+      ],
+      "speech": "The paper treats block printing, shorthand, and cursive forms as important evidence. They show that SignWriting has material practice, but that practice is still underdocumented and needs more careful study.",
+      "notes": "Do not overclaim the handwriting record."
+    },
+    {
+      "id": "variation-and-legibility",
+      "title": "Variation And Legibility",
+      "kicker": "3",
+      "summary": "Handwriting introduces variation, but variation is normal in writing systems when legibility and correction practices are stable enough.",
+      "image_prompts": {
+        "concrete": "Writing systems slide showing multiple handwritten variants of a sign converging on legible shared structure",
+        "abstract": "Variable handwritten marks held together by readable convention"
+      },
+      "bullets": [
+        "Variation is not failure",
+        "Legibility depends on shared distinctions",
+        "Correction practices matter",
+        "Material habits deserve research"
+      ],
+      "speech": "Variation is not automatically a weakness. All handwriting varies. The question is whether writers and readers share enough distinctions for legibility, correction, teaching, and reuse.",
+      "notes": "This keeps handwriting inside the writing-systems argument."
+    },
+    {
+      "id": "research-agenda",
+      "title": "Research Agenda",
+      "kicker": "4",
+      "summary": "The handwriting record should become more visible through documentation, examples, reader response, and study of ordinary practice.",
+      "image_prompts": {
+        "concrete": "Research agenda slide for SignWriting handwriting with documentation, classroom practice, personal notes, reader response, and corpus examples",
+        "abstract": "Handwritten signs becoming documented research material"
+      },
+      "bullets": [
+        "Collect examples",
+        "Document teaching and correction",
+        "Study reader response",
+        "Connect practice to Formal SignWriting"
+      ],
+      "speech": "The conclusion is a research agenda. SignWriting has a strong technical record. The handwriting record needs to become more visible through examples, teaching documentation, reader response work, and connections to the formal model.",
+      "notes": "Close as an invitation to documentation and research."
+    },
+    {
+      "id": "known-and-open",
+      "title": "Known And Open",
+      "summary": "The paper treats handwriting as real writing practice while keeping the scale, variation, reader response, and corpus questions open.",
+      "image_prompts": {
+        "concrete": "Research boundary slide showing known SignWriting handwriting practice on one side and open questions about scale, variation, reader response, teaching, and corpora on the other",
+        "abstract": "Handwritten spatial signs becoming a documented but still open research field"
+      },
+      "bullets": [
+        "Material practice is real",
+        "Scale is underdocumented",
+        "Variation needs reader study",
+        "Teaching and corpora need collection"
+      ],
+      "speech": "The paper should land with both confidence and restraint. Handwriting and material practice are real parts of writing. At the same time, the scale of practice, the range of variation, reader response, teaching habits, and corpus evidence still need better documentation.",
+      "notes": "This is the boundary version of the research agenda. It prevents the handwriting claim from sounding more complete than the evidence.",
+      "kicker": "5"
+    }
+  ]
 }

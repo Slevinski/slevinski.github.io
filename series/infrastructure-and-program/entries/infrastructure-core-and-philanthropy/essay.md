@@ -1,16 +1,16 @@
 # Infrastructure Core and Philanthropy
 
-**A support model for staffing, translation, coordination, and continuity**
+**A stewardship model for staffing, translation, coordination, and continuity**
 
-Sutton SignWriting needs grants.
+Sutton SignWriting requires grant-ready research pathways.
 
-It also needs continuity support that grants alone often do not provide.
+It also requires continuity capacity that grants alone often do not provide.
 
 That is where an infrastructure core and philanthropy become useful.
 
 The core idea is simple:
 
-> create a small, focused support structure around existing SignWriting standards, software, data, public resources, translation needs, and international coordination
+> create a small, focused stewardship structure around existing SignWriting standards, software, data, public resources, translation needs, and international coordination
 
 This is not a proposal to invent a new system.
 
@@ -28,16 +28,16 @@ The current SignWriting ecosystem includes real assets:
 - written materials
 - international user relationships
 
-The problem is that these assets remain too dependent on informal maintenance and limited support.
+The problem is that these assets remain too dependent on informal maintenance and limited continuity capacity.
 
-An infrastructure core would make the support function explicit.
+An infrastructure core would make the stewardship function explicit.
 
 It would give the work a place to hold:
 
 - technical stewardship
 - documentation
 - data preservation
-- partner support
+- partner coordination
 - translation and access
 - research readiness
 - continuity planning
@@ -49,14 +49,14 @@ A small infrastructure core could support:
 | Function | Practical work |
 | --- | --- |
 | Standards maintenance | Keep ISWA, FSW, SWU, fonts, and related documentation coherent |
-| Software support | Maintain libraries, tools, services, and Platform V3 development |
+| Software stewardship | Maintain libraries, tools, services, and Platform V3 development |
 | Data stewardship | Preserve dictionaries, corpora, metadata, and migration pathways |
 | Translation and access | Identify high-value works, secure permissions, and support reviewed translations |
 | Global coordination | Support partners, local liaisons, statements of use, and follow-up |
 | Research integration | Help convert infrastructure into usable study materials, corpora, and grants |
-| Succession support | Reduce single-maintainer dependency through documentation and shared capacity |
+| Succession planning | Reduce single-maintainer dependency through documentation and shared capacity |
 
-This is a high-leverage support layer.
+This is a high-leverage stewardship layer.
 
 It is intentionally smaller than a large center.
 
@@ -106,18 +106,18 @@ That does not make philanthropy a replacement for grants.
 
 It makes philanthropy a stabilizing partner.
 
-## Gift and support scenarios
+## Gift and continuity scenarios
 
 Exact budgets should be developed with a host institution or fiscal sponsor.
 
-Still, the support tiers can be described generically.
+Still, the continuity tiers can be described generically.
 
 | Tier | What it supports | Result |
 | --- | --- | --- |
-| Continuity support | Hosting, backups, documentation, domain continuity | Reduces immediate collapse risk |
-| Stabilization support | Part-time technical help, data preservation, platform maintenance | Makes the infrastructure easier to sustain |
-| Program support | Core staff time, translation/access work, partner coordination | Turns stewardship into a visible program |
-| Growth support | Grant matching, student/research assistant support, Platform V3 acceleration | Makes broader research and collaboration more realistic |
+| Continuity capacity | Hosting, backups, documentation, domain continuity | Reduces immediate collapse risk |
+| Stabilization capacity | Part-time technical help, data preservation, platform maintenance | Makes the infrastructure easier to sustain |
+| Program capacity | Core staff time, translation/access work, partner coordination | Turns stewardship into a visible program |
+| Growth capacity | Grant matching, student/research assistant support, Platform V3 acceleration | Makes broader research and collaboration more realistic |
 
 A large philanthropic gift could combine several tiers.
 
@@ -165,16 +165,16 @@ It should not promise:
 
 Its first promise is narrower:
 
-> make the existing infrastructure less fragile and more usable for research, education, preservation, and international collaboration
+> make the existing infrastructure more stable and more usable for research, education, preservation, and international collaboration
 
 That is enough.
 
 ## Bottom line
 
-Sutton SignWriting needs research funding, but it also needs the support layer that makes research funding usable.
+Sutton SignWriting requires research funding, and it also requires the stewardship layer that makes research funding usable.
 
 An infrastructure core gives that layer a name.
 
-Philanthropy gives it one realistic support path.
+Philanthropy gives it one realistic continuity path.
 
-Together, they can turn fragile continuity into a stronger base for standards, software, data, translation, access, and international collaboration.
+Together, they can turn thin continuity into a stronger base for standards, software, data, translation, access, and international collaboration.

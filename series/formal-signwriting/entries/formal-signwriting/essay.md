@@ -4,7 +4,7 @@
 
 Formal SignWriting is a technical model for sign text that can be stored, searched, checked, and processed by software without losing the written form.
 
-This paper assumes the conceptual claim developed in `Sutton SignWriting Foundations: The Shape of Writing` and `Writing and Representation in Sutton SignWriting: Perspective and Authored Space`: signed writing can preserve authored spatial composition without imitating the line. Formal SignWriting gives that plane-based writing claim its technical form.
+This paper assumes the conceptual claim developed in *Sutton SignWriting Foundations: The Shape of Writing* and *Writing and Representation in Sutton SignWriting: Perspective and Authored Space*: signed writing can preserve authored spatial composition without imitating the line. Formal SignWriting gives that plane-based writing claim its technical form.
 
 Its central idea is simple:
 
@@ -19,7 +19,7 @@ That word therefore contains:
 
 The opening task is to define the core model clearly enough that every later layer stays legible.
 
-The implementation history behind this model is documented in `From Experimental Encodings to Formal SignWriting`, now placed with `Formal SignWriting in Practice` because the encoding history is a practice and migration story.
+The implementation history behind this model is documented in *From Experimental Encodings to Formal SignWriting*, a companion to *Formal SignWriting in Practice*. The encoding history is a practice and migration story.
 
 ## Core claim
 

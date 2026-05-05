@@ -2,9 +2,9 @@
 
 **Brain networks, pathway expansion, literacy, and the case for SignWriting infrastructure**
 
-These notes carry the heavier research model, comparative cases, and evidence questions behind the `Language Without Sound` argument.
+These notes carry the heavier research model, comparative cases, and evidence questions behind the *Language Without Sound* argument.
 
-They support the broader `Research Program for Literacy Without Sound` by gathering the conceptual evidence base behind language pathways, literacy pathways, signed-language writing, and research infrastructure.
+They support the broader *Research Program for Literacy Without Sound* by gathering the conceptual evidence base behind language pathways, literacy pathways, signed-language writing, and research infrastructure.
 
 They identify:
 
@@ -16,7 +16,7 @@ They identify:
 
 They also gather the core references behind the argument in one place.
 
-Within the current platform structure, they function as research-program notes. They remain connected to `Sutton SignWriting Foundations: Language Without Sound`, but they are intentionally more detailed than a Sutton SignWriting Foundations companion note and should not be treated as a complete evidence review of signed-language literacy outcomes.
+They function as research-program notes. They remain connected to *Sutton SignWriting Foundations: Language Without Sound*, but they are intentionally more detailed than a foundations companion note and should not be treated as a complete evidence review of signed-language literacy outcomes.
 
 This is an evidence register and model notebook, not a single linear article.
 
@@ -236,7 +236,7 @@ This is one of the strongest parts of the case for SignWriting as infrastructure
 
 The best-supported current claims are infrastructural rather than population-scale educational.
 
-SignWriting already meets many of the criteria of infrastructure, even without formal institutional support.
+SignWriting already meets many of the criteria of infrastructure, even without formal institutional stewardship.
 
 SignWriting already provides, or has already supported:
 
@@ -462,7 +462,7 @@ Its strengths are clear:
 
 - access to established writing systems
 - integration into education, publishing, and employment
-- strong institutional support
+- strong institutional stewardship
 
 Its limitation is structural:
 
@@ -821,7 +821,7 @@ This reference set is strong enough to support:
 
 - PI conversations
 - collaborator outreach
-- scientific framing for **Language Without Sound**
+- scientific argument for **Language Without Sound**
 - grant-aligned discussion of SignWriting as shared research infrastructure
 
 For formal publication or submission, a second verification pass would still be worthwhile, especially for dissertations and archive-cited technical works whose metadata may need local confirmation.

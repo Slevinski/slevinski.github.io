@@ -13,5 +13,97 @@
     "public_label": "Framework",
     "public_slug": "primary",
     "publication_designation": "Working Framework"
-  }
+  },
+  "slides": [
+    {
+      "id": "why-a-framework",
+      "title": "Why A Framework",
+      "kicker": "1",
+      "summary": "Signed-language writing proposals are often misread when writing, notation, encoding, rendering, evidence, and infrastructure are collapsed.",
+      "bullets": [
+        "Separate claims before judging them",
+        "Preserve useful insights",
+        "Identify level confusion",
+        "Make critique reusable"
+      ],
+      "speech": "This framework exists because signed-language writing proposals often mix layers. A source may be useful about notation, weak about writing, strong about encoding, or incomplete about infrastructure. The framework separates those questions before judging the work.",
+      "notes": "Open with method, not opposition.",
+      "image_prompts": {
+        "concrete": "Methodology slide showing signed-language writing claims separated into writing, notation, encoding, rendering, evidence, and infrastructure layers",
+        "abstract": "Overlapping claims sorted into clear transparent layers"
+      }
+    },
+    {
+      "id": "four-distinctions",
+      "title": "Four Distinctions",
+      "kicker": "2",
+      "summary": "The method depends on separating writing from encoding, symbols from written signs, serialization from linear writing, and notation from writing.",
+      "bullets": [
+        "Writing system, encoding, and rendering differ",
+        "A symbol is not a written sign",
+        "Serialization is not linearization",
+        "Notation, writing, and semantic representation differ"
+      ],
+      "speech": "Four distinctions make the framework necessary. Writing, encoding, and rendering are not the same. A symbol is not the same as a written sign. Serialization is not evidence that writing is linear. Notation, writing, semantic representation, and software representation are different targets.",
+      "notes": "This is the core teaching slide.",
+      "image_prompts": {
+        "concrete": "Four-panel academic slide separating writing from encoding, symbols from written signs, serialization from linear writing, and notation from writing",
+        "abstract": "Four precise distinctions opening a clean review framework"
+      }
+    },
+    {
+      "id": "evaluation-layers",
+      "title": "Evaluation Layers",
+      "kicker": "3",
+      "summary": "The framework evaluates layer identification, representation model, structural unit analysis, spatial organization, text model, human-machine layers, evidence, and claims.",
+      "bullets": [
+        "Identify the layer being solved",
+        "Ask what structure is represented",
+        "Locate the primary written unit",
+        "Compare claims with evidence"
+      ],
+      "speech": "The framework asks recurring questions. What layer is the source solving? What representation model does it assume? What is the primary written unit? How does it treat space, text, machines, evidence, and institutional requirements?",
+      "notes": "Keep the list usable, not exhaustive.",
+      "image_prompts": {
+        "concrete": "Layered evaluation checklist for signed-language writing systems, with rows for representation, structural unit, spatial organization, text model, evidence, and claims",
+        "abstract": "A vertical stack of review layers forming a reusable analytic instrument"
+      }
+    },
+    {
+      "id": "output-classification",
+      "title": "Output Classification",
+      "kicker": "4",
+      "summary": "The framework classifies claims as correct and useful, partially correct, misleading, or fundamentally misframed.",
+      "bullets": [
+        "Correct and useful",
+        "Partially correct",
+        "Misleading",
+        "Fundamentally misframed"
+      ],
+      "speech": "The framework also needs a way to classify outputs. Some claims are correct and useful. Some are partially correct. Some are misleading because they move a valid insight to the wrong layer. Some are fundamentally misframed. The classification keeps critique from becoming all-or-nothing.",
+      "notes": "This slide makes the method more usable. It gives readers a vocabulary for judgment without flattening every reviewed source into right or wrong.",
+      "image_prompts": {
+        "concrete": "Four-category review classification slide: correct and useful, partially correct, misleading, and fundamentally misframed, shown as a scholarly decision tree",
+        "abstract": "A careful evaluation rubric sorting claims by usefulness and fit"
+      }
+    },
+    {
+      "id": "final-principle",
+      "title": "Final Principle",
+      "kicker": "5",
+      "summary": "The goal is constructive critique: preserve what each source sees clearly while refusing to let one layer become the whole answer.",
+      "bullets": [
+        "Credit real strengths",
+        "Name the limits",
+        "Avoid all-or-nothing judgments",
+        "Use critique to build better infrastructure"
+      ],
+      "speech": "The final principle is constructive. The review should preserve what each source sees clearly while refusing to let one layer become the whole answer. That is how critique becomes useful for future writing systems, tools, standards, and research.",
+      "notes": "Close with constructive purpose.",
+      "image_prompts": {
+        "concrete": "Constructive critique slide showing useful source insights preserved while overextended claims are bounded by layer discipline",
+        "abstract": "A review frame preserving valid insights while preventing one layer from becoming the whole answer"
+      }
+    }
+  ]
 }

@@ -2,9 +2,9 @@
   "slug": "infrastructure-core-and-philanthropy",
   "number": 6,
   "title": "Infrastructure Core and Philanthropy",
-  "subtitle": "A support model for staffing, translation, coordination, and continuity",
+  "subtitle": "A stewardship model for staffing, translation, coordination, and continuity",
   "summary": "A generalized public entry describing how a focused SignWriting infrastructure core and philanthropic support could stabilize existing tools, standards, data, and international access work.",
-  "synopsis": "Grants are essential for research, but they often leave continuity, staffing, translation, and infrastructure follow-through underfunded. This entry generalizes the infrastructure-core idea: a small focused support unit for standards, software, data, translation, access, and coordination, with philanthropy treated as a bridge that complements grants rather than replacing them.",
+  "synopsis": "Grants are essential for research, but they often leave continuity, staffing, translation, and infrastructure follow-through underfunded. This entry generalizes the infrastructure-core idea: a small focused stewardship unit for standards, software, data, translation, access, and coordination, with philanthropy treated as a bridge that complements grants rather than replacing them.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -12,5 +12,79 @@
     "public_label": "Brief",
     "public_slug": "primary",
     "publication_designation": "Program Brief"
-  }
+  },
+  "slides": [
+    {
+      "id": "why-a-core",
+      "title": "Why A Core",
+      "kicker": "1",
+      "summary": "A small infrastructure core would make standards, software, data, translation, access, and coordination more stable.",
+      "image_prompts": {
+        "concrete": "Program brief slide showing a small infrastructure core coordinating standards, software, data, translation, access, and partners",
+        "abstract": "A compact stewardship core stabilizing multiple infrastructure functions"
+      },
+      "bullets": [
+        "Standards follow-through",
+        "Software and data continuity",
+        "Translation and access",
+        "Partner coordination"
+      ],
+      "speech": "The infrastructure-core idea is modest. A small focused unit could make standards, software, data, translation, access, and partner coordination more stable without pretending to solve every research or adoption question.",
+      "notes": "Keep the model small and credible."
+    },
+    {
+      "id": "what-the-core-does",
+      "title": "What The Core Does",
+      "kicker": "2",
+      "summary": "The core handles functions that grants often depend on but do not reliably fund.",
+      "image_prompts": {
+        "concrete": "Function slide showing grant-funded research depending on maintenance, documentation, translation, coordination, and reusable assets",
+        "abstract": "Research grants resting on a practical continuity layer"
+      },
+      "bullets": [
+        "Maintenance and documentation",
+        "Reusable materials and datasets",
+        "Translation and outreach support",
+        "Coordination before and after grants"
+      ],
+      "speech": "The core handles work that grants often depend on but do not reliably fund: maintenance, documentation, reusable materials, translation, outreach support, and coordination before and after formal projects.",
+      "notes": "This is the grant/complementarity logic."
+    },
+    {
+      "id": "why-philanthropy-fits",
+      "title": "Why Philanthropy Fits",
+      "kicker": "3",
+      "summary": "Philanthropy fits as a continuity pathway that complements grants rather than replacing research funding.",
+      "image_prompts": {
+        "concrete": "Funding model slide showing grants and philanthropy as complementary paths supporting a stewardship core",
+        "abstract": "Two funding streams supporting one continuity structure"
+      },
+      "bullets": [
+        "Grants fund research questions",
+        "Philanthropy can bridge continuity gaps",
+        "Gifts can support translation and access",
+        "Funding paths should reinforce each other"
+      ],
+      "speech": "Philanthropy fits because continuity work does not always align with grant cycles. It should not replace research funding. It can complement grants by supporting staffing, translation, access, and coordination.",
+      "notes": "Make philanthropy functional, not emotional."
+    },
+    {
+      "id": "modest-promise",
+      "title": "Modest Promise",
+      "kicker": "4",
+      "summary": "The first promise is not universal adoption; it is a more stable and usable base for research, education, preservation, and collaboration.",
+      "image_prompts": {
+        "concrete": "Modest promise slide showing stable base for research, education, preservation, and international collaboration without overclaiming outcomes",
+        "abstract": "A stronger base supporting several practical future paths"
+      },
+      "bullets": [
+        "Not universal adoption",
+        "Not instant institutional maturity",
+        "A stronger base for existing work",
+        "More usable infrastructure for future research"
+      ],
+      "speech": "The promise should stay modest. The infrastructure core does not promise universal adoption or instant maturity. It promises a stronger base for standards, software, data, translation, access, and international collaboration.",
+      "notes": "Close with bounded value."
+    }
+  ]
 }

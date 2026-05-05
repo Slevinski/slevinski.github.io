@@ -4,7 +4,7 @@
 
 The signbox is where Formal SignWriting becomes visibly spatial and technically precise.
 
-It is also the clearest public handoff from the writing lane into the formal technical model.
+It is also the clearest public handoff from the writing-systems series into the formal technical model.
 
 Its core claim is simple:
 

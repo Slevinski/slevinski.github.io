@@ -84,7 +84,7 @@
       "kicker": "4",
       "summary": "Once the two-part word is clear, the rest of the model follows in a stable technical order.",
       "image_prompts": {
-        "concrete": "Technical roadmap graphic showing the two-part word leading to encoding, geometry, grammar, search, rendering, styling, and implementation, clean academic diagram",
+        "concrete": "Technical sequence graphic showing the two-part word leading to encoding, geometry, grammar, search, rendering, styling, and implementation, clean academic diagram",
         "abstract": "One core idea branching into a complete technical architecture"
       },
       "bullets": [

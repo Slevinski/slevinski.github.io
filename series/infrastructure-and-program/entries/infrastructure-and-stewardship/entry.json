@@ -2,9 +2,9 @@
   "slug": "infrastructure-and-stewardship",
   "number": 2,
   "title": "Infrastructure and Stewardship",
-  "subtitle": "Confirmed assets, current risks, and the case for stronger institutional support",
-  "summary": "Second support-facing anchor for the Sutton SignWriting Infrastructure and Program series.",
-  "synopsis": "This entry serves as the main support-facing anchor of the Sutton SignWriting Infrastructure and Program series. It presents Sutton SignWriting as existing infrastructure with real assets, active stewardship, and identifiable continuity risks that justify stronger institutional support.",
+  "subtitle": "Confirmed assets, current risks, and the case for stronger stewardship structure",
+  "summary": "Second stewardship anchor for the Sutton SignWriting Infrastructure and Program series.",
+  "synopsis": "Sutton SignWriting is existing infrastructure with real assets, active stewardship, and identifiable continuity risks that justify a stronger accountable stewardship structure.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -12,5 +12,79 @@
     "public_label": "White Paper",
     "public_slug": "primary",
     "publication_designation": "White Paper"
-  }
+  },
+  "slides": [
+    {
+      "id": "existing-infrastructure",
+      "title": "Existing Infrastructure",
+      "kicker": "1",
+      "summary": "Sutton SignWriting already includes domains, servers, code, data, fonts, standards work, documentation, and public language resources.",
+      "image_prompts": {
+        "concrete": "Infrastructure map slide showing domains, servers, software, fonts, data, standards, documentation, and public resources for SignWriting",
+        "abstract": "A mature infrastructure graph with multiple maintained layers"
+      },
+      "bullets": [
+        "Domains and web infrastructure",
+        "Servers and public platforms",
+        "Software, fonts, and code",
+        "Data, corpora, and standards assets"
+      ],
+      "speech": "This white paper begins by naming what already exists. Sutton SignWriting is not only a body of ideas. It includes domains, servers, code, fonts, data, standards-facing records, documentation, and public language resources.",
+      "notes": "Open with inventory, not risk."
+    },
+    {
+      "id": "operational-pressure",
+      "title": "Operational Pressure",
+      "kicker": "2",
+      "summary": "Real international use already creates maintenance, scaling, documentation, and continuity pressure.",
+      "image_prompts": {
+        "concrete": "Operational infrastructure slide showing public use, server pressure, maintenance work, documentation, and international partners",
+        "abstract": "Real use creating visible operational load"
+      },
+      "bullets": [
+        "Public use creates real load",
+        "Legacy systems need maintenance",
+        "Documentation and onboarding are thin",
+        "International work depends on continuity"
+      ],
+      "speech": "The operational pressure is concrete. Public use creates load. Legacy systems need maintenance. Documentation and onboarding need attention. International work depends on continuity that cannot rest indefinitely on informal arrangements.",
+      "notes": "Concrete and calm."
+    },
+    {
+      "id": "risk-profile",
+      "title": "Risk Profile",
+      "kicker": "3",
+      "summary": "The main risks are practical: service interruptions, loss of knowledge, weak onboarding, and limited research reuse.",
+      "image_prompts": {
+        "concrete": "Risk profile slide listing service continuity, knowledge transfer, onboarding, research reuse, and standards follow-through",
+        "abstract": "Continuity risks mapped to practical stewardship functions"
+      },
+      "bullets": [
+        "Service interruptions",
+        "Knowledge concentrated in too few places",
+        "Weak onboarding pathways",
+        "Limited research and standards follow-through"
+      ],
+      "speech": "The risk profile is practical. Without stronger stewardship, the likely problems are service interruptions, loss of tacit knowledge, weak onboarding, reduced research reuse, and limited standards follow-through.",
+      "notes": "Avoid crisis language; name practical risks."
+    },
+    {
+      "id": "host-value",
+      "title": "Host Function",
+      "kicker": "4",
+      "summary": "A host structure would make responsibility, maintenance, research use, and succession planning more accountable.",
+      "image_prompts": {
+        "concrete": "Host structure slide showing accountability for maintenance, documentation, research reuse, standards, and succession planning",
+        "abstract": "Stewardship functions becoming accountable under a host structure"
+      },
+      "bullets": [
+        "Accountability for maintained assets",
+        "Better documentation and onboarding",
+        "Improved research reuse",
+        "Succession and continuity planning"
+      ],
+      "speech": "A host structure would not need to invent SignWriting. Its value would be to make responsibility, maintenance, documentation, research use, standards follow-through, and succession planning more accountable.",
+      "notes": "Close with function-based host logic."
+    }
+  ]
 }

@@ -2,55 +2,37 @@
 
 *A low-prominence working-notes series*
 
-This series exists to preserve material that is:
+Notebook preserves useful exploratory material without forcing it prematurely into a formal publication series.
+
+It is for notes that are:
 
 - valuable
 - generative
-- not yet settled
-- not yet ready for the strongest public series lanes
+- unsettled
+- not yet ready for the strongest public series
 
-It is not a dumping ground.
+Notebook is not a dumping ground. It is a holding space for thinking that may later mature into foundations essays, research papers, writing-systems arguments, technical notes, or stewardship documents.
 
-It is a way to keep useful thinking alive without forcing it too early into:
+## What Belongs Here
 
-- `Sutton SignWriting Foundations`
-- `Sutton SignWriting Language and Literacy Research`
-- `Writing and Representation in Sutton SignWriting`
+Notebook material may include:
 
-## What belongs here
-
-Likely Notebook material includes:
-
-- pathway sketches not yet ready for the hard-science lane
+- pathway sketches not yet ready for research-facing treatment
 - reflections on sound, visuality, perception, and symbolic extension
-- early viewpoint and depth ideas that are not yet disciplined enough for the writing lane
+- early viewpoint and depth ideas that need more discipline before entering the writing-systems series
 - planning-adjacent conceptual notes
 - drafts that may later graduate into stronger series
 
-## What does not belong here
+## What Does Not Belong Here
 
-This series should not become:
+Notebook should not become:
 
 - a place to hide weak work
-- a substitute for making real series decisions
+- a substitute for making series-placement decisions
 - the main public route into the platform
 
 If a piece clearly belongs in a stronger series, it should go there instead.
 
-## Current status
+## Publication Posture
 
-This series now exists in the repo and has an opening entry shell.
-
-It does not yet have a mature public-facing draft.
-
-That is intentional.
-
-The series should begin carefully and only with material that genuinely benefits from exploratory space.
-
-See:
-
-- [notebook-series-concept-brief.md](../../plans/notebook-series-concept-brief.md)
-
-Current entry shell:
-
-- [entries/opening-note/essay.md](./entries/opening-note/essay.md)
+Notebook should remain quiet, selective, and exploratory. Its value is in preserving promising ideas while making clear that they are not yet platform-level claims.

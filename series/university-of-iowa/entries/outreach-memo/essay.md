@@ -4,7 +4,7 @@
 
 ## One-paragraph summary
 
-Steve Slevinski can help University of Iowa research teams with practical data work now: Data Management and Sharing Plans, workflow implementation, code and data shaping, validation, documentation, and repository delivery. A PI or lab base would give that work a real institutional home so project support, collaborations, grants, and longer-term Sutton SignWriting infrastructure can grow from something concrete. The immediate case is not a fully built center. The immediate case is useful research capacity with a clear base.
+Steve Slevinski can help University of Iowa research teams with practical data work now: Data Management and Sharing Plans, workflow implementation, code and data shaping, validation, documentation, and repository delivery. A PI, lab, or unit relationship would make that work easier to use, support, and grow while keeping longer-term Sutton SignWriting stewardship as a separate institutional question. The immediate case is not a fully built center. The immediate case is useful research capacity with a clear base.
 
 ## Why this matters now
 
@@ -27,24 +27,24 @@ The Iowa opportunity is to make that help easier to use, support, and grow.
 The first institutional move can stay modest:
 
 - connect Steve with active teams that need DMS Plan, workflow, or repository help
-- establish a PI or lab base that gives the work an academic home
+- establish a PI, lab, or unit relationship that gives the work an accountable academic location
 - use early project value to support later grants, sustained research capacity, and infrastructure planning
 
 This keeps the conversation practical. Iowa does not need to solve the whole future before useful work begins.
 
 ## What different readers should notice
 
-- **PIs and faculty collaborators**: Steve can add practical capacity to active research projects while a PI or lab base creates a home for future collaboration.
+- **PIs and faculty collaborators**: Steve can add practical capacity to active research projects while a PI, lab, or unit relationship creates a clearer path for future collaboration.
 - **Research teams**: Steve can help with DMS Plans, workflow implementation, validation, documentation, and repository delivery.
 - **Grants and administrative staff**: a PI or lab base makes support, accountability, proposals, and project relationships easier to organize.
 - **Development and infrastructure readers**: the longer Sutton SignWriting opportunity is real, but it becomes more credible when attached to visible research value.
 
 ## Useful next materials
 
-- **Research Team Value** for the immediate research-data support case.
+- **Research Team Value** for the immediate research-data service case.
 - **PI or Lab Base** for the PI-facing institutional-base conversation.
-- **Sutton SignWriting Infrastructure and Program: Institutional Home and Host Requirements** for the broader infrastructure case.
-- **Sutton SignWriting Infrastructure and Program: Infrastructure Core and Philanthropy** for development and donor conversations.
+- **Sutton SignWriting Infrastructure and Program: Host Structure and Stewardship Requirements** for the broader infrastructure case.
+- **Sutton SignWriting Infrastructure and Program: Infrastructure Core and Philanthropy** for development and stewardship conversations.
 - **Sutton SignWriting Infrastructure and Program: Relevant Precedents for SignWriting Infrastructure** for comparable models and outside examples.
 
 ## Recommended next conversations

@@ -19,6 +19,10 @@
       "title": "Why The Role Is Needed",
       "kicker": "1",
       "summary": "Local context matters, and international outreach cannot be centralized well without trusted country-level help.",
+      "image_prompts": {
+        "concrete": "World map slide with country-level connectors linking local SignWriting communities, schools, universities, and documentation work",
+        "abstract": "Distributed local connectors extending a shared stewardship network"
+      },
       "bullets": [
         "Local language and culture",
         "Local institutions",
@@ -33,6 +37,10 @@
       "title": "Clear Role Boundaries",
       "kicker": "2",
       "summary": "Ambassadors are local connectors, not legal, financial, or institutional representatives.",
+      "image_prompts": {
+        "concrete": "Role boundary slide separating local introductions, translation, context, and follow-up from legal, financial, and institutional authority",
+        "abstract": "A clear boundary line around trusted local coordination"
+      },
       "bullets": [
         "No legal commitments",
         "No financial commitments",
@@ -47,6 +55,10 @@
       "title": "Volunteer-First Pilot",
       "kicker": "3",
       "summary": "Start with a small pilot, shared materials, visible recognition, and clear follow-up.",
+      "image_prompts": {
+        "concrete": "Pilot program slide showing three to five country nodes, shared materials, simple tracking, visible recognition, and review before expansion",
+        "abstract": "A small pilot structure designed to learn before scaling"
+      },
       "bullets": [
         "Three to five countries",
         "Shared outreach materials",
@@ -55,6 +67,24 @@
       ],
       "speech": "The model should begin as a small volunteer-first pilot in three to five countries, with shared materials, simple tracking, visible recognition, and enough structure to learn before expanding.",
       "notes": "Keep the first step manageable."
+    },
+    {
+      "id": "recognition-and-stipends",
+      "title": "Recognition And Stipends",
+      "kicker": "4",
+      "summary": "If funding becomes available, stipends should be modest, transparent, bounded, and tied to specific coordination work.",
+      "image_prompts": {
+        "concrete": "Country ambassador stewardship slide showing volunteer recognition, transparent stipend criteria, bounded tasks, and accountable coordination",
+        "abstract": "Recognition and modest compensation held inside clear stewardship boundaries"
+      },
+      "bullets": [
+        "Visible credit for local work",
+        "Transparent criteria for stipends",
+        "Bounded coordination tasks",
+        "No implied institutional authority"
+      ],
+      "speech": "Recognition should be part of the model from the beginning. If funding later makes stipends possible, they should be modest, transparent, and tied to bounded coordination work. Compensation should not imply legal, financial, or institutional authority.",
+      "notes": "Close by making future compensation responsible rather than vague."
     }
   ]
 }

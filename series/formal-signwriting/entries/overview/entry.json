@@ -11,5 +11,64 @@
     "public_label": "Overview",
     "public_slug": "primary",
     "publication_designation": "Series Overview"
-  }
+  },
+  "slides": [
+    {
+      "id": "what-formal-signwriting-does",
+      "title": "What Formal SignWriting Does",
+      "kicker": "1",
+      "summary": "Formal SignWriting defines the text model that lets written signs be stored, searched, laid out, rendered, and processed.",
+      "image_prompts": {
+        "concrete": "Technical overview slide showing a SignWriting signbox flowing into text encoding, search, layout, rendering, and implementation",
+        "abstract": "A structured sign becoming processable text through connected technical layers"
+      },
+      "bullets": [
+        "Sign text as structured data",
+        "Plain-text encodings",
+        "Grammar, search, layout, and rendering",
+        "Implementation-facing technical model"
+      ],
+      "speech": "Formal SignWriting is the technical series. Its job is to explain how written signs can be stored, checked, searched, laid out, rendered, styled, and implemented without collapsing canonical text, layout, and presentation into one layer.",
+      "notes": "Open with function. This is the technical mechanism series.",
+      "mermaid": "flowchart TD\n  A[Human-authored SignWriting] --> B[Formal SignWriting]\n  B --> C[Plain text]\n  B --> D[Validation]\n  B --> E[Search]\n  B --> F[Rendering]\n  C --> G[Durable interchange]\n  D --> G\n  E --> G\n  F --> H[Visible sign text]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D,E,F node;\n  class G,H out;"
+    },
+    {
+      "id": "layer-boundaries",
+      "title": "Layer Boundaries",
+      "kicker": "2",
+      "summary": "The series keeps canonical text, layout, rendering, styling, search, and implementation distinct.",
+      "image_prompts": {
+        "concrete": "Layered architecture slide for Formal SignWriting: canonical text, encoding, grammar, search, layout, rendering, styling, implementation",
+        "abstract": "Stacked technical layers around a stable written sign"
+      },
+      "bullets": [
+        "Canonical text is the durable source",
+        "Layout organizes passages",
+        "Rendering creates visible output",
+        "Styling remains downstream"
+      ],
+      "speech": "The most important habit in this series is layer discipline. Canonical text is not rendering. Layout is not styling. Search is not authorship. Implementation depends on keeping those boundaries visible.",
+      "notes": "This slide previews the whole technical architecture.",
+      "mermaid": "flowchart TD\n  A[SignWriting] --> B[Formal SignWriting]\n  B --> C[FSW and SWU]\n  B --> D[Grammar]\n  D --> E[Search]\n  D --> F[Rendering]\n  F --> G[Styling]\n  H[Passage layout] --> F\n  C --> D\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D,H node;\n  class E,F,G out;"
+    },
+    {
+      "id": "technical-reading-path",
+      "title": "Technical Reading Path",
+      "kicker": "3",
+      "summary": "Readers can move from the core Formal SignWriting model into FSW/SWU, signbox structure, grammar, search, layout, rendering, styling, and practice.",
+      "image_prompts": {
+        "concrete": "Technical reading path slide moving through Formal SignWriting, FSW and SWU, Shape of a Sign, Grammar, Search, Layout, Rendering, Styling, and Practice",
+        "abstract": "A technical path through connected specification documents"
+      },
+      "bullets": [
+        "Start with the core model",
+        "Read encodings and signbox structure next",
+        "Use grammar, search, and layout for behavior",
+        "Use rendering, styling, and practice for implementation"
+      ],
+      "speech": "The clearest path begins with the core model, then FSW and SWU, then the signbox. From there readers can move into grammar, search, layout, rendering, styling, and practice depending on what they are trying to implement.",
+      "notes": "Close as a map for developers and technical reviewers.",
+      "mermaid": "flowchart LR\n  A[Overview] --> B[Formal SignWriting]\n  B --> C[Shape of a Sign]\n  C --> D[FSW and SWU]\n  D --> E[Grammar]\n  E --> F[Search]\n  E --> G[Rendering]\n  G --> H[Layout and Styling]\n  F --> I[Practice]\n  H --> I\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D,E,F,G,H node;\n  class I out;"
+    }
+  ]
 }

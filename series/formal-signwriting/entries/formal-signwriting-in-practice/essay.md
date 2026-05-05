@@ -8,7 +8,7 @@ The practice layer's core claim is simple:
 
 > a durable model needs durable stewardship
 
-For the technical history behind the model itself, read `From Experimental Encodings to Formal SignWriting` as this entry's historical companion. The encoding story is a practice story because implementation pressure, real datasets, and lossless migration shaped the model more than abstract theory alone.
+For the technical history behind the model itself, read *From Experimental Encodings to Formal SignWriting* as this entry's historical companion. The encoding story is a practice story because implementation pressure, real datasets, and lossless migration shaped the model more than abstract theory alone.
 
 ## Minimal vocabulary
 

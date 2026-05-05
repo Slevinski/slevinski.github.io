@@ -12,5 +12,97 @@
     "public_label": "Paper",
     "public_slug": "primary",
     "publication_designation": "Working Paper"
-  }
+  },
+  "slides": [
+    {
+      "id": "why-another-term",
+      "title": "Why Another Term",
+      "kicker": "1",
+      "summary": "Kinematography is proposed as a bounded pressure-test term for writing whose primary representational work is articulatory, spatial, and kinetic.",
+      "image_prompts": {
+        "concrete": "Grapholinguistics slide showing phonography, morphography, pictography, notation, and kinematography as candidate terms around signed writing",
+        "abstract": "A new typological term tested against existing categories"
+      },
+      "bullets": [
+        "Existing labels strain",
+        "Signed writing represents articulatory-spatial-kinetic form",
+        "The term is provisional",
+        "The goal is analytic clarity"
+      ],
+      "speech": "This paper asks whether another term is useful. Kinematography is proposed as a bounded pressure-test term for writing whose primary representational work is articulatory, spatial, and kinetic.",
+      "notes": "Emphasize provisional, not settled terminology."
+    },
+    {
+      "id": "what-it-names",
+      "title": "What It Names",
+      "kicker": "2",
+      "summary": "The term names a representational axis, not the same thing as plane-based organization.",
+      "image_prompts": {
+        "concrete": "Two-axis slide distinguishing plane-based organization from kinematographic representation in SignWriting",
+        "abstract": "Two separate axes locating signed writing more precisely"
+      },
+      "bullets": [
+        "Plane-based describes organization",
+        "Kinematographic describes representational target",
+        "The axes can work together",
+        "They should not be collapsed"
+      ],
+      "speech": "The paper keeps two axes separate. Plane-based writing describes how the written unit is organized. Kinematography would name the representational target: durable inscription of articulatory, spatial, and kinetic form.",
+      "notes": "This is the core distinction."
+    },
+    {
+      "id": "bounded-tests",
+      "title": "Bounded Tests",
+      "kicker": "3",
+      "summary": "The paper defines minimum criteria and failure conditions so the term does not become an all-purpose label.",
+      "image_prompts": {
+        "concrete": "Criteria slide showing minimum test and failure conditions for the term kinematography",
+        "abstract": "A candidate term passing through a careful test gate"
+      },
+      "bullets": [
+        "Must represent signed articulatory-spatial form",
+        "Must support durable written objects",
+        "Must not be mere pictorial depiction",
+        "Must remain distinct from notation and encoding"
+      ],
+      "speech": "The term only helps if it is bounded. The paper gives criteria and failure conditions so kinematography does not become a flattering synonym for anything visual or signed.",
+      "notes": "This slide protects against overextension."
+    },
+    {
+      "id": "typology-pressure-test",
+      "title": "Typology Pressure Test",
+      "kicker": "4",
+      "summary": "The value of the term is that it reveals where current grapholinguistic categories need sharper treatment of signed writing.",
+      "image_prompts": {
+        "concrete": "Critical typology slide showing signed writing pressing against existing grapholinguistic categories and opening a refinement path",
+        "abstract": "A pressure point in a typology grid revealing a missing category"
+      },
+      "bullets": [
+        "Clarifies limits of existing labels",
+        "Connects to the Critical Review series",
+        "Keeps the claim provisional",
+        "Frames future grapholinguistic work"
+      ],
+      "speech": "The point is not to declare final terminology. The point is to reveal where current grapholinguistic categories strain and to give future work a sharper way to ask what signed writing represents.",
+      "notes": "Close as scholarly pressure test."
+    },
+    {
+      "id": "what-would-count-against-it",
+      "title": "What Would Count Against It",
+      "summary": "The term should be rejected or revised if it collapses into pictography, notation, general visuality, or claims not supported by written practice.",
+      "image_prompts": {
+        "concrete": "Pressure-test slide showing kinematography passing or failing criteria, with failure paths labeled pictography, notation, general visuality, and unsupported terminology",
+        "abstract": "A candidate term tested by clear failure conditions"
+      },
+      "bullets": [
+        "Reject it if it becomes too broad",
+        "Reject it if it only means pictorial",
+        "Reject it if notation explains the case better",
+        "Revise it if practice does not support it"
+      ],
+      "speech": "A pressure-test term needs failure conditions. Kinematography should be rejected or revised if it becomes a vague synonym for visuality, collapses into pictography, is better explained as notation, or lacks support from actual written practice. That discipline is what makes the term worth testing.",
+      "notes": "This slide keeps the candidate term provisional and scholarly. It should reduce the risk that readers hear it as branding.",
+      "kicker": "5"
+    }
+  ]
 }

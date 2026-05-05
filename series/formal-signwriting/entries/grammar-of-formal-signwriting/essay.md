@@ -154,7 +154,7 @@ Tokenization can happen at several levels:
 
 For search and validation, sign-level and symbol-level tokenization are usually enough.
 
-For NLP, machine learning, corpus analysis, and other downstream tasks, the detailed guidance belongs in `Formal SignWriting in Practice`. The grammar rule is narrower:
+For NLP, machine learning, corpus analysis, and other downstream tasks, the detailed guidance belongs in *Formal SignWriting in Practice*. The grammar rule is narrower:
 
 > preserve the full canonical sign text, then derive task-specific tokens from it
 

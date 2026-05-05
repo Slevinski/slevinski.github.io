@@ -2,21 +2,21 @@
 
 **Sutton SignWriting as research infrastructure**
 
-This entry is the second major anchor of the `Sutton SignWriting Infrastructure and Program` series.
+This brief gives the shortest forwardable stewardship case for Sutton SignWriting as research infrastructure.
 
-For the concrete asset-and-continuity case behind this summary, see *Infrastructure and Stewardship*. For the strongest current empirical anchors behind the support case, see *Brazil as the Empirical Center of SignWriting* and *South Korea as a Current Institutional Proof Point*.
+For the concrete asset-and-continuity case behind this summary, see *Infrastructure and Stewardship*. For the strongest current empirical anchors behind the stewardship case, see *Brazil as the Empirical Center of SignWriting* and *South Korea as a Current Institutional Proof Point*.
 
 ## Executive frame
 
 Sutton SignWriting is not only a writing system.
 
-It is also an existing body of tools, standards, data, and public resources that could support much more research if it had a stronger institutional home.
+It is also an existing body of tools, standards, data, and public resources that could support much more research under a stronger stewardship structure.
 
 ## Mission statement
 
-The mission of this project is to move Sutton SignWriting toward a stable academic or institutional home so its existing standards, tools, datasets, and research pathways can be maintained, studied, preserved, and extended.
+The mission of this project is to move Sutton SignWriting toward an accountable academic, institutional, consortium, or fiscal-sponsor structure so its existing standards, tools, datasets, and research pathways can be maintained, studied, preserved, and extended.
 
-In practical terms, that means moving from informal stewardship of a globally used system to stronger institutional support that can sustain research, preservation, and future growth.
+In practical terms, that means moving from informal stewardship of a globally used system to stronger institutional stewardship that can sustain research, preservation, and future growth.
 
 ## What Sutton SignWriting is
 
@@ -46,16 +46,16 @@ Existing assets include:
 
 This matters because a host institution would not be starting from zero. It would be stabilizing and extending an existing system that is already in active use.
 
-## The current gap
+## The continuity gap
 
-What is missing is not the idea, the community, or the software. What is missing is stable, coordinated support.
+What is missing is not the idea, the community, or the software. What is missing is stable, coordinated stewardship capacity.
 
 At present, the ecosystem depends on:
 
 - distributed maintenance across individuals
 - uneven documentation and onboarding
 - limited institutional anchoring
-- fragile continuity for long-term stewardship
+- thin continuity for long-term stewardship
 
 This creates risk for:
 
@@ -64,16 +64,16 @@ This creates risk for:
 - research use
 - long-term growth
 
-The current gap is not the absence of work.
-It is the absence of stable institutional support for work that already exists and is actively maintained.
+The continuity gap is not the absence of work.
+It is the absence of stable institutional stewardship for work that already exists and is actively maintained.
 
 ## Risk statement
 
 The core risk is not that Sutton SignWriting lacks value.
 
-The risk is that existing public language infrastructure with documented users, data, standards, and tools remains dependent on fragile informal maintenance.
+The risk is that existing public language infrastructure with documented users, data, standards, and tools remains dependent on informal maintenance with limited continuity.
 
-Without stronger support, the most likely failures are practical:
+Without stronger stewardship, the most likely failures are practical:
 
 - service interruptions
 - data loss or inaccessible archives
@@ -83,9 +83,9 @@ Without stronger support, the most likely failures are practical:
 
 ## Why this matters for research
 
-Treating SignWriting as shared research support, rather than only as a niche language project, changes what becomes possible.
+Treating SignWriting as shared research infrastructure, rather than only as a niche language project, changes what becomes possible.
 
-A stronger support structure would support:
+A stronger stewardship structure would support:
 
 - corpus development for signed languages
 - reproducible datasets and shared standards
@@ -98,7 +98,7 @@ With infrastructure, they become scalable research programs.
 
 Brazil is the strongest documented empirical center for that work.
 
-The public record now supports treating Brazil as the strongest documented empirical center of SignWriting use, teaching, and research, rather than only as one encouraging example among many.
+The public record supports treating Brazil as the strongest documented empirical center of SignWriting use, teaching, and research, rather than only as one encouraging example among many.
 
 It is also the strongest currently documented large-scale real-world context for studying signed-language literacy through SignWriting.
 
@@ -113,22 +113,22 @@ That matters because it gives the infrastructure case a real evidence base:
 - real written materials
 - real research and curricular history
 
-## Why now
+## Why This Is Timely
 
 Several factors make this a timely opportunity:
 
 - growing interest in multimodal and non-speech language processing
 - increased emphasis on data sharing and reusable datasets
 - maturing technical tooling around SignWriting
-- a visible, if under-supported, global user base
+- a visible, if under-resourced, global user base
 
-In addition, the technical foundation has reached a level of maturity where it can support broader research use, including corpus development, computational analysis, and integration with modern data workflows. The research path is also clearer than before: reading and literacy studies, Brazil-grounded empirical work, South Korea as a current institutional proof point, and infrastructure-plus-dataset development can now be described as one connected program rather than as separate hopes.
+In addition, the technical foundation has reached a level of maturity where it can support broader research use, including corpus development, computational analysis, and integration with modern data workflows. The research path is also clearer than before: reading and literacy studies, Brazil-grounded empirical work, South Korea as a current institutional proof point, and infrastructure-plus-dataset development can be described as one connected program rather than as separate hopes.
 
-This creates a narrow window where institutional support can turn existing work into a stable, grant-ready program.
+This creates a narrow window where institutional stewardship can turn existing work into a stable, grant-ready program.
 
-## What first-stage support would fund
+## What first-stage stewardship would fund
 
-First-stage support would not need to invent the system.
+First-stage stewardship would not need to invent the system.
 
 It would stabilize the parts that make the existing system usable:
 
@@ -138,7 +138,7 @@ It would stabilize the parts that make the existing system usable:
 - core library and font maintenance
 - data preservation and migration planning
 - Platform V3 development
-- partner-facing coordination and support materials
+- partner-facing coordination and stewardship materials
 
 The first goal is continuity.
 
@@ -148,7 +148,7 @@ The second goal is making research, grants, and international collaboration more
 
 A host institution would be building on an existing technical and data foundation, not initiating a new system.
 
-With a stable home, the project could transition from informal stewardship to a more durable institutional program.
+With an accountable host structure, the project could transition from informal stewardship to a more durable institutional program.
 
 This would enable:
 
@@ -164,7 +164,7 @@ The role of a PI or host lab would be to:
 - provide institutional anchoring
 - guide research framing and publication
 - lead or co-lead grant development
-- support integration into existing research programs
+- guide integration into existing research programs
 
 ## Closing
 
@@ -172,6 +172,6 @@ The most compelling framing is simple:
 
 Sutton SignWriting already exists as a working, globally used system with software, data, and standards.
 
-What it lacks is stable institutional support.
+What it lacks is stable institutional stewardship.
 
-With the right home, it becomes a research and technical resource that others can rely on, build on, and fund with confidence.
+Under an accountable host, consortium, or fiscal-sponsor model, it becomes a research and technical resource that others can rely on, build on, and fund with confidence.

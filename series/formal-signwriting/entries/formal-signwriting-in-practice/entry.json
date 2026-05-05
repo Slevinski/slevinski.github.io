@@ -89,7 +89,7 @@
     },
     {
       "id": "maintenance-path",
-      "title": "A Maintainable Technical Home",
+      "title": "Maintainable Technical Surface",
       "kicker": "4",
       "summary": "Future builders need a stable model, a legible ecosystem, and a path forward.",
       "bullets": [
@@ -100,7 +100,11 @@
       ],
       "speech": "Formal SignWriting in practice is ultimately about stewardship. A durable model needs maintainable distinctions, clean transformations, and implementation habits that future builders can actually use. That is how technical continuity survives across packages, tools, and software generations, and how the perimeter can keep growing without destabilizing the center.",
       "notes": "Finish on continuity in practice.\n- canonical versus derived data\n- clean transformations\n- maintainable implementations\n- future builders inherit a legible system",
-      "mermaid": "flowchart LR\n  A[Canonical model] --> B[Implementations]\n  B --> C[Software generations]\n  C --> D[Future builders]\n  A --> E[Stable technical guidance]\n  E --> D\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,E,D core;\n  class B,C node;"
+      "mermaid": "flowchart LR\n  A[Canonical model] --> B[Implementations]\n  B --> C[Software generations]\n  C --> D[Future builders]\n  A --> E[Stable technical guidance]\n  E --> D\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,E,D core;\n  class B,C node;",
+      "image_prompts": {
+        "concrete": "Technical maintenance slide showing canonical Formal SignWriting model, implementations, documentation, libraries, and future builders connected through stable guidance",
+        "abstract": "A stable technical surface carrying implementations forward across software generations"
+      }
     }
   ]
 }

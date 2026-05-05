@@ -2,21 +2,21 @@
 
 **Institutional backing, international participation, and shared continuity for Sutton SignWriting**
 
-The work now needs a support model that matches its real use.
+The work requires a stewardship model that matches its real use.
 
 Its core claim is simple:
 
-> shared language infrastructure needs shared support
+> shared language infrastructure requires shared stewardship
 
 This entry explains how institutional backing, international partner relationships, country-level coordination, and future funding pathways can work together without pretending that every country, institution, or collaborator has the same role.
 
-## Why This Belongs In Infrastructure And Program
+## Why International Coordination Matters
 
-International support is not only outreach.
+International stewardship is not only outreach.
 
 It is part of the infrastructure problem.
 
-Sutton SignWriting already supports education, research, public language resources, community activity, software, fonts, datasets, and technical standards. When that work depends too heavily on one maintainer or one informal support structure, international users inherit the fragility.
+Sutton SignWriting already supports education, research, public language resources, community activity, software, fonts, datasets, and technical standards. When that work depends too heavily on one maintainer or one informal stewardship structure, international users inherit the continuity risk.
 
 The infrastructure question is therefore not only:
 
@@ -24,22 +24,22 @@ The infrastructure question is therefore not only:
 
 It is also:
 
-- what support structure lets the system remain reliable for the people who already depend on it?
+- what stewardship structure lets the system remain reliable for the people who already depend on it?
 
-## The Support Model
+## The Stewardship Model
 
 The strongest near-term model combines four elements:
 
-- an institutional home that can support grants, gifts, donations, reporting, and stewardship
+- an institutional, consortium, or fiscal-sponsor structure that can support grants, gifts, donations, reporting, and stewardship
 - international partner relationships that document real use and local value
 - country-level coordination that makes communication practical across languages and institutional systems
-- future project support for translation, platform work, data stewardship, and research collaboration
+- future project capacity for translation, platform work, data stewardship, and research collaboration
 
 This does not require every partner to contribute in the same way.
 
 Some partners may provide statements of use. Others may help identify local contacts, contribute to research design, support proposals, document educational need, or participate in future advisory conversations.
 
-The point is to build a support structure that reflects the international reality of the work.
+The point is to build a stewardship structure that reflects the international reality of the work.
 
 | Partner type | Possible contribution |
 | --- | --- |
@@ -62,29 +62,29 @@ International participation can strengthen the program in several ways:
 
 Brazil remains the strongest documented empirical center. South Korea provides a current institutional proof point through public dictionary infrastructure. Mexico and other countries may add different kinds of local relationship, educational, or community evidence.
 
-Those examples should not be flattened into one generic adoption story. They matter because they show different parts of the support case.
+Those examples should not be flattened into one generic adoption story. They matter because they show different parts of the stewardship case.
 
 ## What Support Enables
 
-Stronger institutional and partner support can make several practical outcomes more realistic:
+Stronger institutional and partner stewardship can make several practical outcomes more realistic:
 
 - more reliable hosting and recovery
 - better preservation of tools, data, domains, and software
 - continued development of SignWriting Platform V3
-- clearer paths for grants, gifts, donations, and administered support
+- clearer paths for grants, gifts, donations, and administered continuity
 - rights-aware translation and access work
 - reusable datasets and research materials
 - stronger international collaboration around literacy, education, and language infrastructure
 
-This is why support and research should not be separated too sharply.
+This is why stewardship and research should not be separated too sharply.
 
 Stable infrastructure makes better research possible.
 
-Better evidence makes the support case stronger.
+Better evidence makes the stewardship case stronger.
 
-## Prospective Institutional Home
+## Prospective Institutional Route
 
-This work needs an institutional route that can support capacities an individual maintainer cannot provide alone:
+This work requires an institutional route that can support capacities an individual maintainer cannot provide alone:
 
 - PI alignment
 - grant development
@@ -92,15 +92,15 @@ This work needs an institutional route that can support capacities an individual
 - research integration
 - administrative credibility
 - reporting and continuity
-- a stronger home for collaboration conversations
+- a clearer structure for collaboration conversations
 
 At the time of this release, institutional conversations should be understood as exploratory unless a host institution is named in a later public update.
 
 No formal institutional sponsorship, funding line, lab placement, or program commitment should be inferred from this series.
 
-International participation should strengthen a future institutional lane rather than replace it.
+International participation should strengthen a future institutional pathway rather than replace it.
 
-The core point is general: Sutton SignWriting needs a durable home that can support work an individual maintainer cannot responsibly carry alone.
+The core point is general: Sutton SignWriting requires a durable stewardship structure for work an individual maintainer cannot responsibly carry alone.
 
 ## Near-Term Actions
 
@@ -110,22 +110,22 @@ The most useful next actions are concrete:
 - identify appropriate institutional contacts in key countries
 - request letters of support for proposals or stewardship conversations
 - pilot country-level coordination through trusted local contacts
-- map which translation, access, platform, and research needs are most urgent
-- connect each support request to a clear program lane
+- map which translation, access, platform, and research needs are highest priority
+- connect each stewardship request to a clear program area
 
 These actions keep the model practical.
 
-The goal is not to create a large organization before the support structure exists.
+The goal is not to create a large organization before the stewardship structure exists.
 
-The goal is to make existing international value visible enough that support, research, and stewardship can grow responsibly.
+The goal is to make existing international value visible enough that stewardship, research, and coordination can grow responsibly.
 
 ## Relationship To Country Ambassadors
 
-Country ambassadors are one possible mechanism inside this broader support model.
+Country ambassadors are one possible mechanism inside this broader stewardship model.
 
 They should be understood as local relationship and coordination roles, not as formal institutional representatives or financial intermediaries.
 
-The ambassador model belongs after the shared-support model because it answers a practical question:
+The ambassador model belongs after the shared-stewardship model because it answers a practical question:
 
 > who can help local relationships become legible, respectful, and useful?
 
@@ -133,6 +133,6 @@ The ambassador model belongs after the shared-support model because it answers a
 
 Sutton SignWriting should be sustained as shared linguistic, educational, and research infrastructure.
 
-That requires an institutional home, but it also requires international participation.
+That requires an accountable host or stewardship structure, but it also requires international participation.
 
 The work is strongest when both are visible.

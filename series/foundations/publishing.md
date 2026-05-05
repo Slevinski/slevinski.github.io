@@ -6,13 +6,14 @@
 - Series slug: `foundations`
 - Repository slug: `foundations`
 - GitHub repository: `https://github.com/sutton-signwriting/foundations`
-- Zenodo series record: pending
+- Zenodo series record: reserved draft
+- Series DOI: `10.5281/zenodo.20041560`
 - Version: `v1.0.0`
 - License: `CC BY 4.0`
 - Creator: `Steve Slevinski`
 - Publication year: `2026`
 - Resource type: `Publication`
-- Release status: preparing
+- Release status: reserved draft
 - Living site: `https://steveslevinski.me/#series/foundations`
 
 ## Series Description
@@ -44,7 +45,7 @@ Slevinski, S. (2026). Sutton SignWriting Foundations (v1.0.0).
 Series citation after DOI:
 
 ```text
-Slevinski, S. (2026). Sutton SignWriting Foundations (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Sutton SignWriting Foundations (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20041560
 ```
 
 ## Artifact Register
@@ -65,7 +66,7 @@ Slevinski, S. (2026). Sutton SignWriting Foundations (v1.0.0). Zenodo. DOI
 - Citation:
 
 ```text
-Slevinski, S. (2026). Start Here: What Sutton SignWriting Is, Why It Matters, and Where to Go Next. In Sutton SignWriting Foundations (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Start Here: What Sutton SignWriting Is, Why It Matters, and Where to Go Next. In Sutton SignWriting Foundations (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20041560
 ```
 
 ### Language Without Sound

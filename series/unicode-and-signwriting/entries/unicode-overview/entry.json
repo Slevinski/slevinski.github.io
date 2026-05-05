@@ -28,6 +28,10 @@
       "title": "The Baseline Problem",
       "kicker": "1",
       "summary": "Unicode can name SignWriting characters, but the current official model still does not carry the established production ecosystem.",
+      "image_prompts": {
+        "concrete": "Technical overview slide showing official Unicode SignWriting character coverage beside unresolved production compatibility for symbols, written signs, sorting, and tooling",
+        "abstract": "Character coverage separated from production compatibility"
+      },
       "bullets": [
         "The issue is not whether Unicode contains SignWriting characters",
         "The issue is whether the official model can carry the real ecosystem",
@@ -43,6 +47,10 @@
       "title": "Why This Issue Keeps Returning",
       "kicker": "2",
       "summary": "People often treat a Unicode block as proof that the writing problem is solved.",
+      "image_prompts": {
+        "concrete": "Expectation mismatch slide showing Unicode block visibility leading to solved-script assumptions and recurring compatibility questions in tools and public discussion",
+        "abstract": "Public standards expectations colliding with unresolved implementation reality"
+      },
       "bullets": [
         "Unicode visibility shapes expectations",
         "People infer that a block means a solved writing system",
@@ -58,6 +66,10 @@
       "title": "Three Different Questions",
       "kicker": "3",
       "summary": "Naming characters, preserving writer-selected symbols, and encoding complete written signs are not the same thing.",
+      "image_prompts": {
+        "concrete": "Three-column technical slide separating character naming, stable writer-selected symbol identity, and complete written-sign encoding",
+        "abstract": "Three distinct encoding questions held apart for clarity"
+      },
       "bullets": [
         "The official block covers much of the character inventory",
         "That is not the same as preserving stable writer-selected symbols",
@@ -73,6 +85,10 @@
       "title": "The Facial System Shows the Break",
       "kicker": "4",
       "summary": "In the facial system, the official model shifts part of symbol formation from the writer-selected inventory to the font.",
+      "image_prompts": {
+        "concrete": "Facial symbol model slide comparing writer-selected ISWA facial symbols with official facial sequences merged by font behavior",
+        "abstract": "Stable symbol selection contrasted with font-mediated symbol formation"
+      },
       "bullets": [
         "Formal SignWriting expects writer-selected ISWA symbols",
         "The facial-diacritic model uses a sequence merged by the font",
@@ -89,6 +105,10 @@
       "title": "What the Production Stack Uses",
       "kicker": "5",
       "summary": "The current ecosystem still relies on FSW and SWU because that stack already carries real data, tools, and publishing.",
+      "image_prompts": {
+        "concrete": "Production stack slide showing FSW canonical text, SWU Unicode-oriented form, real software, corpora, dictionaries, fonts, and publications",
+        "abstract": "Established production encodings supporting a living SignWriting ecosystem"
+      },
       "bullets": [
         "FSW remains the canonical production encoding",
         "SWU remains the Unicode-oriented isomorphic representation",
@@ -104,6 +124,10 @@
       "title": "What Would Count as Progress",
       "kicker": "6",
       "summary": "Any realistic next step begins with honest acknowledgment of the present gap.",
+      "image_prompts": {
+        "concrete": "Standards progress slide showing acknowledgment of incompatibility, facial symbol identity, spatial composition, collation, and decision about renewed technical review",
+        "abstract": "Accurate technical acknowledgment as the first step toward standards progress"
+      },
       "bullets": [
         "Acknowledge current incompatibility",
         "Acknowledge the symbol-identity break in the facial system",

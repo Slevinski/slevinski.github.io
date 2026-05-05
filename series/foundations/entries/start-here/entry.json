@@ -22,18 +22,18 @@
       "kicker": "1",
       "summary": "Sutton SignWriting is a writing system for signed languages and the center of a broader platform of research, evidence, infrastructure, and technical work.",
       "image_prompts": {
-        "concrete": "A polished academic orientation slide showing Sutton SignWriting at the center of connected publication lanes: foundations, research, evidence, infrastructure, formal text, and critical review",
+        "concrete": "A polished academic orientation slide showing Sutton SignWriting at the center of connected publication series: foundations, research, evidence, infrastructure, formal text, and critical review",
         "abstract": "A central written-sign symbol radiating into organized pathways of scholarship and infrastructure"
       },
       "bullets": [
         "Sutton SignWriting is a writing system for signed languages",
-        "The platform now has multiple publication lanes",
-        "Each lane has a distinct job",
+        "The platform has multiple publication series",
+        "Each series has a distinct job",
         "Start Here is the map"
       ],
-      "speech": "Start Here is the map into the Sutton SignWriting platform. The first thing to say plainly is that Sutton SignWriting is a writing system for signed languages. Around that writing system is now a broader platform: public essays, research-facing papers, evidence briefs, infrastructure materials, formal technical work, and critical review.\n\nThose pieces should not be collapsed into one document. The platform is organized into series so each kind of question has a proper home. This entry explains those homes and gives readers a clean path forward.",
+      "speech": "Start Here is the map into the Sutton SignWriting platform. The first thing to say plainly is that Sutton SignWriting is a writing system for signed languages. Around that writing system is a broader platform: public essays, research-facing papers, evidence briefs, infrastructure materials, formal technical work, and critical review.\n\nThose pieces should not be collapsed into one document. The platform is organized into series so each kind of question has a clear place. This entry explains those places and gives readers a clean path forward.",
       "notes": "Open simply and concretely.\n\nDo not make this sound like a marketing page. It is an orientation to a publication architecture.\n\nTransition:\n- state the central thesis that organizes the whole map.",
-      "mermaid": "flowchart TD\n  A[Sutton SignWriting] --> B[Sutton SignWriting Foundations]\n  A --> C[Research]\n  A --> D[Evidence]\n  A --> E[Infrastructure]\n  A --> F[Formal Text Model]\n  A --> G[Critical Review]\n\n  classDef center fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef lane fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A center;\n  class B,C,D,E,F,G lane;"
+      "mermaid": "flowchart TD\n  A[Sutton SignWriting] --> B[Sutton SignWriting Foundations]\n  A --> C[Research]\n  A --> D[Evidence]\n  A --> E[Infrastructure]\n  A --> F[Formal Text Model]\n  A --> G[Critical Review]\n\n  classDef center fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef series fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A center;\n  class B,C,D,E,F,G series;"
     },
     {
       "id": "central-thesis",
@@ -77,9 +77,9 @@
       "id": "why-multiple-series",
       "title": "Why Multiple Series",
       "kicker": "4",
-      "summary": "Different audiences need different documents, and the platform works better when each kind of argument has a proper home.",
+      "summary": "Different audiences need different documents, and the platform works better when each kind of argument has a clear place.",
       "image_prompts": {
-        "concrete": "A restrained publication architecture diagram showing one platform divided into distinct lanes for concept, research, writing theory, evidence, infrastructure, formal specification, and review",
+        "concrete": "A restrained publication architecture diagram showing one platform divided into distinct series for concept, research, writing theory, evidence, infrastructure, formal specification, and review",
         "abstract": "One broad river separating into clear navigable channels"
       },
       "bullets": [
@@ -90,36 +90,36 @@
         "Review readers need careful evaluation"
       ],
       "speech": "The platform uses multiple series because not every audience needs the same document. A general reader needs the broad conceptual frame. A researcher needs a more disciplined developmental model. A reader asking whether SignWriting is real in practice needs evidence. A technical reader needs the formal text model. A reviewer needs careful separation among writing, notation, encoding, rendering, and infrastructure.\n\nThe series prevent one document from doing every job badly. They let each argument mature in the right place.",
-      "notes": "Main point:\n- multiple series are a clarity mechanism\n- they prevent overburdened documents\n- they support publication readiness\n\nTransition:\n- walk through the core platform lanes.",
-      "mermaid": "flowchart TD\n  A[One Platform] --> B[Conceptual Frame]\n  A --> C[Research Model]\n  A --> D[Writing Theory]\n  A --> E[Evidence]\n  A --> F[Infrastructure]\n  A --> G[Technical Mechanism]\n  A --> H[Critical Review]\n\n  classDef platform fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef lane fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A platform;\n  class B,C,D,E,F,G,H lane;"
+      "notes": "Main point:\n- multiple series are a clarity mechanism\n- they prevent overburdened documents\n- they make the publication easier to read\n\nTransition:\n- walk through the core platform series.",
+      "mermaid": "flowchart TD\n  A[One Platform] --> B[Conceptual Frame]\n  A --> C[Research Model]\n  A --> D[Writing Theory]\n  A --> E[Evidence]\n  A --> F[Infrastructure]\n  A --> G[Technical Mechanism]\n  A --> H[Critical Review]\n\n  classDef platform fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef series fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A platform;\n  class B,C,D,E,F,G,H series;"
     },
     {
-      "id": "core-platform-lanes",
-      "title": "Core Platform Lanes",
+      "id": "core-platform-series",
+      "title": "Core Platform Series",
       "kicker": "5",
-      "summary": "The main public lanes move from concept to research, writing theory, evidence, support, mechanism, and review.",
+      "summary": "The main public series move from concept to research, writing theory, evidence, stewardship, mechanism, and review.",
       "image_prompts": {
-        "concrete": "A clean multi-lane roadmap listing Sutton SignWriting Foundations, Sutton SignWriting Language and Literacy Research, Writing and Representation in Sutton SignWriting, Sutton SignWriting Evidence and Adoption, Sutton SignWriting Infrastructure and Program, Formal SignWriting, and Critical Review",
-        "abstract": "A structured platform map with seven strong lanes moving forward together"
+        "concrete": "A clean publication map listing Sutton SignWriting Foundations, Sutton SignWriting Language and Literacy Research, Writing and Representation in Sutton SignWriting, Sutton SignWriting Evidence and Adoption, Sutton SignWriting Infrastructure and Program, Formal SignWriting, and Critical Review",
+        "abstract": "A structured platform map with seven strong series moving forward together"
       },
       "bullets": [
         "Sutton SignWriting Foundations: public conceptual entry",
         "Sutton SignWriting Language and Literacy Research: pathway model and studies",
         "Writing and Representation in Sutton SignWriting: plane writing and authored space",
         "Sutton SignWriting Evidence and Adoption: documented reality",
-        "Sutton SignWriting Infrastructure and Program: stewardship and support",
+        "Sutton SignWriting Infrastructure and Program: stewardship and continuity",
         "Formal SignWriting: technical text model",
         "Critical Review: evaluative scholarship layer"
       ],
-      "speech": "The core platform lanes are distinct but connected. Sutton SignWriting Foundations gives the public conceptual entry. Sutton SignWriting Language and Literacy Research carries the research-facing pathway model. Writing and Representation in Sutton SignWriting deepens the writing-systems argument. Sutton SignWriting Evidence and Adoption answers what is already documented. Sutton SignWriting Infrastructure and Program explains support, stewardship, and continuity. Formal SignWriting gives the technical text model. The Critical Review series evaluates scholarship, standards, proposals, and recurring claims.\n\nTogether they form the current public architecture of the Sutton SignWriting platform.",
-      "notes": "This is the inventory slide.\n\nMove quickly but clearly. The details come in later routes.\n\nTransition:\n- show the shortest reading spine through the platform.",
-      "mermaid": "flowchart LR\n  A[Sutton SignWriting Foundations] --> B[Sutton SignWriting Language and Literacy Research]\n  A --> C[Writing and Representation in Sutton SignWriting]\n  B --> D[Sutton SignWriting Evidence and Adoption]\n  C --> E[Formal SignWriting]\n  D --> F[Sutton SignWriting Infrastructure and Program]\n  E --> F\n  F --> G[Critical Review]\n\n  classDef lane fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  class A core;\n  class B,C,D,E,F,G lane;"
+      "speech": "The core platform series are distinct but connected. Sutton SignWriting Foundations gives the public conceptual entry. Sutton SignWriting Language and Literacy Research carries the research-facing pathway model. Writing and Representation in Sutton SignWriting deepens the writing-systems argument. Sutton SignWriting Evidence and Adoption answers what is already documented. Sutton SignWriting Infrastructure and Program explains stewardship and continuity. Formal SignWriting gives the technical text model. The Critical Review series evaluates scholarship, standards, proposals, and recurring claims.\n\nTogether they form the public architecture of the Sutton SignWriting platform.",
+      "notes": "This is the inventory slide.\n\nMove quickly but clearly. The details come in later reading paths.\n\nTransition:\n- show the shortest reading path through the platform.",
+      "mermaid": "flowchart LR\n  A[Sutton SignWriting Foundations] --> B[Sutton SignWriting Language and Literacy Research]\n  A --> C[Writing and Representation in Sutton SignWriting]\n  B --> D[Sutton SignWriting Evidence and Adoption]\n  C --> E[Formal SignWriting]\n  D --> F[Sutton SignWriting Infrastructure and Program]\n  E --> F\n  F --> G[Critical Review]\n\n  classDef series fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  class A core;\n  class B,C,D,E,F,G series;"
     },
     {
       "id": "clearest-spine",
       "title": "The Clearest Spine",
       "kicker": "6",
-      "summary": "One short sequence carries a reader from the public concept to evidence, support, and the formal sign-text model.",
+      "summary": "One short sequence carries a reader from the public concept to evidence, stewardship, and the formal sign-text model.",
       "image_prompts": {
         "concrete": "A publication reading path with six document covers connected by arrows: Language Without Sound, The Shape of Writing, The Four Language Pathways, Brazil, Executive Brief, and The Shape of a Sign",
         "abstract": "Six stepping stones crossing from concept to evidence to infrastructure and technical form"
@@ -132,7 +132,7 @@
         "Executive Brief",
         "The Shape of a Sign"
       ],
-      "speech": "There are many valid ways through the platform, but one path is the clearest spine. Begin with Language Without Sound, which explains why language is not reducible to sound and why durable literacy pathways matter. Then read The Shape of Writing, which explains why writing is not inherently linear. Move next to The Four Language Pathways for the research-facing model.\n\nThen the path becomes practical. Brazil as the Empirical Center shows the strongest current adoption case. Executive Brief gives the short support-facing argument. The Shape of a Sign bridges the public writing claim into the formal technical model of sign text.",
+      "speech": "There are many valid ways through the platform, but one path is the clearest spine. Begin with Language Without Sound, which explains why language is not reducible to sound and why durable literacy pathways matter. Then read The Shape of Writing, which explains why writing is not inherently linear. Move next to The Four Language Pathways for the research-facing model.\n\nThen the path becomes practical. Brazil as the Empirical Center shows the strongest documented adoption case. Executive Brief gives the short stewardship argument. The Shape of a Sign bridges the public writing claim into the formal technical model of sign text.",
       "notes": "Use this as the reader's memory hook.\n\nThe spine is not the only route, but it is the cleanest route.\n\nTransition:\n- name alternative reader paths.",
       "mermaid": "flowchart TD\n  A[Language Without Sound] --> B[The Shape of Writing]\n  B --> C[The Four Language Pathways]\n  C --> D[Brazil as the Empirical Center]\n  D --> E[Executive Brief]\n  E --> F[The Shape of a Sign]\n\n  classDef step fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef anchor fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  class A,B anchor;\n  class C,D,E,F step;"
     },
@@ -148,9 +148,9 @@
       "bullets": [
         "New readers: core idea and evidence boundary",
         "Research and evidence: pathway model and documentation",
-        "Technical and infrastructure: formal text and support"
+        "Technical and infrastructure: formal text and stewardship"
       ],
-      "speech": "Start Here also works as a routing document, but it does not need to split readers into eight separate identities. Most readers need one of three routes. New readers need the shortest path from the core idea to the evidence boundary. Research and evidence readers need the pathway model, reading questions, and documented use. Technical and infrastructure readers need the formal text model and the support structure that keeps signed text durable.",
+      "speech": "Start Here also works as a routing document, but it does not need to split readers into eight separate identities. Most readers need one of three routes. New readers need the shortest path from the core idea to the evidence boundary. Research and evidence readers need the pathway model, reading questions, and documented use. Technical and infrastructure readers need the formal text model and the stewardship structure that keeps signed text durable.",
       "notes": "This slide should feel practical.\n\nKeep the choices few.\n\nTransition:\n- state what the whole platform is trying to do.",
       "mermaid": "flowchart TD\n  A[Reader Question] --> B[New to SignWriting]\n  A --> C[Research and Evidence]\n  A --> D[Technical and Infrastructure]\n  B --> E[Sutton SignWriting Foundations plus Evidence Boundary]\n  C --> F[Language and Literacy plus Evidence]\n  D --> G[Formal SignWriting plus Infrastructure]\n\n  classDef q fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef path fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A q;\n  class B,C,D,E,F,G path;"
     },
@@ -169,7 +169,7 @@
         "Build the technical and human infrastructure",
         "Move from possibility to sustained practice"
       ],
-      "speech": "At the broadest level, the project is trying to do three things at once. It clarifies the ideas: what kind of language, writing, literacy, and representation are involved. It documents the reality: where SignWriting is already used, what evidence exists, and what remains open. It builds the infrastructure: alphabets, encodings, fonts, editors, corpora, datasets, publication practice, stewardship, and institutional support.\n\nThe work is no longer only asking whether signed-language writing is possible. It is asking what kind of writing it is, what research it makes possible, where it is already real, what technical model preserves it, and what support would let it persist and grow.",
+      "speech": "At the broadest level, the project is doing three things at once. It clarifies the ideas: what kind of language, writing, literacy, and representation are involved. It documents the reality: where SignWriting is already used, what evidence exists, and what remains open. It builds the infrastructure: alphabets, encodings, fonts, editors, corpora, datasets, publication practice, stewardship, and institutional continuity.\n\nThe work asks what kind of writing SignWriting is, what research it makes possible, where it is already real, what technical model preserves it, and what stewardship would let it persist and grow.",
       "notes": "This is the synthesis slide.\n\nIt should make the platform feel coherent rather than sprawling.\n\nTransition:\n- close by telling the reader how to start.",
       "mermaid": "flowchart TD\n  A[Sutton SignWriting Platform] --> B[Clarify the Ideas]\n  A --> C[Document the Reality]\n  A --> D[Build Infrastructure]\n  B --> E[Better Questions]\n  C --> E\n  D --> E\n  E --> F[Sustained Practice]\n\n  classDef platform fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef job fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A platform;\n  class B,C,D job;\n  class E,F out;"
     },
@@ -188,7 +188,7 @@
         "Follow your question into the right series",
         "Use Start Here as the platform map"
       ],
-      "speech": "The best first move is simple. Read Language Without Sound. Then read The Shape of Writing. Those two papers give the platform its conceptual base: language does not depend on sound, and writing does not depend on the line.\n\nAfter that, follow the question that matters most. Research questions move into Sutton SignWriting Language and Literacy Research. Writing-system questions move into Writing and Representation in Sutton SignWriting. Evidence questions move into Sutton SignWriting Evidence and Adoption. Support questions move into Sutton SignWriting Infrastructure and Program. Technical questions move into Formal SignWriting. Review questions move into the Critical Review series. Start Here remains the map whenever the route becomes unclear.",
+      "speech": "The best first move is simple. Read Language Without Sound. Then read The Shape of Writing. Those two papers give the platform its conceptual base: language does not depend on sound, and writing does not depend on the line.\n\nAfter that, follow the question that matters most. Research questions move into Sutton SignWriting Language and Literacy Research. Writing-system questions move into Writing and Representation in Sutton SignWriting. Evidence questions move into Sutton SignWriting Evidence and Adoption. Stewardship questions move into Sutton SignWriting Infrastructure and Program. Technical questions move into Formal SignWriting. Review questions move into the Critical Review series. Start Here remains the map whenever the route becomes unclear.",
       "notes": "Close with actionable direction.\n\nFinal emphasis:\n- two anchor papers first\n- then route by question\n\nDelivery note:\n- this should leave the reader oriented, not overwhelmed.",
       "mermaid": "flowchart TD\n  A[Start Here] --> B[Language Without Sound]\n  B --> C[The Shape of Writing]\n  C --> D{What is your next question?}\n  D --> E[Research]\n  D --> F[Writing Systems]\n  D --> G[Evidence]\n  D --> H[Infrastructure]\n  D --> I[Technical]\n  D --> J[Review]\n\n  classDef start fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef anchor fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef route fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,D start;\n  class B,C anchor;\n  class E,F,G,H,I,J route;"
     }

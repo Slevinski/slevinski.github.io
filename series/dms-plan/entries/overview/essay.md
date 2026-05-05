@@ -10,7 +10,7 @@ Its central question is:
 
 These materials are for research teams, labs, and departments working on DMS planning, workflow design, review, and repository delivery.
 
-## Current entries
+## Entries
 
 - **Data Management and Sharing Plan** — the operational workflow deck explaining workflow implementation from project systems to repository delivery
 

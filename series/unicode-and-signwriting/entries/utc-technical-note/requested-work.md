@@ -36,9 +36,9 @@ Before any larger proposal work, the following acknowledgments would already cou
 - migration cannot be assumed
 - current production use must be part of the evaluation standard
 
-## Possible technical lanes
+## Possible technical work areas
 
-If UTC discussion does reopen, several lanes could be explored:
+If UTC discussion does reopen, several work areas could be explored:
 
 - renewed work on spatial-composition support
 - direct review of collation and sorting limits

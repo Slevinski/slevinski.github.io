@@ -2,12 +2,12 @@
 
 **Alphabet, authorship, encoding, and practical consequences**
 
-This bridge document carries the technical bridge behind the `Sutton SignWriting Foundations: The Shape of Writing` argument and connects it to the Formal SignWriting signbox model.
+This bridge document connects the argument in *Sutton SignWriting Foundations: The Shape of Writing* to the Formal SignWriting signbox model.
 
 It is best read after:
 
-- `Sutton SignWriting Foundations: The Shape of Writing`
-- `Formal SignWriting: The Shape of a Sign`
+- *Sutton SignWriting Foundations: The Shape of Writing*
+- *Formal SignWriting: The Shape of a Sign*
 
 It adds the more technical layer:
 
@@ -24,7 +24,7 @@ It is not a detached specification.
 
 It is the structural companion to the argument in the essay.
 
-Within the current platform structure, it serves as a bridge from the conceptual claim about plane-based writing into the technical mechanism of Formal SignWriting.
+It serves as a bridge from the conceptual claim about plane-based writing into the technical mechanism of Formal SignWriting.
 
 ## I. The plane depends on a stable alphabet
 
@@ -56,7 +56,7 @@ It is the product of long use, repeated revision, and a deep internal conception
 
 That matters historically and technically.
 
-The practical infrastructure now rests on:
+The practical infrastructure rests on:
 
 - Valerie Sutton's symbol conceptions
 - years of actual writer use
@@ -177,11 +177,11 @@ That is why the encoding is not just a storage convenience.
 
 It is the technical response that lets plane-based writing remain writable, searchable, and interoperable as text.
 
-## VII. Practical scale and outgrown infrastructure
+## VII. Practical scale and workflow pressure
 
-This is not a hypothetical writing system waiting for first use.
+This is a writing system with substantial accumulated use.
 
-The Brazilian Sign Language dictionary alone now contains nearly **68,000 signs**.
+The Brazilian Sign Language dictionary alone contains nearly **68,000 signs**.
 
 Across languages, the broader accumulated dataset contains well over **one million unique signs**.
 
@@ -195,8 +195,8 @@ That scale proves several things at once:
 
 - plane-based writing is functioning in practice
 - real users have been authoring signs for years
-- the infrastructure is carrying more historical and practical weight than its current support model was built for
-- data generation is now outpacing the old one-destination workflow
+- the infrastructure carries substantial historical and practical weight
+- data generation has outgrown the old one-destination workflow
 
 It also creates predictable problems:
 
@@ -208,13 +208,13 @@ It also creates predictable problems:
 
 This is not a sign of failure.
 
-It is a sign that the writing system has outgrown the current platform model and needs better destinations, pathways, and integration flows for continual growth.
+It is a sign that the writing system needs better destinations, pathways, and integration flows for continual growth.
 
 ## VIII. Dictionary and practice should not be the same thing
 
-The detailed redesign of dictionary, practice, review, and integration workflows belongs in `Sutton SignWriting Infrastructure and Program`.
+The detailed redesign of dictionary, practice, review, and integration workflows belongs in *Sutton SignWriting Infrastructure and Program*.
 
-For this Sutton SignWriting Foundations note, the important point is simpler: dictionary space and practice space should not be treated as one undifferentiated destination.
+For this technical bridge, the important point is simpler: dictionary space and practice space should not be treated as one undifferentiated destination.
 
 A future structure should distinguish at least:
 

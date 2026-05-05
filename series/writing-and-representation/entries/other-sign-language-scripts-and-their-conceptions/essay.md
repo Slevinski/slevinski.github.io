@@ -2,9 +2,9 @@
 
 **ASL-phabet, HamNoSys, ASLwrite, and what they imply about written sign language**
 
-This entry is a comparative support paper in the `Writing and Representation in Sutton SignWriting` series.
+This entry compares several visible sign-language script conceptions within the frame of *Writing and Representation in Sutton SignWriting*.
 
-A small number of other sign-language script conceptions should be acknowledged because a serious SignWriting writing-systems lane should acknowledge the visible landscape around it.
+A small number of other sign-language script conceptions deserve acknowledgment because SignWriting belongs to a visible landscape of attempts to write, notate, teach, or represent signed languages.
 
 The point is not to produce a laundry list and not to turn every other system into an opponent.
 
@@ -57,7 +57,7 @@ The systems below should be understood in relation to those goals.
 
 They should also not be collapsed into a single category merely because they all concern signed language.
 
-That is the main comparative point for this project: different scripts occupy different functional roles, while SignWriting is evaluated here primarily as plane-based writing with an unusually developed technical and public support path.
+That is the main comparative point for this project: different scripts occupy different functional roles, while SignWriting is evaluated here primarily as plane-based writing with an unusually developed technical and public stewardship path.
 
 The comparison can be summarized this way:
 
@@ -105,7 +105,7 @@ It is not trying to be a university notation system.
 ### SignWriting
 
 - **Institutional involvement**: historically broader in use than in formal academic housing
-- **Support structure**: international public use, independent stewardship, and growing need for durable institutional support
+- **Stewardship structure**: international public use, independent stewardship, and growing need for durable institutional continuity
 - **Vision**: function as a real writing system for signed languages while also supporting literacy, software, standards, corpus work, and long-term infrastructure
 
 This is why SignWriting raises a different scale of question.
@@ -168,7 +168,6 @@ Its encoding approach is especially noteworthy:
 - the visible script is plane-based
 - some sign structure has been described through linearized or keyboardable forms
 - its public materials emphasize writing practice, handwriting, and script culture more than standards infrastructure
-- any stronger claim about its current software ecosystem should be documented separately before publication
 
 This is a real script conception, not merely notation.
 
@@ -185,7 +184,7 @@ It already exists as:
 - a plane-based writing system for natural signed language
 - a public computational model through Formal SignWriting, with FSW and SWU as canonical encodings
 - a software and standards ecosystem
-- a dataset and continuity problem worth institutional support
+- a dataset and continuity problem worth institutional stewardship
 - a public technical record large enough to require stewardship
 
 It also has its own handwriting tradition.
@@ -210,15 +209,15 @@ That balance can change in the future.
 
 That fact matters here only as a reminder that script identity and encoding strategy are different layers.
 
-The detailed distinction between `Sgnw`, Formal SignWriting, FSW, and SWU belongs in `Formal SignWriting: FSW and SWU`.
+The detailed distinction between Sgnw, Formal SignWriting, FSW, and SWU belongs in *Formal SignWriting: FSW and SWU*.
 
-## Why this belongs in the writing lane
+## Why this belongs in the writing-systems series
 
 Acknowledging these scripts makes several things easier to say clearly.
 
 First, it shows that SignWriting exists in a real field rather than in isolation.
 
-Second, it prevents the writing-systems lane from sounding naive or uninformed.
+Second, it prevents the writing-systems series from sounding naive or uninformed.
 
 Third, it allows the SignWriting argument to remain constructive and accountable.
 
@@ -228,7 +227,7 @@ The central claim is not:
 
 The narrower claim is:
 
-> SignWriting currently offers the most developed documented path in this platform for durable plane-based writing that can support computation, technical continuity, and broader public use
+> SignWriting currently offers the most developed documented path for durable plane-based signed-language writing that can support computation, technical continuity, and broader public use
 
 It is unusually complete because it spans:
 
@@ -240,7 +239,7 @@ It is unusually complete because it spans:
 - dataset growth
 - continuity obligations
 
-That is why this entry belongs in `Writing and Representation in Sutton SignWriting` rather than remaining only an infrastructure-side comparison note.
+That is why this entry belongs in *Writing and Representation in Sutton SignWriting* rather than only in an infrastructure-side comparison.
 
 The claim should remain comparative rather than dismissive.
 
@@ -264,7 +263,7 @@ That does not make the other systems irrelevant.
 
 It makes the comparison sharper.
 
-From here, the strongest return path is back into the main writing-lane sequence:
+From here, the strongest return path is back into the main writing-systems sequence:
 
 - *The Shape of Writing*
 - *Plane-Based Writing and Script Typology*

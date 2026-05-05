@@ -35,6 +35,10 @@
       "title": "Why the Record Matters",
       "kicker": "1",
       "summary": "The current position comes from a real document trail showing what advanced and what did not.",
+      "image_prompts": {
+        "concrete": "Standards chronology slide showing Unicode proposals, minutes, responses, technical notes, and the current SignWriting compatibility position",
+        "abstract": "Document trail converging into a historically grounded technical position"
+      },
       "bullets": [
         "There were multiple proposals, responses, and minutes",
         "The two-stage expectation matters",
@@ -51,6 +55,10 @@
       "title": "2011 to 2012: The Two-Stage Path",
       "kicker": "2",
       "summary": "Early Unicode discussions proceeded under a two-stage expectation: first the symbol set, then a later solution for written signs.",
+      "image_prompts": {
+        "concrete": "Timeline slide from 2011 to 2012 showing Stage 1 symbol set advancing and Stage 2 written-sign encoding remaining unresolved",
+        "abstract": "A two-stage standards path with one branch completed and one branch left open"
+      },
       "bullets": [
         "Early proposals addressed symbol encoding",
         "The expectation of a second stage for written signs was explicit",
@@ -67,6 +75,10 @@
       "title": "2015: Block Approval Did Not End the Problem",
       "kicker": "3",
       "summary": "The official block was approved, but stable symbol identity and written-sign questions remained active rather than resolved.",
+      "image_prompts": {
+        "concrete": "Unicode 8 approval slide showing block approval beside continuing collation, symbol identity, and written-sign compatibility questions",
+        "abstract": "Formal approval separated from unresolved practical compatibility"
+      },
       "bullets": [
         "Unicode 8 added the SignWriting block",
         "Character naming advanced",
@@ -83,6 +95,10 @@
       "title": "2016 to 2017: Renewed Design Work, No Durable Follow-Through",
       "kicker": "4",
       "summary": "Later design presentations and options clarified the problem further, but they did not produce a completed compatible path.",
+      "image_prompts": {
+        "concrete": "Standards design-work timeline showing 2016 presentations and 2017 options leading to clarified issues but no durable compatible follow-through",
+        "abstract": "Renewed technical attention ending in an unresolved standards path"
+      },
       "bullets": [
         "Design notes and presentations continued",
         "Auxiliary and alternative options were explored",
@@ -98,6 +114,10 @@
       "title": "What the Record Shows",
       "kicker": "5",
       "summary": "The documentary trail supports a compatibility critique, not the story that Unicode fully solved the problem and only local reluctance remained.",
+      "image_prompts": {
+        "concrete": "Documentary conclusion slide showing character naming, symbol identity, written-sign encoding, collation concerns, and incomplete follow-through as separate historical findings",
+        "abstract": "Historical evidence clarifying the present compatibility critique"
+      },
       "bullets": [
         "Character naming, stable symbol identity, and written-sign encoding did not advance equally",
         "The symbol stage and the written-sign stage were distinct",

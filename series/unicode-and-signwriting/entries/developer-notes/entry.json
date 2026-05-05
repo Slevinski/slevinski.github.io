@@ -28,6 +28,10 @@
       "title": "Current Implementation Baseline",
       "kicker": "1",
       "summary": "Use FSW as canonical production text and SWU as the supported Unicode-oriented isomorphic form.",
+      "image_prompts": {
+        "concrete": "Developer architecture slide showing FSW as canonical production text, SWU as Unicode-oriented form, ISWA 2010 as symbol reference, and official Unicode as compatibility context",
+        "abstract": "Encoding layers arranged as a practical developer baseline"
+      },
       "bullets": [
         "FSW for canonical storage and processing",
         "SWU for Unicode-oriented interchange and inspection",
@@ -43,13 +47,17 @@
       "title": "Keep the Encoding Boundaries Visible",
       "kicker": "2",
       "summary": "A healthy codebase makes canonical, interchange, compatibility, and experimental layers explicit.",
+      "image_prompts": {
+        "concrete": "Software architecture slide separating canonical storage, interchange forms, compatibility support, and experimental encoding paths",
+        "abstract": "Clear encoding boundaries inside a maintainable codebase"
+      },
       "bullets": [
         "Canonical text should be explicit",
         "Interchange forms should be named clearly",
         "Compatibility support should not masquerade as canonical storage",
         "Experimental paths should stay isolated"
       ],
-      "speech": "A recurring software mistake is to let multiple encodings coexist without clear boundaries. That makes every downstream feature more fragile. A healthier architecture names the layers directly: what is canonical, what is interchange, what is compatibility support, and what is experimental. When those boundaries stay visible, conversion, validation, search, and migration decisions become more honest and more testable.",
+      "speech": "A recurring software mistake is to let multiple encodings coexist without clear boundaries. That makes downstream features harder to maintain. A healthier architecture names the layers directly: what is canonical, what is interchange, what is compatibility support, and what is experimental. When those boundaries stay visible, conversion, validation, search, and migration decisions become more honest and more testable.",
       "notes": "This is an architecture hygiene slide.",
       "mermaid": "flowchart TD\n  A[Codebase] --> B[Canonical]\n  A --> C[Interchange]\n  A --> D[Compatibility]\n  A --> E[Experimental]\n  B --> F[Stable core decisions]\n  C --> G[Explicit conversion]\n  D --> H[Constrained support]\n  E --> I[Isolation and testing]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,B,C,D,E,F,G,H,I node;"
     },
@@ -58,6 +66,10 @@
       "title": "Why Character Naming And Fonts Are Not Enough",
       "kicker": "3",
       "summary": "Developers need more than named characters and fonts. They need stable symbol identity, predictable storage, search, sorting, and interoperability.",
+      "image_prompts": {
+        "concrete": "Developer diagnostic slide showing character naming and fonts on one side, and stable symbol identity, storage, search, sorting, and interoperability on the other",
+        "abstract": "Visible rendering separated from deeper data identity requirements"
+      },
       "bullets": [
         "Rendering matters but is not the main issue",
         "Naming characters is not the same as preserving stable symbols",
@@ -74,6 +86,10 @@
       "title": "The Safe Migration Test",
       "kicker": "4",
       "summary": "Do not migrate existing data unless the compatibility questions are clearly answered first.",
+      "image_prompts": {
+        "concrete": "Migration decision slide with checkpoints for lossless written signs, stable symbols, sorting, renderer compatibility, and round-trip guarantees",
+        "abstract": "A cautious migration gate based on compatibility tests"
+      },
       "bullets": [
         "Are stable writer-selected symbols preserved across the full system?",
         "Can full signs be represented without loss?",
@@ -90,6 +106,10 @@
       "title": "Current AI and Data Reality",
       "kicker": "5",
       "summary": "The computational question is now more about dataset quality and scale than about whether usable encodings exist.",
+      "image_prompts": {
+        "concrete": "AI data workflow slide showing FSW corpora, SWU inspection data, processing workflows, model input, and data scale and quality constraints",
+        "abstract": "Usable encodings flowing into computational workflows with data quality as the constraint"
+      },
       "bullets": [
         "FSW remains strong canonical text",
         "SWU is usable for AI-oriented workflows",
@@ -97,7 +117,7 @@
         "Unicode incompleteness is real, but not computational impossibility"
       ],
       "speech": "A useful correction for developers is that Unicode incompleteness is not the same thing as computational impossibility. The current stack is still usable. FSW remains a strong canonical form, and SWU is workable for AI-oriented preparation and model input. The limiting factor now is often dataset size and dataset quality rather than the absence of any usable encoding at all.",
-      "notes": "This keeps the developer lane contemporary without losing the standards critique.",
+      "notes": "This keeps the developer notes contemporary without losing the standards critique.",
       "mermaid": "flowchart TD\n  A[Current text encodings] --> B[FSW canonical corpora]\n  A --> C[SWU Unicode-oriented data]\n  B --> D[Processing and search]\n  C --> E[Inspection and AI workflows]\n  D --> F[Real computational use]\n  E --> F\n  F --> G[Main constraint: data scale and quality]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D,E node;\n  class F,G out;"
     },
     {
@@ -105,6 +125,10 @@
       "title": "What `@sutton-signwriting/unicode8` Is For",
       "kicker": "6",
       "summary": "Bridge packages are useful, but they should be described as compatibility tooling rather than proof that the deeper problem is solved.",
+      "image_prompts": {
+        "concrete": "JavaScript package slide showing unicode8 bridge tooling connecting official Unicode 8 SignWriting, FSW, SWU, and compatibility workflows",
+        "abstract": "A bridge tool connecting encodings without claiming to solve the full standards model"
+      },
       "bullets": [
         "The package processes official Unicode 8 SignWriting where needed",
         "It also bridges FSW and SWU",

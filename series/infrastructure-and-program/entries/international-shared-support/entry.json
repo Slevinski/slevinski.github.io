@@ -3,8 +3,8 @@
   "number": 3,
   "title": "International Shared Support",
   "subtitle": "Institutional backing, international participation, and shared continuity for Sutton SignWriting",
-  "summary": "A support model for sustaining Sutton SignWriting as shared international language infrastructure rather than a single-maintainer project.",
-  "synopsis": "Sutton SignWriting already supports international education, research, public language resources, and community use. This entry explains why support should combine an institutional home, international partner relationships, letters and statements of use, country-level coordination, and future grant, gift, donation, and collaboration pathways.",
+  "summary": "A shared stewardship model for sustaining Sutton SignWriting as international language infrastructure rather than a single-maintainer project.",
+  "synopsis": "Sutton SignWriting already supports international education, research, public language resources, and community use. This entry explains why stewardship should combine an accountable host or fiscal-sponsor structure, international partner relationships, letters and statements of use, country-level coordination, and future grant, gift, donation, and collaboration pathways.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -18,28 +18,36 @@
       "id": "shared-infrastructure",
       "title": "Shared Language Infrastructure",
       "kicker": "1",
-      "summary": "Sutton SignWriting has international dependence, so its support model should be international too.",
+      "summary": "Sutton SignWriting has international dependence, so its stewardship model should be international too.",
+      "image_prompts": {
+        "concrete": "International infrastructure slide showing SignWriting education, research, public language resources, and community use across connected countries",
+        "abstract": "Shared language infrastructure spanning multiple local contexts"
+      },
       "bullets": [
         "Educational use",
         "Research use",
         "Public language resources",
         "International relationships"
       ],
-      "speech": "Sutton SignWriting is no longer only a personal project or a technical archive. It supports education, research, public language resources, and community use across countries. The support model should match that reality.",
+      "speech": "Sutton SignWriting is no longer only a personal project or a technical archive. It supports education, research, public language resources, and community use across countries. The stewardship model should match that reality.",
       "notes": "Open with infrastructure reality, not outreach rhetoric."
     },
     {
-      "id": "support-model",
-      "title": "Support Model",
+      "id": "participation-model",
+      "title": "Participation Model",
       "kicker": "2",
-      "summary": "The model combines an institutional home, partner evidence, country coordination, and future funding pathways.",
+      "summary": "The model combines an accountable host or fiscal-sponsor structure, partner evidence, country coordination, and future funding pathways.",
+      "image_prompts": {
+        "concrete": "Participation model slide combining accountable host or fiscal sponsor, partner statements, country coordination, grants, gifts, donations, and collaboration pathways",
+        "abstract": "Distributed participation coordinated through an accountable stewardship structure"
+      },
       "bullets": [
-        "Institutional home",
+        "Accountable host",
         "Partner statements and letters",
         "Country-level coordination",
         "Grants, gifts, and donations"
       ],
-      "speech": "The strongest model combines an institutional home with international partner statements, country-level coordination, and future grants, gifts, donations, or collaboration pathways. No single partner has to carry the whole structure.",
+      "speech": "The strongest model combines an accountable host or fiscal-sponsor structure with international partner statements, country-level coordination, and future grants, gifts, donations, or collaboration pathways. No single partner has to carry the whole structure.",
       "notes": "Make this feel practical and distributed."
     },
     {
@@ -47,6 +55,10 @@
       "title": "How Partners Help",
       "kicker": "3",
       "summary": "Partners can strengthen the case through evidence, introductions, proposals, and local context.",
+      "image_prompts": {
+        "concrete": "Partner participation slide showing statements of use, letters, institutional introductions, proposal collaboration, and local context",
+        "abstract": "Local evidence and relationships strengthening a shared stewardship case"
+      },
       "bullets": [
         "Statements of use",
         "Letters of support",
@@ -55,6 +67,24 @@
       ],
       "speech": "International partners can help by documenting local use, writing letters of support, introducing appropriate institutional contacts, collaborating on proposals, and explaining what support would make the work more useful in their own setting.",
       "notes": "Keep the participation modes flexible."
+    },
+    {
+      "id": "near-term-actions",
+      "title": "Near-Term Actions",
+      "kicker": "4",
+      "summary": "The practical next step is to collect bounded evidence, reusable statements, partner introductions, and candidate coordination paths.",
+      "image_prompts": {
+        "concrete": "Near-term action slide showing evidence collection, reusable partner statements, institutional introductions, candidate coordination paths, and proposal readiness",
+        "abstract": "Concrete next steps moving from relationships to accountable stewardship"
+      },
+      "bullets": [
+        "Collect statements of use",
+        "Prepare reusable partner language",
+        "Identify institutional introductions",
+        "Map candidate coordination paths"
+      ],
+      "speech": "The near-term work is practical. Collect statements of use. Prepare reusable partner language. Identify appropriate institutional introductions. Map candidate coordination paths. These steps make future grants, gifts, donations, or fiscal-sponsor conversations more concrete.",
+      "notes": "Close with action without sounding like a campaign."
     }
   ]
 }

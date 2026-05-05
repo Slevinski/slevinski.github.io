@@ -8,7 +8,7 @@ If the series is right about the field's recurring problems, then the next task 
 
 This paper therefore shifts the emphasis from critique to construction. It treats SignWriting and Formal SignWriting as the strongest currently documented path to durable signed-language text infrastructure, while also treating that position as the beginning of a serious program rather than its conclusion.
 
-For the broader theory-facing bridge behind this constructive agenda, see `Signed Language Writing as a Pressure Test for General Writing Theory`, the companion paper attached to the Meletis and Durscheid review.
+For the broader theory-facing bridge behind this constructive agenda, see *Signed Writing as a Pressure Test for General Writing Theory*, the companion paper attached to the Meletis and Durscheid review.
 
 ## The point of construction
 
@@ -21,7 +21,7 @@ The field no longer benefits much from cycling through the weakest old disputes:
 
 Those arguments still appear, but they no longer mark the leading edge of the problem.
 
-The more serious questions are now constructive:
+The more serious questions are constructive:
 
 - what text infrastructure already exists
 - what remains incomplete
@@ -106,7 +106,7 @@ None of those roles is trivial.
 
 The point of comparison is not to erase them. It is to ask whether any of them currently provide the same full path to durable public text infrastructure.
 
-### 5. The field's open questions are now empirical and infrastructural
+### 5. The field's open questions are empirical and infrastructural
 
 The weakest remaining discussions are often still conceptual.
 
@@ -121,7 +121,7 @@ The strongest remaining questions are more practical:
 - software maintenance
 - standards compatibility
 
-Those are the places where real progress now has to happen.
+Those are the places where real progress has to happen.
 
 ## Priority 1: Evidence beyond plausibility
 
@@ -151,7 +151,7 @@ That means:
 
 - expanding text corpora
 - improving corpus discoverability
-- preserving legacy materials
+- preserving earlier materials
 - supporting text reuse across dictionaries, publications, and research
 - making corpora suitable for both human reading and computational analysis
 
@@ -332,7 +332,7 @@ It is that it clarifies what the field most needs next.
 
 The strongest constructive conclusion available at present is:
 
-> signed-language writing now needs more evidence, more corpus work, better tools, stronger interoperability, and broader collaboration built on real written text rather than on repeated returns to the question of whether writing is possible at all
+> signed-language writing needs more evidence, more corpus work, better tools, stronger interoperability, and broader collaboration built on real written text rather than on repeated returns to the question of whether writing is possible at all
 
 If critique continues, it should continue in that spirit.
 

@@ -30,9 +30,9 @@ That does not make it a replacement for bilingual literacy, video, or community 
 
 Two words recur across this series.
 
-`Durable` means that text can be revisited, revised, searched, cited, taught, and reused.
+*Durable* means that text can be revisited, revised, searched, cited, taught, and reused.
 
-`Infrastructure` means the tools, standards, teaching, institutions, and stewardship that let writing persist.
+*Infrastructure* means the tools, standards, teaching, institutions, and stewardship that let writing persist.
 
 ## The Core Idea
 
@@ -58,13 +58,13 @@ The first claim establishes that signed languages do not need sound in order to 
 
 There are three entries in this public Sutton SignWriting Foundations series.
 
-1. `Start Here`
+1. *Start Here*
    This orientation gives the simplest overview and names the main argument.
 
-2. `Language Without Sound`
+2. *Language Without Sound*
    This essay explains why language is not reducible to speech and why signed languages need durable readable and writable pathways of their own.
 
-3. `The Shape of Writing`
+3. *The Shape of Writing*
    This essay explains why writing is not inherently linear and why SignWriting should be understood as plane-based writing.
 
 Read those three in order if you are new to the project.
@@ -73,12 +73,12 @@ Read those three in order if you are new to the project.
 
 The rest of the Sutton SignWriting platform carries the deeper specialist work.
 
-- `Sutton SignWriting Language and Literacy Research` develops the research-facing pathway model.
-- `Writing and Representation in Sutton SignWriting` expands the writing-systems argument.
-- `Sutton SignWriting Evidence and Adoption` documents use, feasibility, and evidence boundaries.
-- `Sutton SignWriting Infrastructure and Program` explains stewardship, support, and long-term continuity.
-- `Formal SignWriting` documents the technical text model.
-- `Signed Language Writing Critical Review Series` evaluates literature, standards, proposals, and recurring claims.
+- *Sutton SignWriting Language and Literacy Research* develops the research-facing pathway model.
+- *Writing and Representation in Sutton SignWriting* expands the writing-systems argument.
+- *Sutton SignWriting Evidence and Adoption* documents use, feasibility, and evidence boundaries.
+- *Sutton SignWriting Infrastructure and Program* explains stewardship and long-term continuity.
+- *Formal SignWriting* documents the technical text model.
+- *Signed Language Writing Critical Review Series* evaluates literature, standards, proposals, and recurring claims.
 
 Those series are not required before reading Sutton SignWriting Foundations.
 

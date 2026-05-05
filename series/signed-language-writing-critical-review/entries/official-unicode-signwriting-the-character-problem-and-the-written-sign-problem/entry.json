@@ -12,5 +12,79 @@
     "public_label": "Standards Review",
     "public_slug": "primary",
     "publication_designation": "Working Review"
-  }
+  },
+  "slides": [
+    {
+      "id": "standards-distinction",
+      "title": "Standards Distinction",
+      "kicker": "1",
+      "summary": "Official Unicode SignWriting solved a real character-inventory problem but did not solve the full written-sign text model problem.",
+      "bullets": [
+        "Standardization outcome was real",
+        "Character inventory layer matters",
+        "Written-sign model remains separate",
+        "Current production use depends on other layers"
+      ],
+      "speech": "This standards review begins with a distinction. Official Unicode SignWriting was real and valuable at the character-inventory layer, but it did not solve the full written-sign text model problem for current Sutton SignWriting production use.",
+      "notes": "Keep the review respectful and precise.",
+      "image_prompts": {
+        "concrete": "Standards review slide separating Unicode character inventory from written-sign text model and current production use layers",
+        "abstract": "A standards layer and a text-model layer held apart for clarity"
+      }
+    },
+    {
+      "id": "character-problem",
+      "title": "Character Problem",
+      "kicker": "2",
+      "summary": "Unicode can encode characters and script identity without automatically preserving composed written signs as usable text.",
+      "bullets": [
+        "Script identity is not the whole model",
+        "Characters are not complete signs",
+        "Fonts do not define authored text",
+        "Rendering cannot carry the whole burden"
+      ],
+      "speech": "The character problem is that Unicode can encode characters and script identity without automatically preserving composed written signs as usable text. Characters, fonts, rendering, and written sign structure must not be collapsed.",
+      "notes": "This is the key standards-layer point.",
+      "image_prompts": {
+        "concrete": "Technical standards slide showing Unicode characters, script identity, fonts, rendering, and written sign structure as separate boxes",
+        "abstract": "Characters and complete written signs separated by a clear analytic boundary"
+      }
+    },
+    {
+      "id": "written-sign-problem",
+      "title": "Written-Sign Problem",
+      "kicker": "3",
+      "summary": "The unresolved issue is how to preserve symbol identity, sign boundaries, spatial placement, and compatibility with actual production practice.",
+      "bullets": [
+        "Symbol identity",
+        "Sign boundaries",
+        "Spatial placement",
+        "Compatibility with FSW and SWU practice"
+      ],
+      "speech": "The written-sign problem asks how the system preserves symbol identity, sign boundaries, spatial placement, and compatibility with actual production practice. That is a text-model problem, not only a character-allocation problem.",
+      "notes": "Make the compatibility issue concrete.",
+      "image_prompts": {
+        "concrete": "Written-sign model slide showing symbol identity, sign boundaries, spatial placement, and compatibility with FSW and SWU practice",
+        "abstract": "A composed written sign held together by identity, boundary, and space"
+      }
+    },
+    {
+      "id": "review-conclusion",
+      "title": "Review Conclusion",
+      "kicker": "4",
+      "summary": "The Unicode record should be preserved as partial standardization, not overread as a complete solution to SignWriting text.",
+      "bullets": [
+        "Preserve the Unicode record",
+        "Do not overread it",
+        "Name compatibility gaps",
+        "Keep standards and production layers distinct"
+      ],
+      "speech": "The conclusion is not to dismiss Unicode SignWriting. The conclusion is to preserve it as partial standardization while avoiding the overreading that it solved the full written-sign model.",
+      "notes": "Close with balanced standards posture.",
+      "image_prompts": {
+        "concrete": "Balanced standards conclusion slide preserving Unicode SignWriting as partial standardization while marking unresolved text-model gaps",
+        "abstract": "A partial standard carefully placed inside a larger standards map"
+      }
+    }
+  ]
 }

@@ -17,7 +17,7 @@
 
 ## Series Description
 
-`Unicode and SignWriting` is the technical companion lane for Unicode history, standards-facing discussion, compatibility, developer guidance, Wikimedia context, and the distinction between character encoding, stable symbol identity, and written-sign text modeling.
+`Unicode and SignWriting` is the technical companion series for Unicode history, standards-facing discussion, compatibility, developer guidance, Wikimedia context, and the distinction between character encoding, stable symbol identity, and written-sign text modeling.
 
 ## Repository Description
 

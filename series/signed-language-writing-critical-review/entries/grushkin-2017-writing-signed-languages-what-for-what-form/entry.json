@@ -12,5 +12,79 @@
     "public_label": "Review",
     "public_slug": "primary",
     "publication_designation": "Working Review"
-  }
+  },
+  "slides": [
+    {
+      "id": "what-grushkin-sees",
+      "title": "What Grushkin Sees",
+      "kicker": "1",
+      "summary": "Grushkin is strong on the need for signed writing and on the limits of glossing and video.",
+      "bullets": [
+        "Signed languages benefit from writing",
+        "Gloss is inadequate",
+        "Video is not a substitute for writing",
+        "Community and educational reasons matter"
+      ],
+      "speech": "This review credits Grushkin for seeing something important: signed languages benefit from writing. The article is strong on the limits of glossing, the limits of video, and the educational and community reasons for wanting signed writing.",
+      "notes": "Begin with the contribution.",
+      "image_prompts": {
+        "concrete": "Literature review slide crediting Grushkin for naming the need for signed writing, limits of gloss, limits of video, and educational/community reasons",
+        "abstract": "A review source illuminated for the real need it identifies"
+      }
+    },
+    {
+      "id": "where-it-narrows",
+      "title": "Where The Argument Narrows",
+      "kicker": "2",
+      "summary": "The argument narrows too quickly when alphabetic signed writing becomes the preferred conclusion.",
+      "bullets": [
+        "SignWriting is treated too shallowly",
+        "The evaluation standard is alphabetic",
+        "English biliteracy becomes too controlling",
+        "The written sign is underanalyzed"
+      ],
+      "speech": "The review's main critique is that the article narrows too quickly. It recognizes the need for signed writing, but moves toward alphabetic signed writing as the preferred conclusion while treating SignWriting and related systems too shallowly.",
+      "notes": "Keep the critique about framing, not motive.",
+      "image_prompts": {
+        "concrete": "Critical review slide showing the signed-writing question narrowing too quickly toward alphabetic criteria while spatial writing remains outside the frame",
+        "abstract": "A wide field of signed-writing possibilities narrowing too early into one path"
+      }
+    },
+    {
+      "id": "framework-reading",
+      "title": "Framework Reading",
+      "kicker": "3",
+      "summary": "Through the framework, Grushkin is strong on need and weak on representation model, spatial organization, and text-model infrastructure.",
+      "bullets": [
+        "Strong necessity-of-writing argument",
+        "Alphabetic bias in evaluation",
+        "Limited account of spatial writing",
+        "Incomplete text-model discussion"
+      ],
+      "speech": "Through the framework, Grushkin's durable contribution is the necessity-of-writing argument. The limits appear in the representation model, the alphabetic evaluation standard, spatial organization, and the missing account of written signs as structured units.",
+      "notes": "This slide links review to method.",
+      "image_prompts": {
+        "concrete": "Layer-based reading slide separating writing need, alphabetic bias, structural unit analysis, spatial organization, and claims versus evidence",
+        "abstract": "A source claim passed through a clear layer-based review frame"
+      }
+    },
+    {
+      "id": "durable-contribution",
+      "title": "Durable Contribution",
+      "kicker": "4",
+      "summary": "The durable contribution is the need for signed writing, not the orthographic prescription.",
+      "bullets": [
+        "Keep the necessity argument",
+        "Do not inherit the alphabetic default",
+        "Evaluate SignWriting on its own structure",
+        "Use the paper as a field prompt"
+      ],
+      "speech": "The final assessment is that Grushkin's durable contribution is the need for signed writing. The orthographic prescription is less convincing. The useful next step is to evaluate SignWriting on its own structure rather than through an alphabetic default.",
+      "notes": "Close with preservation plus correction.",
+      "image_prompts": {
+        "concrete": "Contribution slide showing the necessity-of-writing argument preserved while the orthographic prescription is bounded",
+        "abstract": "A valid contribution kept intact after critique"
+      }
+    }
+  ]
 }

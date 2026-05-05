@@ -91,7 +91,11 @@
       ],
       "speech": "Transformations belong here because search is a pipeline. Existing Formal SignWriting text can be transformed into query forms, and queries can be transformed into regular expressions or equivalent matching logic. This is where the model becomes useful for reproducible corpus work and software workflows, and where the matching layer proves that it is more than a convenience feature.",
       "notes": "End by connecting search to real data practices.",
-      "mermaid": "flowchart TD\n  A[Formal SignWriting text] --> B[Derived query]\n  B --> C[Regular expression or matcher]\n  C --> D[Matching signs]\n  C --> E[Matching lines]\n  D --> F[Counts concordances filtering]\n  E --> F\n  F --> G[Reproducible corpus workflow]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C core;\n  class D,E,F node;\n  class G out;"
+      "mermaid": "flowchart TD\n  A[Formal SignWriting text] --> B[Derived query]\n  B --> C[Regular expression or matcher]\n  C --> D[Matching signs]\n  C --> E[Matching lines]\n  D --> F[Counts concordances filtering]\n  E --> F\n  F --> G[Reproducible corpus workflow]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C core;\n  class D,E,F node;\n  class G out;",
+      "image_prompts": {
+        "concrete": "Search pipeline slide showing Formal SignWriting text becoming derived queries, matchers, matching signs, concordances, filters, and reproducible corpus workflow",
+        "abstract": "Structured sign text flowing through a reproducible search pipeline"
+      }
     }
   ]
 }

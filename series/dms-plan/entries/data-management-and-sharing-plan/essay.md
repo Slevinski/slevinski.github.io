@@ -336,7 +336,7 @@ This includes:
 - validating repository-facing materials
 - supporting actual movement to the external repository
 
-These two lanes reinforce each other.
+These two tracks reinforce each other.
 
 A better plan improves execution.
 

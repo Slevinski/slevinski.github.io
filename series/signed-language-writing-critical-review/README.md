@@ -1,91 +1,73 @@
 # Signed Language Writing Critical Review Series
 
-Series-about page for the `Signed Language Writing Critical Review Series`.
+*Critical reviews of signed-language writing scholarship, standards, notation, encoding, and representation*
 
-## What This Series Is
+This repository contains the critical review series of the Sutton SignWriting platform. It reviews scholarship, standards, theses, and proposals about signed language writing.
 
-This series reviews scholarship, standards, theses, and proposals about signed language writing.
+The recurring question is:
 
-It asks a recurring question:
+> what level of the problem is this work actually solving?
 
-> What level of the problem is this work actually solving?
+That question keeps the reviews disciplined. A proposal may solve a notation problem without solving a writing problem. A standard may encode characters without providing a complete written-sign model. A rendering system may display signs without preserving authored text.
 
-That question keeps the reviews disciplined. A proposal may solve a notation problem without solving a writing problem. A standard may encode characters without providing a complete written-sign model. A rendering system may display signs without preserving authored text. A theory of writing may explain speech-based scripts well while still struggling with signed language writing.
+## Repository Details
 
-The series is for:
+- Repository: `sutton-signwriting/signed-language-writing-critical-review`
+- Living site: `https://steveslevinski.me/#series/signed-language-writing-critical-review`
+- Version: `v1.0.0`
+- Publication year: `2026`
+- License: `CC BY 4.0`
+- Series DOI: `https://doi.org/10.5281/zenodo.20042604`
+
+## Who This Repository Is For
 
 - readers evaluating signed-language writing systems and proposals
 - researchers working across writing systems, notation, encoding, and representation
 - standards and infrastructure readers who need clean layer distinctions
 - SignWriting readers who want a fair account of external critiques and alternatives
 
-## Public Reading Path
+## How To Read This Series
 
-Public readers should begin with:
+Begin with the shared framework and baseline reviews:
 
-- `Signed Language Writing Critical Review Series Overview`
-- `Start Here` companion inside the overview entry
-- `A Unified Critique Framework for Signed Language Writing, Encoding, and Representation`
-- `Sutton SignWriting and Formal SignWriting Through the Framework`
-- `A Layer-Based Evaluation of Signed Language Writing Systems`
-- the individual review essays
-- `From Critique to Construction`
+1. [Signed Language Writing Critical Review Series Overview](entries/overview/essay.md)
+2. [A Unified Critique Framework for Signed Language Writing, Encoding, and Representation](entries/a-unified-critique-framework-for-signed-language-writing-systems/essay.md)
+3. [Sutton SignWriting and Formal SignWriting Through the Framework](entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md)
+4. [A Layer-Based Evaluation of Signed Language Writing Systems](entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md)
 
-The full public overview lives as a series entry:
+Then read the individual reviews and the constructive synthesis.
 
-- [entries/overview/essay.md](./entries/overview/essay.md)
+## Contents
 
-The overview's short orientation companion is:
-
-- [entries/overview/start-here.md](./entries/overview/start-here.md)
-
-## Series Contents
-
-- `entries/overview/` - public overview and reader orientation
-- `entries/a-unified-critique-framework-for-signed-language-writing-systems/` - reusable evaluation framework
-- `entries/sutton-signwriting-and-formal-signwriting-through-the-framework/` - baseline self-evaluation of Sutton SignWriting and Formal SignWriting
-- `entries/a-layer-based-evaluation-of-signed-language-writing-systems/` - bounded comparison across several writing and representation systems
-- `entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/` - standards review of official Unicode SignWriting
-- `entries/grushkin-2017-writing-signed-languages-what-for-what-form/` - review of Grushkin's writing-and-literacy argument
-- `entries/filhol-2020-a-human-editable-sign-language-representation/` - review of Filhol's representation proposal
-- `entries/thiessen-2011-a-grammar-of-signwriting/` - review of Thiessen's grammar of SignWriting
-- `entries/martin-2000-from-notation-to-writing/` - review of Martin's comparison of Stokoe Notation and Sutton SignWriting
-- `entries/meletis-and-durscheid-2022-writing-systems-and-their-use/` - review of a grapholinguistic writing-systems account
-- `entries/from-critique-to-construction-priorities-for-signed-language-writing-infrastructure/` - constructive synthesis for future infrastructure
+- [Overview](entries/overview/essay.md) - public orientation for the review series
+- [A Unified Critique Framework](entries/a-unified-critique-framework-for-signed-language-writing-systems/essay.md) - reusable evaluation framework
+- [Sutton SignWriting and Formal SignWriting Through the Framework](entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md) - internal baseline review
+- [A Layer-Based Evaluation of Signed Language Writing Systems](entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md) - bounded comparison across systems
+- [Official Unicode SignWriting](entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/essay.md) - standards review of official Unicode SignWriting
+- [Grushkin 2017](entries/grushkin-2017-writing-signed-languages-what-for-what-form/essay.md) - review of writing-form arguments
+- [Filhol 2020](entries/filhol-2020-a-human-editable-sign-language-representation/essay.md) - review of AZee and editable representation
+- [Thiessen 2011](entries/thiessen-2011-a-grammar-of-signwriting/essay.md) - review of grammar and SignWriting description
+- [Martin 2000](entries/martin-2000-from-notation-to-writing/essay.md) - review of notation-to-writing arguments
+- [Meletis and Durscheid 2022](entries/meletis-and-durscheid-2022-writing-systems-and-their-use/essay.md) - review of general writing-system theory
+- [From Critique to Construction](entries/from-critique-to-construction-priorities-for-signed-language-writing-infrastructure/essay.md) - constructive synthesis for research, tooling, standards, education, and infrastructure
+- [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
 ## Review Commitments
 
-The series should stay critical without becoming dismissive.
+Each review distinguishes writing, notation, encoding, rendering, and infrastructure; evaluates claims at the level where they operate; separates useful contributions from unresolved gaps; and connects review findings back to better research, standards, tools, and public explanation.
 
-Each review should:
+## Citation
 
-- distinguish writing, notation, encoding, rendering, and infrastructure
-- evaluate claims at the level they actually operate on
-- separate useful contributions from unresolved gaps
-- avoid treating SignWriting as a caricature
-- avoid treating SignWriting as exempt from critique
-- connect review findings back to better research, standards, tools, and public explanation
-
-## Publication And Citation Model
-
-Publication metadata, DOI posture, release files, and citation stubs live in [publishing.md](./publishing.md).
-
-## Source Of Truth
-
-Edit this series in `docs/series/signed-language-writing-critical-review/`.
-
-The public site mirror under `apps/steveslevinski-me/public/series/signed-language-writing-critical-review/` is generated by:
-
-```bash
-node apps/steveslevinski-me/scripts/sync-docs.mjs
+```text
+Slevinski, S. (2026). Signed Language Writing Critical Review Series (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20042604
 ```
 
-Do not hand-edit the generated mirror unless repairing a sync problem.
+Use the series DOI when citing the review series as a whole. Use an artifact DOI when citing a specific paper that has its own record.
 
-## Related Series
+## Platform Context
 
-- `Sutton SignWriting Foundations` provides the public conceptual opening.
-- `Formal SignWriting` provides the technical text model used as a baseline in several reviews.
-- `Writing and Representation in Sutton SignWriting` develops the broader writing-systems argument.
-- `Sutton SignWriting Evidence and Adoption` keeps adoption claims tied to documented practice.
-- `Sutton SignWriting Infrastructure and Program` turns review findings toward support, continuity, and stewardship.
+This repository is one of eight series in the Sutton SignWriting platform release. It tests the platform's writing, encoding, standards, and infrastructure claims against external literature and proposals.
+
+## License
+
+Unless otherwise noted, the contents are released under the Creative Commons Attribution 4.0 International License (`CC BY 4.0`).

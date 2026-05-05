@@ -23,7 +23,7 @@
       "kicker": "1",
       "summary": "Language is not sound. It is a brain system.",
       "image_prompts": {
-        "concrete": "Scientific brain illustration with Broca's area and Wernicke's area labeled, arrows from ear and eyes converging on a common language network, clean academic slide graphic, white background",
+        "concrete": "Scientific brain illustration showing distributed language networks, with arrows from ear, eyes, and hands converging into shared meaning and production systems, clean academic slide graphic, white background",
         "abstract": "Glowing brain network with multiple streams of input merging into one center of meaning, no text, no sound waves, elegant scientific abstraction"
       },
       "bullets": [
@@ -226,28 +226,28 @@
     },
     {
       "id": "infrastructure-need",
-      "title": "Infrastructure Need",
+      "title": "Continuity Structure",
       "kicker": "12",
-      "summary": "The ecosystem already exists; continuity, stewardship, and institutional support are the weak points.",
+      "summary": "The ecosystem already exists; continuity, stewardship, and accountable structure are the practical questions.",
       "image_prompts": {
-        "concrete": "Global SignWriting infrastructure concept with websites, databases, education use, and a visible weak point showing fragile support, professional academic advocacy visual",
-        "abstract": "A widely used bridge supported by too few pillars, suggesting the need for stronger foundations"
+        "concrete": "Global SignWriting infrastructure concept with websites, databases, educational use, standards work, documentation, and stewardship functions arranged as an accountable system, professional academic visual",
+        "abstract": "A durable bridge with clearly labeled pillars for maintenance, documentation, succession, collaboration, and technical stewardship"
       },
       "bullets": [
         "Real users, tools, standards, and history already exist",
-        "Support is still fragile",
-        "Fragility limits continuity, maintenance, and growth",
-        "Institutional backing changes the trajectory"
+        "Continuity depends on named stewardship functions",
+        "Maintenance, documentation, and succession matter",
+        "Accountable structure makes growth easier to sustain"
       ],
-      "speech": "By this point, the issue should no longer look hypothetical. SignWriting already has real users, real software, real standards work, and a real scholarly history. The weakness is not existence. The weakness is continuity.\n\nWhen support is too thin, everything becomes harder: maintenance, documentation, succession, collaboration, funding, and reliability. That matters for daily users, and it matters for science. If we want durable literacy work, durable datasets, and durable research programs, the system needs more than interest. It needs an institutional home, collaborators, and steady technical stewardship.",
-      "notes": "Main point:\n- SignWriting is already real in use and in practice\n- the weak point is continuity, not legitimacy\n- stewardship and institutional support change maintenance, succession, and reliability\n\nKeep this grounded. The force comes from practicality, not exaggeration.\n\nTransition:\n- Once continuity is visible as the bottleneck, the upside of shared infrastructure becomes clearer.",
-      "mermaid": "flowchart TD\n  A[Existing SignWriting Ecosystem] --> B[Global Use]\n  A --> C[Standards and Software]\n  A --> D[Research and Education]\n  B --> E[High Value]\n  C --> E\n  D --> E\n  E --> F[Fragile Support Base]\n  F --> G[Continuity Risk]\n  G --> H[Need for Institutional Home]\n  H --> I[Collaboration, maintenance, and funding]\n\n  classDef base fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef value fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  classDef future fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  class A,B,C,D base;\n  class E value;\n  class F,G risk;\n  class H,I future;"
+      "speech": "By this point, the issue should no longer look hypothetical. SignWriting already has real users, real software, real standards work, and a real scholarly history. The practical question is continuity.\n\nDurable literacy work, durable datasets, and durable research programs depend on functions that can be named and sustained: maintenance, documentation, succession, collaboration, reliability, and technical stewardship. Those functions matter for daily users, and they matter for science. The point is not that interest is missing. The point is that durable written infrastructure works best when stewardship is accountable and explicit.",
+      "notes": "Main point:\n- SignWriting is already real in use and in practice\n- the practical question is continuity, not legitimacy\n- stewardship structure changes maintenance, succession, and reliability\n\nKeep this grounded. The force comes from practicality, not exaggeration.\n\nTransition:\n- Once continuity is visible as a function, the upside of shared infrastructure becomes clearer.",
+      "mermaid": "flowchart TD\n  A[Existing SignWriting Ecosystem] --> B[Global Use]\n  A --> C[Standards and Software]\n  A --> D[Research and Education]\n  B --> E[High Value]\n  C --> E\n  D --> E\n  E --> F[Continuity Functions]\n  F --> G[Maintenance]\n  F --> H[Documentation]\n  F --> I[Succession]\n  F --> J[Technical Stewardship]\n  G --> K[Accountable Structure]\n  H --> K\n  I --> K\n  J --> K\n\n  classDef base fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef value fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  classDef function fill:#fefce8,color:black,stroke:#ca8a04,stroke-width:2px;\n  classDef future fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  class A,B,C,D base;\n  class E value;\n  class F,G,H,I,J function;\n  class K future;"
     },
     {
       "id": "strategic-opportunity",
-      "title": "Strategic Opportunity",
+      "title": "Shared Research Opportunity",
       "kicker": "13",
-      "summary": "One shared SignWriting infrastructure can serve many disciplines at once.",
+      "summary": "One shared SignWriting text infrastructure can serve many disciplines at once.",
       "image_prompts": {
         "concrete": "Interdisciplinary research network diagram featuring linguists, neuroscientists, AI researchers, educators, and Deaf community users connected through SignWriting platforms",
         "abstract": "A central hub radiating connections to science, education, accessibility, and technology, bright and forward-looking"
@@ -257,15 +257,15 @@
         "One asset base, many disciplines",
         "Scientific, educational, and social value align here"
       ],
-      "speech": "This is where the opportunity becomes larger than any single field. The same SignWriting infrastructure can support readable text, standards work, corpora, datasets, experiments, and shared tools. Once those pieces exist, they do not belong to only one discipline. They support linguistics and literacy, education and accessibility, neuroscience, AI, and international collaboration at the same time.\n\nThat convergence is unusual. Scientific value, educational value, and social value often live in separate projects. Here they can grow from the same asset base. That is why the strategic opportunity is so strong. Building one shared layer can unlock many kinds of work at once.",
+      "speech": "This is where the opportunity becomes larger than any single field. The same SignWriting infrastructure can support readable text, standards work, corpora, datasets, experiments, and shared tools. Once those pieces exist, they do not belong to only one discipline. They support linguistics and literacy, education and accessibility, neuroscience, AI, and international collaboration at the same time.\n\nThat convergence is unusual. Scientific value, educational value, and social value often live in separate projects. Here they can grow from the same asset base. A shared written layer can make many kinds of work easier to compare, reuse, and extend.",
       "notes": "Main point:\n- one shared asset base can support many fields at the same time\n- readable text, tools, corpora, datasets, and experiments reinforce one another\n- the unusual feature here is convergence: many kinds of value come from the same infrastructure\n\nWalk from the center to the enabling layers, then to the fields, then to the combined value.\n\nTransition:\n- Close by restating the argument in its simplest form.",
-      "mermaid": "flowchart TD\n  A[Shared SignWriting Infrastructure] --> B[Readable and Writable Sign Text]\n  A --> C[Standards, Tools, and Platforms]\n  A --> D[Corpora, Datasets, and Experiments]\n\n  B --> E[Linguistics and Literacy]\n  C --> E\n  D --> E\n  B --> F[Education and Accessibility]\n  C --> F\n  D --> F\n  B --> G[Neuroscience and Cognitive Research]\n  C --> G\n  D --> G\n  B --> H[AI and Translation]\n  C --> H\n  D --> H\n\n  E --> I[Scientific, Educational, and Social Value]\n  F --> I\n  G --> I\n  H --> I\n\n  I --> J[Institutional Leverage and Collaboration]\n\n  classDef cap fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef field fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef value fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D cap;\n  class E,F,G,H field;\n  class I,J value;"
+      "mermaid": "flowchart TD\n  A[Shared SignWriting Infrastructure] --> B[Readable and Writable Sign Text]\n  A --> C[Standards, Tools, and Platforms]\n  A --> D[Corpora, Datasets, and Experiments]\n\n  B --> E[Linguistics and Literacy]\n  C --> E\n  D --> E\n  B --> F[Education and Accessibility]\n  C --> F\n  D --> F\n  B --> G[Neuroscience and Cognitive Research]\n  C --> G\n  D --> G\n  B --> H[AI and Translation]\n  C --> H\n  D --> H\n\n  E --> I[Scientific, Educational, and Social Value]\n  F --> I\n  G --> I\n  H --> I\n\n  I --> J[Shared Research Opportunity]\n\n  classDef cap fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef field fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef value fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D cap;\n  class E,F,G,H field;\n  class I,J value;"
     },
     {
       "id": "conclusion-contact-collaboration",
-      "title": "Conclusion / Contact / Collaboration",
+      "title": "Conclusion",
       "kicker": "14",
-      "summary": "Language, literacy, and writable sign lead to a concrete collaborative agenda.",
+      "summary": "Language, literacy, and writable sign lead to a concrete research and stewardship agenda.",
       "image_prompts": {
         "concrete": "Closing slide image showing brain, signing hands, and written SignWriting symbols connected in one clean composition, polished academic keynote style",
         "abstract": "A final image of meaning emerging from silence: brain networks, hands, and written symbols united in light, elegant and hopeful"
@@ -276,9 +276,9 @@
         "Literacy does depend on a writable system",
         "SignWriting addresses that gap"
       ],
-      "speech": "So the argument ends in a very simple sequence. Language does not depend on sound. Literacy does not depend on speech or vision. But literacy does depend on having a writable system. Spoken languages have writing. Blind readers have Braille. Signed languages have full linguistic structure, but they have often lacked equally mature written pathways. SignWriting addresses that gap.\n\nOnce signed language can function as durable text, the question is no longer whether the idea is possible. The question becomes how to build and sustain the infrastructure that lets it work at scale: in research, in teaching, in technology, and in everyday use. That is the collaboration I am looking for.",
-      "notes": "Main point:\n- close with the strongest short-form version of the argument\n- use the spoken language / Braille / signed language sequence slowly and clearly\n- end on collaboration as the practical next step\n\nPause after \"But literacy does depend on having a writable system.\" Then let the final sentence narrow into the ask for collaborators and institutional partners.",
-      "mermaid": "flowchart TD\n  A[Language does not depend on sound]\n  B[Literacy does not depend on speech or vision]\n  C[Literacy does depend on a writable system]\n\n  A --> D[Signed language is fully linguistic]\n  B --> E[Reading can travel through multiple routes]\n  C --> F[Durable written pathways matter]\n\n  D --> G[SignWriting addresses the missing written layer]\n  E --> G\n  F --> G\n\n  G --> H[Signed language can function as durable text]\n\n  H --> I[Research and datasets]\n  H --> J[Teaching and literacy]\n  H --> K[Technology and tools]\n  H --> L[Everyday use]\n\n  I --> M[Shared collaborative program]\n  J --> M\n  K --> M\n  L --> M\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef mid fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef outcome fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D,E,F,G core;\n  class H,I,J,K,L mid;\n  class M outcome;"
+      "speech": "So the argument ends in a very simple sequence. Language does not depend on sound. Literacy does not depend on speech or vision. But literacy does depend on having a writable system. Spoken languages have writing. Blind readers have Braille. Signed languages have full linguistic structure, but they have often lacked equally mature written pathways. SignWriting addresses that gap.\n\nOnce signed language can function as durable text, the question is no longer whether the idea is possible. The question becomes how to study, teach, build, and steward the written layer responsibly: in research, in teaching, in technology, and in everyday use.",
+      "notes": "Main point:\n- close with the strongest short-form version of the argument\n- use the spoken language / Braille / signed language sequence slowly and clearly\n- end on the publication-level implication rather than a live ask\n\nPause after \"But literacy does depend on having a writable system.\" Then let the final sentence land as a research and stewardship agenda.",
+      "mermaid": "flowchart TD\n  A[Language does not depend on sound]\n  B[Literacy does not depend on speech or vision]\n  C[Literacy does depend on a writable system]\n\n  A --> D[Signed language is fully linguistic]\n  B --> E[Reading can travel through multiple routes]\n  C --> F[Durable written pathways matter]\n\n  D --> G[SignWriting addresses the missing written layer]\n  E --> G\n  F --> G\n\n  G --> H[Signed language can function as durable text]\n\n  H --> I[Research and datasets]\n  H --> J[Teaching and literacy]\n  H --> K[Technology and tools]\n  H --> L[Everyday use]\n\n  I --> M[Responsible Stewardship]\n  J --> M\n  K --> M\n  L --> M\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef mid fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef outcome fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D,E,F,G core;\n  class H,I,J,K,L mid;\n  class M outcome;"
     }
   ]
 }

@@ -5,7 +5,7 @@ Plain-text encodings, character sets, and conversion
 
 Implementation reference only. Read the companion technical paper for the conceptual account; use these notes when checking implementation details, conversion arithmetic, and encoding cautions.
 
-These technical notes are the implementation-oriented companion to the paper. They are the primary home for conversion arithmetic, range details, regex-level patterns, and encoding cautions that would overburden the main paper.
+These technical notes are the implementation-oriented companion to the paper. They carry the conversion arithmetic, range details, regex-level patterns, and encoding cautions that would overburden the main paper.
 
 ## 0. Quick examples
 

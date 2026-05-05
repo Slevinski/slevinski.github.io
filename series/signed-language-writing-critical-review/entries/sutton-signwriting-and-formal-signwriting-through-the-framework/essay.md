@@ -307,6 +307,6 @@ It is a clearer statement of what the system actually is:
 
 ## Go Next
 
-- `Signed Language Writing Critical Review Series: A Layer-Based Evaluation of Signed Language Writing Systems` for the comparative demonstration
-- `Formal SignWriting: The Shape of a Sign` for the technical bridge into the signbox model
-- `Signed Language Writing Critical Review Series: Official Unicode SignWriting: The Character Problem and the Written-Sign Problem` for the standards-review consequence
+- *A Layer-Based Evaluation of Signed Language Writing Systems* for the comparative demonstration
+- *Formal SignWriting: The Shape of a Sign* for the technical bridge into the signbox model
+- *Official Unicode SignWriting: The Character Problem and the Written-Sign Problem* for the standards-review consequence

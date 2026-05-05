@@ -15,7 +15,7 @@ Some ideas are:
 - valuable
 - generative
 - worth preserving
-- not yet settled enough for the stronger public lanes
+- not yet settled enough for the stronger public series
 
 This series is where that work can live honestly.
 

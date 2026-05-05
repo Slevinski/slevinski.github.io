@@ -2,9 +2,9 @@
 
 **Where SignWriting fits, and where existing writing-system categories strain**
 
-This paper is a native anchor of the `Writing and Representation in Sutton SignWriting` series.
+This paper is the typological anchor of *Writing and Representation in Sutton SignWriting*.
 
-It follows *The Shape of Writing* from `Sutton SignWriting Foundations` and prepares the ground for *Perspective and Authored Space*.
+It follows *The Shape of Writing* and prepares the ground for *Perspective and Authored Space*.
 
 The earlier foundations paper makes a broad public claim:
 
@@ -406,7 +406,7 @@ SignWriting is designed and used as readable signed text, not only as a research
 
 The evidence for public use, educational use, and institutional visibility is not developed in this paper.
 
-That evidence belongs in `Sutton SignWriting Evidence and Adoption`, especially the entries on Brazil, South Korea, and the current evidence base.
+That evidence belongs in *Sutton SignWriting Evidence and Adoption*, especially the entries on Brazil, South Korea, and the current evidence base.
 
 The point here is typological:
 
@@ -561,7 +561,7 @@ The paper does not claim that this typological argument proves literacy outcomes
 
 Reading fluency, educational effects, adoption patterns, and community use require their own evidence.
 
-Those questions belong primarily in `Sutton SignWriting Language and Literacy Research` and `Sutton SignWriting Evidence and Adoption`.
+Those questions belong primarily in *Sutton SignWriting Language and Literacy Research* and *Sutton SignWriting Evidence and Adoption*.
 
 The paper also does not claim that the proposed two-axis account is final.
 
@@ -569,9 +569,9 @@ It is a working typological proposal.
 
 Future papers on kinematic writing may refine the terms used here.
 
-## Why this belongs first in the writing lane
+## Why this belongs first in the writing-systems series
 
-This paper should sit near the front of `Writing and Representation in Sutton SignWriting` because it changes the question the rest of the series answers.
+This paper belongs near the front of *Writing and Representation in Sutton SignWriting* because it changes the question the rest of the series answers.
 
 Without this paper, the series can seem to be saying:
 
@@ -591,7 +591,7 @@ The following entries then have clearer jobs:
 - *Iconicity, Convention, and Legibility* explains how motivated visual form becomes disciplined writing.
 - *Handwriting and Spatial Script Practice* explains how a spatial script lives in human material practice.
 - *Human Writing and Machine Encoding* explains how a plane-composed written unit can become machine-processable text without becoming line-based writing.
-- *The Shape of a Sign* in `Formal SignWriting` formalizes the signbox, symbol identity, coordinates, and boundaries.
+- *The Shape of a Sign* in *Formal SignWriting* formalizes the signbox, symbol identity, coordinates, and boundaries.
 - *Other Sign Language Scripts and Their Conceptions* compares neighboring script conceptions without making them carry the main typological argument.
 
 ## Conclusion
@@ -618,7 +618,7 @@ It is a proposed typological descriptor for a real structural fact:
 
 > in SignWriting, authored spatial relation belongs to the written form itself
 
-That is the point from which the rest of the writing-systems lane can proceed.
+That is the point from which the rest of the writing-systems series can proceed.
 
 ## Selected references
 

@@ -12,11 +12,11 @@ One early understanding repeatedly matters:
 
 That distinction remains central because the first stage moved forward while the second never became a workable compatible standard.
 
-That fact should stay visible because it explains why later discussion kept circling back to layout, written-sign structure, and compatibility.
+That distinction explains why later discussion kept circling back to layout, written-sign structure, and compatibility.
 
-It also helps explain why later public statements of success did not settle the matter for the Sutton SignWriting production ecosystem.
+It also explains why later public statements of success did not settle the matter for the Sutton SignWriting production ecosystem.
 
-It also helps explain a second distinction that became clearer over time:
+Over time, the record clarified a second distinction:
 
 - naming characters
 - preserving stable symbol identity

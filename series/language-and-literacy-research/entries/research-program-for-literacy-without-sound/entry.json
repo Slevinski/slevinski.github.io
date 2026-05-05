@@ -4,7 +4,7 @@
   "title": "Research Program for Literacy Without Sound",
   "subtitle": "Study design, materials, corpora, and the next empirical steps for signed-language literacy",
   "summary": "Third research-facing anchor for the Sutton SignWriting Language and Literacy Research series: a SignWriting-centered program of early studies, materials work, and reusable research infrastructure.",
-  "synopsis": "This entry turns the pathway model and reading-signed-text agenda into a practical research program. It defines three research lanes: reading and literacy studies, Brazil-grounded empirical work, and corpus, materials, and reusable research infrastructure. The emphasis is on realistic early studies, durable research assets, research ethics, external-validity limits, and disciplined evidence-building rather than script-comparison contests or premature large-scale claims.",
+  "synopsis": "This entry turns the pathway model and reading-signed-text agenda into a practical research program. It defines three research areas: reading and literacy studies, Brazil-grounded empirical work, and corpus, materials, and reusable research infrastructure. The emphasis is on realistic early studies, durable research assets, research ethics, external-validity limits, and disciplined evidence-building rather than script-comparison contests or premature large-scale claims.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -20,6 +20,98 @@
     "artifact_type": "program-notes",
     "publication_designation": "Program Notes"
   },
+  "slides": [
+    {
+      "id": "why-this-program",
+      "title": "Why This Program",
+      "kicker": "1",
+      "summary": "The pathway model and reading agenda need practical studies, materials, corpora, ethics, and reusable infrastructure.",
+      "image_prompts": {
+        "concrete": "Research program slide showing pathway model and reading questions feeding into studies, materials, corpora, ethics, and infrastructure",
+        "abstract": "A research agenda turning into durable study infrastructure"
+      },
+      "bullets": [
+        "Moves from model to program",
+        "Starts with realistic early studies",
+        "Builds reusable research assets",
+        "Keeps evidence claims disciplined"
+      ],
+      "speech": "This entry turns the pathway model and reading-signed-text agenda into a practical research program. It asks what can be studied first, what materials are needed, and what infrastructure would make future work cumulative.",
+      "notes": "Frame as realistic phase-one research planning."
+    },
+    {
+      "id": "three-research-areas",
+      "title": "Three Research Areas",
+      "kicker": "2",
+      "summary": "The program begins with reading and literacy studies, Brazil-grounded empirical work, and corpus, materials, and reusable research infrastructure.",
+      "image_prompts": {
+        "concrete": "Three-column research program slide: reading and literacy, Brazil-grounded empirical work, corpus and reusable infrastructure",
+        "abstract": "Three research areas connected by shared materials"
+      },
+      "bullets": [
+        "Reading and literacy studies",
+        "Brazil-grounded empirical work",
+        "Corpus and materials work",
+        "Reusable research infrastructure"
+      ],
+      "speech": "The program has three first research areas. One focuses on reading and literacy. One focuses on Brazil-grounded empirical work. One focuses on corpus, materials, and reusable research infrastructure.",
+      "notes": "Use areas, not lanes."
+    },
+    {
+      "id": "early-studies",
+      "title": "Realistic Early Studies",
+      "kicker": "3",
+      "summary": "Phase-one work should include institutional mapping, materials audits, reader-experience studies, short-text pilots, and corpus-building pilots.",
+      "image_prompts": {
+        "concrete": "Phase-one research checklist slide with institutional mapping, materials audit, reader experience, short-text tasks, and corpus pilot",
+        "abstract": "Small practical studies forming a first research base"
+      },
+      "bullets": [
+        "Institutional mapping",
+        "Materials audit",
+        "Reader-experience study",
+        "Short-text and corpus pilots"
+      ],
+      "speech": "The first studies should be realistic. Institutional mapping, materials audits, reader-experience interviews, short-text task pilots, and corpus-building pilots can produce useful knowledge without pretending to settle every outcome question.",
+      "notes": "Keep the scale modest and credible."
+    },
+    {
+      "id": "ethics-and-infrastructure",
+      "title": "Ethics And Infrastructure",
+      "kicker": "4",
+      "summary": "The program depends on community involvement, accessible consent, data rights, governance, and infrastructure that can preserve reusable materials.",
+      "image_prompts": {
+        "concrete": "Research governance slide showing community involvement, accessible consent, data rights, ethics review, and reusable infrastructure",
+        "abstract": "Ethics and infrastructure supporting a research program"
+      },
+      "bullets": [
+        "Community involvement",
+        "Accessible consent",
+        "Data sovereignty and reuse",
+        "Infrastructure for durable materials"
+      ],
+      "speech": "The program is not only about study design. It also depends on ethics, community governance, accessible consent, rights and reuse, and infrastructure that can preserve materials for future research.",
+      "notes": "Close by linking research to infrastructure."
+    },
+    {
+      "id": "phase-one-deliverables",
+      "title": "Phase-One Deliverables",
+      "kicker": "5",
+      "summary": "Phase one should produce durable research assets: an institutional map, materials set, pilot corpus, early reader findings, tested tasks, and ethics-ready study design.",
+      "image_prompts": {
+        "concrete": "Phase-one research deliverables checklist slide with institutional map, curated materials set, pilot corpus, reader-experience findings, short-text tasks, and ethics-ready study design",
+        "abstract": "Practical research assets becoming a stronger foundation for later studies"
+      },
+      "bullets": [
+        "Updated institutional map",
+        "Curated materials and pilot corpus",
+        "Early reader-experience findings",
+        "Tested tasks and ethics-ready design"
+      ],
+      "speech": "Phase one succeeds if it produces durable research assets. The practical outputs are an updated institutional map, a curated materials set, a reusable pilot corpus, early reader-experience findings, tested short-text tasks, and a stronger basis for ethics-ready study design.",
+      "notes": "End on concrete deliverables. This keeps the program modest, fundable, and cumulative."
+    }
+  ],
   "companion_documents": [
     {
       "file": "evidence-and-model-notes.md",

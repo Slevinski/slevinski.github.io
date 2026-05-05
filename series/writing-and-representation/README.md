@@ -1,95 +1,62 @@
 # Writing and Representation in Sutton SignWriting
 
-Repository and series-about page for the `Writing and Representation in Sutton SignWriting` series.
+*Writing-systems essays on plane-based composition, authored space, convention, handwriting, machine encoding, and signed-writing typology*
 
-## What This Series Is
+This repository contains the writing-systems series of the Sutton SignWriting platform. It defines the conceptual place of SignWriting as writing: not only as notation, not only as technical encoding, and not only as visual representation, but as authored signed-language text.
 
-`Writing and Representation in Sutton SignWriting` is the writing-systems lane of the Sutton SignWriting platform.
+## Repository Details
 
-It defines the conceptual place of SignWriting as writing rather than leaving that argument scattered across public essays, infrastructure documents, and technical notes.
+- Repository: `sutton-signwriting/writing-and-representation`
+- Living site: `https://steveslevinski.me/#series/writing-and-representation`
+- Version: `v1.0.0`
+- Publication year: `2026`
+- License: `CC BY 4.0`
+- Series DOI: pending
 
-This series is for:
+## Who This Repository Is For
 
 - writing-systems scholars
 - grapholinguists
 - scholars of notation, script, and representation
 - readers who want to understand how SignWriting works as writing
+- technical readers who need the conceptual background before Formal SignWriting
 
-## Public Reading Path
+## How To Read This Series
 
-Public readers should begin with:
+Begin with:
 
-- `Writing and Representation in Sutton SignWriting: Overview`
-- `Sutton SignWriting Foundations: The Shape of Writing`
-- `Writing and Representation in Sutton SignWriting: Plane-Based Writing and Script Typology`
-- `Writing and Representation in Sutton SignWriting: Perspective and Authored Space`
-- `Writing and Representation in Sutton SignWriting: Iconicity, Convention, and Legibility`
-- `Writing and Representation in Sutton SignWriting: Handwriting and Spatial Script Practice`
-- `Writing and Representation in Sutton SignWriting: Human Writing and Machine Encoding`
-- `Writing and Representation in Sutton SignWriting: Kinematography and the Limits of Writing-System Typology`
-- `Formal SignWriting: The Shape of a Sign`
+1. [Writing and Representation in Sutton SignWriting Overview](entries/overview/essay.md)
+2. [Plane-Based Writing and Script Typology](entries/plane-based-writing-and-script-typology/essay.md)
+3. [Perspective and Authored Space](entries/perspective-and-authored-space/essay.md)
+4. [Iconicity, Convention, and Legibility](entries/iconicity-convention-and-legibility/essay.md)
+5. [Handwriting and Spatial Script Practice](entries/handwriting-and-spatial-script-practice/essay.md)
+6. [Human Writing and Machine Encoding](entries/human-writing-and-machine-encoding/essay.md)
+7. [Kinematography and the Limits of Writing-System Typology](entries/kinematography-and-the-limits-of-writing-system-typology/essay.md)
 
-The full public overview now lives as a series entry:
+## Contents
 
-- [entries/overview/essay.md](./entries/overview/essay.md)
+- [Writing and Representation in Sutton SignWriting Overview](entries/overview/essay.md) - public overview for the writing-systems sequence
+- [Plane-Based Writing and Script Typology](entries/plane-based-writing-and-script-typology/essay.md) - typological anchor paper
+- [Perspective and Authored Space](entries/perspective-and-authored-space/essay.md) - viewpoint, relation, and composed space
+- [Iconicity, Convention, and Legibility](entries/iconicity-convention-and-legibility/essay.md) - motivated visual form as disciplined writing
+- [Handwriting and Spatial Script Practice](entries/handwriting-and-spatial-script-practice/essay.md) - human material practice
+- [Human Writing and Machine Encoding](entries/human-writing-and-machine-encoding/essay.md) - authorship, serialization, and text layers
+- [Kinematography and the Limits of Writing-System Typology](entries/kinematography-and-the-limits-of-writing-system-typology/essay.md) - theory capstone
+- [Other Sign Language Scripts and Their Conceptions](entries/other-sign-language-scripts-and-their-conceptions/essay.md) - comparative support essay
+- [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
-## Series Contents
+## Citation
 
-- `entries/overview/` - public overview for the writing-systems lane
-- `entries/plane-based-writing-and-script-typology/` - anchor paper on SignWriting, plane-based composition, script typology, and point-line-plane notes
-- `entries/perspective-and-authored-space/` - anchor paper on viewpoint, spatial relation, and authored space
-- `entries/iconicity-convention-and-legibility/` - anchor paper on visual motivation, convention, and legibility
-- `entries/handwriting-and-spatial-script-practice/` - anchor paper on handwriting, material practice, and spatial script culture
-- `entries/human-writing-and-machine-encoding/` - anchor paper on authorship, serialization, and text layers
-- `entries/kinematography-and-the-limits-of-writing-system-typology/` - capstone paper on signed writing as a pressure test for typology
-- `entries/other-sign-language-scripts-and-their-conceptions/` - comparative support entry on different signed-writing conceptions
-
-`Sutton SignWriting Foundations: The Shape of Writing` remains a shared anchor for this lane even though it lives in `Sutton SignWriting Foundations`.
-
-`Writing and Representation in Sutton SignWriting: Plane-Based Writing and Script Typology` is the native typological anchor for this lane.
-
-`Writing and Representation in Sutton SignWriting: Iconicity, Convention, and Legibility` is the bridge from authored visual-spatial form to disciplined legibility.
-
-`Writing and Representation in Sutton SignWriting: Handwriting and Spatial Script Practice` makes the human material practice of writing explicit before the series turns to machine encoding.
-
-`Writing and Representation in Sutton SignWriting: Human Writing and Machine Encoding` is the immediate conceptual bridge from authored writing to machine-readable text.
-
-`Writing and Representation in Sutton SignWriting: Kinematography and the Limits of Writing-System Typology` is the native theory capstone for the lane.
-
-`Formal SignWriting: The Shape of a Sign` remains the immediate technical bridge.
-
-## Current Structure
-
-This series has six native anchors:
-
-- `Plane-Based Writing and Script Typology`
-- `Perspective and Authored Space`
-- `Iconicity, Convention, and Legibility`
-- `Handwriting and Spatial Script Practice`
-- `Human Writing and Machine Encoding`
-- `Kinematography and the Limits of Writing-System Typology`
-
-## Publication And Citation Model
-
-Publication metadata, DOI posture, release files, and citation stubs live in [publishing.md](./publishing.md).
-
-This series should remain conceptually precise without becoming a substitute for the technical `Formal SignWriting` lane.
-
-## Source Of Truth
-
-Edit this series in `docs/series/writing-and-representation/`.
-
-The public site mirror under `apps/steveslevinski-me/public/series/writing-and-representation/` is generated by:
-
-```bash
-node apps/steveslevinski-me/scripts/sync-docs.mjs
+```text
+Slevinski, S. (2026). Writing and Representation in Sutton SignWriting (v1.0.0). Zenodo. DOI
 ```
 
-Do not hand-edit the generated mirror unless repairing a sync problem.
+Use the series DOI when citing the writing-systems series as a whole. Use an artifact DOI when citing a specific paper that has its own record.
 
-## Related Series
+## Platform Context
 
-- `Sutton SignWriting Foundations` provides the public conceptual opening.
-- `Formal SignWriting` provides the technical mechanism layer.
-- `Signed Language Writing Critical Review Series` tests broader writing-theory and standards claims.
-- `Sutton SignWriting Evidence and Adoption` shows where signed writing is already visible in practice.
+This repository is one of eight series in the Sutton SignWriting platform release. Readers who need the formal text model, signbox grammar, plain-text encodings, search, rendering, and styling should continue into *Formal SignWriting*.
+
+## License
+
+Unless otherwise noted, the contents are released under the Creative Commons Attribution 4.0 International License (`CC BY 4.0`).

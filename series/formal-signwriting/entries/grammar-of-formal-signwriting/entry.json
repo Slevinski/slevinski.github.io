@@ -91,7 +91,11 @@
       ],
       "speech": "Regular expressions matter here because they let the grammar operate in software. They do not replace the conceptual account, but they give it an operational form. Once the grammar is stated this way, later layers can validate against it, search can build from it, and rendering can assume it.",
       "notes": "Close by pointing forward to search and implementation rather than trying to teach all regex detail on one slide.",
-      "mermaid": "flowchart TD\n  A[Grammar description] --> B[Regular expressions]\n  B --> C[Validation]\n  B --> D[Tokenization]\n  B --> E[Software handling]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D,E out;"
+      "mermaid": "flowchart TD\n  A[Grammar description] --> B[Regular expressions]\n  B --> C[Validation]\n  B --> D[Tokenization]\n  B --> E[Software handling]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D,E out;",
+      "image_prompts": {
+        "concrete": "Technical grammar slide showing Formal SignWriting regular expressions driving validation, tokenization, and software handling",
+        "abstract": "A grammar becoming operational through precise pattern matching"
+      }
     }
   ]
 }

@@ -144,4 +144,4 @@ The distinction matters because the same layout model can be realized through SV
 
 - `The Shape of a Sign` explains the signbox and symbol-coordinate model that layout depends on.
 - `Rendering Formal SignWriting` explains how layout becomes visible output.
-- `Formal SignWriting in Practice` connects these rules to libraries, components, and implementation pathways.
+- *Formal SignWriting in Practice* connects these rules to libraries, components, and implementation pathways.

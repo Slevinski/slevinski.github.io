@@ -215,7 +215,7 @@
       "bullets": [
         "Planning: Builder, review, workflow design, repository guidance",
         "Hands-on: restructuring, validation, harmonization, delivery work",
-        "Both lanes help the project move forward"
+        "Both tracks help the project move forward"
       ],
       "speech": "There are two practical ways this work helps. In the planning mode, teams can use the Builder to work through the right sections and questions, generate markdown, and prepare a real plan for review. That review process helps clarify where the project is, what the DMS Plan should say, and what the workflow needs next. In the hands-on mode, the work shifts to organizing, validating, harmonizing, and preparing data for delivery.",
       "notes": "Present a clear service model.\n- Builder plus review in the planning mode\n- hands-on delivery work in the execution mode",

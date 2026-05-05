@@ -5,7 +5,7 @@
   "subtitle": "Strong evidence, partial evidence, and how to read SignWriting adoption claims",
   "summary": "A synthesis brief distinguishing strong, partial, and still-open evidence for SignWriting adoption and infrastructure claims.",
   "abstract": "This synthesis brief defines what the current public evidence base for SignWriting supports, what remains partial, and how adoption claims should be read. It argues that SignWriting should no longer be treated as a merely hypothetical proposal: documented educational, institutional, scholarly, and technical use, especially in Brazil and South Korea, establishes real-world relevance. At the same time, the evidence does not yet amount to a complete global census, broad population-scale outcome evidence, or a single adoption story across all communities. The brief therefore treats SignWriting as real infrastructure and research material while keeping claims about scale, generalization, and educational outcomes bounded.",
-  "synopsis": "This entry synthesizes what the current public evidence base supports, what remains partial, and how Brazil, South Korea, and the wider SignWriting record should be interpreted without overclaiming. Its role is to give the empirical lane a top-layer synthesis so the platform can distinguish documented adoption from open empirical questions.",
+  "synopsis": "This entry synthesizes what the current public evidence base supports, what remains partial, and how Brazil, South Korea, and the wider SignWriting record should be interpreted without overclaiming. Its role is to give the empirical series a top-layer synthesis so the platform can distinguish documented adoption from open empirical questions.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -13,5 +13,97 @@
     "public_label": "Brief",
     "public_slug": "primary",
     "publication_designation": "Synthesis Brief"
-  }
+  },
+  "slides": [
+    {
+      "id": "evidence-synthesis",
+      "title": "Evidence Synthesis",
+      "kicker": "1",
+      "summary": "The current evidence base is strong enough to treat SignWriting as real infrastructure and research material.",
+      "image_prompts": {
+        "concrete": "Synthesis slide showing educational use, institutions, scholarship, software, dictionaries, and technical standards feeding into one evidence summary",
+        "abstract": "Multiple evidence streams converging into a stable platform record"
+      },
+      "bullets": [
+        "Not merely hypothetical",
+        "Documented educational and institutional use",
+        "Substantial technical and scholarly record",
+        "Real research material with bounded claims"
+      ],
+      "speech": "The synthesis claim is straightforward. SignWriting should no longer be treated as a merely hypothetical proposal. The public record includes documented educational use, institutional activity, scholarship, technical infrastructure, and public language resources.",
+      "notes": "Begin with the positive synthesis before moving to limits."
+    },
+    {
+      "id": "strong-evidence",
+      "title": "Strong Evidence",
+      "kicker": "2",
+      "summary": "The strongest evidence concerns existence, country anchors, institutional proof points, and technical maturity.",
+      "image_prompts": {
+        "concrete": "Evidence hierarchy slide with four strong areas: existence, Brazil, South Korea, technical and scholarly record",
+        "abstract": "A layered evidence stack with strongest claims at the base"
+      },
+      "bullets": [
+        "SignWriting is real in practice",
+        "Brazil is the strongest empirical center",
+        "South Korea is a current institutional proof point",
+        "Technical and scholarly records are substantial"
+      ],
+      "speech": "The strongest evidence falls into four areas: SignWriting exists in practice, Brazil gives the strongest empirical center, South Korea gives a current institutional proof point, and the technical and scholarly record is already substantial.",
+      "notes": "Keep this as a hierarchy of claim strength."
+    },
+    {
+      "id": "partial-evidence",
+      "title": "Partial Evidence",
+      "kicker": "3",
+      "summary": "Some evidence is real but incomplete, especially around global mapping, outcomes, preference, resistance, and comparative adoption.",
+      "image_prompts": {
+        "concrete": "Research slide showing partial evidence areas as open but active work packages",
+        "abstract": "Partially filled evidence containers with clear labels"
+      },
+      "bullets": [
+        "No complete current global map",
+        "Large-scale outcome claims remain limited",
+        "Community desire varies and needs documentation",
+        "Adoption limits remain underdocumented"
+      ],
+      "speech": "Other evidence is real but incomplete. There is not yet a complete current global map. Large-scale outcome claims remain limited. Community desire cannot be assumed everywhere. Adoption limits, resistance, and comparative evidence need better documentation.",
+      "notes": "This slide keeps the synthesis honest."
+    },
+    {
+      "id": "three-reading-levels",
+      "title": "Three Reading Levels",
+      "kicker": "4",
+      "summary": "The evidence should be read at three levels: existence, strength of current anchors, and open documentation needs.",
+      "image_prompts": {
+        "concrete": "Three-level evidence reading slide: existence, current anchors, open documentation needs",
+        "abstract": "Three clear steps for reading evidence responsibly"
+      },
+      "bullets": [
+        "Level 1: existence",
+        "Level 2: strength of current anchors",
+        "Level 3: better documentation still needed",
+        "Each level supports a different kind of claim"
+      ],
+      "speech": "The evidence should be read in levels. Level one is existence. Level two is the strength of current anchors. Level three is what still needs better documentation. Each level supports a different kind of claim, and mixing the levels creates confusion.",
+      "notes": "This is the most useful citation slide."
+    },
+    {
+      "id": "responsible-claims",
+      "title": "Responsible Claims",
+      "kicker": "5",
+      "summary": "The platform can claim real-world relevance and research value without overstating global scale or educational outcomes.",
+      "image_prompts": {
+        "concrete": "Balanced claim slide with responsible claims on one side and claims to avoid on the other",
+        "abstract": "A balanced scale comparing supported claims and overclaims"
+      },
+      "bullets": [
+        "Claim real-world relevance",
+        "Claim documented anchors",
+        "Claim research value",
+        "Do not overstate global scale or outcomes"
+      ],
+      "speech": "The responsible conclusion is balanced. The platform can claim real-world relevance, documented anchors, and research value. It should not overstate global scale, community preference, or educational outcomes beyond the evidence currently available.",
+      "notes": "Close with confidence plus boundaries."
+    }
+  ]
 }

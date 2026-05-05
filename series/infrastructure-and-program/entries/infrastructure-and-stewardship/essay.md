@@ -1,16 +1,14 @@
 # Infrastructure and Stewardship
 
-**Confirmed assets, current risks, and the case for stronger institutional support**
+**Confirmed assets, current risks, and the case for stronger stewardship structure**
 
-This entry is the first major anchor of the `Sutton SignWriting Infrastructure and Program` series.
+This brief states the asset base, continuity risks, and stewardship structure for Sutton SignWriting.
 
-Its job is to make one transition unmistakable:
-
-> the issue is no longer whether SignWriting infrastructure exists, but whether it will remain stable under a stronger support model
+The issue is no longer whether SignWriting infrastructure exists, but whether it will remain stable under a stronger stewardship model.
 
 Sutton SignWriting already operates as infrastructure.
 
-The main assets, the work currently required to keep them running, and the main risks are visible enough that a PI, administrator, or collaborator can see what a host institution would actually be supporting.
+The main assets, the work currently required to keep them running, and the main risks are visible enough that a PI, administrator, or collaborator can see what a host institution would actually be stewarding.
 
 ## Overview
 
@@ -26,7 +24,7 @@ The system already includes:
 
 The challenge is no longer whether these things can be created.
 
-The challenge is whether they will be kept running, documented clearly, and given stronger institutional backing before the maintenance burden outgrows the current support model.
+The challenge is whether they will be kept running, documented clearly, and given stronger stewardship backing before the maintenance burden outgrows the current model.
 
 In program terms, the work is a combination of preservation, maintenance, modernization, and research enablement.
 
@@ -37,7 +35,7 @@ In program terms, the work is a combination of preservation, maintenance, modern
 | Software and code | Libraries, fonts, rendering tools, web applications | Maintenance, compatibility, onboarding |
 | Data and corpus assets | SignPuddle datasets, dictionaries, written materials | Preservation, metadata, access planning |
 | Standards and encoding | ISWA 2010, FSW, SWU, fonts | Specification maintenance, implementation support |
-| Partner infrastructure | International use cases, support statements, research contacts | Coordination, documentation, continuity |
+| Partner infrastructure | International use cases, partner statements, research contacts | Coordination, documentation, continuity |
 
 ## Domains and web infrastructure
 
@@ -119,13 +117,13 @@ In South Korea, preparation for the February 6, 2025 launch of the Korean Sign L
 
 That work appears to have pushed the old system hard enough to expose scaling weaknesses in save operations and concurrent use.
 
-Direct support was needed during the launch period, including two days of vacation time taken to keep the work moving.
+Direct technical help was needed during the launch period, including two days of vacation time taken to keep the work moving.
 
 In Brazil, prior outages were felt immediately in an active user community that depends on the system for ongoing work.
 
 More recently, repeated bot pressure and CPU-heavy requests have continued to cause temporary service interruptions on the legacy server.
 
-These incidents matter because they show that fragile support is already interrupting real international work, not merely raising abstract maintenance concerns.
+These incidents matter because they show that thin stewardship is already interrupting real international work, not merely raising abstract maintenance concerns.
 
 ## Software and code infrastructure
 
@@ -169,7 +167,7 @@ Key characteristics include:
 
 This dataset represents a rare, large-scale corpus of written signed language.
 
-Immediate support concerns include:
+Immediate stewardship concerns include:
 
 - long-term preservation
 - format standardization
@@ -222,7 +220,7 @@ This continuity includes:
 
 The issue is not that continuity is absent.
 
-The issue is that the current support model is still too informal for infrastructure of this scope and importance.
+The issue is that the current stewardship model is still too informal for infrastructure of this scope and importance.
 
 ## Risk profile
 
@@ -234,21 +232,19 @@ With a clearer internal view, the primary risks can be stated more directly:
 - limited institutional redundancy
 - long-term preservation risk for data, domains, and services
 
-These are typical risks for infrastructure that has grown in value faster than the support around it.
+These are typical risks for infrastructure that has grown in value faster than the stewardship around it.
 
 | Risk | Current impact | First mitigation |
 | --- | --- | --- |
 | Single-maintainer dependency | Continuity risk for domains, services, data, and technical decisions | Documentation plus a backup maintainer path |
-| Legacy server fragility | Outages or slowdowns under real use, bot pressure, and CPU-heavy requests | Monitoring, rate limiting, caching, and migration planning |
+| Legacy server continuity risk | Outages or slowdowns under real use, bot pressure, and CPU-heavy requests | Monitoring, rate limiting, caching, and migration planning |
 | Data preservation | Loss, corruption, or inaccessible archives would weaken research and community use | Scheduled backups, checksums, and recovery testing |
 | Domain continuity | Public resources could become unstable or difficult to recover | Renewal calendar, ownership documentation, continuity plan |
 | Documentation gaps | New collaborators cannot onboard reliably | Deployment, architecture, and workflow documentation |
-| Partner confidence | International collaborators may hesitate if infrastructure looks informal | Clear support model, status reporting, and service priorities |
+| Partner confidence | International collaborators may hesitate if infrastructure looks informal | Clear stewardship model, status reporting, and service priorities |
 
-That framing matters.
-
-It means the situation is not unusual because the work is weak.
-It is unusual because the work has become significant without yet receiving the stronger host structure it now requires.
+The situation is not unusual because the work is weak.
+It is unusual because the work has become significant without yet receiving the stronger host structure it requires.
 
 ## Why this matters for a host institution
 
@@ -291,4 +287,4 @@ Platform V3 is the opportunity to:
 In other words, Platform V3 extends the infrastructure.
 It does not create it from nothing.
 
-For the shortest support-facing summary, see *Executive Brief*. For the research-facing bridge into study design and cumulative science, see `Sutton SignWriting Language and Literacy Research: Research Program for Literacy Without Sound`.
+For the shortest stewardship summary, see *Executive Brief*. For the research-facing bridge into study design and cumulative science, see *Sutton SignWriting Language and Literacy Research: Research Program for Literacy Without Sound*.

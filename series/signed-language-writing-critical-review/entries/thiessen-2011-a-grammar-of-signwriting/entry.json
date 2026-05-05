@@ -12,5 +12,79 @@
     "public_label": "Review",
     "public_slug": "primary",
     "publication_designation": "Working Review"
-  }
+  },
+  "slides": [
+    {
+      "id": "what-thiessen-sees",
+      "title": "What Thiessen Sees",
+      "kicker": "1",
+      "summary": "Thiessen is one of the stronger early engagements with SignWriting because it takes structure, space, and computation seriously.",
+      "bullets": [
+        "Takes SignWriting seriously as writing",
+        "Recognizes spatial organization",
+        "Does script-internal descriptive work",
+        "Sees the computational problem"
+      ],
+      "speech": "This review treats Thiessen as one of the stronger early works. The thesis takes SignWriting seriously as writing, recognizes spatial organization, does real script-internal descriptive work, and sees the computational problem early.",
+      "notes": "This is a sympathetic review, not a dismissal.",
+      "image_prompts": {
+        "concrete": "Review slide crediting Thiessen for taking SignWriting structure, spatial organization, descriptive work, and computation seriously",
+        "abstract": "An early serious engagement with structure and space brought into focus"
+      }
+    },
+    {
+      "id": "one-level-too-low",
+      "title": "Where The Analysis Stops Short",
+      "kicker": "2",
+      "summary": "The thesis correctly identifies structure but locates too much explanatory weight at the symbol level rather than the written-sign level.",
+      "bullets": [
+        "Grammar language is overextended",
+        "Symbol-first analysis dominates",
+        "Written sign structure appears late",
+        "Text model remains incomplete"
+      ],
+      "speech": "The central critique is that the thesis is one abstraction level too low. It correctly identifies structure, but the main explanatory weight sits too heavily at the symbol level rather than at the level of written signs and sign text.",
+      "notes": "This is the title claim of the review.",
+      "image_prompts": {
+        "concrete": "Critical review slide showing analysis centered on symbols while the written sign and sign text sit one abstraction level higher",
+        "abstract": "A ladder of abstraction from symbols up to written signs and sign text"
+      }
+    },
+    {
+      "id": "framework-reading",
+      "title": "Framework Reading",
+      "kicker": "3",
+      "summary": "Through the framework, Thiessen is strong on spatial organization and symbol analysis, but transitional on structural unit and text model.",
+      "bullets": [
+        "Strong spatial awareness",
+        "Strong descriptive inventory work",
+        "Mixed structural-unit analysis",
+        "Promising but incomplete encoding model"
+      ],
+      "speech": "Through the framework, Thiessen is strong on spatial organization and symbol analysis. The limits appear in structural unit analysis and text-model development. The work is serious and useful, but transitional.",
+      "notes": "Use transitional as the key assessment.",
+      "image_prompts": {
+        "concrete": "Layer-based reading slide separating writing need, alphabetic bias, structural unit analysis, spatial organization, and claims versus evidence",
+        "abstract": "A source claim passed through a clear layer-based review frame"
+      }
+    },
+    {
+      "id": "durable-contribution",
+      "title": "Durable Contribution",
+      "kicker": "4",
+      "summary": "The thesis establishes that SignWriting has describable internal structure, while showing why a higher-level sign-text model is needed.",
+      "bullets": [
+        "Internal structure is real",
+        "Spatial organization is central",
+        "Encoding cannot be naive",
+        "The written sign needs to be centered"
+      ],
+      "speech": "The durable contribution is substantial. Thiessen helps establish that SignWriting has describable internal structure and a real encoding problem. The review adds that the written sign and sign text need to become the governing abstraction.",
+      "notes": "Close with value plus next step.",
+      "image_prompts": {
+        "concrete": "Contribution slide showing the necessity-of-writing argument preserved while the orthographic prescription is bounded",
+        "abstract": "A valid contribution kept intact after critique"
+      }
+    }
+  ]
 }

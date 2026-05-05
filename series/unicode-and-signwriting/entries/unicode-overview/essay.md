@@ -167,7 +167,7 @@ The question is not whether another design can be imagined.
 
 The question is whether it can carry real writing, real tools, and real data without breaking them.
 
-The ecosystem should be judged as a real production environment, not as a thought experiment waiting for its first serious implementation.
+The ecosystem should be judged as a real production environment, not as an unimplemented thought experiment.
 
 ## What would count as progress
 

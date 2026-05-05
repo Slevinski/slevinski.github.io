@@ -26,7 +26,88 @@
         "Reading-level defaults"
       ],
       "speech": "The signbox preserves the spatial shape of one sign. Sign text layout explains how signs become passages, with vertical and horizontal writing, lane behavior, centering strategy, and reading-level defaults. This is the bridge between the formal sign model and visible text flow.",
-      "notes": "Use this as the stable technical home for passage-level layout behavior."
+      "notes": "Use this as the stable technical reference for passage-level layout behavior.",
+      "mermaid": "flowchart TD\n  A[Signbox] --> B[Passage Layout]\n  B --> C[Writing Direction]\n  B --> D[Lanes]\n  B --> E[Centering]\n  B --> F[Reading-Level Defaults]\n  C --> G[Readable Sign Text]\n  D --> G\n  E --> G\n  F --> G\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D,E,F node;\n  class G out;",
+      "image_prompts": {
+        "concrete": "Technical passage-layout slide showing a SignWriting signbox becoming vertical and horizontal sign text with direction, lanes, centering, and reading-level defaults",
+        "abstract": "A single signbox expanding into readable passage flow"
+      }
+    },
+    {
+      "id": "common-center",
+      "title": "The 500x500 Center",
+      "summary": "A shared center gives layout tools a stable reference point for aligning signs in passages.",
+      "image_prompts": {
+        "concrete": "Technical diagram of a SignWriting signbox centered at 500x500, with alignment lines extending into vertical and horizontal passage layout",
+        "abstract": "A stable center point anchoring sign text across layout systems"
+      },
+      "bullets": [
+        "Signs have a 500x500 center",
+        "The center supports lane placement",
+        "Text alignment stays consistent",
+        "Rendering systems share a reference point"
+      ],
+      "speech": "The common center is the bridge from individual signboxes to passage layout. Signs have a center at 500x500, and that reference point supports lane placement, text alignment, and consistent layout across rendering systems.",
+      "notes": "This slide should make the numeric center feel practical, not arbitrary.",
+      "mermaid": "flowchart LR\n  A[Written Sign] --> B[500x500 Center]\n  B --> C[Lane Placement]\n  B --> D[Text Alignment]\n  B --> E[Consistent Rendering]\n  C --> F[Stable Passage Flow]\n  D --> F\n  E --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D,E node;\n  class F out;",
+      "kicker": "2"
+    },
+    {
+      "id": "directions-and-lanes",
+      "title": "Directions And Lanes",
+      "summary": "Vertical writing uses left, middle, and right lanes; horizontal writing uses top and bottom lanes without changing the underlying sign text.",
+      "image_prompts": {
+        "concrete": "Layout comparison slide showing vertical SignWriting with left middle right lanes and horizontal SignWriting with top bottom lanes, using clean technical labels",
+        "abstract": "Two passage directions organizing the same signed text through different lane systems"
+      },
+      "bullets": [
+        "Vertical: left, middle, right",
+        "Horizontal: top, bottom",
+        "Lane choice is passage layout",
+        "The signbox itself is not rewritten"
+      ],
+      "speech": "Writing direction is a layout choice applied to the same underlying sign text. Vertical writing uses left, middle, and right lanes. Horizontal writing uses top and bottom lanes. The lane belongs to passage layout; it does not rewrite the signbox itself.",
+      "notes": "This is the core reader-facing distinction for implementers.",
+      "mermaid": "flowchart TD\n  A[Writing Direction] --> B[Vertical Writing]\n  A --> C[Horizontal Writing]\n  B --> D[Left Middle Right Lanes]\n  C --> E[Top Bottom Lanes]\n  D --> F[Lateral Shifts and Centered Punctuation]\n  E --> G[Headed Signs and Punctuation Flow]\n  F --> H[Passage Layout Choice]\n  G --> H\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,H core;\n  class B,C,D,E,F,G node;",
+      "kicker": "3"
+    },
+    {
+      "id": "centering-and-reading-levels",
+      "title": "Centering And Reading Levels",
+      "summary": "Hybrid centering rules and SW1-SW4 profiles provide shared implementation defaults, not empirical reading-level claims.",
+      "image_prompts": {
+        "concrete": "Technical table-and-diagram slide showing SignWriting centering rules with SW1 SW2 SW3 SW4 layout profiles as implementation defaults",
+        "abstract": "Centering rules and reading profiles forming a shared layout baseline"
+      },
+      "bullets": [
+        "Vertical centers on head and trunk where present",
+        "Horizontal centers on the head where present",
+        "SW1-SW4 are implementation profiles",
+        "Profiles are defaults, not outcome claims"
+      ],
+      "speech": "Centering keeps signs aligned with the passage while preserving internal composition. The SW1 to SW4 profiles then provide shared implementation defaults for length, width, offset, padding, and punctuation spacing. They are layout profiles, not empirical claims about reader difficulty.",
+      "notes": "Emphasize the boundary around SW1-SW4. They are practical defaults unless future research calibrates them differently.",
+      "mermaid": "flowchart TD\n  A[Centering Rules] --> B[Head and Trunk for Vertical]\n  A --> C[Head for Horizontal]\n  B --> D[Compatible Passage Alignment]\n  C --> D\n  E[SW1 to SW4 Profiles] --> F[Length Width Offset Padding]\n  F --> D\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,E core;\n  class B,C,F node;\n  class D out;",
+      "kicker": "4"
+    },
+    {
+      "id": "layout-rendering-boundary",
+      "title": "Layout Is Not Rendering",
+      "summary": "Layout defines passage structure; rendering produces visible output through SVG, fonts, print, web components, or other presentation systems.",
+      "image_prompts": {
+        "concrete": "Boundary slide separating sign text layout model from rendering outputs such as SVG, fonts, print layout, and web components",
+        "abstract": "Passage structure preserved before it becomes visible presentation"
+      },
+      "bullets": [
+        "Layout defines structure",
+        "Rendering produces visible output",
+        "The same layout can use multiple renderers",
+        "Passage structure should remain explicit"
+      ],
+      "speech": "Layout and rendering are related, but they are not the same layer. Layout defines passage structure: writing direction, lanes, centering, and metrics. Rendering turns that structure into visible output through SVG, fonts, print layout, web components, or other systems.",
+      "notes": "Close by connecting layout to Rendering Formal SignWriting and practice implementations.",
+      "mermaid": "flowchart LR\n  A[Signbox Text] --> B[Layout Model]\n  B --> C[Direction Lanes Centering Metrics]\n  C --> D[Rendering Engine]\n  D --> E[SVG Font Print or Web Output]\n  B --> F[Passage Structure Preserved]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B core;\n  class C,D node;\n  class E,F out;",
+      "kicker": "5"
     }
   ]
 }

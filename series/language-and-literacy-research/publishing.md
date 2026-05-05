@@ -17,7 +17,7 @@
 
 ## Series Description
 
-`Sutton SignWriting Language and Literacy Research` is the research-facing lane for developmental pathways, literacy layering, reading questions, and research-program design around signed-language writing.
+`Sutton SignWriting Language and Literacy Research` is the research-facing series for developmental pathways, literacy layering, reading questions, and research-program design around signed-language writing.
 
 ## Repository Description
 

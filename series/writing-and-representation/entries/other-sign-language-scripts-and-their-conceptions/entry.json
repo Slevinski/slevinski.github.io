@@ -3,7 +3,7 @@
   "number": 7,
   "title": "Other Sign Language Scripts and Their Conceptions",
   "subtitle": "ASL-phabet, HamNoSys, ASLwrite, and what they imply about written sign language",
-  "summary": "Comparative writing-systems draft for the Writing and Representation in Sutton SignWriting series.",
+  "summary": "Comparative writing-systems paper for the Writing and Representation in Sutton SignWriting series.",
   "synopsis": "This entry names a few visible other script conceptions as part of the surrounding field. It treats ASL-phabet, HamNoSys, and ASLwrite as distinct answers to different writing problems, and clarifies why SignWriting is understood here as plane-based writing with a broader public and technical path.",
   "essay": "essay.md",
   "primary_artifact": {
@@ -12,5 +12,97 @@
     "public_label": "Paper",
     "public_slug": "primary",
     "publication_designation": "Working Paper"
-  }
+  },
+  "slides": [
+    {
+      "id": "why-compare-scripts",
+      "title": "Why Compare Scripts",
+      "kicker": "1",
+      "summary": "Other sign-language scripts clarify the field and prevent SignWriting from being treated as if it exists in isolation.",
+      "image_prompts": {
+        "concrete": "Comparative script slide showing ASL-phabet, HamNoSys, ASLwrite, and SignWriting as distinct approaches to signed-language writing and notation",
+        "abstract": "Several script conceptions arranged around different writing problems"
+      },
+      "bullets": [
+        "The field is not empty",
+        "Different systems answer different problems",
+        "Comparison sharpens the SignWriting claim",
+        "The argument should remain fair"
+      ],
+      "speech": "This paper names other visible script conceptions so SignWriting is not treated as if it exists in isolation. ASL-phabet, HamNoSys, ASLwrite, and SignWriting answer different problems and make different tradeoffs.",
+      "notes": "Set a fair comparative tone."
+    },
+    {
+      "id": "different-conceptions",
+      "title": "Different Conceptions",
+      "kicker": "2",
+      "summary": "ASL-phabet, HamNoSys, ASLwrite, and SignWriting imply different ideas about what signed writing is for.",
+      "image_prompts": {
+        "concrete": "Four-column slide comparing ASL-phabet as teaching model, HamNoSys as analytic notation, ASLwrite as script culture, and SignWriting as plane-based writing infrastructure",
+        "abstract": "Four different answers to the question of written sign language"
+      },
+      "bullets": [
+        "ASL-phabet: alphabetic teaching model",
+        "HamNoSys: analytic notation",
+        "ASLwrite: alternate script culture",
+        "SignWriting: plane-based public and technical path"
+      ],
+      "speech": "The comparison works because the systems are not trying to do exactly the same thing. ASL-phabet reflects an alphabetic teaching conception. HamNoSys is analytic notation. ASLwrite shows alternate plane-based script culture. SignWriting adds a broader public and technical path.",
+      "notes": "Keep each system's strength visible."
+    },
+    {
+      "id": "what-signwriting-adds",
+      "title": "What SignWriting Adds",
+      "kicker": "3",
+      "summary": "SignWriting is unusually complete because it links script design, handwriting, encoding, standards, software, datasets, and stewardship.",
+      "image_prompts": {
+        "concrete": "Completeness slide showing SignWriting connected to handwriting, encodings, fonts, software, datasets, standards, dictionaries, and stewardship",
+        "abstract": "A writing system connected to a full infrastructure graph"
+      },
+      "bullets": [
+        "Script design and handwriting",
+        "Computational encoding",
+        "Fonts, software, and datasets",
+        "Standards and stewardship"
+      ],
+      "speech": "The SignWriting claim is not that every other script must fail. The narrower claim is that SignWriting currently offers the most developed documented path for durable plane-based signed-language writing with computation, continuity, and public use.",
+      "notes": "This is comparative, not dismissive."
+    },
+    {
+      "id": "bottom-line",
+      "title": "Bottom Line",
+      "kicker": "4",
+      "summary": "Other scripts are relevant because they sharpen the question: what does each design make easier, and what does it leave for other layers to solve?",
+      "image_prompts": {
+        "concrete": "Balanced comparison slide asking what each script design makes easier and what each leaves to other layers",
+        "abstract": "A comparison lens sharpening several script paths"
+      },
+      "bullets": [
+        "Acknowledge other systems fairly",
+        "Compare purposes and layers",
+        "Avoid dismissive claims",
+        "Return to the writing-systems sequence"
+      ],
+      "speech": "The bottom line is that other systems should be acknowledged fairly because they clarify the field. The useful question is what each design makes easier and what each leaves for other layers to solve.",
+      "notes": "Close by returning to the series argument."
+    },
+    {
+      "id": "comparison-boundaries",
+      "title": "Comparison Boundaries",
+      "summary": "The comparison is not a ranking of scripts; it asks what each system is designed to solve and what it leaves to other layers.",
+      "image_prompts": {
+        "concrete": "Fair comparison slide showing ASL-phabet, HamNoSys, ASLwrite, and SignWriting evaluated by purpose, layer, public use, technical path, and open questions rather than a simple ranking",
+        "abstract": "Several script paths compared through a fair layer-based lens"
+      },
+      "bullets": [
+        "Not a simple ranking",
+        "Compare purposes and layers",
+        "Credit each system fairly",
+        "Keep SignWriting claims specific"
+      ],
+      "speech": "The comparison is not a simple ranking. The better question is what each system is designed to solve, what layer it works on, what it makes easier, and what it leaves to other layers. That keeps the SignWriting claim specific and keeps other systems visible on their own terms.",
+      "notes": "Close with fairness. This protects the paper from sounding dismissive while preserving the SignWriting argument.",
+      "kicker": "5"
+    }
+  ]
 }

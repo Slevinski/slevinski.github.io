@@ -7,9 +7,9 @@ These notes record the practical logic behind the proposed research program.
 
 ## Why A Concrete Program Is Timely
 
-Three conditions now exist at the same time:
+Three conditions exist at the same time:
 
-- the research framing is clearer than before
+- the research argument is clearer than before
 - the technical infrastructure is mature enough to support real study design
 - Brazil provides the strongest currently documented empirical base
 
@@ -33,11 +33,11 @@ It simply refuses to make comparison the center of the program.
 
 That is strategically important because it keeps the agenda constructive and research-oriented.
 
-## Why The Three-Lane Structure Works
+## Why The Three Work Areas Fit Together
 
-The three lanes are meant to reinforce each other.
+The three work areas are meant to reinforce each other.
 
-| Lane | Main job | Why it matters |
+| Work area | Main job | Why it matters |
 | --- | --- | --- |
 | Reading and literacy studies | study how SignWriting functions as durable text | turns the research framing into measurable text-use questions |
 | Brazil-grounded empirical work | ground studies in real institutions, learners, and materials | prevents the program from floating at the level of pure theory |
@@ -45,7 +45,7 @@ The three lanes are meant to reinforce each other.
 
 The point is not to separate these permanently.
 
-The point is to make sure each necessary layer is visible.
+The point is to make sure each necessary area of work is visible.
 
 ## Early Studies That Are Realistic
 
@@ -120,11 +120,11 @@ It contributes directly by making possible:
 - preservation and reuse
 - later corpus and NLP work
 
-This is one reason the research program should stay connected to `Sutton SignWriting Infrastructure and Program` even though its primary home is `Sutton SignWriting Language and Literacy Research`.
+This is one reason the research program should stay connected to *Sutton SignWriting Infrastructure and Program* even though its primary series is *Sutton SignWriting Language and Literacy Research*.
 
 ## What A Host Institution Would Make Easier
 
-A credible academic home would make several things easier at once:
+A credible academic setting would make several things easier at once:
 
 - partnership and outreach
 - ethics and study governance

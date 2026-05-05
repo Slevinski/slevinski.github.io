@@ -13,6 +13,80 @@
     "public_slug": "primary",
     "publication_designation": "Working Review"
   },
+  "slides": [
+    {
+      "id": "major-theory-source",
+      "title": "Major Theory Source",
+      "kicker": "1",
+      "summary": "Writing Systems and Their Use is treated as a strong comparative theory of writing, not as a weak foil.",
+      "bullets": [
+        "Moves beyond crude speech-dependence",
+        "Gives writing internal structure",
+        "Takes materiality seriously",
+        "Handles typology with self-awareness"
+      ],
+      "speech": "This review treats Writing Systems and Their Use as one of the strongest recent comparative theories of writing. Its value is real: it moves beyond weak speech-dependence, gives writing internal structure, and takes materiality and typology seriously.",
+      "notes": "Open with respect for the source.",
+      "image_prompts": {
+        "concrete": "Grapholinguistics review slide showing Meletis and Durscheid as a major theory source for writing systems, materiality, autonomy, and typology",
+        "abstract": "A broad writing theory framework meeting signed-language writing"
+      }
+    },
+    {
+      "id": "where-it-helps",
+      "title": "Where It Helps",
+      "kicker": "2",
+      "summary": "The book provides useful ground for discussing autonomy, graphetics, materiality, and larger written units.",
+      "bullets": [
+        "Autonomy discussion helps",
+        "Graphetics helps",
+        "Materiality helps",
+        "The typology is strong enough to reveal its limit"
+      ],
+      "speech": "The book helps the SignWriting discussion by opening better ground on autonomy, graphetics, materiality, and the internal structure of writing. Its typology is strong enough that its own limit becomes visible.",
+      "notes": "This slide shows why the review belongs in the series.",
+      "image_prompts": {
+        "concrete": "Review slide showing autonomy, graphetics, materiality, and typology creating useful space for SignWriting discussion",
+        "abstract": "A theory framework opening several useful doors for plane-based writing"
+      }
+    },
+    {
+      "id": "where-it-strains",
+      "title": "Where The Framework Strains",
+      "kicker": "3",
+      "summary": "The framework still appears incomplete when signed language writing and SignWriting are treated as real writing on their own terms.",
+      "bullets": [
+        "Familiar linguistic units remain privileged",
+        "Spatiality is acknowledged but not primary",
+        "SignWriting is mentioned but not field-shaping",
+        "Kinematography becomes a pressure test"
+      ],
+      "speech": "The framework begins to strain when signed-language writing is treated as real writing on its own terms. Familiar linguistic units remain privileged, spatiality is not typologically primary enough, and SignWriting is not allowed to reorganize the field's categories.",
+      "notes": "This is the main critique.",
+      "image_prompts": {
+        "concrete": "Critical theory slide showing familiar linguistic units and line-shaped typology straining under signed-language plane writing",
+        "abstract": "A strong framework bending under a spatial writing pressure test"
+      }
+    },
+    {
+      "id": "platform-relevance",
+      "title": "Platform Relevance",
+      "kicker": "4",
+      "summary": "The review connects general grapholinguistic theory to the platform's claims about plane-based writing, authored space, and kinematography.",
+      "bullets": [
+        "Supports the need for theory",
+        "Clarifies plane-based writing",
+        "Presses typology through signed writing",
+        "Connects to kinematography"
+      ],
+      "speech": "The platform relevance is that this major theory source helps clarify exactly where SignWriting presses grapholinguistics: plane-based organization, authored space, and the possible need for a term like kinematography.",
+      "notes": "Close by linking to Writing and Representation.",
+      "image_prompts": {
+        "concrete": "Platform relevance slide separating semantic representation, signed writing, formal text models, and machine-readable infrastructure",
+        "abstract": "Several related layers aligned without collapsing into one another"
+      }
+    }
+  ],
   "companion_documents": [
     {
       "file": "signed-writing-as-a-pressure-test-for-general-writing-theory.md",

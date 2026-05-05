@@ -1,6 +1,6 @@
 # UTC Technical Note
 
-**Draft note on compatibility, symbol identity, spatial composition, and next steps**
+**Technical note on compatibility, symbol identity, spatial composition, and next steps**
 
 The Sutton SignWriting Resources regard the current official Unicode SignWriting encoding as insufficient for compatible production use within the established Sutton SignWriting ecosystem.
 

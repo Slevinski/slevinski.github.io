@@ -2,7 +2,7 @@
 
 **Authorship, serialization, and the layers of signed text**
 
-This paper is a native anchor of the `Writing and Representation in Sutton SignWriting` series.
+This paper develops the human-writing and machine-encoding distinction in *Writing and Representation in Sutton SignWriting*.
 
 It follows *Handwriting and Spatial Script Practice*.
 
@@ -514,7 +514,7 @@ Good infrastructure makes research possible while keeping the human written obje
 
 ## Why this belongs in writing-systems theory
 
-This paper belongs in `Writing and Representation in Sutton SignWriting` because the issue is not only technical.
+This paper belongs in *Writing and Representation in Sutton SignWriting* because the issue is not only technical.
 
 It is theoretical.
 
@@ -604,7 +604,7 @@ This paper claims:
 
 This paper does not claim:
 
-- that every technical detail of Formal SignWriting belongs in the writing-systems lane
+- that every technical detail of Formal SignWriting belongs in the writing-systems series
 - that FSW or SWU is the only possible serialization strategy in principle
 - that encoding alone proves adoption, literacy outcomes, or cultural acceptance
 - that all questions of handwriting, typography, or reader processing are solved
@@ -649,9 +649,9 @@ That distinction is not a technical footnote.
 
 It is part of understanding SignWriting as writing.
 
-For the `Writing and Representation in Sutton SignWriting` series, this makes the paper a bridge.
+For *Writing and Representation in Sutton SignWriting*, this makes the paper a bridge.
 
-It carries the argument from authored space into technical preservation without leaving the writing-systems lane.
+It carries the argument from authored space into technical preservation without leaving the writing-systems series.
 
 The next step is not more technical detail here.
 

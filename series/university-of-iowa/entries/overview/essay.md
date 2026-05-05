@@ -13,7 +13,7 @@ Steve Slevinski can help active research teams with the work that often sits bet
 
 That near-term value is the strongest first reason to talk.
 
-The longer opportunity is also real. Steve maintains and extends Sutton SignWriting technical infrastructure: software, standards, domains, data, public resources, and the formal model that makes signed-language writing usable in software and research. Iowa could become a stronger home for that work over time, but the first case should stay grounded in practical research support that labs can use now.
+The longer opportunity is also real. Steve maintains and extends Sutton SignWriting technical infrastructure: software, standards, domains, data, public resources, and the formal model that makes signed-language writing usable in software and research. Iowa could become a stronger stewardship structure for that work over time, but the first case should stay grounded in practical research support that labs can use now.
 
 ## What Iowa Can Gain
 
@@ -35,20 +35,20 @@ The point is not to ask every reader to understand the entire future at once. Th
 
 ## Public Infrastructure References
 
-The general Sutton SignWriting infrastructure case belongs in `Sutton SignWriting Infrastructure and Program`.
+The general Sutton SignWriting infrastructure case belongs in *Sutton SignWriting Infrastructure and Program*.
 
-Use those materials when the conversation shifts from immediate Iowa collaboration toward a broader institutional, philanthropic, host-home, or precedent discussion:
+Use those materials when the conversation shifts from immediate Iowa collaboration toward a broader institutional, philanthropic, host-structure, or precedent discussion:
 
-- `Sutton SignWriting Infrastructure and Program: Institutional Home and Host Requirements`
-- `Sutton SignWriting Infrastructure and Program: Infrastructure Core and Philanthropy`
-- `Sutton SignWriting Infrastructure and Program: Relevant Precedents for SignWriting Infrastructure`
+- *Host Structure and Stewardship Requirements*
+- *Infrastructure Core and Philanthropy*
+- *Relevant Precedents for SignWriting Infrastructure*
 
 ## Core Purpose
 
 This series should help Iowa readers answer practical questions:
 
 - What useful work can Steve do for research teams now?
-- Why would a PI or lab benefit from providing a home?
+- Why would a PI or lab benefit from providing an academic base?
 - How can support begin without pretending the whole future is already funded?
 - How do DMS Plan, workflow implementation, repository delivery, and SignWriting infrastructure connect?
 - Which conversation should happen next?

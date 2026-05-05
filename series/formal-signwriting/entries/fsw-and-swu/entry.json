@@ -129,7 +129,11 @@
       ],
       "speech": "One of the central distinctions should be made early. FSW and SWU are core text encodings of the same model. In current stewardship practice, FSW is commonly used as the canonical processing form, while SWU remains available for Unicode-oriented interchange. The style string is optional light markup for presentation and customization. That distinction protects the technical architecture from being flattened into display concerns and keeps the model much clearer for implementers.",
       "notes": "Use a markup analogy carefully. The goal is to clarify layers, not overstate equivalence with HTML.",
-      "mermaid": "flowchart TD\n  A[Canonical text] --> B[FSW]\n  A --> C[SWU]\n  D[Presentation layer] --> E[Style string]\n  B --> F[Stable architecture]\n  C --> F\n  E --> G[Optional customization]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,D,F,G core;\n  class B,C,E node;"
+      "mermaid": "flowchart TD\n  A[Canonical text] --> B[FSW]\n  A --> C[SWU]\n  D[Presentation layer] --> E[Style string]\n  B --> F[Stable architecture]\n  C --> F\n  E --> G[Optional customization]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,D,F,G core;\n  class B,C,E node;",
+      "image_prompts": {
+        "concrete": "Boundary slide separating canonical FSW and SWU text from optional style strings, markup, colors, and presentation customization",
+        "abstract": "Canonical text protected from presentation markup by a clear technical boundary"
+      }
     }
   ]
 }

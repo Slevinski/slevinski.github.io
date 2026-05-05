@@ -13,6 +13,80 @@
     "public_slug": "primary",
     "publication_designation": "Series Overview"
   },
+  "slides": [
+    {
+      "id": "what-this-series-reviews",
+      "title": "What This Series Reviews",
+      "kicker": "1",
+      "summary": "This series reviews writing, notation, encoding, standards, and signed-language writing proposals through a shared layer-based method.",
+      "image_prompts": {
+        "concrete": "Critical review overview slide showing literature, notation systems, encoding proposals, standards records, and SignWriting evaluated through layers",
+        "abstract": "A set of reviewed sources passing through a structured evaluation frame"
+      },
+      "bullets": [
+        "Signed-language writing literature",
+        "Notation and encoding proposals",
+        "Standards-facing records",
+        "Layer-based evaluation"
+      ],
+      "speech": "This is the review series. It evaluates literature, theses, proposals, standards records, and recurring claims about signed-language writing through a shared layer-based method.",
+      "notes": "Open as scholarship, not rebuttal."
+    },
+    {
+      "id": "method",
+      "title": "Method",
+      "kicker": "2",
+      "summary": "The review method separates writing, notation, encoding, rendering, infrastructure, evidence, and community authorship.",
+      "image_prompts": {
+        "concrete": "Method slide with layers labeled writing, notation, encoding, rendering, infrastructure, evidence, and community authorship",
+        "abstract": "A review lens separating overlapping layers"
+      },
+      "bullets": [
+        "Separate layers before judging claims",
+        "Name what each source is actually evaluating",
+        "Credit strengths as well as limits",
+        "Use critique constructively"
+      ],
+      "speech": "The method is to separate layers before judging claims. A source may be strong on notation and weak on writing. It may solve rendering without solving encoding. The review series tries to credit strengths, name limits, and make critique constructive.",
+      "notes": "This slide should make the series feel fair."
+    },
+    {
+      "id": "reading-paths",
+      "title": "Reading Paths",
+      "kicker": "3",
+      "summary": "Readers can enter through the method, internal baseline, core external reviews, broader theory, or construction priorities.",
+      "image_prompts": {
+        "concrete": "Review reading map with paths for method, baseline, core literature, broader theory, and construction priorities",
+        "abstract": "Multiple scholarly paths through a review field"
+      },
+      "bullets": [
+        "Method entries define the frame",
+        "Baseline entries locate SignWriting",
+        "External reviews test the frame",
+        "Construction priorities carry critique forward"
+      ],
+      "speech": "The series has several valid paths. New readers can start with the overview. Method readers can go to the unified critique framework. Literature readers can enter through the external reviews. Readers looking for next steps can go to the construction-priorities entry.",
+      "notes": "Make the large review series feel navigable."
+    },
+    {
+      "id": "review-commitments",
+      "title": "Review Commitments",
+      "kicker": "4",
+      "summary": "The series credits real strengths, names limits, separates layers, and avoids all-or-nothing judgments.",
+      "image_prompts": {
+        "concrete": "Scholarly commitments slide showing balanced scales for crediting strengths, naming limits, separating layers, and avoiding all-or-nothing judgments",
+        "abstract": "Four steady review principles arranged as a fair evaluation compass"
+      },
+      "bullets": [
+        "Credit strengths before critique",
+        "Name limits without dismissal",
+        "Separate layers before judging claims",
+        "Use review to support better construction"
+      ],
+      "speech": "The review commitments are simple. Credit real strengths before critique. Name limits without turning the source into a caricature. Separate layers before judging claims. Use review to support better writing systems, tools, standards, and research.",
+      "notes": "This completes the overview by naming the series posture. It should make the reviews feel fair, disciplined, and useful."
+    }
+  ],
   "companion_documents": [
     {
       "file": "start-here.md",

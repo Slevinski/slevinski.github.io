@@ -6,7 +6,7 @@ Country ambassadors give Sutton SignWriting a practical way to build internation
 
 Its core claim is simple:
 
-> international support needs trusted local relationship capacity
+> international coordination depends on trusted local relationship capacity
 
 This entry defines a volunteer-first country ambassador, or local liaison, model for outreach, translation, documentation, and early partner development.
 
@@ -123,7 +123,7 @@ It should answer questions such as:
 
 ## Path To Stipends
 
-If institutional support grows, some ambassador work may become stipend-supported.
+If institutional stewardship grows, some ambassador work may become stipend-supported.
 
 Possible stipend-supported services include:
 
@@ -168,7 +168,7 @@ Expansion should happen after the model has been tested.
 
 ## Relationship To International Shared Support
 
-Country ambassadors are one mechanism inside the larger international support model.
+Country ambassadors are one mechanism inside the larger international stewardship model.
 
 They help make international participation practical by grounding outreach in local knowledge.
 

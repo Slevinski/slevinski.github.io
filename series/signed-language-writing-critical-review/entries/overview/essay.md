@@ -64,22 +64,22 @@ The series focuses on work that touches one or more of these areas:
 
 Throughout the series, a few terms are used consistently:
 
-- `Sutton SignWriting` when the formal identity of Valerie Sutton's writing system needs to be explicit
-- `SignWriting` for ordinary references to that writing system
-- `Formal SignWriting` for the technical text model that preserves Sutton SignWriting as structured text
-- `written sign` for the primary written unit
-- `signbox` for the spatial frame in which that unit is composed
-- `text model` for the encoding layer that preserves written signs as text
-- `plane-based writing` for writing in which spatial composition is part of authorship
-- `durable signed text` for signed text that persists across time and supports revisiting, revision, citation, search, teaching, and software processing
-- `technical infrastructure` for alphabets, encodings, fonts, editors, corpora, datasets, renderers, tools, and platforms
-- `human and institutional infrastructure` for teachers, communities of practice, publishing habits, stewardship, funding, policy, and institutions
+- *Sutton SignWriting* when the formal identity of Valerie Sutton's writing system needs to be explicit
+- SignWriting for ordinary references to that writing system
+- *Formal SignWriting* for the technical text model that preserves Sutton SignWriting as structured text
+- *written sign* for the primary written unit
+- *signbox* for the spatial frame in which that unit is composed
+- *text model* for the encoding layer that preserves written signs as text
+- *plane-based writing* for writing in which spatial composition is part of authorship
+- *durable signed text* for signed text that persists across time and supports revisiting, revision, citation, search, teaching, and software processing
+- *technical infrastructure* for alphabets, encodings, fonts, editors, corpora, datasets, renderers, tools, and platforms
+- *human and institutional infrastructure* for teachers, communities of practice, publishing habits, stewardship, funding, policy, and institutions
 
-The term `pathways` is also used more carefully across the project:
+The term *pathways* is also used more carefully across the project:
 
-- `language pathways` for routes of language access and expression
-- `literacy pathways` for routes of reading and writing
-- `reading pathways` for the narrower page-to-perception-to-interpretation problem during reading research
+- *language pathways* for routes of language access and expression
+- *literacy pathways* for routes of reading and writing
+- *reading pathways* for the narrower page-to-perception-to-interpretation problem during reading research
 
 ## Method
 
@@ -100,7 +100,7 @@ In practice, that means each review asks:
 
 Readers who want the full methodological version can begin with:
 
-- `A Unified Critique Framework for Signed Language Writing, Encoding, and Representation`
+- *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
 
 Most readers do not need to start there.
 
@@ -112,14 +112,14 @@ The series has five main parts.
 
 These define the review method and its main distinctions.
 
-- `A Unified Critique Framework for Signed Language Writing, Encoding, and Representation`
+- *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
 
 ### 2. Internal baseline entries
 
 These apply the same standards inward so that the series states its own baseline rather than only judging outside work.
 
-- `Sutton SignWriting and Formal SignWriting Through the Framework`
-- `A Layer-Based Evaluation of Signed Language Writing Systems`
+- *Sutton SignWriting and Formal SignWriting Through the Framework*
+- *A Layer-Based Evaluation of Signed Language Writing Systems*
 
 These two pieces do different work:
 
@@ -130,11 +130,11 @@ These two pieces do different work:
 
 These are the main external review targets in the series:
 
-- `Official Unicode SignWriting: The Character Problem and the Written-Sign Problem`
-- `Grushkin (2017): Writing Signed Languages: What For? What Form?`
-- `Filhol (2020): A Human-Editable Sign Language Representation . . . and a Writing System?`
-- `Thiessen (2011): A Grammar of SignWriting`
-- `Martin (2000): From Notation to Writing`
+- *Official Unicode SignWriting: The Character Problem and the Written-Sign Problem*
+- *Grushkin (2017): Writing Signed Languages: What For? What Form?*
+- *Filhol (2020): A Human-Editable Sign Language Representation . . . and a Writing System?*
+- *Thiessen (2011): A Grammar of SignWriting*
+- *Martin (2000): From Notation to Writing*
 
 These entries are where the recurring critique categories become concrete.
 
@@ -142,11 +142,11 @@ These entries are where the recurring critique categories become concrete.
 
 These entries widen the frame beyond the immediate SignWriting debate and ask whether broader writing theory can actually accommodate signed writing.
 
-- `Meletis and Durscheid (2022): Writing Systems and Their Use`
+- *Meletis and Durscheid (2022): Writing Systems and Their Use*
 
 The Meletis and Durscheid entry also includes a companion paper:
 
-- `Signed Writing as a Pressure Test for General Writing Theory`
+- *Signed Writing as a Pressure Test for General Writing Theory*
 
 That companion does a different job from the review itself. It uses the review target as a lead case for the larger question of how far current grapholinguistics can actually stretch once signed writing is treated as a full comparative case.
 
@@ -154,7 +154,7 @@ That companion does a different job from the review itself. It uses the review t
 
 This entry turns the review series toward next-step priorities rather than further diagnosis.
 
-- `From Critique to Construction: Priorities for Signed Language Writing Infrastructure`
+- *From Critique to Construction: Priorities for Signed Language Writing Infrastructure*
 
 ## How to use this series
 
@@ -163,62 +163,62 @@ There are several good entry paths, depending on what you need.
 ### Best path for a new reader
 
 1. This overview entry
-2. `A Layer-Based Evaluation of Signed Language Writing Systems`
+2. *A Layer-Based Evaluation of Signed Language Writing Systems*
 
 Use this path if you want the shortest route into the series without beginning from the full framework.
 
 ### Fastest path into the method
 
-1. `A Unified Critique Framework for Signed Language Writing, Encoding, and Representation`
-2. `A Layer-Based Evaluation of Signed Language Writing Systems`
+1. *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
+2. *A Layer-Based Evaluation of Signed Language Writing Systems*
 
 Use this path if you want the shortest route from method to comparative demonstration.
 
 ### Best path for understanding the series baseline
 
-1. `A Unified Critique Framework for Signed Language Writing, Encoding, and Representation`
-2. `Sutton SignWriting and Formal SignWriting Through the Framework`
-3. `Official Unicode SignWriting: The Character Problem and the Written-Sign Problem`
+1. *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
+2. *Sutton SignWriting and Formal SignWriting Through the Framework*
+3. *Official Unicode SignWriting: The Character Problem and the Written-Sign Problem*
 
 Use this path if you want the internal conceptual and technical baseline before moving into external reviews.
 
 ### Best path for core literature review
 
-1. `A Layer-Based Evaluation of Signed Language Writing Systems`
-2. `Grushkin (2017): Writing Signed Languages: What For? What Form?`
-3. `Thiessen (2011): A Grammar of SignWriting`
-4. `Filhol (2020): A Human-Editable Sign Language Representation . . . and a Writing System?`
-5. `Martin (2000): From Notation to Writing`
+1. *A Layer-Based Evaluation of Signed Language Writing Systems*
+2. *Grushkin (2017): Writing Signed Languages: What For? What Form?*
+3. *Thiessen (2011): A Grammar of SignWriting*
+4. *Filhol (2020): A Human-Editable Sign Language Representation . . . and a Writing System?*
+5. *Martin (2000): From Notation to Writing*
 
 Use this path if you want to move from the comparative overview into the main external review cases.
 
 ### Best path for broader theory
 
-1. `A Unified Critique Framework for Signed Language Writing, Encoding, and Representation`
-2. `Meletis and Durscheid (2022): Writing Systems and Their Use`
-3. `Signed Writing as a Pressure Test for General Writing Theory`
+1. *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
+2. *Meletis and Durscheid (2022): Writing Systems and Their Use*
+3. *Signed Writing as a Pressure Test for General Writing Theory*
 
 Use this path if your immediate question is how signed writing bears on general writing-system theory.
 
 ### Best path for next steps
 
-1. `A Layer-Based Evaluation of Signed Language Writing Systems`
-2. `Official Unicode SignWriting: The Character Problem and the Written-Sign Problem`
-3. `From Critique to Construction: Priorities for Signed Language Writing Infrastructure`
+1. *A Layer-Based Evaluation of Signed Language Writing Systems*
+2. *Official Unicode SignWriting: The Character Problem and the Written-Sign Problem*
+3. *From Critique to Construction: Priorities for Signed Language Writing Infrastructure*
 
 Use this path if your immediate question is what the field most needs next in research, tooling, standards, and adoption.
 
 ## Relationship to other series
 
-- `Sutton SignWriting Foundations` asks why signed writing matters.
-- `Sutton SignWriting Language and Literacy Research` asks what research and literacy questions follow.
-- `Writing and Representation in Sutton SignWriting` asks what kind of writing SignWriting is.
-- `Formal SignWriting` asks how signed text works as a technical model.
-- `Signed Language Writing Critical Review Series` asks how the literature and standards work align with those foundations.
+- *Sutton SignWriting Foundations* asks why signed writing matters.
+- *Sutton SignWriting Language and Literacy Research* asks what research and literacy questions follow.
+- *Writing and Representation in Sutton SignWriting* asks what kind of writing SignWriting is.
+- *Formal SignWriting* asks how signed text works as a technical model.
+- *Signed Language Writing Critical Review Series* asks how the literature and standards work align with those foundations.
 
-This series therefore stands beside the science and formal tracks rather than inside them.
+This series therefore stands beside the language-and-literacy, writing-systems, and formal technical tracks rather than inside them.
 
-In practice, `Formal SignWriting` supplies the technical baseline for many of the reviews: it shows what a complete text model for Sutton SignWriting must preserve before standards, proposals, or alternative systems can be compared fairly.
+In practice, *Formal SignWriting* supplies the technical baseline for many of the reviews: it shows what a complete text model for Sutton SignWriting must preserve before standards, proposals, or alternative systems can be compared fairly.
 
 Its role is evaluative:
 
@@ -230,12 +230,12 @@ Its role is evaluative:
 
 Across the entries, recurring failure modes are named and reused so that the reviews can be compared without flattening their differences.
 
-- `Infrastructure Awareness`
-- `Alphabetic Bias`
-- `Level Confusion`
-- `Symbol-Centric Modeling`
-- `Insufficient Engagement With Prior Work`
-- `Forced Linearization`
+- **Infrastructure Awareness**
+- **Alphabetic Bias**
+- **Level Confusion**
+- **Symbol-Centric Modeling**
+- **Insufficient Engagement With Prior Work**
+- **Forced Linearization**
 
 These categories are not substitutes for argument.
 
@@ -248,7 +248,7 @@ Together, these entries provide:
 - a typology of recurring issues in signed-language writing scholarship
 - a public evaluation layer for external literature and standards work
 - a bridge from critique toward clearer theory and better design
-- a support series for later survey papers, response articles, and technical commentaries
+- a basis for later survey papers, response articles, and technical commentaries
 - a place where each review stands on its own as a readable paper, while the framework remains available as the deeper shared method
 
 The aim is not only to identify problems.

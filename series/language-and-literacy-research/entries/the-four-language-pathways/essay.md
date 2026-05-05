@@ -2,7 +2,7 @@
 
 **A developmental model of language, literacy, and signed-language writing**
 
-This paper is the opening model paper of the `Sutton SignWriting Language and Literacy Research` series.
+This paper is the opening model paper of *Sutton SignWriting Language and Literacy Research*.
 
 It grows out of the public foundations argument in *Language Without Sound*, but it does not replace that piece.
 
@@ -27,7 +27,7 @@ The intended relation is:
 
 ## Terminology note
 
-This paper uses `developmental pathways` in a broad sense.
+This paper uses *developmental pathways* in a broad sense.
 
 It is about routes by which language and literacy become available to a learner and user:
 
@@ -38,11 +38,11 @@ It is about routes by which language and literacy become available to a learner 
 
 It is not yet about the narrower reading-pathway question of how written signs move from page to eye to perception to language interpretation during skilled reading.
 
-When this paper says `pathways` without qualification, it means developmental pathways unless the context says otherwise.
+When this paper says *pathways* without qualification, it means developmental pathways unless the context says otherwise.
 
 It also does not mean that each pathway maps to a discrete neural circuit.
 
-Here, `pathway` is an access-and-development term: it names how language or literacy becomes available for use, not a completed neurocognitive model.
+Here, *pathway* is an access-and-development term: it names how language or literacy becomes available for use, not a completed neurocognitive model.
 
 ## Problem statement
 
@@ -424,7 +424,7 @@ They are made clearer here.
 
 ## Why this paper belongs after Language Without Sound
 
-`Language Without Sound` was right to insist that language is not reducible to sound.
+*Language Without Sound* was right to insist that language is not reducible to sound.
 
 But once that conceptual ground is cleared, the next task is not to repeat the claim louder.
 
@@ -436,7 +436,7 @@ It should therefore be read as a second move:
 
 - not a replacement for the foundations essay
 - not a compressed infrastructure pitch
-- but the first real anchor of the research-facing lane
+- but the first real anchor of the research-facing series
 
 ## Conclusion
 

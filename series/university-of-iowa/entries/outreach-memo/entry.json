@@ -24,7 +24,7 @@
         "A PI or lab base as the institutional base",
         "Longer-term SignWriting infrastructure upside"
       ],
-      "speech": "The University of Iowa opportunity can be stated simply. Steve can help research teams now with DMS Plans, workflow implementation, validation, documentation, and repository delivery. A PI or lab base would give that work a real home, and that home can later support grants, sustained research capacity, and the longer SignWriting infrastructure opportunity.",
+      "speech": "The University of Iowa opportunity can be stated simply. Steve can help research teams now with DMS Plans, workflow implementation, validation, documentation, and repository delivery. A PI, lab, or unit relationship would make that work easier to use, support, and grow while keeping longer-term SignWriting stewardship as a separate institutional question.",
       "notes": "A busy reader should understand the practical value before hearing the larger infrastructure story.",
       "mermaid": "graph TD\n  A[Practical Research Support Now] --> B[PI Or Lab Base]\n  B --> C[Support And Grants]\n  B --> D[Longer-Term SignWriting Infrastructure]"
     },
@@ -34,7 +34,7 @@
       "kicker": "2",
       "summary": "The timing matters because the work is already active, the need is current, and a durable next structure is more credible when built now rather than after momentum is lost.",
       "bullets": [
-        "The current structure is too fragile",
+        "The current structure needs continuity",
         "A near-term PI path exists now",
         "The next step is small but strategically important"
       ],
@@ -64,12 +64,12 @@
       "summary": "The larger infrastructure opportunity is real because Sutton SignWriting already depends on public technical assets that need durable stewardship.",
       "bullets": [
         "Already globally used",
-        "Still structurally fragile",
+        "Continuity still depends on informal structure",
         "Stronger when attached to visible research value"
       ],
       "speech": "There is a larger opportunity around Sutton SignWriting as shared research infrastructure. That opportunity becomes more credible when it is attached to visible research value, a real institutional base, and collaborators who can help the work grow responsibly.",
       "notes": "Keep the infrastructure story present but secondary to immediate usefulness.",
-      "mermaid": "graph TD\n  A[Global Use] --> B[Current Fragility]\n  B --> C[Institutional Home]\n  C --> D[Grant-Funded Infrastructure]"
+      "mermaid": "graph TD\n  A[Global Use] --> B[Continuity Risk]\n  B --> C[Host Structure]\n  C --> D[Funded Infrastructure]"
     },
     {
       "id": "next-conversations",
@@ -80,9 +80,9 @@
         "Researchers who need DMS and repository help -> Research Team Value",
         "PI and faculty collaborators -> PI or Lab Base",
         "Institutional strategy -> Infrastructure Program",
-        "Development and donor interest -> public Infrastructure Core and Philanthropy"
+        "Development and gift conversations -> Infrastructure Core and Philanthropy"
       ],
-      "speech": "The next conversations should be practical. Some readers need the PI or lab base case. Some need the immediate research support case. Others need the long-term infrastructure or development materials. The point is to make the next conversation concrete.",
+      "speech": "The next conversations should be practical. Some readers need the PI or lab base case. Some need the immediate research-service case. Others need the long-term infrastructure or development materials. The point is to make the next conversation concrete.",
       "notes": "Close with practical next actions and keep the language forwardable.",
       "image_prompt_concrete": "Decision slide showing four next conversations: PI, DMS support, infrastructure, and grants/development",
       "image_prompt_abstract": "One central hub branching into four purposeful next-step paths"

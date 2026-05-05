@@ -4,7 +4,7 @@
   "title": "Evidence Boundaries and Adoption Limits",
   "subtitle": "What current evidence supports, what remains open, and what resistance still needs documentation",
   "summary": "Evidence-boundary entry for the Sutton SignWriting Evidence and Adoption series.",
-  "synopsis": "This entry states the limits of current SignWriting evidence as a first-class part of the empirical lane. It distinguishes documented use from outcome claims, names underdocumented adoption limits and negative cases, and keeps Brazil and South Korea from being overgeneralized.",
+  "synopsis": "This entry states the limits of current SignWriting evidence as a first-class part of the empirical series. It distinguishes documented use from outcome claims, names underdocumented adoption limits and negative cases, and keeps Brazil and South Korea from being overgeneralized.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -12,5 +12,79 @@
     "public_label": "Evidence Note",
     "public_slug": "primary",
     "publication_designation": "Evidence Note"
-  }
+  },
+  "slides": [
+    {
+      "id": "why-boundaries-matter",
+      "title": "Why Boundaries Matter",
+      "kicker": "1",
+      "summary": "Evidence boundaries make the adoption case more credible by separating documented use from unproven claims.",
+      "image_prompts": {
+        "concrete": "Scholarly slide showing verified evidence inside a clear boundary and open questions outside it",
+        "abstract": "A bright evidence field surrounded by a careful boundary line"
+      },
+      "bullets": [
+        "Documented use is real",
+        "Outcome claims need separate evidence",
+        "Country anchors should not be overgeneralized",
+        "Open questions belong in the record"
+      ],
+      "speech": "Evidence boundaries are not a retreat from the adoption case. They make the case stronger. The record can show real use while also naming what has not yet been proven about scale, outcomes, resistance, and community preference.",
+      "notes": "Make this sound like research discipline, not caution for its own sake."
+    },
+    {
+      "id": "what-evidence-supports",
+      "title": "What Evidence Supports",
+      "kicker": "2",
+      "summary": "Current evidence supports existence, documented anchors, technical maturity, and research relevance.",
+      "image_prompts": {
+        "concrete": "Four-part evidence slide labeled existence, anchors, technical maturity, and research relevance",
+        "abstract": "Four verified blocks supporting a careful evidence claim"
+      },
+      "bullets": [
+        "SignWriting exists in real practice",
+        "Brazil provides empirical depth",
+        "South Korea provides current institutional evidence",
+        "Technical and scholarly records are substantial"
+      ],
+      "speech": "The current evidence supports several strong claims. SignWriting is real in practice. Brazil provides empirical depth. South Korea provides current institutional evidence. The technical and scholarly record is substantial enough to support serious research and stewardship.",
+      "notes": "This slide should feel affirmative."
+    },
+    {
+      "id": "what-remains-open",
+      "title": "What Remains Open",
+      "kicker": "3",
+      "summary": "The evidence does not yet provide a complete global map, broad literacy outcomes, or full documentation of adoption resistance.",
+      "image_prompts": {
+        "concrete": "Research agenda slide showing open boxes for global mapping, literacy outcomes, community preference, and adoption resistance",
+        "abstract": "Open evidence boxes marked for future documentation"
+      },
+      "bullets": [
+        "No complete current global census",
+        "Limited large-scale outcome evidence",
+        "Community desire cannot be assumed everywhere",
+        "Negative and dormant cases need documentation"
+      ],
+      "speech": "Several questions remain open. The record is not a complete global map. Large-scale literacy outcome evidence remains limited. Community desire cannot be assumed from a few strong cases. Adoption limits, resistance, and dormant programs need better documentation.",
+      "notes": "Name gaps plainly without making the whole project sound weak."
+    },
+    {
+      "id": "responsible-use",
+      "title": "Responsible Use",
+      "kicker": "4",
+      "summary": "Responsible readers can cite strong anchors while keeping broader adoption and outcome claims appropriately bounded.",
+      "image_prompts": {
+        "concrete": "Citation-oriented slide showing strong evidence anchors connected to bounded responsible claims",
+        "abstract": "A citation path passing through a clear evidence filter"
+      },
+      "bullets": [
+        "Cite documented anchors directly",
+        "Distinguish existence from outcomes",
+        "Keep country claims specific",
+        "Use open questions to guide research"
+      ],
+      "speech": "The practical result is a stronger citation posture. Readers can cite documented anchors directly, distinguish existence from outcomes, keep country claims specific, and use open questions as a research agenda rather than as a reason to dismiss the system.",
+      "notes": "This is the usable takeaway for scholars and reviewers."
+    }
+  ]
 }

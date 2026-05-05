@@ -2,7 +2,7 @@
 
 **Documented institutional density, research opportunity, and why Brazil matters**
 
-This entry is the first major anchor of the `Sutton SignWriting Evidence and Adoption` series.
+This entry is the first major anchor of *Sutton SignWriting Evidence and Adoption*.
 
 Its task is straightforward:
 
@@ -135,7 +135,7 @@ The abstract describes a qualitative-quantitative study using semi-structured in
 
 That does not make the study a population-level outcome result.
 
-It does provide something this evidence lane needs: documented reader-centered evidence, including questions of linguistic comfort, identification, perceived comprehension, and obstacles to adherence.
+It does provide something this evidence series needs: documented reader-centered evidence, including questions of linguistic comfort, identification, perceived comprehension, and obstacles to adherence.
 
 The strongest use of this source is modest:
 
@@ -191,7 +191,7 @@ The strongest evidence-facing next steps are documentation tasks:
 
 Brazil therefore deserves to be treated not merely as a successful chapter in SignWriting history, but as the strongest documented empirical center in the current public record.
 
-For a narrower present-tense institutional companion, see *South Korea as a Current Institutional Proof Point*. For the support-facing consequences of this evidence, see the `Sutton SignWriting Infrastructure and Program` series.
+For a narrower present-tense institutional companion, see *South Korea as a Current Institutional Proof Point*. For stewardship consequences of this evidence, see *Sutton SignWriting Infrastructure and Program*.
 
 ## Selected sources
 

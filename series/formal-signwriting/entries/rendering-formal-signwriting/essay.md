@@ -140,7 +140,7 @@ This distinction matters because font choice is not only aesthetic. It affects b
 
 Rendering becomes more interesting when signs are not isolated.
 
-A dedicated layout entry now defines vertical writing, horizontal writing, lane counts, centering strategy, and SW1-SW4 reading-level defaults. Rendering should use that layout model rather than redefining it inside the output layer.
+A dedicated layout entry defines vertical writing, horizontal writing, lane counts, centering strategy, and SW1-SW4 reading-level defaults. Rendering should use that layout model rather than redefining it inside the output layer.
 
 A real written passage requires:
 

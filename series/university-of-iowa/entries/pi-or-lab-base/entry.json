@@ -30,12 +30,12 @@
       "id": "why-now",
       "title": "The First Institutional Step",
       "kicker": "1",
-      "summary": "The immediate need is not a mature center. It is a PI or lab base now, because that first institutional home creates a real base for useful work and makes every larger step more credible.",
+      "summary": "The immediate need is not a mature center. It is a PI, lab, or unit relationship now, because that first accountable base creates a practical location for useful work and makes every larger step more credible.",
       "bullets": [
         "A PI or lab base is needed now",
         "Useful research support can begin from that base"
       ],
-      "speech": "This conversation is happening now because the immediate need is not a fully built center. It is a PI or lab base. That base gives the work a real university home, lets useful project support begin, and makes the next steps far more credible.",
+      "speech": "This conversation is happening now because the immediate need is not a fully built center. It is a PI or lab base. That base gives the work an accountable university location, lets useful project support begin, and makes the next steps far more credible.",
       "notes": "Open with practical urgency, make the first ask feel modest, and keep the brief narrowly PI-facing.",
       "mermaid": "graph TD\n  A[Immediate Need] --> B[PI Or Lab Base]\n  B --> C[Institutional Base]\n  C --> D[Future Growth]"
     },
@@ -43,13 +43,13 @@
       "id": "base-first",
       "title": "Base First",
       "kicker": "2",
-      "summary": "An institutional base matters even before full funding exists because the first step is affiliation, accountability, and a real home for useful work.",
+      "summary": "An institutional base matters even before full funding exists because the first step is affiliation, accountability, and an accountable location for useful work.",
       "bullets": [
         "The institutional base comes first",
         "Support can grow around demonstrated value",
         "The first ask is smaller than the long-term vision"
       ],
-      "speech": "The first step is the institutional home. Funding, project support, grants, gifts, and infrastructure support can grow around demonstrated value. That makes the initial decision smaller, clearer, and more realistic.",
+      "speech": "The first step is an accountable PI, lab, or unit relationship. Funding, project support, grants, gifts, and infrastructure support can grow around demonstrated value. That makes the initial decision smaller, clearer, and more realistic.",
       "notes": "Reassure the PI that the initial move is structural and practical.",
       "image_prompt_concrete": "Clean academic diagram showing a small first step labeled PI or lab base leading to larger steps labeled sustained capacity, grants, and infrastructure, minimal white background",
       "image_prompt_abstract": "A single foothold growing into a structured pathway of connected platforms, calm strategic visual"
@@ -88,14 +88,14 @@
       "id": "support-paths",
       "title": "The Support Paths",
       "kicker": "5",
-      "summary": "The model works because several support paths can reinforce each other: institutional base first, direct project value, grants under a PI, and complementary gifts or donations.",
+      "summary": "The model works because several continuity paths can reinforce each other: institutional base first, direct project value, grants under a PI, and complementary gifts or donations.",
       "bullets": [
         "PI or lab base",
         "Role support",
         "Grants",
         "Gifts and donations"
       ],
-      "speech": "The plan does not depend on one funding source solving everything immediately. The PI or lab base is first. Partial capacity support can come through advocates and collaborators. Grants can be written under the PI. Gifts and donations can provide bridge support and follow-through through that same home.",
+      "speech": "The plan does not depend on one funding source solving everything immediately. The PI or lab base is first. Partial capacity support can come through advocates and collaborators. Grants can be written under the PI. Gifts and donations can provide bridge support and follow-through through that same structure.",
       "notes": "Make the structure feel coherent, staged, and low-friction.",
       "mermaid": "graph LR\n  A[PI Or Lab Base] --> B[Partial Role Support]\n  A --> C[Grant Writing Under PI]\n  A --> D[Gifts and Donations]\n  B --> E[Follow-Through]\n  C --> E\n  D --> E"
     },
@@ -150,7 +150,7 @@
       "id": "low-risk-high-upside",
       "title": "Low Risk, High Upside",
       "kicker": "9",
-      "summary": "The initial ask is intentionally small, but the upside is strategic because one low-risk base can unlock collaboration, grants, support pathways, and a real home for the work.",
+      "summary": "The initial ask is intentionally small, but the upside is strategic because one low-risk base can unlock collaboration, grants, continuity pathways, and an accountable location for the work.",
       "bullets": [
         "Small first decision",
         "Immediate practical value",
@@ -165,7 +165,7 @@
       "id": "clear-ask",
       "title": "The Immediate Ask",
       "kicker": "10",
-      "summary": "The ask is straightforward: provide the PI or lab base now so the practical work can continue and the broader support structure can be built from a stable base.",
+      "summary": "The ask is straightforward: provide the PI or lab base now so the practical work can continue and the broader stewardship structure can be built from a stable base.",
       "bullets": [
         "Place Steve in the lab now",
         "Let support grow around demonstrated value",

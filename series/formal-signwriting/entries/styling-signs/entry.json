@@ -4,7 +4,7 @@
   "title": "Styling Signs",
   "subtitle": "The style string as light markup for customization and rich presentation",
   "summary": "The style string as optional light markup for customization and rich presentation.",
-  "synopsis": "The style string deserves its own technical home. This entry explains it as optional light markup for customizing sign presentation, clarifies its relation to rendering, and argues against treating styling as part of canonical plain-text encoding.",
+  "synopsis": "The style string deserves focused technical treatment. This entry explains it as optional light markup for customizing sign presentation, clarifies its relation to rendering, and argues against treating styling as part of canonical plain-text encoding.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -91,7 +91,11 @@
       ],
       "speech": "The style string deserves its own entry precisely because it is easy to misplace. If it is treated as part of the encoding, the architecture becomes muddy. If it is buried in rendering alone, its semantics stay under-explained. The clean solution is to treat it as optional light markup with its own definition.",
       "notes": "This is the decisive architectural slide.",
-      "mermaid": "flowchart TD\n  A[Encoding] --> B[Canonical text]\n  C[Styling] --> D[Customization layer]\n  E[Rendering] --> F[Visible output]\n  B --> F\n  D --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,C,E,B,D core;\n  class F node;"
+      "mermaid": "flowchart TD\n  A[Encoding] --> B[Canonical text]\n  C[Styling] --> D[Customization layer]\n  E[Rendering] --> F[Visible output]\n  B --> F\n  D --> F\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,C,E,B,D core;\n  class F node;",
+      "image_prompts": {
+        "concrete": "Boundary slide separating canonical FSW and SWU text from optional style strings, markup, colors, and presentation customization",
+        "abstract": "Canonical text protected from presentation markup by a clear technical boundary"
+      }
     }
   ]
 }

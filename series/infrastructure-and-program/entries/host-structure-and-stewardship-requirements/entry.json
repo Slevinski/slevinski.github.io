@@ -1,0 +1,90 @@
+{
+  "slug": "host-structure-and-stewardship-requirements",
+  "number": 5,
+  "title": "Host Structure and Stewardship Requirements",
+  "subtitle": "Functions a durable stewardship structure would need to provide",
+  "summary": "A generalized public entry describing the functions a university, lab, institute, nonprofit, or consortium would need to provide in order to steward Sutton SignWriting responsibly.",
+  "synopsis": "Sutton SignWriting requires a durable stewardship structure, but the public case should not depend on any one institution before formal commitments exist. This entry generalizes the host-structure logic: what an accountable stewardship structure would provide, what it would not need to invent, what minimum commitments matter, and how grants, data stewardship, technical maintenance, international coordination, and community relationships fit together.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "brief",
+    "public_label": "Brief",
+    "public_slug": "primary",
+    "publication_designation": "Program Brief"
+  },
+  "slides": [
+    {
+      "id": "core-claim",
+      "title": "Core Claim",
+      "kicker": "1",
+      "summary": "A host structure should steward existing value rather than pretend to create the writing system from scratch.",
+      "image_prompts": {
+        "concrete": "Host requirements slide showing existing SignWriting assets entering an accountable stewardship structure",
+        "abstract": "Existing value moving into accountable stewardship"
+      },
+      "bullets": [
+        "The assets already exist",
+        "The host provides structure",
+        "The public case stays institution-neutral",
+        "Commitments should be named by function"
+      ],
+      "speech": "The core claim is that a host structure would steward existing value. It would not need to invent the writing system from scratch. The public case should stay institution-neutral until formal commitments exist.",
+      "notes": "This is the entry's tone anchor."
+    },
+    {
+      "id": "minimum-functions",
+      "title": "Minimum Functions",
+      "kicker": "2",
+      "summary": "Minimum host functions include technical stewardship, data stewardship, documentation, coordination, grant readiness, and succession planning.",
+      "image_prompts": {
+        "concrete": "Checklist slide of minimum host functions: technical stewardship, data stewardship, documentation, coordination, grant readiness, succession planning",
+        "abstract": "A host structure checklist organized by stewardship functions"
+      },
+      "bullets": [
+        "Technical and data stewardship",
+        "Documentation and onboarding",
+        "International coordination",
+        "Grant readiness and succession planning"
+      ],
+      "speech": "The minimum functions are practical. A host should support technical stewardship, data stewardship, documentation, onboarding, international coordination, grant readiness, and succession planning.",
+      "notes": "Keep this concrete."
+    },
+    {
+      "id": "what-host-need-not-do",
+      "title": "What A Host Need Not Do First",
+      "kicker": "3",
+      "summary": "A host does not need to solve every research, adoption, translation, or software problem before it can provide useful stewardship.",
+      "image_prompts": {
+        "concrete": "Scope slide separating first-stage host commitments from later research, translation, adoption, and platform growth",
+        "abstract": "A modest first-stage structure with later paths beyond it"
+      },
+      "bullets": [
+        "No need to solve every research question first",
+        "No need to complete all translations first",
+        "No need to rebuild all software first",
+        "Start with accountable continuity"
+      ],
+      "speech": "A host does not need to solve everything before it can help. It does not need to complete every research question, translation effort, or software rewrite first. It can begin by making continuity accountable.",
+      "notes": "This slide keeps the ask bounded."
+    },
+    {
+      "id": "recommended-model",
+      "title": "Recommended Model",
+      "kicker": "4",
+      "summary": "The strongest model is a host, consortium, or fiscal-sponsor arrangement with clear responsibilities and complementary funding paths.",
+      "image_prompts": {
+        "concrete": "Recommended host model slide showing host, consortium, fiscal sponsor, grants, philanthropy, technical stewardship, and community coordination",
+        "abstract": "Several accountable support models connected to stewardship functions"
+      },
+      "bullets": [
+        "Accountable host or consortium",
+        "Fiscal sponsor where appropriate",
+        "Grants and philanthropy as complementary paths",
+        "Clear separation of claims and responsibilities"
+      ],
+      "speech": "The recommended model is accountable and flexible: a host, consortium, or fiscal-sponsor arrangement with clear responsibilities, grants and philanthropy used as complementary paths, and careful separation between scholarly claims and operational stewardship.",
+      "notes": "Close as a mature governance model."
+    }
+  ]
+}

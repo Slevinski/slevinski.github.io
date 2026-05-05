@@ -4,7 +4,7 @@
 
 Sutton SignWriting is unusual.
 
-The support path it needs is not.
+The stewardship path it needs is not.
 
 Across language documentation, social-science data, sign-language corpora, and research infrastructure, the same general pattern appears repeatedly:
 
@@ -16,15 +16,13 @@ It claims that the infrastructure move is recognizable.
 
 ## Why precedents matter
 
-Precedents help prevent two bad readings.
+Precedents clarify two important points.
 
-The first bad reading is that SignWriting needs an institution to create its value.
+First, SignWriting does not need an institution to create its value.
 
-That is false.
+The value already exists in the writing system, tools, standards, data, public resources, and documented use.
 
-The second bad reading is that asking for institutional support around an already-developed language infrastructure is strange or unprecedented.
-
-That is also false.
+Second, institutional stewardship around an already-developed language infrastructure is not strange or unprecedented.
 
 Many important infrastructure efforts begin when existing assets become too valuable, too public, or too complex to remain dependent on informal stewardship.
 
@@ -58,7 +56,7 @@ These examples are useful because they show language or data infrastructure beco
 - **How it started:** The Endangered Languages Documentation Programme and Endangered Languages Archive were launched through philanthropic support to SOAS and a model in which funded documentation work became part of an archival program.
 - **Funding model:** Philanthropic seed funding, annual documentation grants, and sustained institutional hosting.
 - **What it provides:** Grants for language documentation plus an archive for preserving and sharing documentation materials.
-- **Why relevant to SignWriting:** ELDP and ELAR show that philanthropy can be a strong continuity lane when paired with real institutional anchoring and clear archival responsibility.
+- **Why relevant to SignWriting:** ELDP and ELAR show that philanthropy can be a strong continuity pathway when paired with real institutional anchoring and clear archival responsibility.
 
 ### 3. PARADISEC
 
@@ -66,7 +64,7 @@ These examples are useful because they show language or data infrastructure beco
 - **How it started:** Faculty at multiple Australian universities recognized that endangered-language and cultural recordings were at risk and built a shared preservation and access model.
 - **Funding model:** Distributed university support, research-infrastructure grants, and shared operational responsibility.
 - **What it provides:** Long-term archiving, cataloguing, digitization, preservation, and community access for endangered-language and cultural recordings.
-- **Why relevant to SignWriting:** PARADISEC shows that a durable home can be distributed rather than centralized, as long as preservation and access are treated as infrastructure functions.
+- **Why relevant to SignWriting:** PARADISEC shows that a durable stewardship structure can be distributed rather than centralized, as long as preservation and access are treated as infrastructure functions.
 
 ### 4. BSL Corpus Project to BSL SignBank
 
@@ -104,19 +102,15 @@ The examples differ, but the pattern is stable.
 | --- | --- |
 | Existing assets first | SignWriting already has standards, software, data, public resources, and use |
 | Institutional anchoring second | A host gives the work credibility, continuity, and administrative pathways |
-| Staffing and support next | Technical, data, translation, and coordination work become visible responsibilities |
-| Grants and philanthropy after that | Funding becomes more plausible when the infrastructure has a credible home |
+| Staffing and continuity next | Technical, data, translation, and coordination work become visible responsibilities |
+| Grants and philanthropy after that | Funding becomes more plausible when the infrastructure has a credible host structure |
 | Public access and preservation throughout | The goal is not only research production, but durable access and reuse |
 
 This pattern is important because it keeps the infrastructure case grounded.
 
-The public case is not:
+The public case is not that SignWriting might someday become useful.
 
-- support SignWriting because it might someday become useful
-
-The stronger case is:
-
-- support SignWriting because it is already useful enough that informal maintenance is now the weak point
+The stronger case is that SignWriting is already useful enough for informal maintenance to become the weak point.
 
 ## How to use these precedents
 
@@ -128,14 +122,14 @@ Use them when a reader asks:
 
 The answer is yes.
 
-The models differ, but they all show that language and data infrastructure often becomes durable only after an institution, consortium, archive, or program recognizes that an existing asset base needs a stronger home.
+The models differ, but they all show that language and data infrastructure often becomes durable only after an institution, consortium, archive, or program recognizes that an existing asset base needs a stronger stewardship structure.
 
 ## Reusable sentences
 
 1. Sutton SignWriting is not a speculative new project; it is mature infrastructure with domains, tools, standards, libraries, and datasets already in active use.
 2. ICPSR shows how a university-housed data need can become recognized shared research infrastructure once curation, access, training, and continuity are supported.
 3. The BSL Corpus to BSL SignBank path shows how sign-language documentation can mature into durable public lexical infrastructure.
-4. ELDP, ELAR, and PARADISEC show that philanthropy and distributed institutional consortia work best when anchored in real organizational homes rather than improvised continuity arrangements.
+4. ELDP, ELAR, and PARADISEC show that philanthropy and distributed institutional consortia work best when anchored in real organizational structures rather than improvised continuity arrangements.
 5. MIDAS shows that shared technical capacity can produce immediate institutional value while also supporting longer-term research growth.
 
 ## Bottom line
@@ -148,4 +142,4 @@ That is a familiar infrastructure move.
 
 The unusual part is not the path.
 
-The unusual part is that so much of the technical and community asset base already exists while the durable support structure is still catching up.
+The unusual part is that so much of the technical and community asset base already exists while the durable stewardship structure is still catching up.

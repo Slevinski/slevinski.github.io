@@ -10,7 +10,7 @@ It is tailored to University of Iowa faculty, grants staff, development staff, a
 
 It is not the general Sutton SignWriting infrastructure series, though it can connect readers to the broader platform when needed.
 
-The generalized infrastructure, philanthropy, host-home, and precedent materials live in `Sutton SignWriting Infrastructure and Program`.
+The generalized infrastructure, philanthropy, host-structure, and precedent materials live in `Sutton SignWriting Infrastructure and Program`.
 
 ## Public Reading Path
 

@@ -3,8 +3,8 @@
   "number": 2,
   "title": "Perspective and Authored Space",
   "subtitle": "Viewpoint, placement, and the authored space of signed writing",
-  "summary": "Native anchor draft for the Writing and Representation in Sutton SignWriting series.",
-  "synopsis": "This entry deepens the writing-systems lane by treating authored viewpoint, spatial relation, symbol placement, and passage orientation as part of the writing problem rather than as secondary visual detail. It follows Plane-Based Writing and Script Typology and prepares readers for The Shape of a Sign, Sign Text Layout, and the more formal signbox model.",
+  "summary": "Writing-systems paper for the Writing and Representation in Sutton SignWriting series.",
+  "synopsis": "This entry deepens the writing-systems series by treating authored viewpoint, spatial relation, symbol placement, and passage orientation as part of the writing problem rather than as secondary visual detail. It follows Plane-Based Writing and Script Typology and prepares readers for The Shape of a Sign, Sign Text Layout, and the more formal signbox model.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -12,5 +12,97 @@
     "public_label": "Paper",
     "public_slug": "primary",
     "publication_designation": "Working Paper"
-  }
+  },
+  "slides": [
+    {
+      "id": "what-the-writer-authors",
+      "title": "What The Writer Authors",
+      "kicker": "1",
+      "summary": "If signed writing inhabits a plane, the next question is what the writer composes inside that plane.",
+      "image_prompts": {
+        "concrete": "Writing theory slide showing a SignWriting signbox with viewpoint, placement, relation, and composition highlighted",
+        "abstract": "A two-dimensional written field becoming authored space"
+      },
+      "bullets": [
+        "Viewpoint matters",
+        "Placement matters",
+        "Relation matters",
+        "Composition matters"
+      ],
+      "speech": "This paper follows the plane-based typology argument by asking a more concrete question: if signed writing inhabits a plane, what does the writer actually author there? The answer is viewpoint, placement, relation, and composition.",
+      "notes": "Make the opening simple. This is the bridge from typology to authored structure."
+    },
+    {
+      "id": "authored-viewpoint",
+      "title": "Authored Viewpoint",
+      "kicker": "2",
+      "summary": "SignWriting uses learned viewpoint conventions rather than uncontrolled visual depiction.",
+      "image_prompts": {
+        "concrete": "Academic slide showing front view, top view, body-centered space, and learned viewpoint conventions in SignWriting",
+        "abstract": "A stable viewpoint frame organizing spatial writing"
+      },
+      "bullets": [
+        "Front and top views are conventions",
+        "Spatial writing is learned",
+        "Depth is selected and suggested",
+        "The goal is readable written relation"
+      ],
+      "speech": "SignWriting does not ask writers to reproduce raw three-dimensional vision. It uses learned viewpoint conventions. Front view, top view, orientation, and placement are part of a disciplined writing practice.",
+      "notes": "This slide separates writing from free illustration."
+    },
+    {
+      "id": "placement-as-writing",
+      "title": "Placement As Writing",
+      "kicker": "3",
+      "summary": "Symbol placement and relation are part of the written form, not decorative layout added after the fact.",
+      "image_prompts": {
+        "concrete": "SignWriting composition slide showing symbols arranged in a signbox, with relation and placement marked as written structure",
+        "abstract": "Symbols becoming meaning through spatial relation"
+      },
+      "bullets": [
+        "The written sign is not an unordered symbol list",
+        "Location can change written meaning",
+        "Relation can change written meaning",
+        "The signbox preserves authored composition"
+      ],
+      "speech": "The strongest claim is that placement belongs to the writing itself. A written sign is not an unordered bag of symbols. Symbol identity, position, relation, and grouped composition form the written object.",
+      "notes": "This is the core argument for the signbox bridge."
+    },
+    {
+      "id": "bridge-to-signbox",
+      "title": "Bridge To The Signbox",
+      "kicker": "4",
+      "summary": "If authored space matters, the technical model must preserve composed spatial writing rather than treat it as disposable rendering detail.",
+      "image_prompts": {
+        "concrete": "Bridge slide moving from authored space to a Formal SignWriting signbox model with coordinates and symbols preserved",
+        "abstract": "Authored space becoming a durable signbox"
+      },
+      "bullets": [
+        "Authored space needs preservation",
+        "The signbox makes spatial commitments explicit",
+        "Passage layout supports reader orientation",
+        "Formal SignWriting carries the technical next step"
+      ],
+      "speech": "If viewpoint, placement, and relation are part of authored writing, then the technical model cannot treat them as rendering detail. That is why this paper prepares readers for the signbox and for passage layout.",
+      "notes": "Close toward Formal SignWriting without making this paper technical."
+    },
+    {
+      "id": "bounded-claim",
+      "title": "Bounded Claim",
+      "summary": "Authored space means learned written viewpoint and placement, not raw visual depiction or full three-dimensional reconstruction.",
+      "image_prompts": {
+        "concrete": "Academic slide showing authored viewpoint and placement inside a SignWriting signbox, with boundaries separating writing convention from raw visual depiction and 3D reconstruction",
+        "abstract": "A written plane with viewpoint and placement held inside disciplined boundaries"
+      },
+      "bullets": [
+        "Not raw visual depiction",
+        "Not full 3D reconstruction",
+        "Viewpoint is learned convention",
+        "Placement must be preserved as writing"
+      ],
+      "speech": "The claim is bounded. Authored space does not mean that SignWriting reproduces raw three-dimensional vision. It means that writers use learned viewpoint and placement conventions inside a written plane. Those conventions are part of the written object and therefore need to be preserved.",
+      "notes": "Use this to prevent readers from hearing the paper as pictorial realism. The claim is about written convention and authored relation.",
+      "kicker": "5"
+    }
+  ]
 }

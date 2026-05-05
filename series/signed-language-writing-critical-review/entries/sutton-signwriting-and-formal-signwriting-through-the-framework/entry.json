@@ -13,5 +13,79 @@
     "public_label": "Paper",
     "public_slug": "primary",
     "publication_designation": "Working Paper"
-  }
+  },
+  "slides": [
+    {
+      "id": "self-application",
+      "title": "Self-Application",
+      "kicker": "1",
+      "summary": "The framework is applied to SignWriting and Formal SignWriting themselves, not only to external sources.",
+      "bullets": [
+        "Use the same method internally",
+        "Distinguish writing system from text model",
+        "Name strengths clearly",
+        "Name open limits honestly"
+      ],
+      "speech": "This entry applies the review framework to SignWriting and Formal SignWriting themselves. The point is methodological fairness: the same distinctions used for external literature should also clarify the platform's own claims.",
+      "notes": "This slide establishes credibility.",
+      "image_prompts": {
+        "concrete": "Self-application review slide showing SignWriting and Formal SignWriting evaluated by the same framework used for external literature",
+        "abstract": "A mirror held up to a framework, showing methodological fairness"
+      }
+    },
+    {
+      "id": "writing-and-text-model",
+      "title": "Writing And Text Model",
+      "kicker": "2",
+      "summary": "SignWriting is the human writing system; Formal SignWriting is the technical text model that preserves written signs for software.",
+      "bullets": [
+        "SignWriting: human writing system",
+        "Formal SignWriting: technical text model",
+        "FSW and SWU: encoding strategies",
+        "Rendering and search remain downstream"
+      ],
+      "speech": "The central distinction is between SignWriting as the human writing system and Formal SignWriting as the technical text model. FSW and SWU are encoding strategies inside that technical layer, while rendering and search are downstream.",
+      "notes": "This is the most important clarification.",
+      "image_prompts": {
+        "concrete": "Layered slide distinguishing SignWriting as a human writing system from Formal SignWriting as a technical text model with FSW and SWU underneath",
+        "abstract": "Human writing and machine-readable text model aligned but distinct"
+      }
+    },
+    {
+      "id": "strengths-and-limits",
+      "title": "Strengths And Limits",
+      "kicker": "3",
+      "summary": "The combined system is strongest for durable signed text and structured written units, while adoption, literacy outcomes, handwriting, and standards questions remain open.",
+      "bullets": [
+        "Strong durable text model",
+        "Strong structured written-unit account",
+        "Careful about adoption evidence",
+        "Careful about standards and outcomes"
+      ],
+      "speech": "The combined system is strongest where the framework asks about durable signed text, structured written units, and infrastructure viability. It should remain careful about adoption, literacy outcomes, handwriting practice, and unresolved standards questions.",
+      "notes": "Keep this balanced.",
+      "image_prompts": {
+        "concrete": "Balanced assessment slide showing strong durable signed text model on one side and open adoption, literacy, handwriting, and standards questions on the other",
+        "abstract": "A strong central structure with clear open boundaries around it"
+      }
+    },
+    {
+      "id": "disciplined-claim",
+      "title": "Disciplined Claim",
+      "kicker": "4",
+      "summary": "SignWriting and Formal SignWriting establish a coherent full-path model, but they do not settle every educational, empirical, or institutional question.",
+      "bullets": [
+        "Coherent full-path model",
+        "Plane-based signed writing",
+        "Text model and infrastructure path",
+        "Open questions remain real"
+      ],
+      "speech": "The disciplined claim is that SignWriting and Formal SignWriting establish a coherent full-path model for plane-based signed writing. They do not, by themselves, settle every educational, empirical, or institutional question.",
+      "notes": "Close with bounded confidence.",
+      "image_prompts": {
+        "concrete": "Disciplined claim slide showing a coherent full-path model for plane-based signed writing with separate open questions clearly marked",
+        "abstract": "Bounded confidence: a complete path with visible research frontiers"
+      }
+    }
+  ]
 }

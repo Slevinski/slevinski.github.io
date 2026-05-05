@@ -12,5 +12,97 @@
     "public_label": "Paper",
     "public_slug": "primary",
     "publication_designation": "Working Paper"
-  }
+  },
+  "slides": [
+    {
+      "id": "what-reading-means",
+      "title": "What Reading Means",
+      "kicker": "1",
+      "summary": "Reading signed text is not only decoding symbols; it includes recognition, comparison, layout, syntax, and spatial reference.",
+      "image_prompts": {
+        "concrete": "Research slide showing a reader moving through signed text with recognition, comparison, layout, syntax, and spatial reference highlighted",
+        "abstract": "A signed text passage opening into layered reading processes"
+      },
+      "bullets": [
+        "Reading is not only decoding",
+        "Recognition is a research problem",
+        "Layout may affect reading",
+        "Syntax and reference need study"
+      ],
+      "speech": "This paper asks what reading would mean in a signed writing system. The answer is broader than symbol decoding. Reading signed text involves recognition, comparison, layout direction, syntax, spatial reference, and reader practice.",
+      "notes": "Open with the expanded reading question."
+    },
+    {
+      "id": "recognition-and-comparison",
+      "title": "Recognition And Comparison",
+      "kicker": "2",
+      "summary": "Signed-text reading raises questions about unit recognition, near-neighbor competition, internal structure, and lexical comparison.",
+      "image_prompts": {
+        "concrete": "Eye-tracking inspired research slide showing SignWriting signs compared by unit recognition, near neighbors, and internal structure",
+        "abstract": "Several similar signed text units being distinguished by a reader"
+      },
+      "bullets": [
+        "Unit recognition",
+        "Near-neighbor competition",
+        "Internal sign structure",
+        "Lexical comparison"
+      ],
+      "speech": "A major research area is recognition. Readers must recognize units, distinguish near neighbors, use internal structure, and compare written signs. Those questions make signed-text reading a serious empirical topic.",
+      "notes": "This slide sets up possible early studies."
+    },
+    {
+      "id": "layout-syntax-reference",
+      "title": "Layout, Syntax, Reference",
+      "kicker": "3",
+      "summary": "Reading signed text also depends on passage layout, syntactic organization, and spatial reference across written signs.",
+      "image_prompts": {
+        "concrete": "Research slide showing vertical SignWriting layout, syntactic grouping, and spatial reference links across a short passage",
+        "abstract": "A passage path connecting layout, syntax, and spatial reference"
+      },
+      "bullets": [
+        "Layout direction is a reading variable",
+        "Syntax may be visible in written signed language",
+        "Spatial reference can extend across text",
+        "Evidence remains limited"
+      ],
+      "speech": "Reading does not stop at recognizing isolated signs. Layout direction, syntax, and spatial reference may all affect how readers move through signed text. The current evidence is limited, which makes the research agenda clearer.",
+      "notes": "Keep claims as hypotheses and study dimensions."
+    },
+    {
+      "id": "research-program",
+      "title": "Research Program",
+      "kicker": "4",
+      "summary": "The paper leads to lexical recognition studies, short-passage reading studies, syntax and reference studies, and corpus work.",
+      "image_prompts": {
+        "concrete": "Study-design slide with four early research areas: lexical recognition, short-passage reading, syntax/reference, corpus and materials work",
+        "abstract": "Reading questions becoming a staged research program"
+      },
+      "bullets": [
+        "Lexical recognition studies",
+        "Short-passage reading studies",
+        "Syntax and reference studies",
+        "Corpus and materials work"
+      ],
+      "speech": "The paper points toward a research program: lexical recognition studies, short-passage reading studies, syntax and reference studies, and corpus and materials work. It does not claim those studies are already complete.",
+      "notes": "Close with research readiness."
+    },
+    {
+      "id": "current-evidence-boundary",
+      "title": "Current Evidence Boundary",
+      "kicker": "5",
+      "summary": "The current record supports research readiness, not large-scale claims about recognition mechanisms, layout effects, syntax processing, or reader populations.",
+      "image_prompts": {
+        "concrete": "Evidence-boundary slide for reading signed text, with responsible current claims on one side and open questions about recognition, layout, syntax, reference, and reader populations on the other",
+        "abstract": "A signed-text reading study map with strong current anchors and open empirical boundaries"
+      },
+      "bullets": [
+        "Durable signed text is real",
+        "Reader and institutional anchors exist",
+        "Recognition mechanisms remain open",
+        "Layout and syntax need study"
+      ],
+      "speech": "The current evidence supports research readiness. Signed language can have durable written form, real readers and institutions exist, and SignWriting preserves meaningful written structure. But large-scale claims about recognition mechanisms, layout effects, syntax processing, and reader populations still need dedicated studies.",
+      "notes": "This slide should prevent readers from mistaking a research agenda for completed experimental results."
+    }
+  ]
 }

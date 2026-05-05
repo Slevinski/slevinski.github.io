@@ -6,13 +6,14 @@
 - Series slug: `signed-language-writing-critical-review`
 - Repository slug: `signed-language-writing-critical-review`
 - GitHub repository: `https://github.com/sutton-signwriting/signed-language-writing-critical-review`
-- Zenodo series record: pending
+- Zenodo series record: reserved draft
+- Series DOI: `10.5281/zenodo.20042604`
 - Version: `v1.0.0`
 - License: `CC BY 4.0`
 - Creator: `Steve Slevinski`
 - Publication year: `2026`
 - Resource type: `Publication`
-- Release status: preparing
+- Release status: reserved draft
 - Living site: `https://steveslevinski.me/#series/signed-language-writing-critical-review`
 
 ## Series Description
@@ -27,8 +28,8 @@ Critical review series on signed-language writing, SignWriting, notation, encodi
 
 The current publication direction for this series is:
 
-- `steveslevinski.me` as the living reading home
-- `Zenodo` as the preferred near-term archival and DOI home
+- `steveslevinski.me` as the living reading site
+- `Zenodo` as the preferred near-term archival and DOI record
 - one record per mature framework, review, or synthesis paper when a document is independently citable
 - selective later journal submission for condensed methodological, comparative, or synthesis articles
 
@@ -50,7 +51,7 @@ The review series should become citable in public first, then selectively repack
 ## Citation
 
 ```text
-Slevinski, S. (2026). Signed Language Writing Critical Review Series (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Signed Language Writing Critical Review Series (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20042604
 ```
 
 ## Artifact Register

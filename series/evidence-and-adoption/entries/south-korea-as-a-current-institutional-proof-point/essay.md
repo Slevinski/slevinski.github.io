@@ -1,8 +1,8 @@
 # South Korea as a Current Institutional Proof Point
 
-**National dictionary publication, current institutional use, and why Korea matters now**
+**National dictionary publication, current institutional use, and why Korea matters**
 
-This entry is the second major anchor of the `Sutton SignWriting Evidence and Adoption` series.
+This entry is the second major anchor of *Sutton SignWriting Evidence and Adoption*.
 
 South Korea should not be treated as only a vague international example in SignWriting conversations.
 
@@ -125,7 +125,7 @@ The claim here is narrower than the Brazil case.
 
 It does **not** claim:
 
-- that all of South Korea now writes Korean Sign Language in SignWriting
+- that all of South Korea writes Korean Sign Language in SignWriting
 - that Korean educational use has already been mapped in full
 - that the Korea case is larger than the Brazil case
 - that one dictionary settles every literacy or infrastructure question
@@ -148,9 +148,9 @@ The strongest evidence-facing next steps are documentation tasks:
 - document Deaf user, editor, and institutional perspectives where available
 - distinguish dictionary publication from classroom adoption or ordinary writing practice
 
-South Korea therefore deserves to be treated not as a passing international anecdote, but as one of the clearest current public proof points that SignWriting can function inside official language infrastructure now.
+South Korea therefore deserves to be treated not as a passing international anecdote, but as one of the clearest public proof points that SignWriting can function inside official language infrastructure.
 
-For the broader empirical center, see *Brazil as the Empirical Center of SignWriting*. For support-facing consequences, see the `Sutton SignWriting Infrastructure and Program` series.
+For the broader empirical center, see *Brazil as the Empirical Center of SignWriting*. For stewardship consequences, see *Sutton SignWriting Infrastructure and Program*.
 
 After reading the country briefs, see *Evidence Boundaries and Adoption Limits* for the claims that should not be overstated.
 

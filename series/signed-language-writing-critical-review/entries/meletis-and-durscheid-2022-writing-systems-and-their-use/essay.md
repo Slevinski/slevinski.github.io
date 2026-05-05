@@ -25,7 +25,7 @@ This book does several things unusually well. It rejects crude speech-dependence
 
 Those are substantial strengths, and they are exactly what make the book worth pressing.
 
-The deepest limitation is not that the book ignores writing structure. It is that the framework still appears not to provide a stable typological home for writing systems whose primary written structure is articulatory-spatial, plane-based, and kinetic.
+The deepest limitation is not that the book ignores writing structure. It is that the framework still appears not to provide a stable typological place for writing systems whose primary written structure is articulatory-spatial, plane-based, and kinetic.
 
 SignWriting is exactly the kind of case that reveals whether the field's categories are merely broad enough for familiar systems, or broad enough for writing itself.
 
@@ -138,7 +138,7 @@ but rather:
 
 - the durable encoding of articulatory-spatial form
 
-That possibility does not seem to have a stable home in the present framework.
+That possibility does not seem to have a stable place in the present framework.
 
 ### 2. Spatiality is acknowledged, but still not typologically primary
 
@@ -285,7 +285,7 @@ It should be reviewed as one of the strongest current attempts to theorize writi
 
 Its deepest contribution is that it gives writing real internal structure.
 
-Its deepest limitation is that it still appears not to grant signed language writing a fully adequate typological home.
+Its deepest limitation is that it still appears not to grant signed language writing a fully adequate typological position.
 
 That is why the best judgment is not:
 

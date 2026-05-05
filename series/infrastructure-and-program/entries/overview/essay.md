@@ -2,175 +2,97 @@
 
 *A stewardship and program series*
 
-This series is the support, continuity, and program lane of the Sutton SignWriting platform.
+Sutton SignWriting is not only a writing system, a technical model, or a set of publications. It is also a maintained infrastructure: domains, code, fonts, data, documentation, standards work, partner relationships, and public resources that need accountable continuity.
 
-Its purpose is to show that SignWriting is not only an interesting idea, a set of isolated publications, or a technical archive.
-
-It is also:
-
-- infrastructure
-- stewardship
-- continuity work
-- coordination work
-- international support work
-- a program that can be stabilized deliberately
+This series describes the stewardship functions that would make that infrastructure easier to preserve, extend, fund, and hand forward responsibly.
 
 It is for:
 
-- PIs
-- university units
-- research infrastructure collaborators
-- funders
-- stewards and long-term supporters
+- PIs and research administrators
+- university units, institutes, nonprofits, and consortia
+- funders, donors, and proposal collaborators
+- international partners and local coordinators
+- future stewards of the Sutton SignWriting infrastructure
 
-The central questions of the series include:
+The central questions are practical:
 
-- what already exists and needs continuity
-- what remains fragile in the current maintenance model
-- what support, staffing, and institutional structure would stabilize the work
-- how research, platform development, and stewardship reinforce each other
-- how international partners and country-level relationships can participate
-- how a realistic program should be described without overstating what is already secured
+- Which assets already exist?
+- Which continuity functions need an accountable structure?
+- What would a host, consortium, fiscal sponsor, or stewardship core need to provide?
+- How can international partners participate without being asked to carry inappropriate authority?
+- How can research, publication, software, data, and standards work remain usable over time?
 
-## The Current Program Frame
+## Stewardship Frame
 
-The older combined overview blended several arguments together:
+The series treats stewardship as a set of named functions rather than a vague institutional wish.
 
-- evidence that the system is real
-- stewardship and continuity needs
-- research opportunity
-- international participation
-- platform development
-- institutional value
+Those functions include:
 
-Those claims still matter, but they now belong in clearer lanes.
+- stable responsibility for domains, servers, code, data, fonts, and standards records
+- documentation and onboarding for collaborators, maintainers, and research users
+- preservation of public language resources and technical knowledge
+- partner coordination, translation, and local follow-up
+- grant, gift, donation, or fiscal-sponsor pathways where appropriate
+- succession planning for critical infrastructure and institutional memory
 
-This series carries the support-facing side of that overview.
+The case is not that every function must be solved by one institution immediately. The case is that durable infrastructure needs identifiable responsibility, practical staffing, and a model that can grow without misrepresenting what is already secured.
 
-It is not the evidence lane or the research design lane.
+## Reading Path
 
-It is the support structure needed to keep those lanes usable over time.
-
-It asks what structure would let Sutton SignWriting become durable enough for real users, researchers, educators, and institutions to rely on it.
-
-The answer is not one thing.
-
-It includes:
-
-- stable stewardship for domains, code, data, fonts, servers, and standards
-- institutional routes for grants, gifts, donations, reporting, and collaboration
-- continued platform development, including SignWriting Platform V3
-- international partner relationships that document real use and local value
-- country-level coordination for outreach, translation, and follow-up
-- research and data infrastructure that makes future science cumulative
-
-This is the support lane of the platform split.
-
-The empirical lane now lives in `Sutton SignWriting Evidence and Adoption`.
-
-## What is here now
-
-This series now has seven main support-facing anchors:
-
-- [entries/executive-brief/essay.md](../executive-brief/essay.md)
-- [entries/infrastructure-and-stewardship/essay.md](../infrastructure-and-stewardship/essay.md)
-- [entries/international-shared-support/essay.md](../international-shared-support/essay.md)
-- [entries/country-ambassadors/essay.md](../country-ambassadors/essay.md)
-- [entries/institutional-home-and-host-requirements/essay.md](../institutional-home-and-host-requirements/essay.md)
-- [entries/infrastructure-core-and-philanthropy/essay.md](../infrastructure-core-and-philanthropy/essay.md)
-- [entries/relevant-precedents-for-signwriting-infrastructure/essay.md](../relevant-precedents-for-signwriting-infrastructure/essay.md)
-
-That is intentional.
-
-The lane now has a clear support-facing identity rather than remaining blended together with the empirical lane by default.
-
-## Reading order
-
-The clearest short path through this lane is:
+The clearest path through the series is:
 
 1. *Executive Brief*
 2. *Infrastructure and Stewardship*
-3. *International Shared Support*
-4. *Country Ambassadors*
-5. *Institutional Home and Host Requirements*
-6. *Infrastructure Core and Philanthropy*
+3. *Host Structure and Stewardship Requirements*
+4. *Infrastructure Core and Philanthropy*
+5. *International Shared Support*
+6. *Country Ambassadors*
 7. *Relevant Precedents for SignWriting Infrastructure*
 
-## Current anchors
+Readers who need the shortest forwardable case should begin with *Executive Brief*. Readers evaluating a possible host, sponsor, or consortium role should continue with *Infrastructure and Stewardship* and *Host Structure and Stewardship Requirements*. Readers focused on partner participation or local coordination should move from *International Shared Support* to *Country Ambassadors*.
+
+## Entry Roles
 
 **Executive Brief**
 
-Current role:
-
-- fastest forwardable summary for administrators, PIs, and supporters
-- clean statement that the asset base already exists and the missing layer is stable support
+- gives the shortest stewardship case for administrators, PIs, funders, and institutional readers
+- states the asset base, the continuity gap, and the first-stage stewardship opportunity
 
 **Infrastructure and Stewardship**
 
-Current role:
+- inventories the maintained infrastructure and its practical risk profile
+- explains why domains, code, data, standards, documentation, and public resources require stronger continuity
 
-- concrete asset-and-continuity overview
-- clearest entry for readers who need to understand domains, code, data, standards, and maintenance reality
+**Host Structure and Stewardship Requirements**
 
-**International Shared Support**
-
-Current role:
-
-- support model for international participation
-- explanation of how institutional backing, partner statements, country-level coordination, and future funding pathways fit together
-- clearest entry for readers asking how global use can become shared support
-
-**Country Ambassadors**
-
-Current role:
-
-- practical country-level outreach and relationship model
-- definition of volunteer-first roles, boundaries, pilot structure, and possible future stipends
-- clearest entry for local collaborators who want to help without being asked to carry formal authority
-
-**Institutional Home and Host Requirements**
-
-Current role:
-
-- generalized public host-home logic
-- clearest entry for readers asking what a university, institute, nonprofit, or consortium would actually need to provide
-- keeps the public case institution-neutral until a host is formally named
+- describes what an accountable host, consortium, fiscal sponsor, or related structure would need to provide
+- keeps the requirements institution-neutral unless a formal host is named
 
 **Infrastructure Core and Philanthropy**
 
-Current role:
+- describes a focused stewardship core for maintenance, translation, coordination, documentation, and continuity
+- frames philanthropy as one possible continuity pathway among grants, gifts, donations, and institutional collaboration
 
-- development-facing support model
-- explains how staffing, translation, coordination, continuity, grants, and philanthropy fit together
-- clearest entry for readers asking what a focused support core would fund
+**International Shared Support**
+
+- explains how international participation can strengthen stewardship through statements of use, partner context, introductions, and proposal collaboration
+- treats shared support as distributed participation rather than as a single-party obligation
+
+**Country Ambassadors**
+
+- defines a bounded country-level role for outreach, translation, local context, and follow-up
+- separates trusted local coordination from legal, financial, or institutional authority
 
 **Relevant Precedents for SignWriting Infrastructure**
 
-Current role:
+- compares the SignWriting stewardship problem with language archives, research data archives, sign-language resources, standards communities, and small research institutes
+- gives institutional readers familiar models for understanding the work
 
-- precedent and analogy entry
-- shows that the infrastructure path is recognizable across language archives, data archives, sign-language resources, and research institutes
-- clearest entry for readers asking whether there are comparable institutional models
+## Relationship To Other Series
 
-## Research Program Bridge
+- *Sutton SignWriting Evidence and Adoption* documents the strongest current evidence base and institutional proof points.
+- *Sutton SignWriting Language and Literacy Research* develops the research questions that become more practical when infrastructure is stable.
+- *Formal SignWriting* defines the technical model that the infrastructure must preserve and maintain.
+- *Unicode and SignWriting* documents standards-facing compatibility questions.
 
-*Research Program for Literacy Without Sound* now lives in `Sutton SignWriting Language and Literacy Research`.
-
-Its role is to define the study-design side of the work:
-
-- bridge between conceptual research, study design, datasets, and infrastructure
-- statement of what becomes possible when support is strong enough to make the science cumulative
-- research-facing agenda for early studies, materials, corpora, and reusable research infrastructure
-
-This series should support that research program without taking it over.
-
-## Relationship to other series
-
-- `Sutton SignWriting Foundations` explains why the work matters conceptually.
-- `Sutton SignWriting Language and Literacy Research` defines the harder scientific questions.
-- `Sutton SignWriting Evidence and Adoption` shows where the work is already real in practice.
-- `Sutton SignWriting Infrastructure and Program` explains what support structure lets that reality persist, grow, and become cumulative.
-
-## Transition note
-
-`Sutton SignWriting Infrastructure and Program` is now the current support-facing home for stewardship, continuity, international support, and program framing.
+Together, those adjacent claims create a stewardship question: what structure lets the work remain available, accountable, and useful for future users, researchers, educators, developers, and institutions?

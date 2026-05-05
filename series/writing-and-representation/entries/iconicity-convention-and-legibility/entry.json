@@ -12,5 +12,97 @@
     "public_label": "Paper",
     "public_slug": "primary",
     "publication_designation": "Working Paper"
-  }
+  },
+  "slides": [
+    {
+      "id": "common-mistake",
+      "title": "The Common Mistake",
+      "kicker": "1",
+      "summary": "Iconicity is often mistaken for evidence that a system is not writing, but visual motivation and writing are not opposites.",
+      "image_prompts": {
+        "concrete": "Writing theory slide contrasting free illustration with conventional iconic written symbols in SignWriting",
+        "abstract": "A visual sign passing through convention into writing"
+      },
+      "bullets": [
+        "Iconicity is not disqualification",
+        "Visual motivation can be disciplined",
+        "Writing depends on convention",
+        "Legibility is learned"
+      ],
+      "speech": "The common mistake is to treat iconicity as the opposite of writing. This paper argues the opposite: visually motivated form can become writing when it is stabilized through convention, contrast, correction, and reader practice.",
+      "notes": "Open by removing the false opposition."
+    },
+    {
+      "id": "iconicity-versus-pictography",
+      "title": "Not Mere Pictography",
+      "kicker": "2",
+      "summary": "SignWriting uses iconic resources, but it is not free illustration, pictograms, emoji, or uncontrolled visual communication.",
+      "image_prompts": {
+        "concrete": "Comparison slide showing pictogram, emoji, free drawing, and SignWriting symbol composition as distinct visual systems",
+        "abstract": "Visual resemblance refined into stable written contrast"
+      },
+      "bullets": [
+        "Pictorial resemblance is not enough",
+        "Symbols belong to an inventory",
+        "Placement follows learned conventions",
+        "Reader practice stabilizes interpretation"
+      ],
+      "speech": "The point is not that SignWriting lacks visual motivation. It plainly uses visual motivation. The point is that the visual forms are selected, conventionalized, placed, corrected, and reused as writing.",
+      "notes": "Keep this calm and comparative."
+    },
+    {
+      "id": "what-convention-does",
+      "title": "What Convention Does",
+      "kicker": "3",
+      "summary": "Convention turns motivated visual form into repeatable, teachable, contrastive written difference.",
+      "image_prompts": {
+        "concrete": "Academic slide showing motivated symbol forms becoming teachable categories, contrast sets, correction marks, and reader expectations",
+        "abstract": "Visual motivation passing through a grid of convention"
+      },
+      "bullets": [
+        "Stabilizes symbol choices",
+        "Creates meaningful contrast",
+        "Supports teaching and correction",
+        "Makes written difference readable"
+      ],
+      "speech": "Convention does the stabilizing work. It turns visual motivation into readable difference by creating symbol choices, contrast sets, placement habits, teaching practices, and correction norms.",
+      "notes": "This is the center of the paper."
+    },
+    {
+      "id": "bridges",
+      "title": "Bridges",
+      "kicker": "4",
+      "summary": "The paper connects plane-based writing and authored space to handwriting, machine encoding, and legibility research.",
+      "image_prompts": {
+        "concrete": "Bridge slide linking plane-based writing, authored space, iconicity, handwriting, machine encoding, and reader practice",
+        "abstract": "Motivated form connecting theory, practice, and encoding"
+      },
+      "bullets": [
+        "Plane-based writing needs convention",
+        "Authored space needs legibility",
+        "Handwriting shows material practice",
+        "Encoding must preserve written distinctions"
+      ],
+      "speech": "This paper is a bridge. It connects plane-based writing and authored space to the practical questions of legibility, handwriting, and machine encoding. Visual motivation matters because it is disciplined into written form.",
+      "notes": "Close by placing the paper in the series sequence."
+    },
+    {
+      "id": "what-convention-does-not-solve",
+      "title": "What Convention Does Not Solve",
+      "summary": "Convention makes iconic form writable, but it does not replace reader practice, evidence, handwriting study, or encoding work.",
+      "image_prompts": {
+        "concrete": "Boundary slide showing iconic form becoming conventional writing, with separate boxes for reader practice, evidence, handwriting, and encoding still requiring study",
+        "abstract": "Visual motivation stabilized by convention while open research paths remain visible"
+      },
+      "bullets": [
+        "Convention does not make reading automatic",
+        "Reader practice still matters",
+        "Evidence still matters",
+        "Handwriting and encoding remain separate work"
+      ],
+      "speech": "Convention solves one problem, not every problem. It explains how visually motivated form can become readable written contrast. It does not make reading automatic, replace evidence, settle handwriting practice, or solve machine encoding. Those remain related but separate questions.",
+      "notes": "This slide keeps the paper from overclaiming. It also makes clean bridges to handwriting, evidence, and Formal SignWriting.",
+      "kicker": "5"
+    }
+  ]
 }

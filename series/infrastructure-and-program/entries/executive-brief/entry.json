@@ -3,8 +3,8 @@
   "number": 1,
   "title": "Executive Brief",
   "subtitle": "Sutton SignWriting as research infrastructure",
-  "summary": "First support-facing anchor for the Sutton SignWriting Infrastructure and Program series.",
-  "synopsis": "This entry gives the shortest forwardable support-facing case for Sutton SignWriting. It frames the work as an existing global system with real assets, a real support gap, a stronger empirical base in Brazil, a current institutional proof point in South Korea, and a clear opportunity for a PI or host institution to convert informal stewardship into a durable program.",
+  "summary": "First stewardship anchor for the Sutton SignWriting Infrastructure and Program series.",
+  "synopsis": "This entry gives the shortest forwardable stewardship case for Sutton SignWriting. It frames the work as an existing global system with real assets, an unmet continuity layer, a stronger empirical base in Brazil, a current institutional proof point in South Korea, and a clear opportunity for a PI or host structure to convert informal stewardship into a durable program.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -12,5 +12,79 @@
     "public_label": "Brief",
     "public_slug": "primary",
     "publication_designation": "Research Brief"
-  }
+  },
+  "slides": [
+    {
+      "id": "executive-frame",
+      "title": "Executive Frame",
+      "kicker": "1",
+      "summary": "Sutton SignWriting is existing research infrastructure with real assets and a continuity layer that needs stronger structure.",
+      "image_prompts": {
+        "concrete": "Executive brief slide showing existing SignWriting assets, users, standards, software, data, and a stewardship structure around them",
+        "abstract": "An existing infrastructure base surrounded by a stronger continuity frame"
+      },
+      "bullets": [
+        "Existing global system",
+        "Real assets and documented use",
+        "Continuity layer not fully institutionalized",
+        "Clear stewardship opportunity"
+      ],
+      "speech": "The executive frame is simple. Sutton SignWriting is not a speculative proposal. It is existing research and language infrastructure with real assets, real users, and a continuity layer that needs stronger structure.",
+      "notes": "Keep this short and forwardable."
+    },
+    {
+      "id": "asset-base-and-gap",
+      "title": "Asset Base And Gap",
+      "kicker": "2",
+      "summary": "The asset base is substantial; the gap is stable stewardship for work that already exists.",
+      "image_prompts": {
+        "concrete": "Two-column executive slide with asset base on one side and continuity gap on the other",
+        "abstract": "A strong asset base next to a clearly named continuity gap"
+      },
+      "bullets": [
+        "Writing system and public texts",
+        "Software, fonts, data, and standards",
+        "Brazil and South Korea evidence anchors",
+        "Informal maintenance creates continuity risk"
+      ],
+      "speech": "The asset base includes the writing system, public texts, software, fonts, data, and standards-facing work. The gap is not absence of value. The gap is stable stewardship for assets that already exist and are already maintained informally.",
+      "notes": "State risk without sounding alarmist."
+    },
+    {
+      "id": "first-stage-stewardship",
+      "title": "First-Stage Stewardship",
+      "kicker": "3",
+      "summary": "A first-stage stewardship structure would fund maintenance, documentation, translation, coordination, and research readiness.",
+      "image_prompts": {
+        "concrete": "Stewardship funding slide showing maintenance, documentation, translation, coordination, research readiness, and succession planning",
+        "abstract": "Named stewardship functions arranged as a practical first stage"
+      },
+      "bullets": [
+        "Technical maintenance",
+        "Documentation and onboarding",
+        "Translation and access",
+        "Partner coordination and research readiness"
+      ],
+      "speech": "First-stage stewardship does not need to solve everything at once. It would fund practical functions: maintenance, documentation, onboarding, translation, partner coordination, and research readiness.",
+      "notes": "Use functions rather than institutional wish language."
+    },
+    {
+      "id": "what-a-host-unlocks",
+      "title": "What A Host Enables",
+      "kicker": "4",
+      "summary": "A PI, host structure, consortium, or fiscal sponsor could convert informal stewardship into an accountable program.",
+      "image_prompts": {
+        "concrete": "Institutional pathway slide showing informal stewardship becoming an accountable program through PI, host, consortium, or fiscal sponsor",
+        "abstract": "Informal maintenance becoming accountable program structure"
+      },
+      "bullets": [
+        "Credibility for grants and gifts",
+        "Clear responsibility for assets",
+        "Better coordination with partners",
+        "A durable base for research and public use"
+      ],
+      "speech": "A PI, host structure, consortium, or fiscal sponsor would not create the value from scratch. It would make existing value easier to preserve, fund, coordinate, and extend responsibly.",
+      "notes": "Close with accountable structure, not rescue language."
+    }
+  ]
 }

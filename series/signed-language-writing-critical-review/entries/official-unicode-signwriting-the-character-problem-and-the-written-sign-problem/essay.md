@@ -316,7 +316,7 @@ That confusion is the main reason the issue keeps returning.
 
 ## Relationship to the Unicode dossier
 
-This review does not replace the `Unicode and SignWriting` series.
+This review does not replace the *Unicode and SignWriting* series.
 
 That series remains the dossier and briefing layer for:
 
@@ -327,7 +327,7 @@ That series remains the dossier and briefing layer for:
 
 It does something different.
 
-It interprets the Unicode record through the public critique framework of `Signed Language Writing Critical Review Series`.
+It interprets the Unicode record through the public critique framework of the *Signed Language Writing Critical Review Series*.
 
 ## Final assessment
 

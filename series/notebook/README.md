@@ -6,7 +6,7 @@ Repository and series-about page for the `Notebook` series.
 
 `Notebook` is a low-prominence working-notes series.
 
-It preserves material that is valuable, generative, and not yet settled enough for the strongest public platform lanes.
+It preserves material that is valuable, generative, and not yet settled enough for the strongest public platform series.
 
 It is not a dumping ground and should not become the main public route into the platform.
 
@@ -23,7 +23,7 @@ The full public overview now lives as a series entry:
 
 ## Series Contents
 
-- `entries/overview/` - public overview for the working-notes lane
+- `entries/overview/` - public overview for the working-notes area
 - `entries/opening-note/` - opening note for the purpose and boundaries of the notebook
 
 ## Publication And Citation Model

@@ -29,8 +29,8 @@ It treats Sutton SignWriting as a public writing system for signed languages.
 
 The series keeps these distinct:
 
-- `SignWriting`: the writing system people read and write
-- `Formal SignWriting`: the technical text model and encoding side used for storage, processing, search, and interoperability
+- SignWriting: the writing system people read and write
+- Formal SignWriting: the technical text model and encoding side used for storage, processing, search, and interoperability
 
 Those belong together.
 
@@ -40,15 +40,15 @@ They are not the same layer.
 
 One of the recurring claims across the series is that many sources stop too early at the symbol level.
 
-The stronger unit for analysis is often the `written sign`: a structured written form composed in a signbox, not just a bag or sequence of symbols.
+The stronger unit for analysis is often the *written sign*: a structured written form composed in a signbox, not just a bag or sequence of symbols.
 
 ### 4. Writing, encoding, and rendering are different problems
 
 The series repeatedly distinguishes:
 
-- `writing system`: what the reader and writer are using
-- `encoding`: how that writing is stored and processed as text
-- `rendering`: how it is displayed on screen or paper
+- writing system: what the reader and writer are using
+- encoding: how that writing is stored and processed as text
+- rendering: how it is displayed on screen or paper
 
 Many confusions in the literature come from collapsing those layers.
 
@@ -56,42 +56,42 @@ Many confusions in the literature come from collapsing those layers.
 
 The series uses a few terms in a consistent way:
 
-- `written sign`: the primary written unit, composed in a signbox
-- `signbox`: the spatial frame in which a written sign is composed
-- `text model`: the structural encoding layer used to preserve and process written signs as text
-- `plane-based writing`: the series term for writing in which spatial composition is part of authorship
+- written sign: the primary written unit, composed in a signbox
+- signbox: the spatial frame in which a written sign is composed
+- text model: the structural encoding layer used to preserve and process written signs as text
+- plane-based writing: the series term for writing in which spatial composition is part of authorship
 
-Some reviewed sources use words such as `planar` or `iconographic`.
+Some reviewed sources use words such as *planar* or *iconographic*.
 
 The reviews preserve those terms when discussing the source directly, but the series' own preferred vocabulary is:
 
-- `plane-based writing`
-- `written sign`
-- `text model`
-- `signbox`
+- plane-based writing
+- written sign
+- text model
+- signbox
 
 ## Best entry paths
 
 ### If you want the quickest orientation
 
 1. The overview entry
-2. `A Layer-Based Evaluation of Signed Language Writing Systems`
+2. *A Layer-Based Evaluation of Signed Language Writing Systems*
 
 ### If you want the conceptual baseline
 
 1. The overview entry
-2. `Sutton SignWriting and Formal SignWriting Through the Framework`
-3. `Official Unicode SignWriting: The Character Problem and the Written-Sign Problem`
+2. *Sutton SignWriting and Formal SignWriting Through the Framework*
+3. *Official Unicode SignWriting: The Character Problem and the Written-Sign Problem*
 
 ### If you want the methodological version
 
-1. `A Unified Critique Framework for Signed Language Writing, Encoding, and Representation`
-2. `A Layer-Based Evaluation of Signed Language Writing Systems`
+1. *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
+2. *A Layer-Based Evaluation of Signed Language Writing Systems*
 
 ### If you want the forward-looking version
 
-1. `A Layer-Based Evaluation of Signed Language Writing Systems`
-2. `From Critique to Construction: Priorities for Signed Language Writing Infrastructure`
+1. *A Layer-Based Evaluation of Signed Language Writing Systems*
+2. *From Critique to Construction: Priorities for Signed Language Writing Infrastructure*
 
 ## What to expect from the reviews
 

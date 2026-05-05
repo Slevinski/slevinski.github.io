@@ -14,9 +14,9 @@ This does not mean that actual language use is disembodied or that modality make
 
 It means that human language is not reducible to sound, and that core linguistic organization can be reached through different embodied modalities.
 
-> The brain is waiting for language, not for one privileged sensory channel.
+> The brain can build language through more than one sensory pathway.
 
-The research-facing basis for this claim is developed in `Sutton SignWriting Language and Literacy Research: The Four Language Pathways`; here it serves as the conceptual starting point.
+The research-facing basis for this claim is developed in *Sutton SignWriting Language and Literacy Research: The Four Language Pathways*; here it serves as the conceptual starting point.
 
 A second claim follows:
 
@@ -306,11 +306,11 @@ It provides:
 - shareable and revisable written forms
 - reusable representations for corpora, annotation, and computation
 
-Brazil is the clearest current empirical anchor for this claim.
+Brazil is the clearest empirical anchor for this claim.
 
 The public record documents SignWriting use across schools, universities, curricula, research activity, and reader-centered studies in Brazilian Libras contexts. That record should not be overstated as a complete current census or as proof of every literacy outcome, but it does show that SignWriting has functioned inside real educational and institutional settings rather than only as a theoretical proposal.
 
-For the more technical scale-and-infrastructure side of that claim, see `Formal SignWriting: Plane Writing Technical Bridge`, especially its discussion of dictionary scale, dataset growth, authorship, and compatibility boundaries.
+The more technical scale-and-infrastructure side of that claim is developed in *Formal SignWriting: Plane Writing Technical Bridge*, especially its discussion of dictionary scale, dataset growth, authorship, and compatibility boundaries.
 
 The point is not that SignWriting solves signed-language education by itself.
 
@@ -342,7 +342,7 @@ It points toward:
 - standards work
 - shared tools
 - research integration
-- long-term institutional support
+- long-term institutional stewardship
 
 ## Implication
 

@@ -1,44 +1,24 @@
 # steveslevinski.me
 
-This README is copied from `public/` into `dist/` during build.
+This directory is a deployable static build of `steveslevinski.me`.
 
-- In `public/`, these files are static build inputs for `steveslevinski.me`.
-- In `dist/`, these files are part of the deployable static site.
+It is intended to stand on its own when copied into the deployment repository.
 
 - `CNAME` sets the custom domain to `steveslevinski.me`
+- `index.html` is the application entry point
+- `assets/` contains the bundled JavaScript, CSS, fonts, and SignWriting browser assets
 - `images/` contains static images used by the site
-- `series/` contains the generated mirror copied from `docs/series/`
-- `site-index.json` is the generated public discovery manifest used by the site index and search page
-- `dist.zip` is created beside `dist/` after a successful build from the app root
-- old `#series/.../handout` links are normalized by the app to the canonical `#series/.../essay` route
+- `iswa-hands/` contains generated Sutton SignWriting hand-symbol images used by the site
+- `series/` contains the public publication and document mirror served by the site
+- `site-index.json` is the public discovery manifest used by site search and navigation
+- `.nojekyll` keeps GitHub Pages from treating underscore-prefixed build assets specially
 
-Refresh `series/` with:
+The site is a client-side application. Public routes use hash fragments, such as:
 
-```bash
-cd apps/steveslevinski-me
-npm run sync-docs
-```
+- `#section/publications`
+- `#section/stewardship`
+- `#series/foundations/start-here/primary`
 
-That sync step also rebuilds `site-index.json`.
+Do not edit these files directly in the deployment repository unless making an emergency deployment-only fix.
 
-Build the final deployable site into `dist/` with:
-
-```bash
-cd apps/steveslevinski-me
-npm run build
-```
-
-That build command also creates `dist.zip` automatically after `dist/` is written.
-
-If `dist/` already exists and you only need to recreate the archive:
-
-```bash
-cd apps/steveslevinski-me
-npm run package-dist
-```
-
-After build:
-
-- `dist/` is the deployable static site
-- `dist.zip` is the packaged archive for transfer or deployment workflows
-- `site-index.json` and `series/index.json` are public metadata files used by the search page
+Normal updates should replace this directory with a newly prepared static-site release.

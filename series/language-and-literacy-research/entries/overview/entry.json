@@ -3,7 +3,7 @@
   "number": 0,
   "title": "Sutton SignWriting Language and Literacy Research Overview",
   "subtitle": "Developmental pathways, literacy layering, reading questions, and signed-language research",
-  "summary": "Overview entry for the research-facing language and literacy lane of the Sutton SignWriting platform.",
+  "summary": "Overview entry for the research-facing language and literacy series of the Sutton SignWriting platform.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -11,5 +11,79 @@
     "public_label": "Overview",
     "public_slug": "primary",
     "publication_designation": "Series Overview"
-  }
+  },
+  "slides": [
+    {
+      "id": "what-this-series-studies",
+      "title": "What This Series Studies",
+      "kicker": "1",
+      "summary": "This series turns signed-language writing into a research program about language pathways, literacy, reading, and study design.",
+      "image_prompts": {
+        "concrete": "Research overview slide showing language pathways, literacy pathways, reading signed text, study design, corpora, and data infrastructure",
+        "abstract": "A research program opening from durable signed text into study pathways"
+      },
+      "bullets": [
+        "Language and literacy pathways",
+        "Reading signed text",
+        "Research-program design",
+        "Questions opened by durable signed writing"
+      ],
+      "speech": "This is the research-facing series. It asks what kinds of language, literacy, reading, and study-design questions become possible when signed languages have durable written text.",
+      "notes": "Frame as research agenda, not proof of outcomes."
+    },
+    {
+      "id": "research-posture",
+      "title": "Research Posture",
+      "kicker": "2",
+      "summary": "The series distinguishes conceptual possibility, documented use, research design, and outcome evidence.",
+      "image_prompts": {
+        "concrete": "Four-layer research slide labeled conceptual possibility, documented use, study design, and outcome evidence",
+        "abstract": "Research layers separated by clear boundaries"
+      },
+      "bullets": [
+        "Do not collapse evidence layers",
+        "Use documented practice as research material",
+        "Treat outcomes as open empirical questions",
+        "Keep Deaf-led research needs visible"
+      ],
+      "speech": "The research posture is careful. Documented use matters, but it is not the same as outcome evidence. Conceptual possibility matters, but it is not the same as a completed study. The series keeps those layers separate so future research has a cleaner starting point.",
+      "notes": "This slide protects against overclaiming."
+    },
+    {
+      "id": "reading-order",
+      "title": "Reading Order",
+      "kicker": "3",
+      "summary": "The series moves from language pathways into research-program design and reading questions.",
+      "image_prompts": {
+        "concrete": "Research reading path slide moving through Four Language Pathways, Research Program for Literacy Without Sound, and Reading Signed Text",
+        "abstract": "A research path moving from pathways to program design to reading"
+      },
+      "bullets": [
+        "The Four Language Pathways",
+        "Research Program for Literacy Without Sound",
+        "Reading Signed Text",
+        "Overview for orientation"
+      ],
+      "speech": "The clearest path is to begin with The Four Language Pathways, then read the research program entry, then move into Reading Signed Text. The overview explains how those pieces fit together.",
+      "notes": "Keep this as a practical map."
+    },
+    {
+      "id": "claim-boundaries",
+      "title": "Claim Boundaries",
+      "kicker": "4",
+      "summary": "The series defines a research space without treating documented use, conceptual possibility, or infrastructure readiness as completed outcome evidence.",
+      "image_prompts": {
+        "concrete": "Research boundary slide separating conceptual model, documented use, study design, infrastructure readiness, and outcome evidence for signed-language literacy",
+        "abstract": "A research map with clear boundaries between possible, documented, designed, and proven"
+      },
+      "bullets": [
+        "Conceptual possibility is not outcome evidence",
+        "Documented use is research material",
+        "Infrastructure makes studies possible",
+        "Research questions remain open"
+      ],
+      "speech": "The series is strongest when the evidence layers stay separate. Conceptual possibility is not outcome evidence. Documented use is not a completed study. Infrastructure makes better studies possible, but it does not replace the studies. The goal is to define a research space clearly enough that future work can test it.",
+      "notes": "This slide should make the overview sound research-facing and disciplined. It protects the series from being read as a finished claims package."
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 # Developer Notes
 
-**What to use now and what not to assume**
+**Production encoding guidance and compatibility cautions**
 
 ## Current recommendation
 
@@ -175,4 +175,3 @@ Describe such packages as:
 - compatibility tooling
 - bridge tooling
 - inspection tooling
-

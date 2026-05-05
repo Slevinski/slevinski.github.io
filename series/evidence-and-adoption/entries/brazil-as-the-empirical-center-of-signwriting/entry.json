@@ -12,5 +12,97 @@
     "public_label": "Brief",
     "public_slug": "primary",
     "publication_designation": "Research Brief"
-  }
+  },
+  "slides": [
+    {
+      "id": "why-brazil-matters",
+      "title": "Why Brazil Matters",
+      "kicker": "1",
+      "summary": "Brazil is the strongest documented empirical center for SignWriting in the current public record.",
+      "image_prompts": {
+        "concrete": "Scholarly map slide highlighting Brazil with surrounding evidence markers for universities, publications, communities, and SignWriting materials",
+        "abstract": "A dense empirical center marked by layered documentary evidence"
+      },
+      "bullets": [
+        "Strongest documented country anchor",
+        "Institutional, educational, and scholarly depth",
+        "Evidence of real use rather than mere possibility",
+        "A foundation for future research questions"
+      ],
+      "speech": "Brazil deserves separate treatment because it is not just one example among many. In the current public record, it is the strongest documented empirical center for SignWriting, with educational, institutional, scholarly, and community-facing evidence that makes the system visible in practice.",
+      "notes": "Keep this as an evidence claim, not a claim about universal adoption."
+    },
+    {
+      "id": "documented-floor",
+      "title": "The Documented Floor",
+      "kicker": "2",
+      "summary": "The available record establishes a documented floor for Brazilian SignWriting activity, not a complete census.",
+      "image_prompts": {
+        "concrete": "Academic evidence slide showing a floor line labeled documented minimum, with additional unknown activity above it",
+        "abstract": "A solid foundation with open space above for future documentation"
+      },
+      "bullets": [
+        "The record is substantial",
+        "The record is not complete",
+        "Known evidence should not be treated as the whole field",
+        "Documentation needs remain"
+      ],
+      "speech": "The Brazil evidence should be read as a documented floor. It shows enough to establish real depth, but it should not be mistaken for a complete census of every classroom, project, publication, or community practice.",
+      "notes": "This slide protects the claim from overgeneralization."
+    },
+    {
+      "id": "institutional-shape",
+      "title": "Institutional Shape",
+      "kicker": "3",
+      "summary": "Brazil matters because the evidence is not only individual enthusiasm; it includes organized educational and scholarly activity.",
+      "image_prompts": {
+        "concrete": "Structured slide showing educational programs, scholarship, public resources, and community use connected in Brazil",
+        "abstract": "Multiple institutional threads crossing into a stable evidence knot"
+      },
+      "bullets": [
+        "Educational use gives the record depth",
+        "Scholarship gives it visibility",
+        "Community practice gives it reality",
+        "Institutions make follow-up research possible"
+      ],
+      "speech": "The institutional shape matters because adoption evidence becomes stronger when it is not only individual enthusiasm. Brazil shows organized educational and scholarly activity, and that makes it a serious anchor for future research.",
+      "notes": "Name institutional density without implying that every institution has the same role."
+    },
+    {
+      "id": "scientific-meaning",
+      "title": "Scientific Meaning",
+      "kicker": "4",
+      "summary": "Brazil turns SignWriting from an abstract proposal into a researchable writing practice with documented users and materials.",
+      "image_prompts": {
+        "concrete": "Research slide showing documented SignWriting materials becoming research questions about literacy, reading, pedagogy, and corpus work",
+        "abstract": "Documented practice opening into research pathways"
+      },
+      "bullets": [
+        "Documented practice creates research material",
+        "Reader and teacher perspectives still matter",
+        "Outcome claims need dedicated study",
+        "The Brazil record gives future work a real base"
+      ],
+      "speech": "Scientifically, Brazil matters because it turns SignWriting from an abstract proposal into a researchable writing practice. The record does not answer every question, but it gives future literacy, reading, pedagogy, and corpus work a real base.",
+      "notes": "This is the bridge from evidence to research, not a substitute for research outcomes."
+    },
+    {
+      "id": "limits-of-the-brazil-claim",
+      "title": "Limits Of The Brazil Claim",
+      "kicker": "5",
+      "summary": "Brazil is the strongest documented empirical center, but the record is still a documented floor rather than a complete national account.",
+      "image_prompts": {
+        "concrete": "Evidence-boundary slide for Brazil showing a solid documented floor, reader-centered evidence, and open boxes for current census, outcome evidence, resistance, and ordinary daily use",
+        "abstract": "A strong evidence anchor with clearly marked open research and documentation boundaries"
+      },
+      "bullets": [
+        "Strongest documented empirical center",
+        "Not a complete national census",
+        "Reader evidence exists but remains limited",
+        "Resistance and dormant cases should be documented"
+      ],
+      "speech": "The Brazil claim is strongest when it stays precise. Brazil is the clearest documented empirical center for SignWriting in the current public record. That does not mean the record is a complete national census, that every 2018 program remains active at the same scale, or that all reader, teacher, and community perspectives are already known.\n\nThe bounded claim is still strong. Brazil gives the platform a serious empirical anchor, documented reader-centered questions, and a practical agenda for future evidence work: update the national accounting, verify current institutional use, document resistance and dormant cases, and separate ordinary daily writing practice from curriculum, publication, and archival activity.",
+      "notes": "Close Brazil with confidence plus boundaries.\n\nEmphasize:\n- the claim is not weakened by being bounded\n- Brazil is the strongest empirical anchor\n- the next step is better documentation, not larger rhetoric\n\nThis gives the Brazil deck the same disciplined ending as the Korea deck."
+    }
+  ]
 }

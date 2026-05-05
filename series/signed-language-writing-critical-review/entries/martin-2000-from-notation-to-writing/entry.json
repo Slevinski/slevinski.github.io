@@ -12,5 +12,79 @@
     "public_label": "Review",
     "public_slug": "primary",
     "publication_designation": "Working Review"
-  }
+  },
+  "slides": [
+    {
+      "id": "sympathetic-comparison",
+      "title": "Sympathetic Comparison",
+      "kicker": "1",
+      "summary": "Martin is an important SignWriting-positive comparison that recognizes signed writing as a real writing problem.",
+      "bullets": [
+        "Recognizes the writing problem",
+        "Sees linear assumptions as distortive",
+        "Takes SignWriting seriously",
+        "Identifies limits in Stokoe-style approaches"
+      ],
+      "speech": "This review treats Martin as an important sympathetic comparison. The paper recognizes that signed writing is a real writing problem, sees how linear assumptions distort analysis, and takes SignWriting seriously as more than notation.",
+      "notes": "Make clear this is not an opponent text.",
+      "image_prompts": {
+        "concrete": "Comparative review slide placing Martin 2000 beside SignWriting with notation, bilingual mediation, and writing-system claims separated",
+        "abstract": "A sympathetic comparison with clear boundaries between notation and writing"
+      }
+    },
+    {
+      "id": "where-it-overextends",
+      "title": "Where The Comparison Overextends",
+      "kicker": "2",
+      "summary": "The paper sometimes overstates what SignWriting had already proven and relies on historically dated software and learnability claims.",
+      "bullets": [
+        "Overstates limits of traditional linguistics",
+        "Overstates what SignWriting had proven",
+        "Learnability claims outrun evidence",
+        "Software discussion is historically dated"
+      ],
+      "speech": "The limits are mostly matters of overextension. Martin sometimes overstates what SignWriting had already proven, and some software, typing, and learnability claims are historically useful but dated.",
+      "notes": "Keep this fair to a paper from 2000.",
+      "image_prompts": {
+        "concrete": "Critical comparison slide showing a notation-to-writing argument extending beyond the evidence available for its system",
+        "abstract": "A comparison line extending past its evidence boundary"
+      }
+    },
+    {
+      "id": "framework-reading",
+      "title": "Framework Reading",
+      "kicker": "3",
+      "summary": "Through the framework, Martin is strong on the writing problem and spatial organization, but less precise about evidence and the written sign as the primary unit.",
+      "bullets": [
+        "Strong writing-problem recognition",
+        "Strong critique of linear assumptions",
+        "Mixed claims-versus-evidence discipline",
+        "Written sign not always centered cleanly"
+      ],
+      "speech": "Through the framework, Martin is strong on the writing problem and on the limits of linear assumptions. The limits appear in claims-versus-evidence discipline and in not always centering the written sign as the primary unit.",
+      "notes": "This slide connects review to method.",
+      "image_prompts": {
+        "concrete": "Layer-based reading slide separating writing need, alphabetic bias, structural unit analysis, spatial organization, and claims versus evidence",
+        "abstract": "A source claim passed through a clear layer-based review frame"
+      }
+    },
+    {
+      "id": "durable-contribution",
+      "title": "Durable Contribution",
+      "kicker": "4",
+      "summary": "Martin's durable value is that it sees SignWriting as a public writing possibility while showing how easily insight can outrun evidence.",
+      "bullets": [
+        "Keeps SignWriting visible as writing",
+        "Shows the cost of linear assumptions",
+        "Needs bounded evidence claims",
+        "Remains historically important"
+      ],
+      "speech": "Martin's durable value is that it sees SignWriting as a real public writing possibility. Its limits remind the platform to keep strong claims bounded by evidence.",
+      "notes": "Close as historical contribution plus caution.",
+      "image_prompts": {
+        "concrete": "Contribution slide showing the necessity-of-writing argument preserved while the orthographic prescription is bounded",
+        "abstract": "A valid contribution kept intact after critique"
+      }
+    }
+  ]
 }

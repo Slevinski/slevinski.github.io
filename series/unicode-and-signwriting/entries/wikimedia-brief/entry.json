@@ -28,6 +28,10 @@
       "title": "What Wikimedia Needs To Know First",
       "kicker": "1",
       "summary": "The Unicode issue is still practical for Wikimedia projects that want to support SignWriting well.",
+      "image_prompts": {
+        "concrete": "Wikimedia project slide showing storage, rendering, reuse, sharing, maintenance, and the practical Unicode gap for SignWriting",
+        "abstract": "Public-platform needs revealing a practical encoding compatibility issue"
+      },
       "bullets": [
         "Official Unicode SignWriting is not sufficient by itself",
         "Current projects still depend on FSW and SWU",
@@ -44,6 +48,10 @@
       "title": "What Wikimedia Is Likely To Notice",
       "kicker": "2",
       "summary": "Wikimedia projects usually encounter the problem first as custom strings, scripts, and uncertainty about whether Unicode already solved it.",
+      "image_prompts": {
+        "concrete": "Wikimedia symptom slide showing ASCII-based SignWriting strings, custom rendering, user scripts, and Unicode support confusion",
+        "abstract": "Visible project symptoms pointing to a deeper technical baseline"
+      },
       "bullets": [
         "ASCII-based strings in real project work",
         "Custom renderers or user scripts",
@@ -59,6 +67,10 @@
       "title": "What The Real Gap Is",
       "kicker": "3",
       "summary": "The real gap is not only missing fonts. It includes stable symbol identity, written-sign encoding, and interoperability.",
+      "image_prompts": {
+        "concrete": "Public-platform technical gap slide showing rendering, written-sign compatibility, facial symbol identity, storage, comparison, and reuse",
+        "abstract": "Rendering issues connected to deeper data identity and interoperability"
+      },
       "bullets": [
         "The issue is larger than rendering",
         "Naming characters is not the same as preserving stable symbols",
@@ -75,6 +87,10 @@
       "title": "What The Current Stack Uses",
       "kicker": "4",
       "summary": "Current Sutton SignWriting workflows rely on FSW and SWU because that stack already carries the real ecosystem.",
+      "image_prompts": {
+        "concrete": "Wikimedia implementation slide showing current SignWriting workflows using FSW as production encoding and SWU as Unicode-oriented interchange",
+        "abstract": "Current project workflows grounded in FSW and SWU"
+      },
       "bullets": [
         "FSW is the main production encoding",
         "SWU is the supported Unicode-oriented isomorphic form",
@@ -90,6 +106,10 @@
       "title": "What A Realistic Public Posture Looks Like",
       "kicker": "5",
       "summary": "Public discussion is most useful when it starts from the actual production stack and avoids claiming the problem is already solved.",
+      "image_prompts": {
+        "concrete": "Public communication slide showing shared technical baseline, practical current support, accurate explanation, and possible future Unicode work",
+        "abstract": "A realistic public posture built on accurate technical grounding"
+      },
       "bullets": [
         "Establish a shared technical baseline",
         "Avoid flattening the issue into a solved-symbol-block story",
@@ -98,7 +118,7 @@
       ],
       "speech": "A realistic public posture begins by acknowledging the current production stack rather than assuming the Unicode block already solved the problem. FSW and SWU remain the practical baseline. Accurate understanding matters more than premature standards conclusions, and any future Unicode discussion is only worth the effort if it begins from that reality.",
       "notes": "End with clarity and restraint, not with an ask for support.",
-      "mermaid": "flowchart TD\n  A[Shared technical baseline] --> B[Accurate advocacy]\n  A --> C[Practical current support]\n  B --> D[Possible future Unicode work]\n  C --> D\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D node;\n  class D out;"
+      "mermaid": "flowchart TD\n  A[Shared technical baseline] --> B[Accurate explanation]\n  A --> C[Practical current support]\n  B --> D[Possible future Unicode work]\n  C --> D\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  class A,B,C,D node;\n  class D out;"
     }
   ],
   "publication": {

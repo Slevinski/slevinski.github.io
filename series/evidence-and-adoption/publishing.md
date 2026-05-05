@@ -6,18 +6,19 @@
 - Series slug: `evidence-and-adoption`
 - Repository slug: `evidence-and-adoption`
 - GitHub repository: `https://github.com/sutton-signwriting/evidence-and-adoption`
-- Zenodo series record: pending
+- Zenodo series record: reserved draft
+- Series DOI: `10.5281/zenodo.20042446`
 - Version: `v1.0.0`
 - License: `CC BY 4.0`
 - Creator: `Steve Slevinski`
 - Publication year: `2026`
 - Resource type: `Publication`
-- Release status: preparing
+- Release status: reserved draft
 - Living site: `https://steveslevinski.me/#series/evidence-and-adoption`
 
 ## Series Description
 
-`Sutton SignWriting Evidence and Adoption` is the empirical lane for documented use, institutional anchors, adoption lineages, and claim discipline around SignWriting in practice.
+`Sutton SignWriting Evidence and Adoption` is the empirical series for documented use, institutional anchors, adoption lineages, and claim discipline around SignWriting in practice.
 
 ## Repository Description
 
@@ -38,7 +39,7 @@ Evidence briefs and synthesis documents on SignWriting adoption, documented use,
 ## Citation
 
 ```text
-Slevinski, S. (2026). Sutton SignWriting Evidence and Adoption (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Sutton SignWriting Evidence and Adoption (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20042446
 ```
 
 ## Artifact Register
@@ -74,7 +75,7 @@ Source and citation notes:
 
 - Cite for claim discipline: what current public evidence supports, what remains partial, and what should not yet be universalized.
 - Do not cite as a complete global census or a meta-analysis of educational outcomes.
-- Source basis includes the Brazil and South Korea briefs, selected public Brazil and Korea records, the layer-based critical review, Formal SignWriting, and the stewardship/infrastructure lane.
+- Source basis includes the Brazil and South Korea briefs, selected public Brazil and Korea records, the layer-based critical review, Formal SignWriting, and the stewardship/infrastructure series.
 
 ### Evidence Boundaries and Adoption Limits
 

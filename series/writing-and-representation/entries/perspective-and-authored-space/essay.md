@@ -2,7 +2,7 @@
 
 **Viewpoint, placement, and the authored space of signed writing**
 
-This paper is a native anchor of the `Writing and Representation in Sutton SignWriting` series.
+This paper develops the authored-space argument in *Writing and Representation in Sutton SignWriting*.
 
 It follows *Plane-Based Writing and Script Typology*, but it does not repeat that paper's main argument.
 
@@ -25,7 +25,7 @@ It is spatial in a stronger sense:
 - relation matters
 - composition matters
 
-This is what gives the writing lane a firmer center than `point, line, plane` alone.
+This is what gives the writing-systems argument a firmer center than `point, line, plane` alone.
 
 It is also what prepares the ground for *The Shape of a Sign*, where these questions become formalized in the signbox model.
 
@@ -370,11 +370,11 @@ The same point extends beyond the individual signbox.
 
 If spatial relation belongs to the written form, then passage layout is not merely decoration around the text. It can affect how readers stay oriented to the composed space of each sign as they move through a passage.
 
-The history and reader-response question around vertical writing belongs primarily in `Sutton SignWriting Language and Literacy Research: Reading Signed Text`.
+The history and reader-response question around vertical writing belongs primarily in *Sutton SignWriting Language and Literacy Research: Reading Signed Text*.
 
 This paper only needs the writing-systems point: passage layout can support or disrupt the reader's orientation to authored space.
 
-This gives the writing-systems lane a useful bridge:
+This gives the writing-systems series a useful bridge:
 
 > authored space exists inside the signbox, and passage layout helps readers carry that space across text
 
@@ -395,7 +395,7 @@ This paper does not claim:
 
 - that every perceptual issue has already been scientifically resolved
 - that perspective conventions are culturally identical everywhere
-- that the writing lane can replace the formal technical lane
+- that the writing-systems argument can replace the formal technical model
 - that spatial writing is simple merely because it is visible
 - that this paper replaces the need for rendered examples, reader studies, or fuller grapholinguistic treatment
 
@@ -405,7 +405,7 @@ It is meant to show that SignWriting inhabits authored space in a disciplined an
 
 ## Why this paper belongs after typology
 
-The relation among the first anchors of this series should now be clearer:
+The relation among the first anchors of this series is:
 
 - *The Shape of Writing* asks whether writing must be linear
 - *Plane-Based Writing and Script Typology* asks how SignWriting fits when typology includes the organization of written units
@@ -417,7 +417,7 @@ The second paper gives that terrain a typological frame.
 
 This paper makes that terrain more concrete.
 
-Together they allow the writing lane to stand on its own rather than depending on one broad conceptual intervention followed only by technical notes.
+Together they allow the writing-systems series to stand on its own rather than depending on one broad conceptual intervention followed only by technical notes.
 
 ## Conclusion
 
@@ -437,7 +437,7 @@ It has to continue into the more concrete questions of:
 - how placement carries meaning
 - how composed written objects are preserved technically
 
-Those are the questions that move the writing lane from abstract permission to real structure.
+Those are the questions that move the writing-systems series from abstract permission to real structure.
 
 That is also why this paper belongs between *Plane-Based Writing and Script Typology* and the formal entries on *The Shape of a Sign* and *Sign Text Layout*.
 

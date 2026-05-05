@@ -347,6 +347,6 @@ The question is whether the field is describing that writing at the right level.
 
 ## Go Next
 
-- `Signed Language Writing Critical Review Series: A Unified Critique Framework for Signed Language Writing, Encoding, and Representation` for the full method behind this comparison
-- `Signed Language Writing Critical Review Series: Sutton SignWriting and Formal SignWriting Through the Framework` for the internal baseline
-- `Signed Language Writing Critical Review Series: From Critique to Construction: Priorities for Signed Language Writing Infrastructure` for the next-step synthesis
+- *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation* for the full method behind this comparison
+- *Sutton SignWriting and Formal SignWriting Through the Framework* for the internal baseline
+- *From Critique to Construction: Priorities for Signed Language Writing Infrastructure* for the next-step synthesis

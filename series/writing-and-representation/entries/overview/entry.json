@@ -3,7 +3,7 @@
   "number": 0,
   "title": "Writing and Representation in Sutton SignWriting Overview",
   "subtitle": "Plane-based writing, authored space, representation, and writing-systems questions",
-  "summary": "Overview entry for the writing-systems lane of the Sutton SignWriting platform.",
+  "summary": "Overview entry for the writing-systems series of the Sutton SignWriting platform.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -11,5 +11,79 @@
     "public_label": "Overview",
     "public_slug": "primary",
     "publication_designation": "Series Overview"
-  }
+  },
+  "slides": [
+    {
+      "id": "what-this-series-argues",
+      "title": "What This Series Argues",
+      "kicker": "1",
+      "summary": "This series asks what kind of writing SignWriting is and how spatial authorship should be described.",
+      "image_prompts": {
+        "concrete": "Writing-systems overview slide showing point, line, plane, authored space, signbox composition, handwriting, and machine encoding",
+        "abstract": "A written sign opening into typology, authored space, and representation"
+      },
+      "bullets": [
+        "Writing is not only linear",
+        "SignWriting uses authored space",
+        "Plane-based organization needs theory",
+        "Machine encoding must preserve human writing"
+      ],
+      "speech": "Writing and Representation asks what kind of writing SignWriting is. It develops the claims that writing is not only linear, that SignWriting uses authored space, and that machine encoding should preserve rather than replace human signed writing.",
+      "notes": "Make this feel like theory with practical consequences."
+    },
+    {
+      "id": "terms-map",
+      "title": "Terms Map",
+      "kicker": "2",
+      "summary": "The series distinguishes plane-based organization, authored space, iconicity, convention, handwriting, encoding, and kinematography.",
+      "image_prompts": {
+        "concrete": "Concept map slide linking plane-based writing, authored space, iconicity, convention, handwriting, machine encoding, and kinematography",
+        "abstract": "A writing-systems vocabulary map around a composed sign"
+      },
+      "bullets": [
+        "Plane-based writing describes organization",
+        "Authored space describes composition",
+        "Convention makes visual motivation readable",
+        "Encoding preserves written structure for machines"
+      ],
+      "speech": "The series builds a vocabulary. Plane-based writing describes organization. Authored space describes composition. Iconicity and convention explain legibility. Handwriting shows material practice. Machine encoding preserves authored written structure. Kinematography names a broader representational question.",
+      "notes": "This slide turns the series into a usable map."
+    },
+    {
+      "id": "reading-order",
+      "title": "Reading Order",
+      "kicker": "3",
+      "summary": "Readers can move from typology into authored space, legibility, handwriting, machine encoding, kinematography, and comparison with other scripts.",
+      "image_prompts": {
+        "concrete": "Writing and Representation reading path slide through Shape of Writing, Plane-Based Writing, Perspective, Iconicity, Handwriting, Machine Encoding, Kinematography, and Other Scripts",
+        "abstract": "A theoretical sequence moving from typology to authored writing and encoding"
+      },
+      "bullets": [
+        "Start with plane-based writing and authored space",
+        "Move into legibility and handwriting",
+        "Then read human writing and machine encoding",
+        "Use kinematography and script comparison for broader theory"
+      ],
+      "speech": "The reading order moves from typology into authored space, then into legibility and handwriting, then into machine encoding. Kinematography and the comparison with other sign-language scripts widen the theoretical frame.",
+      "notes": "Keep this as orientation, not a full argument."
+    },
+    {
+      "id": "claim-boundaries",
+      "title": "Claim Boundaries",
+      "summary": "The series extends writing-systems vocabulary without making typology, evidence, handwriting, or encoding do the same job.",
+      "image_prompts": {
+        "concrete": "Writing-systems boundary slide separating typology, authored space, legibility, handwriting, machine encoding, evidence, and formal text models into related but distinct areas",
+        "abstract": "A composed written sign surrounded by clear conceptual boundaries"
+      },
+      "bullets": [
+        "Extend typology without replacing it",
+        "Separate organization from representation",
+        "Keep evidence and encoding in their own layers",
+        "Use theory to clarify later series"
+      ],
+      "speech": "The series is strongest when its claims stay bounded. It extends writing-systems vocabulary without making one term do every job. Typology, authored space, legibility, handwriting, machine encoding, evidence, and formal text models are related, but they remain different layers of the platform.",
+      "notes": "Close the overview by protecting the theory from overextension. This slide should make the series feel precise rather than speculative.",
+      "kicker": "4"
+    }
+  ]
 }

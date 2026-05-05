@@ -9,7 +9,7 @@ It is intentionally bounded to the same **core four-case demonstration set**:
 - Thiessen (2011)
 - Unicode SignWriting
 
-It does not replace the fuller series, and it does not attempt to summarize every review now present in the project.
+It does not replace the fuller series, and it does not attempt to summarize every review included in the release.
 
 Its purpose is narrower:
 

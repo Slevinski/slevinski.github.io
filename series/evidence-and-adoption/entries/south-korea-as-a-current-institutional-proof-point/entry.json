@@ -2,7 +2,7 @@
   "slug": "south-korea-as-a-current-institutional-proof-point",
   "number": 2,
   "title": "South Korea as a Current Institutional Proof Point",
-  "subtitle": "National dictionary publication, current institutional use, and why Korea matters now",
+  "subtitle": "National dictionary publication, current institutional use, and why Korea matters",
   "summary": "Current institutional proof-point anchor for the Sutton SignWriting Evidence and Adoption series.",
   "synopsis": "This entry treats South Korea as a current institutional proof point for SignWriting. It keeps the claim disciplined: Korea is not the broad empirical center that Brazil is, but it does show that SignWriting can function inside current public dictionary infrastructure connected to a national-language institution.",
   "essay": "essay.md",
@@ -12,5 +12,79 @@
     "public_label": "Brief",
     "public_slug": "primary",
     "publication_designation": "Research Brief"
-  }
+  },
+  "slides": [
+    {
+      "id": "why-korea-matters",
+      "title": "Why Korea Matters",
+      "kicker": "1",
+      "summary": "South Korea is a current institutional proof point, not a broad empirical center like Brazil.",
+      "image_prompts": {
+        "concrete": "Clean institutional evidence slide highlighting South Korea, a national dictionary context, and current public SignWriting use",
+        "abstract": "A current institutional marker standing beside a larger evidence map"
+      },
+      "bullets": [
+        "Current public institutional evidence",
+        "Connected to national dictionary infrastructure",
+        "Narrow but important claim",
+        "Different evidence role from Brazil"
+      ],
+      "speech": "South Korea matters because it gives the series a current institutional proof point. The claim is intentionally narrow. Korea is not presented as the broad empirical center that Brazil is; it shows that SignWriting can function inside current public dictionary infrastructure connected to a national-language institution.",
+      "notes": "Do not inflate the claim. The narrowness is what makes it credible."
+    },
+    {
+      "id": "february-2025-marker",
+      "title": "Institutional Marker",
+      "kicker": "2",
+      "summary": "The February 6, 2025 event gives the evidence series a dated public marker for current institutional activity.",
+      "image_prompts": {
+        "concrete": "Timeline slide with February 6 2025 marked as a public institutional evidence point for SignWriting in South Korea",
+        "abstract": "A dated marker placed on a calm institutional timeline"
+      },
+      "bullets": [
+        "The event is dated",
+        "The institutional context is public",
+        "The evidence is current",
+        "The claim remains bounded"
+      ],
+      "speech": "The February 6, 2025 marker matters because evidence work benefits from dates and public institutional context. It gives the platform a current point of reference without requiring the reader to infer a larger adoption story than the record supports.",
+      "notes": "Use the date to make the evidence concrete."
+    },
+    {
+      "id": "dictionary-evidence",
+      "title": "Dictionary Evidence",
+      "kicker": "3",
+      "summary": "The dictionary context shows SignWriting operating as public language infrastructure rather than only as private notation.",
+      "image_prompts": {
+        "concrete": "Academic slide showing dictionary entries, signed-language resources, and SignWriting symbols as part of public language infrastructure",
+        "abstract": "Dictionary pages connected to a public language infrastructure node"
+      },
+      "bullets": [
+        "Dictionary infrastructure is organized language work",
+        "Public resources make evidence inspectable",
+        "Institutional context strengthens the proof point",
+        "The dictionary claim is not an outcome claim"
+      ],
+      "speech": "The dictionary context matters because dictionaries are public language infrastructure. When SignWriting appears in that context, it becomes more than an isolated example. It becomes evidence of organized use in a public resource environment.",
+      "notes": "Keep dictionary evidence separate from literacy outcome claims."
+    },
+    {
+      "id": "limits-of-the-korea-claim",
+      "title": "Limits Of The Claim",
+      "kicker": "4",
+      "summary": "Korea supports a current institutional proof-point claim, not a general claim about national adoption or learning outcomes.",
+      "image_prompts": {
+        "concrete": "Evidence-boundary slide showing a clear box labeled current institutional proof point, with broader claims outside the box",
+        "abstract": "A clear boundary around one strong but narrow evidence claim"
+      },
+      "bullets": [
+        "Not a national adoption census",
+        "Not a literacy outcome study",
+        "Not a replacement for Brazil as empirical center",
+        "A strong current proof point"
+      ],
+      "speech": "The Korea claim is strongest when it stays bounded. It does not prove national adoption, literacy outcomes, or broad community preference. It does show current public institutional use, and that is enough for its role in the evidence series.",
+      "notes": "End with the bounded claim. Strong, narrow, useful."
+    }
+  ]
 }

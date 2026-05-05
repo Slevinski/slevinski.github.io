@@ -2,9 +2,9 @@
 
 *Unicode history, compatibility, and standards-facing discussion*
 
-Unicode questions around SignWriting keep returning, and they are too important to leave scattered across old proposals, isolated notes, memory, email threads, and side remarks in unrelated public documents.
+Unicode questions around SignWriting keep returning, and they are too important to leave scattered across proposals, notes, meeting records, implementation practice, and side remarks in unrelated documents.
 
-This series is organized as a small set of outward-facing briefing documents:
+The materials are organized around four reader needs:
 
 - developers need practical implementation guidance
 - historians and standards readers need chronology and official references
@@ -38,9 +38,9 @@ It also involves:
 - tool and workflow breakage
 - the difference between naming characters, preserving stable symbol identity, and encoding complete written signs
 
-## Current position
+## Technical Position
 
-The current position is:
+The technical position is:
 
 - the official Unicode 8 SignWriting encoding is a non-compatible branch from the standpoint of the Sutton SignWriting production ecosystem
 - FSW remains the canonical production encoding in practice
@@ -71,17 +71,17 @@ For most readers, this order works best:
    End with the standards-facing argument and the disciplined technical closing.
 
 5. **Standards Review in the Critical Review Series**
-   Use the linked review when you want the Unicode issue interpreted through the review framework rather than only through the dossier and briefing documents.
+   Use the review-series interpretation when you want the Unicode issue evaluated through the broader writing-system framework.
 
-## Related lanes
+## Related series
 
-Some related work still belongs elsewhere:
+Related work belongs in adjacent series:
 
-- the scientific foundations for language and writing belong in the science series
+- the public foundations for language and writing belong in the Foundations series
 - the formal architecture of sign text belongs in the Formal SignWriting series
-- Brazil and South Korea as empirical and institutional cases belong in the infrastructure series
-- evaluative standards commentary now also belongs in the review series when the goal is to interpret the Unicode record rather than only document it
+- Brazil and South Korea as empirical and institutional cases belong in the Evidence and Adoption series
+- evaluative standards commentary belongs in the Critical Review series when the goal is to interpret the Unicode record rather than only document it
 
-Start the foundations lane with [Language Without Sound](/#series/foundations/language-without-sound/primary) and [The Shape of Writing](/#series/foundations/the-shape-of-writing/primary).
+Start the foundations series with [Language Without Sound](/#series/foundations/language-without-sound/primary) and [The Shape of Writing](/#series/foundations/the-shape-of-writing/primary).
 
 For the review-series interpretation, see [Official Unicode SignWriting: The Character Problem and the Written-Sign Problem](/#series/signed-language-writing-critical-review/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/primary).

@@ -1,14 +1,14 @@
-# Institutional Home and Host Requirements
+# Host Structure and Stewardship Requirements
 
-**What a durable home for Sutton SignWriting infrastructure would need to provide**
+**Functions a durable stewardship structure would need to provide**
 
 Sutton SignWriting does not need an institution to invent its value.
 
 The value already exists in the writing system, the standards, the software, the data, the public resources, and the international use record.
 
-What remains missing is a durable home strong enough to support work that has outgrown informal maintenance.
+What remains missing is a durable stewardship structure strong enough to support work that has outgrown informal maintenance.
 
-This entry describes that home generically.
+This entry describes that structure generically.
 
 It does not name a current host, imply formal sponsorship, or assume that one university or lab has already accepted responsibility.
 
@@ -43,7 +43,7 @@ The existing asset base includes:
 - international user and partner relationships
 - documented research and education contexts
 
-The support problem is therefore not speculative.
+The stewardship problem is therefore not speculative.
 
 It is a stewardship problem around already-existing language infrastructure.
 
@@ -53,7 +53,7 @@ A durable host would need to provide or coordinate several basic functions.
 
 | Function | Why it matters |
 | --- | --- |
-| Administrative home | Gives the work a recognized place to live, report, and develop |
+| Administrative structure | Gives the work a recognized place to report, develop, and sustain commitments |
 | Technical stewardship | Maintains code, servers, domains, fonts, standards, and platform continuity |
 | Data stewardship | Protects dictionaries, corpora, metadata, permissions, and research usability |
 | Research alignment | Connects the infrastructure to literacy, language, accessibility, and computing research |
@@ -75,7 +75,7 @@ A host would not need to:
 - create the first technical standard
 - build the first public tools
 - gather the first evidence of international use
-- solve every research question before support begins
+- solve every research question before stewardship begins
 
 Those are not the first-step problems.
 
@@ -85,7 +85,7 @@ The second-step problem is turning continuity into a stronger base for research,
 
 ## Host requirements by layer
 
-The host structure should be evaluated by layer, because each layer needs different kinds of support.
+The host structure should be evaluated by layer, because each layer needs different kinds of stewardship.
 
 | Layer | Host requirement |
 | --- | --- |
@@ -93,7 +93,7 @@ The host structure should be evaluated by layer, because each layer needs differ
 | Code and standards | Maintainer time, documentation, versioning, and compatibility work |
 | Data and corpora | Preservation, metadata, rights tracking, backups, and recovery testing |
 | Research | PI or scholarly alignment, ethics pathways, study materials, and publication planning |
-| International support | Partner statements, local liaisons, translation pathways, and communication infrastructure |
+| International coordination | Partner statements, local liaisons, translation pathways, and communication infrastructure |
 | Governance | Decision boundaries, advisory input, community accountability, and succession planning |
 
 The host does not need to be perfect at every layer immediately.
@@ -125,11 +125,11 @@ That protects:
 - the project, by avoiding premature claims
 - potential hosts, by avoiding implied commitments
 - readers, by making the durable argument independent of one institutional path
-- future collaborators, by leaving room for different forms of support
+- future collaborators, by leaving room for different forms of stewardship
 
 The public claim should be strong but precise:
 
-> Sutton SignWriting needs a durable institutional home.
+> Sutton SignWriting requires a durable stewardship structure.
 
 It should not imply:
 
@@ -141,11 +141,11 @@ That distinction is part of responsible stewardship.
 
 The strongest near-term model is layered:
 
-1. A recognized institutional or organizational home.
+1. A recognized institutional or organizational structure.
 2. A PI, academic lead, or program lead who can align research and proposals.
 3. Technical stewardship for standards, software, services, fonts, and platform work.
 4. Data stewardship for dictionaries, corpora, metadata, rights, and preservation.
-5. International partner relationships and local liaison support.
+5. International partner relationships and local liaison coordination.
 6. Grants and philanthropy used together rather than treated as competing paths.
 
 This model keeps the work practical.
@@ -154,10 +154,10 @@ It allows the public infrastructure case to remain stable even if the first host
 
 ## Bottom line
 
-Sutton SignWriting is not waiting for an institution to make it real.
+Sutton SignWriting does not need an institution to make it real.
 
-It is waiting for a support structure strong enough to preserve and extend what is already real.
+It depends on a stewardship structure strong enough to preserve and extend what is already real.
 
 A good host would provide recognition, stewardship, staffing pathways, research alignment, and continuity.
 
-That is the institutional-home question.
+That is the host-structure question.
