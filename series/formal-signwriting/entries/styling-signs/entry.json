@@ -4,7 +4,7 @@
   "title": "Styling Signs",
   "subtitle": "The style string as light markup for customization and rich presentation",
   "summary": "The style string as optional light markup for customization and rich presentation.",
-  "synopsis": "The style string deserves focused technical treatment. This entry explains it as optional light markup for customizing sign presentation, clarifies its relation to rendering, and argues against treating styling as part of canonical plain-text encoding.",
+  "synopsis": "The style string is optional light markup for customizing sign presentation. Styling belongs to presentation and rendering, not canonical plain-text encoding.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

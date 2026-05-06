@@ -3,8 +3,8 @@
   "number": 7,
   "title": "Rendering Formal SignWriting",
   "subtitle": "SVG, fonts, layout, and output models",
-  "summary": "Canonical statement of SVG, fonts, layout, and output models kept distinct from canonical text.",
-  "synopsis": "Formal SignWriting needs a clear distinction between canonical text and presentation layer. This entry states the rendering layer in its smallest stable form and explains SVG, fonts, standalone graphics, and web layout as rendering consequences of the model, while keeping styling as a separate presentation topic.",
+  "summary": "SVG, fonts, layout, and output models belong to the rendering layer rather than canonical text.",
+  "synopsis": "Formal SignWriting needs a clear distinction between canonical text and presentation layer. SVG, fonts, standalone graphics, and web layout are rendering consequences of the model, while styling remains a separate presentation topic.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

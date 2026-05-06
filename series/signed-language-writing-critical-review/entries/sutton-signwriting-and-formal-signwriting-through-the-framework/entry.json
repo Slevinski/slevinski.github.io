@@ -5,7 +5,9 @@
   "subtitle": "A self-application of the review method to the writing system and its technical model",
   "summary": "A framework-based analysis distinguishing SignWriting as the writing system from Formal SignWriting as its technical text model.",
   "abstract": "This framework application evaluates Sutton SignWriting and Formal SignWriting with the same criteria used elsewhere in the critical review series. It distinguishes SignWriting as the human writing system from Formal SignWriting as the technical text model that preserves written signs for storage, search, processing, and rendering. The analysis concludes that the combined system is strongest where the framework asks about durable signed text, structured written units, and infrastructure viability, while remaining careful about adoption, literacy outcomes, handwriting practice, and unresolved standards questions. Its central claim is disciplined: SignWriting and Formal SignWriting establish a coherent full-path model for plane-based signed writing, but they do not settle every educational, empirical, or institutional question by themselves.",
-  "synopsis": "This entry applies the review framework to SignWriting and Formal SignWriting themselves. It uses the framework not only against external literature, but also against the system it is meant to clarify. The result is a sharper distinction between SignWriting as a writing system and Formal SignWriting as a text model, along with a clearer statement of what the combined system does and does not yet establish.",
+  "synopsis": "The review framework also clarifies SignWriting and Formal SignWriting themselves. Applying the same distinctions used for external literature sharpens the difference between SignWriting as a writing system and Formal SignWriting as a text model, along with what the combined system does and does not yet establish.",
+  "cover_image": "/series/signed-language-writing-critical-review/entries/sutton-signwriting-and-formal-signwriting-through-the-framework/cover.png",
+  "cover_image_alt": "An open SignWriting-like manuscript connected to a technical text-model diagram, rendering pathways, archive cards, and review layers.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -26,7 +28,7 @@
         "Name strengths clearly",
         "Name open limits honestly"
       ],
-      "speech": "This entry applies the review framework to SignWriting and Formal SignWriting themselves. The point is methodological fairness: the same distinctions used for external literature should also clarify the platform's own claims.",
+      "speech": "The review framework also clarifies SignWriting and Formal SignWriting themselves. The same distinctions used for external literature should clarify the platform's own claims.",
       "notes": "This slide establishes credibility.",
       "image_prompts": {
         "concrete": "Self-application review slide showing SignWriting and Formal SignWriting evaluated by the same framework used for external literature",

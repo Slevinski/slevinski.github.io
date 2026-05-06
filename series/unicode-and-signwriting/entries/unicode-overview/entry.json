@@ -4,7 +4,7 @@
   "title": "Unicode Overview",
   "subtitle": "Current position and why the issue keeps returning",
   "summary": "Short baseline explanation of why character naming, stable symbols, and written signs remain different questions for SignWriting.",
-  "synopsis": "This overview states the current position plainly. The official Unicode SignWriting encoding can name much of the character set, but it does not preserve stable writer-selected symbols cleanly across the full system and it does not provide a compatible model for written signs in practice. The real issues include symbol identity, the facial-diacritic model, spatial composition, sorting, tooling, dataset compatibility, and the difference between encoded characters and usable writing.",
+  "synopsis": "The official Unicode SignWriting encoding can name much of the character set, but it does not preserve stable writer-selected symbols cleanly across the full system and it does not provide a compatible model for written signs in practice. The real issues include symbol identity, the facial-diacritic model, spatial composition, sorting, tooling, dataset compatibility, and the difference between encoded characters and usable writing.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

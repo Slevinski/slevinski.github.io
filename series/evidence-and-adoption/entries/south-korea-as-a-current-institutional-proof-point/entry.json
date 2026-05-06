@@ -3,8 +3,10 @@
   "number": 2,
   "title": "South Korea as a Current Institutional Proof Point",
   "subtitle": "National dictionary publication, current institutional use, and why Korea matters",
-  "summary": "Current institutional proof-point anchor for the Sutton SignWriting Evidence and Adoption series.",
-  "synopsis": "This entry treats South Korea as a current institutional proof point for SignWriting. It keeps the claim disciplined: Korea is not the broad empirical center that Brazil is, but it does show that SignWriting can function inside current public dictionary infrastructure connected to a national-language institution.",
+  "summary": "South Korea shows SignWriting functioning inside current public dictionary infrastructure connected to a national-language institution.",
+  "synopsis": "South Korea is a current institutional proof point for SignWriting. Korea is not the broad empirical center that Brazil is, but it shows that SignWriting can function inside current public dictionary infrastructure connected to a national-language institution.",
+  "cover_image": "/series/evidence-and-adoption/entries/south-korea-as-a-current-institutional-proof-point/cover.png",
+  "cover_image_alt": "A dictionary and institutional archive scene with SignWriting-like symbols, public-record cards, and a subtle Korea-focused evidence network.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -83,7 +85,7 @@
         "Not a replacement for Brazil as empirical center",
         "A strong current proof point"
       ],
-      "speech": "The Korea claim is strongest when it stays bounded. It does not prove national adoption, literacy outcomes, or broad community preference. It does show current public institutional use, and that is enough for its role in the evidence series.",
+      "speech": "The Korea claim is strongest when it stays bounded. It does not prove national adoption, literacy outcomes, or broad community preference. It does show current public institutional use inside national dictionary infrastructure.",
       "notes": "End with the bounded claim. Strong, narrow, useful."
     }
   ]

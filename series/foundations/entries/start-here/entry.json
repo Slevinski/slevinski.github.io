@@ -4,7 +4,7 @@
   "title": "Start Here",
   "subtitle": "What Sutton SignWriting is, why it matters, and where to go next",
   "summary": "Plain-language orientation to Sutton SignWriting, the Sutton SignWriting Foundations series, and the core public argument.",
-  "synopsis": "Sutton SignWriting is a writing system for signed languages. Start Here explains the basic problem: signed languages are full human languages, but they have often lacked durable, readable, and writable text within the language itself. The entry introduces the two Sutton SignWriting Foundations claims that language is not sound and writing is not only a line, then directs readers to the two anchor essays.",
+  "synopsis": "Sutton SignWriting is a writing system for signed languages. Signed languages are full human languages, but they have often lacked durable, readable, and writable text within the language itself. The Foundations series begins from two claims: language is not sound, and writing is not only a line.",
   "cover_image": "/series/foundations/entries/start-here/cover.png",
   "cover_image_alt": "An open book of signed-writing symbols unfolding into organized paths for research, evidence, infrastructure, and technical work.",
   "orientation": "orientation.md",
@@ -31,7 +31,7 @@
         "Each series has a distinct job",
         "Start Here is the map"
       ],
-      "speech": "Start Here is the map into the Sutton SignWriting platform. The first thing to say plainly is that Sutton SignWriting is a writing system for signed languages. Around that writing system is a broader platform: public essays, research-facing papers, evidence briefs, infrastructure materials, formal technical work, and critical review.\n\nThose pieces should not be collapsed into one document. The platform is organized into series so each kind of question has a clear place. This entry explains those places and gives readers a clean path forward.",
+      "speech": "Start Here is the map into the Sutton SignWriting platform. Sutton SignWriting is a writing system for signed languages. Around that writing system is a broader platform: public essays, research-facing papers, evidence briefs, infrastructure materials, formal technical work, and critical review.\n\nThose pieces should not be collapsed into one document. The platform is organized into series so each kind of question has a clear place.",
       "notes": "Open simply and concretely.\n\nDo not make this sound like a marketing page. It is an orientation to a publication architecture.\n\nTransition:\n- state the central thesis that organizes the whole map.",
       "mermaid": "flowchart TD\n  A[Sutton SignWriting] --> B[Sutton SignWriting Foundations]\n  A --> C[Research]\n  A --> D[Evidence]\n  A --> E[Infrastructure]\n  A --> F[Formal Text Model]\n  A --> G[Critical Review]\n\n  classDef center fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef series fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A center;\n  class B,C,D,E,F,G series;"
     },

@@ -3,8 +3,8 @@
   "number": 6,
   "title": "Sign Text Layout",
   "subtitle": "Vertical writing, horizontal writing, lanes, centering, and reading levels",
-  "summary": "Canonical statement of sign text layout for vertical and horizontal writing, including lanes, centering strategy, and SW1-SW4 reading-level defaults.",
-  "synopsis": "Sign text layout extends the signbox into passages. This entry explains vertical and horizontal writing, lane counts and lane meaning, the 500x500 sign center, centering behavior, punctuation placement, and SW1-SW4 layout defaults.",
+  "summary": "Vertical and horizontal writing, lanes, centering strategy, and SW1-SW4 reading-level defaults define sign text layout.",
+  "synopsis": "Sign text layout extends the signbox into passages. Vertical and horizontal writing, lane counts and lane meaning, the 500x500 sign center, centering behavior, punctuation placement, and SW1-SW4 layout defaults define the layout layer.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

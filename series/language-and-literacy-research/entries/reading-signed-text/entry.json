@@ -3,8 +3,8 @@
   "number": 2,
   "title": "Reading Signed Text",
   "subtitle": "Recognition, syntax, and spatial reference in signed-language literacy",
-  "summary": "Second research-facing paper for the Sutton SignWriting Language and Literacy Research series.",
-  "synopsis": "This entry asks the next hard-science question after The Four Language Pathways: what reading would mean in a signed writing system. It outlines a research-facing account of recognition, lexical comparison, layout direction, syntax, spatial reference, and the limits of current evidence, with the vertical-layout history sourced to Sutton's published SignWriting records.",
+  "summary": "Recognition, syntax, spatial reference, layout direction, and evidence limits shape the research question of reading signed text.",
+  "synopsis": "The next hard-science question after The Four Language Pathways is what reading means in a signed writing system. Recognition, lexical comparison, layout direction, syntax, spatial reference, and the limits of current evidence define the research agenda, with vertical-layout history sourced to Sutton's published SignWriting records.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

@@ -4,7 +4,9 @@
   "title": "From Critique to Construction: Priorities for Signed Language Writing Infrastructure",
   "subtitle": "A constructive synthesis for research, tooling, standards, and adoption",
   "summary": "A forward-looking synthesis paper that turns the review series from diagnosis toward infrastructure priorities for signed language writing.",
-  "synopsis": "This synthesis paper draws together the main lessons of the critical review series and argues that the next work of the field is constructive rather than merely diagnostic. It organizes the priorities around evidence, corpora, tooling, interoperability, standards, education, and collaboration, while keeping SignWriting's current infrastructural strengths visible without treating the field's open questions as settled.",
+  "synopsis": "The critical review series points toward constructive priorities rather than diagnosis alone. The next work of the field belongs around evidence, corpora, tooling, interoperability, standards, education, and collaboration, while keeping SignWriting's current infrastructural strengths visible without treating the field's open questions as settled.",
+  "cover_image": "/series/signed-language-writing-critical-review/entries/from-critique-to-construction-priorities-for-signed-language-writing-infrastructure/cover.png",
+  "cover_image_alt": "Marked-up critique papers transforming into infrastructure plans, corpus boxes, tooling sketches, standards cards, and collaboration pathways.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

@@ -3,8 +3,8 @@
   "number": 5,
   "title": "Searching Signed Text",
   "subtitle": "Query language, matching, ranges, variance, and search logic",
-  "summary": "Canonical statement of query language, matching, ranges, variance, and signed-text search.",
-  "synopsis": "Formal SignWriting supports serious search because its query language, matching logic, ranges, and variance rules can be treated as part of a coherent technical model. This entry states the matching layer in its smallest stable form and shows how signed text becomes searchable without confusing search with grammar or rendering.",
+  "summary": "Query language, matching, ranges, variance, and signed-text search define the searchable layer of Formal SignWriting.",
+  "synopsis": "Formal SignWriting supports serious search because its query language, matching logic, ranges, and variance rules belong to a coherent technical model. Signed text becomes searchable when search is kept distinct from grammar and rendering.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

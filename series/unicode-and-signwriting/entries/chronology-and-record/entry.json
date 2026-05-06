@@ -4,7 +4,7 @@
   "title": "Chronology and Record",
   "subtitle": "Official submissions, minutes, and related documents",
   "summary": "A dated record of the main Unicode and related SignWriting documents relevant to current compatibility and standards discussions.",
-  "synopsis": "This chronology collects the main Unicode proposals, support letters, collation responses, design notes, and related records from 2011 forward. It is meant as a stable reference trail for historians, standards readers, and anyone who needs the documentary path behind the current distinctions among character naming, stable symbol identity, and written-sign encoding.",
+  "synopsis": "The main Unicode proposals, support letters, collation responses, design notes, and related records from 2011 forward create the documentary path behind the current distinctions among character naming, stable symbol identity, and written-sign encoding.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

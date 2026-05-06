@@ -3,8 +3,10 @@
   "number": 3,
   "title": "Evidence Boundaries and Adoption Limits",
   "subtitle": "What current evidence supports, what remains open, and what resistance still needs documentation",
-  "summary": "Evidence-boundary entry for the Sutton SignWriting Evidence and Adoption series.",
-  "synopsis": "This entry states the limits of current SignWriting evidence as a first-class part of the empirical series. It distinguishes documented use from outcome claims, names underdocumented adoption limits and negative cases, and keeps Brazil and South Korea from being overgeneralized.",
+  "summary": "Current SignWriting evidence supports documented use and institutional proof points, while outcome claims, adoption density, resistance, and negative cases remain bounded research questions.",
+  "synopsis": "The limits of current SignWriting evidence are part of the empirical record. Documented use should be distinguished from outcome claims, underdocumented adoption limits and negative cases should be named, and Brazil and South Korea should not be overgeneralized.",
+  "cover_image": "/series/evidence-and-adoption/entries/evidence-boundaries-and-adoption-limits/cover.png",
+  "cover_image_alt": "A balanced evidence-review scene with boundary lines, research folders, incomplete networks, charts, and a magnifying glass over SignWriting-like records.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

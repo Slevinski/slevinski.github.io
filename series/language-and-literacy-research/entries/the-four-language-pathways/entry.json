@@ -3,8 +3,8 @@
   "number": 1,
   "title": "The Four Language Pathways",
   "subtitle": "A developmental model of language, literacy, and signed-language writing",
-  "summary": "Opening model paper for the Sutton SignWriting Language and Literacy Research series.",
-  "synopsis": "This entry defines a research-facing model that distinguishes language input, language output, literacy input, and literacy output. It positions the model against language-acquisition and reading frameworks, states testable expectations, and clarifies how language development, literacy layering, and signed-language writing relate without forcing those questions back into the more public Foundations series.",
+  "summary": "Language input, language output, literacy input, and literacy output create a research-facing model for signed-language writing.",
+  "synopsis": "Language input, language output, literacy input, and literacy output are distinct pathways in a research-facing model of signed-language writing. The model relates language acquisition, reading frameworks, testable expectations, language development, literacy layering, and signed-language writing without forcing those questions back into the public Foundations series.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

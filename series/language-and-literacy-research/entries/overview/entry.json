@@ -3,7 +3,7 @@
   "number": 0,
   "title": "Sutton SignWriting Language and Literacy Research Overview",
   "subtitle": "Developmental pathways, literacy layering, reading questions, and signed-language research",
-  "summary": "Overview entry for the research-facing language and literacy series of the Sutton SignWriting platform.",
+  "summary": "Language pathways, literacy layering, reading questions, and study design define the research agenda opened by signed-language writing.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -17,7 +17,7 @@
       "id": "what-this-series-studies",
       "title": "What This Series Studies",
       "kicker": "1",
-      "summary": "This series turns signed-language writing into a research program about language pathways, literacy, reading, and study design.",
+      "summary": "Signed-language writing opens a research program about language pathways, literacy, reading, and study design.",
       "image_prompts": {
         "concrete": "Research overview slide showing language pathways, literacy pathways, reading signed text, study design, corpora, and data infrastructure",
         "abstract": "A research program opening from durable signed text into study pathways"

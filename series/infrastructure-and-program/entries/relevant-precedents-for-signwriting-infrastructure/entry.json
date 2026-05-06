@@ -3,8 +3,8 @@
   "number": 7,
   "title": "Relevant Precedents for SignWriting Infrastructure",
   "subtitle": "What comparable archive, language, data, and research-infrastructure models suggest",
-  "summary": "A public precedent entry showing that SignWriting follows a recognizable infrastructure path: mature assets first, institutional anchoring second, staffing and continuity next, and grants or philanthropy after that.",
-  "synopsis": "Sutton SignWriting is unusual, but the institutional pattern it needs is not. This entry generalizes precedent material from the institutional packet and reviews comparable archive, data, language, sign-language, and research-infrastructure models including ICPSR, ELDP/ELAR, PARADISEC, BSL Corpus and SignBank, ASLLRP, and MIDAS.",
+  "summary": "SignWriting follows a recognizable infrastructure path: mature assets first, institutional anchoring second, staffing and continuity next, and grants or philanthropy after that.",
+  "synopsis": "Sutton SignWriting is unusual, but the institutional pattern it needs is not. Comparable archive, data, language, sign-language, and research-infrastructure models include ICPSR, ELDP/ELAR, PARADISEC, BSL Corpus and SignBank, ASLLRP, and MIDAS.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

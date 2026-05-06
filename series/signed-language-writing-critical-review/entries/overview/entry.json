@@ -3,8 +3,10 @@
   "number": 0,
   "title": "Signed Language Writing Critical Review Series Overview",
   "subtitle": "Scope, method, structure, reading paths, and future direction for the review series",
-  "summary": "Overview entry for the Signed Language Writing critical review series.",
-  "synopsis": "This overview states the series question, method, structure, main review set, reading paths, recurring critique categories, and future direction. It is the public overview entry for the series rather than only a repository document.",
+  "summary": "Layer-based review of signed-language writing, notation, encoding, standards, and representation proposals.",
+  "synopsis": "The review series asks what level of the signed-writing problem each source actually solves. Its method, structure, main review set, reading paths, recurring critique categories, and future direction keep useful contributions separate from unresolved writing, encoding, rendering, and infrastructure gaps.",
+  "cover_image": "/series/signed-language-writing-critical-review/entries/overview/cover.png",
+  "cover_image_alt": "A scholarly review desk with layered source packets, SignWriting-like symbols, standards records, and evaluation frames for signed-language writing.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -18,7 +20,7 @@
       "id": "what-this-series-reviews",
       "title": "What This Series Reviews",
       "kicker": "1",
-      "summary": "This series reviews writing, notation, encoding, standards, and signed-language writing proposals through a shared layer-based method.",
+      "summary": "Writing, notation, encoding, standards, and signed-language writing proposals can be reviewed through a shared layer-based method.",
       "image_prompts": {
         "concrete": "Critical review overview slide showing literature, notation systems, encoding proposals, standards records, and SignWriting evaluated through layers",
         "abstract": "A set of reviewed sources passing through a structured evaluation frame"

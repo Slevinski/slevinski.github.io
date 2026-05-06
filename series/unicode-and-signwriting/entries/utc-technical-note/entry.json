@@ -3,8 +3,8 @@
   "number": 5,
   "title": "UTC Technical Note",
   "subtitle": "Technical note on compatibility, symbol identity, spatial composition, and next steps",
-  "summary": "A formal technical note stating that official Unicode SignWriting can name much of the character set but still does not preserve stable symbol identity or provide compatible written-sign support.",
-  "synopsis": "This UTC-facing technical note states the current technical position in a formal register. It separates character naming from stable symbol identity and written-sign encoding, explains how the facial-diacritic model shifts part of symbol formation into font behavior, identifies spatial composition and collation as unresolved issues, and requests renewed technical review rather than automatic migration pressure.",
+  "summary": "Official Unicode SignWriting can name much of the character set, but it does not preserve stable symbol identity or provide compatible written-sign support.",
+  "synopsis": "The current technical position separates character naming from stable symbol identity and written-sign encoding. The facial-diacritic model shifts part of symbol formation into font behavior, spatial composition and collation remain unresolved, and renewed technical review should replace automatic migration pressure.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

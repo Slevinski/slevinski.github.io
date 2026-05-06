@@ -3,8 +3,10 @@
   "number": 4,
   "title": "Handwriting and Spatial Script Practice",
   "subtitle": "Block printing, shorthand, cursive forms, and ordinary signed writing",
-  "summary": "Native anchor paper for the Writing and Representation in Sutton SignWriting series on handwriting, material practice, and script culture in SignWriting.",
-  "synopsis": "This entry argues that a writing system is not only a formal model, font-rendered output, or machine-readable text stream. It also becomes writing through ordinary practice: handwriting, abbreviation, learner forms, personal variation, correction, reuse, and material habits. It connects SignWriting handwriting to grapholinguistic questions of materiality, treats block, shorthand, and cursive traditions as important but under-documented evidence for spatial script practice, and identifies the research needed to understand handwritten signed text more fully.",
+  "summary": "Handwriting, abbreviation, learner forms, correction, reuse, and material habits show how SignWriting functions as ordinary spatial script practice.",
+  "synopsis": "A writing system is not only a formal model, font-rendered output, or machine-readable text stream. It becomes writing through ordinary practice: handwriting, abbreviation, learner forms, personal variation, correction, reuse, and material habits. SignWriting handwriting connects to grapholinguistic questions of materiality, while block, shorthand, and cursive traditions remain important but under-documented evidence for spatial script practice.",
+  "cover_image": "/series/writing-and-representation/entries/handwriting-and-spatial-script-practice/cover.png",
+  "cover_image_alt": "A writing desk with handwritten SignWriting-like notes, block forms, shorthand traces, correction marks, practice sheets, pens, and notebooks.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -29,7 +31,7 @@
         "Learner forms and correction matter",
         "Ordinary reuse makes writing visible"
       ],
-      "speech": "This paper argues that writing is not only a formal model, font output, or machine-readable stream. A writing system also becomes real through handwriting, abbreviation, learner forms, correction, reuse, and material habits.",
+      "speech": "Writing is not only a formal model, font output, or machine-readable stream. A writing system also becomes real through handwriting, abbreviation, learner forms, correction, reuse, and material habits.",
       "notes": "Open by grounding theory in practice."
     },
     {

@@ -3,8 +3,10 @@
   "number": 4,
   "title": "Official Unicode SignWriting: The Character Problem and the Written-Sign Problem",
   "subtitle": "A standards review of partial standardization, unresolved text structure, and later over-reading",
-  "summary": "A standards review of the official Unicode SignWriting design in the Signed Language Writing review series.",
-  "synopsis": "This review applies the series framework to the accepted Unicode SignWriting design and to later assumptions built around it. It argues that the standardization outcome was real and valuable at the character-inventory layer, but incomplete and non-compatible at the written-sign layer for current Sutton SignWriting production use.",
+  "summary": "The official Unicode SignWriting design solved part of the character-inventory problem but left the written-sign problem unresolved for current Sutton SignWriting production use.",
+  "synopsis": "The accepted Unicode SignWriting design and later assumptions around it are valuable at the character-inventory layer but incomplete and non-compatible at the written-sign layer for current Sutton SignWriting production use.",
+  "cover_image": "/series/signed-language-writing-critical-review/entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/cover.png",
+  "cover_image_alt": "A standards review desk with character inventory cards, code-chart-like grids, an open signed-writing manuscript, and larger written-sign structures.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

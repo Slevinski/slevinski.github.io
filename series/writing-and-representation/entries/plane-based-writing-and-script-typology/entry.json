@@ -3,8 +3,10 @@
   "number": 1,
   "title": "Plane-Based Writing and Script Typology",
   "subtitle": "Where SignWriting fits, and where existing writing-system categories strain",
-  "summary": "Native anchor paper for the Writing and Representation in Sutton SignWriting series on SignWriting, plane-based composition, and writing-system typology.",
-  "synopsis": "This entry argues that SignWriting is best understood through a two-axis typological account: one axis asks what linguistic or embodied structure writing represents, and the other asks how the written unit is organized for reading. It defines plane-based writing as an analytic descriptor, distinguishes it from pictorial drawing, featural script, notation, and encoding, and explains why SignWriting pressures inherited writing-system categories without discarding them.",
+  "summary": "SignWriting is best understood through a two-axis typology: what writing represents and how the written unit is organized for reading.",
+  "synopsis": "SignWriting is best understood through a two-axis typological account: one axis asks what linguistic or embodied structure writing represents, and the other asks how the written unit is organized for reading. Plane-based writing names the organization of written units, distinguishes SignWriting from pictorial drawing, featural script, notation, and encoding, and shows where inherited writing-system categories strain without needing to be discarded.",
+  "cover_image": "/series/writing-and-representation/entries/plane-based-writing-and-script-typology/cover.png",
+  "cover_image_alt": "A scholarly desk with abstract sequential marks opening into a spatial signed-writing plane, typology cards, an open manuscript, and geometric writing fields.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

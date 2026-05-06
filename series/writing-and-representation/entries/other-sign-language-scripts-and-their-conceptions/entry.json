@@ -3,8 +3,10 @@
   "number": 7,
   "title": "Other Sign Language Scripts and Their Conceptions",
   "subtitle": "ASL-phabet, HamNoSys, ASLwrite, and what they imply about written sign language",
-  "summary": "Comparative writing-systems paper for the Writing and Representation in Sutton SignWriting series.",
-  "synopsis": "This entry names a few visible other script conceptions as part of the surrounding field. It treats ASL-phabet, HamNoSys, and ASLwrite as distinct answers to different writing problems, and clarifies why SignWriting is understood here as plane-based writing with a broader public and technical path.",
+  "summary": "ASL-phabet, HamNoSys, ASLwrite, and SignWriting show different conceptions of signed-language writing, notation, and representation.",
+  "synopsis": "ASL-phabet, HamNoSys, and ASLwrite represent distinct answers to different writing problems in the surrounding field. Their contrast clarifies why SignWriting is understood here as plane-based writing with a broader public and technical path.",
+  "cover_image": "/series/writing-and-representation/entries/other-sign-language-scripts-and-their-conceptions/cover.png",
+  "cover_image_alt": "A comparative script desk with distinct abstract signed-language script conceptions arranged in folders, panels, notation-like strips, and spatial pages.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

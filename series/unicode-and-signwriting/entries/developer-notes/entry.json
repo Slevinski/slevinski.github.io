@@ -2,9 +2,9 @@
   "slug": "developer-notes",
   "number": 2,
   "title": "Developer Notes",
-  "subtitle": "What to use now and what not to assume",
+  "subtitle": "Production encoding guidance and compatibility cautions",
   "summary": "Implementation guidance for developers working with Sutton SignWriting data, conversion, symbol identity, and Unicode-facing workflows.",
-  "synopsis": "These notes are for developers. They explain what to store, what to treat as canonical, why naming characters is not the same as preserving stable symbols or written signs, where official Unicode SignWriting falls short, and how FSW and SWU should be used in current tooling, interchange, and data workflows.",
+  "synopsis": "Developers need clear boundaries around what to store, what to treat as canonical, why naming characters is not the same as preserving stable symbols or written signs, where official Unicode SignWriting falls short, and how FSW and SWU should be used in current tooling, interchange, and data workflows.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

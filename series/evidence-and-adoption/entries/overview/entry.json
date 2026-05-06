@@ -3,7 +3,9 @@
   "number": 0,
   "title": "Sutton SignWriting Evidence and Adoption Overview",
   "subtitle": "Documented use, institutional proof points, and evidence boundaries",
-  "summary": "Overview entry for the empirical series of the Sutton SignWriting platform.",
+  "summary": "Documented use, institutional proof points, and evidence boundaries show where SignWriting is already visible and where empirical claims must remain bounded.",
+  "cover_image": "/series/evidence-and-adoption/entries/overview/cover.png",
+  "cover_image_alt": "An open research desk with SignWriting-like symbols, evidence records, country anchors, archive boxes, charts, and connected adoption pathways.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -17,7 +19,7 @@
       "id": "what-this-series-does",
       "title": "What This Series Does",
       "kicker": "1",
-      "summary": "This series separates documented SignWriting use from broader claims about outcomes, scale, and future adoption.",
+      "summary": "Documented SignWriting use must be separated from broader claims about outcomes, scale, and future adoption.",
       "image_prompts": {
         "concrete": "Clean academic slide showing evidence documents, country anchors, and bounded claims arranged as a disciplined research map",
         "abstract": "A set of verified markers on a map connected to a clear evidence boundary"
@@ -28,7 +30,7 @@
         "Separates evidence from projection",
         "Keeps adoption claims bounded"
       ],
-      "speech": "This series answers a practical question: what can currently be shown about SignWriting use and adoption? It does not try to prove every possible outcome. It documents strong anchors, names limits, and keeps the evidence case readable on its own terms.",
+      "speech": "The practical question is what can currently be shown about SignWriting use and adoption. The evidence record does not try to prove every possible outcome. It documents strong anchors, names limits, and keeps the evidence case readable on its own terms.",
       "notes": "Open with discipline, not enthusiasm. The point is credibility through bounded claims."
     },
     {

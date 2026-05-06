@@ -3,8 +3,10 @@
   "number": 8,
   "title": "Martin (2000): From Notation to Writing",
   "subtitle": "A review of an early SignWriting-positive comparison with real insight and overstated claims",
-  "summary": "Review essay on Joe Martin's 2000 comparison of Stokoe Notation and Sutton SignWriting.",
-  "synopsis": "This review treats Martin's 2000 paper as an important sympathetic comparison rather than as an opponent text. It argues that the paper clearly sees the limitations of linear and alphabetic assumptions for signed writing and takes SignWriting seriously as a real public writing possibility, but that it also overstates in places, relies on historically dated software and learnability claims, and does not always distinguish cleanly between real insight and broader conclusions.",
+  "summary": "Martin sees SignWriting as a real public writing possibility while mixing useful insight with dated and overstated claims.",
+  "synopsis": "Martin's 2000 paper is an important sympathetic comparison rather than an opponent text. It clearly sees the limitations of linear and alphabetic assumptions for signed writing and takes SignWriting seriously as a real public writing possibility, while also overstating in places, relying on historically dated software and learnability claims, and not always distinguishing cleanly between real insight and broader conclusions.",
+  "cover_image": "/series/signed-language-writing-critical-review/entries/martin-2000-from-notation-to-writing/cover.png",
+  "cover_image_alt": "A comparison table moving from linear notation strips and early interface sketches toward a plane-based signed-writing page.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

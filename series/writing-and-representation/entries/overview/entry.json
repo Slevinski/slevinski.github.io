@@ -3,7 +3,9 @@
   "number": 0,
   "title": "Writing and Representation in Sutton SignWriting Overview",
   "subtitle": "Plane-based writing, authored space, representation, and writing-systems questions",
-  "summary": "Overview entry for the writing-systems series of the Sutton SignWriting platform.",
+  "summary": "Plane-based composition, authored space, convention, handwriting, machine encoding, and typology define the writing-systems question for SignWriting.",
+  "cover_image": "/series/writing-and-representation/entries/overview/cover.png",
+  "cover_image_alt": "An open writing-systems desk where a point and line open into a two-dimensional plane with authored signbox composition and text layers.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -17,7 +19,7 @@
       "id": "what-this-series-argues",
       "title": "What This Series Argues",
       "kicker": "1",
-      "summary": "This series asks what kind of writing SignWriting is and how spatial authorship should be described.",
+      "summary": "SignWriting raises writing-systems questions about spatial authorship, plane-based composition, convention, and text structure.",
       "image_prompts": {
         "concrete": "Writing-systems overview slide showing point, line, plane, authored space, signbox composition, handwriting, and machine encoding",
         "abstract": "A written sign opening into typology, authored space, and representation"

@@ -4,7 +4,7 @@
   "title": "Grammar of Formal SignWriting",
   "subtitle": "Token patterns, syntax, and valid structure",
   "summary": "Token patterns, syntax, regular expressions, and well-formed Formal SignWriting text.",
-  "synopsis": "Formal SignWriting becomes reliable technical text when its token patterns, syntax, and valid structures are stated clearly. This entry states what counts as well-formed text before search, rendering, or implementation begin.",
+  "synopsis": "Formal SignWriting becomes reliable technical text when its token patterns, syntax, and valid structures are stated clearly. Well-formed text must be defined before search, rendering, or implementation begin.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -36,7 +36,7 @@
         "Structure before rendering",
         "Validation as a layer"
       ],
-      "speech": "This entry isolates the grammar layer so it can do its own work. Formal SignWriting needs a clear account of what makes a string well formed. That question comes before query, rendering, or implementation details, and it deserves a dedicated artifact.",
+      "speech": "The grammar layer deserves its own treatment because Formal SignWriting needs a clear account of what makes a string well formed. That question comes before query, rendering, or implementation details.",
       "notes": "Keep the deck focused on structure and validity rather than drifting into search.",
       "mermaid": "flowchart TD\n  A[Formal SignWriting string] --> B[Token patterns]\n  B --> C[Valid structure]\n  C --> D[Renderable and searchable text]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,C core;\n  class B,D node;"
     },

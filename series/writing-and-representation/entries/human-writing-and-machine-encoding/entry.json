@@ -3,8 +3,10 @@
   "number": 5,
   "title": "Human Writing and Machine Encoding",
   "subtitle": "Authorship, serialization, and the layers of signed text",
-  "summary": "Writing-systems paper for the Writing and Representation in Sutton SignWriting series on the distinction between human signed writing and machine encoding.",
-  "synopsis": "This entry argues that SignWriting is first a human writing system and only secondarily a machine-encoded text format. It distinguishes written signs, symbol inventories, signboxes, encodings, rendering, styling, layout, search, and analysis; uses an FSW/SWU example to show the layer relationship; and explains why serialization does not make plane-based writing into line-based writing.",
+  "summary": "Human signed writing and machine encoding occupy different layers: serialization supports software without making plane-based writing linear.",
+  "synopsis": "SignWriting is first a human writing system and only secondarily a machine-encoded text format. Written signs, symbol inventories, signboxes, encodings, rendering, styling, layout, search, and analysis occupy different layers; FSW and SWU show how those layers relate without turning plane-based writing into line-based writing.",
+  "cover_image": "/series/writing-and-representation/entries/human-writing-and-machine-encoding/cover.png",
+  "cover_image_alt": "A human-authored signed-writing page above transparent technical layers for symbol inventory, signbox structure, rendering, search, and analysis.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

@@ -3,7 +3,7 @@
   "number": 0,
   "title": "Unicode and SignWriting Overview",
   "subtitle": "Unicode history, compatibility, and standards-facing discussion",
-  "summary": "Overview entry for Unicode history, compatibility, and standards-facing SignWriting materials.",
+  "summary": "Unicode history, current production encodings, compatibility limits, developer guidance, Wikimedia context, and standards-facing next steps belong in one technical record.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -82,7 +82,7 @@
         "Production evidence sets the baseline",
         "Future work should start from accurate distinctions"
       ],
-      "speech": "The boundary is important. This series does not argue against Unicode or standards work. It argues that the current official SignWriting model has specific compatibility limits. Those limits should be named precisely: symbol identity, written signs, sorting, tooling, and migration. Future work should start from those distinctions.",
+      "speech": "Unicode remains an important standards context. The critique here is compatibility-specific: the current official SignWriting model has limits around symbol identity, written signs, sorting, tooling, and migration. Future work should start from those distinctions.",
       "notes": "Use this to keep the series technical rather than oppositional."
     }
   ],

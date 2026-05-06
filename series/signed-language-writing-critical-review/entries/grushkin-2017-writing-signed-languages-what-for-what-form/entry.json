@@ -3,8 +3,10 @@
   "number": 5,
   "title": "Grushkin (2017): Writing Signed Languages: What For? What Form?",
   "subtitle": "A review of the need for signed writing and the alphabetic-bias problem",
-  "summary": "Review essay on Grushkin's 2017 writing-and-literacy argument.",
-  "synopsis": "This review argues that Grushkin is right about the need for signed writing and the weakness of video and glossing, but wrong to treat alphabetic signed writing as the proper conclusion. Its durable contribution is the necessity-of-writing argument, not the orthographic prescription.",
+  "summary": "Grushkin makes the necessity-of-writing argument clearly but carries it toward an alphabetic prescription.",
+  "synopsis": "Grushkin is right about the need for signed writing and the weakness of video and glossing, but wrong to treat alphabetic signed writing as the proper conclusion. The durable contribution is the necessity-of-writing argument, not the orthographic prescription.",
+  "cover_image": "/series/signed-language-writing-critical-review/entries/grushkin-2017-writing-signed-languages-what-for-what-form/cover.png",
+  "cover_image_alt": "A review table contrasting abstract video frames, linear gloss-like strips, alphabetic fragments, and plane-based signed-writing pages.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

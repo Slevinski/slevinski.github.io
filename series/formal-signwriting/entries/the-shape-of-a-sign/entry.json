@@ -3,8 +3,8 @@
   "number": 3,
   "title": "The Shape of a Sign",
   "subtitle": "Symbols, coordinates, centering, and the signbox",
-  "summary": "Canonical statement of symbols, coordinates, centering, and signbox structure.",
-  "synopsis": "A Formal SignWriting word is not complete until its symbols, coordinates, signbox behavior, tight bounding boxes, and centering logic are understood. This entry states the spatial layer in its smallest stable form and shows how the signbox works as a spatial arrangement carried in text.",
+  "summary": "Symbols, coordinates, centering, and signbox structure define the spatial layer of a Formal SignWriting word.",
+  "synopsis": "A Formal SignWriting word is not complete until its symbols, coordinates, signbox behavior, tight bounding boxes, and centering logic are understood. The signbox is a spatial arrangement carried in text.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -45,7 +45,7 @@
         "Spatial arrangement in text",
         "The sign as an arranged object"
       ],
-      "speech": "This entry states the spatial layer of the model. Formal SignWriting is not only a grammar of symbols. It also has to preserve where those symbols are placed, how far they extend, and how they are normalized. The signbox becomes understandable once those pieces are kept in view together, and that spatial layer remains stable even as rendering and implementation continue to grow around it.",
+      "speech": "Formal SignWriting is not only a grammar of symbols. It also preserves where those symbols are placed, how far they extend, and how they are normalized. The signbox becomes understandable once those pieces are kept in view together, and that spatial layer remains stable even as rendering and implementation continue to grow around it.",
       "notes": "Use this as the spatial counterpart to the opening deck.",
       "mermaid": "flowchart TD\n  A[Signbox]\n  A --> B[Symbols]\n  A --> C[Coordinates]\n  A --> D[Tight bounding boxes]\n  B --> E[Visible written form]\n  C --> E\n  D --> E\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,E core;\n  class B,C,D node;"
     },

@@ -3,7 +3,7 @@
   "number": 0,
   "title": "Formal SignWriting Overview",
   "subtitle": "Plain-text encodings, grammar, search, rendering, styling, and implementation",
-  "summary": "Overview entry for the technical Formal SignWriting series.",
+  "summary": "Plain-text encodings, grammar, search, layout, rendering, styling, and implementation practice define the Formal SignWriting technical model.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

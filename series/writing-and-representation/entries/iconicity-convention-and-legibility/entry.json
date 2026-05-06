@@ -3,8 +3,10 @@
   "number": 3,
   "title": "Iconicity, Convention, and Legibility",
   "subtitle": "How motivated visual form becomes disciplined writing",
-  "summary": "Native anchor paper for the Writing and Representation in Sutton SignWriting series on visual motivation, convention, and legibility in SignWriting.",
-  "synopsis": "This entry argues that iconicity is not the opposite of writing. It explains how visually motivated forms become writing when they are stabilized through convention, contrast, teachability, repeatability, correction, and reader practice. It distinguishes iconic language writing from free illustration, pictograms, emoji, and merely intuitive visual communication, treating SignWriting as a disciplined writing system whose iconic resources are organized by learned conventions.",
+  "summary": "Visual motivation, convention, and legibility show how iconic resources become disciplined writing in SignWriting.",
+  "synopsis": "Iconicity is not the opposite of writing. Visually motivated forms become writing when they are stabilized through convention, contrast, teachability, repeatability, correction, and reader practice. SignWriting is a disciplined writing system whose iconic resources are organized by learned conventions, not free illustration, pictograms, emoji, or merely intuitive visual communication.",
+  "cover_image": "/series/writing-and-representation/entries/iconicity-convention-and-legibility/cover.png",
+  "cover_image_alt": "Loose visual sketches and pictorial marks passing through convention cards into disciplined SignWriting-like symbols and reader-practice materials.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -29,7 +31,7 @@
         "Writing depends on convention",
         "Legibility is learned"
       ],
-      "speech": "The common mistake is to treat iconicity as the opposite of writing. This paper argues the opposite: visually motivated form can become writing when it is stabilized through convention, contrast, correction, and reader practice.",
+      "speech": "The common mistake is to treat iconicity as the opposite of writing. Visually motivated form can become writing when it is stabilized through convention, contrast, correction, and reader practice.",
       "notes": "Open by removing the false opposition."
     },
     {

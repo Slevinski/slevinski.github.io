@@ -3,8 +3,8 @@
   "number": 9,
   "title": "Formal SignWriting in Practice",
   "subtitle": "Libraries, datasets, transformations, and implementation pathways",
-  "summary": "Canonical statement of libraries, datasets, transformations, and real implementation pathways.",
-  "synopsis": "The specification matters most when it supports real libraries, transformations, datasets, corpora, and implementation pathways. This entry states the stewardship layer in its smallest stable form and connects the model to the broader software and data ecosystem.",
+  "summary": "Libraries, datasets, transformations, and implementation pathways connect Formal SignWriting to real software and data practice.",
+  "synopsis": "The specification matters most when it supports real libraries, transformations, datasets, corpora, and implementation pathways. The stewardship layer connects the model to the broader software and data ecosystem.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
