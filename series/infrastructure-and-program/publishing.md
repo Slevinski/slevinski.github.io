@@ -6,13 +6,14 @@
 - Series slug: `infrastructure-and-program`
 - Repository slug: `infrastructure-and-program`
 - GitHub repository: `https://github.com/sutton-signwriting/infrastructure-and-program`
-- Zenodo series record: pending
+- Zenodo series record: reserved draft
+- Series DOI: `10.5281/zenodo.20075076`
 - Version: `v1.0.0`
 - License: `CC BY 4.0`
 - Creator: `Steve Slevinski`
 - Publication year: `2026`
 - Resource type: `Publication`
-- Release status: preparing
+- Release status: reserved draft
 - Living site: `https://steveslevinski.me/#series/infrastructure-and-program`
 
 ## Series Description
@@ -37,7 +38,7 @@ Program briefs and white papers on Sutton SignWriting infrastructure, stewardshi
 ## Citation
 
 ```text
-Slevinski, S. (2026). Sutton SignWriting Infrastructure and Program (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Sutton SignWriting Infrastructure and Program (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20075076
 ```
 
 ## Artifact Register

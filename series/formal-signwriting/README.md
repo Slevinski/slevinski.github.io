@@ -17,7 +17,7 @@ This is the mechanism layer of the wider Sutton SignWriting platform.
 - Version: `v1.0.0`
 - Publication year: `2026`
 - License: `CC BY 4.0`
-- Series DOI: pending
+- Series DOI: `https://doi.org/10.5281/zenodo.20074767`
 
 ## Who This Repository Is For
 
@@ -60,7 +60,7 @@ Technical readers can begin with:
 ## Citation
 
 ```text
-Slevinski, S. (2026). Formal SignWriting (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Formal SignWriting (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20074767
 ```
 
 Use the series DOI when citing the technical series as a whole. Use an artifact DOI when citing a specific technical paper that has its own record.

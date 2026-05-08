@@ -6,13 +6,14 @@
 - Series slug: `language-and-literacy-research`
 - Repository slug: `language-and-literacy-research`
 - GitHub repository: `https://github.com/sutton-signwriting/language-and-literacy-research`
-- Zenodo series record: pending
+- Zenodo series record: reserved draft
+- Series DOI: `10.5281/zenodo.20074878`
 - Version: `v1.0.0`
 - License: `CC BY 4.0`
 - Creator: `Steve Slevinski`
 - Publication year: `2026`
 - Resource type: `Publication`
-- Release status: preparing
+- Release status: reserved draft
 - Living site: `https://steveslevinski.me/#series/language-and-literacy-research`
 
 ## Series Description
@@ -37,7 +38,7 @@ Research-facing papers on signed-language writing, language pathways, literacy p
 ## Citation
 
 ```text
-Slevinski, S. (2026). Sutton SignWriting Language and Literacy Research (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Sutton SignWriting Language and Literacy Research (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20074878
 ```
 
 ## Artifact Register

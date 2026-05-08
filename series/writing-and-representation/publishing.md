@@ -6,13 +6,14 @@
 - Series slug: `writing-and-representation`
 - Repository slug: `writing-and-representation`
 - GitHub repository: `https://github.com/sutton-signwriting/writing-and-representation`
-- Zenodo series record: pending
+- Zenodo series record: reserved draft
+- Series DOI: `10.5281/zenodo.20070484`
 - Version: `v1.0.0`
 - License: `CC BY 4.0`
 - Creator: `Steve Slevinski`
 - Publication year: `2026`
 - Resource type: `Publication`
-- Release status: preparing
+- Release status: reserved draft
 - Living site: `https://steveslevinski.me/#series/writing-and-representation`
 
 ## Series Description
@@ -37,7 +38,7 @@ Conceptual and writing-systems papers on SignWriting, plane-based writing, autho
 ## Citation
 
 ```text
-Slevinski, S. (2026). Writing and Representation in Sutton SignWriting (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Writing and Representation in Sutton SignWriting (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20070484
 ```
 
 ## Artifact Register

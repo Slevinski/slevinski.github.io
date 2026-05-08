@@ -11,7 +11,7 @@ This repository contains the Unicode and SignWriting technical companion series.
 - Version: `v1.0.0`
 - Publication year: `2026`
 - License: `CC BY 4.0`
-- Series DOI: pending
+- Series DOI: `https://doi.org/10.5281/zenodo.20075119`
 
 ## Who This Repository Is For
 
@@ -46,7 +46,7 @@ Begin with:
 ## Citation
 
 ```text
-Slevinski, S. (2026). Unicode and SignWriting (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Unicode and SignWriting (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20075119
 ```
 
 Use the series DOI when citing the Unicode and SignWriting series as a whole. Use an artifact DOI when citing a specific technical note that has its own record.

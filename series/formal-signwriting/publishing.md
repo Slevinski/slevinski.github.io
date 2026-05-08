@@ -6,13 +6,14 @@
 - Series slug: `formal-signwriting`
 - Repository slug: `formal-signwriting`
 - GitHub repository: `https://github.com/sutton-signwriting/formal-signwriting`
-- Zenodo series record: pending
+- Zenodo series record: reserved draft
+- Series DOI: `10.5281/zenodo.20074767`
 - Version: `v1.0.0`
 - License: `CC BY 4.0`
 - Creator: `Steve Slevinski`
 - Publication year: `2026`
 - Resource type: `Publication`
-- Release status: preparing
+- Release status: reserved draft
 - Living site: `https://steveslevinski.me/#series/formal-signwriting`
 
 ## Series Description
@@ -37,7 +38,7 @@ Technical papers and source documents for Formal SignWriting: FSW, SWU, signboxe
 ## Citation
 
 ```text
-Slevinski, S. (2026). Formal SignWriting (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Formal SignWriting (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20074767
 ```
 
 ## Artifact Register

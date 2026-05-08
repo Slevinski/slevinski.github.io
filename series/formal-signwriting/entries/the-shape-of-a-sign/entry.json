@@ -4,6 +4,8 @@
   "title": "The Shape of a Sign",
   "subtitle": "Symbols, coordinates, centering, and the signbox",
   "summary": "Symbols, coordinates, centering, and signbox structure define the spatial layer of a Formal SignWriting word.",
+  "cover_image": "/series/formal-signwriting/entries/the-shape-of-a-sign/cover.png",
+  "cover_image_alt": "A measured signbox with abstract symbols, coordinate guides, centerlines, and bounding boxes showing the spatial structure of a sign.",
   "synopsis": "A Formal SignWriting word is not complete until its symbols, coordinates, signbox behavior, tight bounding boxes, and centering logic are understood. The signbox is a spatial arrangement carried in text.",
   "essay": "essay.md",
   "primary_artifact": {

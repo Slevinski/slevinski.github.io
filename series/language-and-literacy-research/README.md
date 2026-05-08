@@ -13,7 +13,7 @@ It also defines practical next steps for study design, materials, corpora, and r
 - Version: `v1.0.0`
 - Publication year: `2026`
 - License: `CC BY 4.0`
-- Series DOI: pending
+- Series DOI: `https://doi.org/10.5281/zenodo.20074878`
 
 ## Who This Repository Is For
 
@@ -44,7 +44,7 @@ Begin with:
 ## Citation
 
 ```text
-Slevinski, S. (2026). Sutton SignWriting Language and Literacy Research (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Sutton SignWriting Language and Literacy Research (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20074878
 ```
 
 Use the series DOI when citing the research series as a whole. Use an artifact DOI when citing a specific working paper that has its own record.

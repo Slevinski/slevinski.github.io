@@ -4,6 +4,8 @@
   "title": "Wikimedia Brief",
   "subtitle": "What Wikimedia needs to understand about Unicode and SignWriting",
   "summary": "A short practical note for Wikimedia staff and collaborators about why naming characters is not enough for current SignWriting project needs.",
+  "cover_image": "/series/unicode-and-signwriting/entries/wikimedia-brief/cover.png",
+  "cover_image_alt": "Linked public-knowledge page tiles, a character-cell grid, and a spatial signbox layer are joined by a bridge across a compatibility boundary.",
   "synopsis": "Wikimedia and other public-platform readers need to understand why current SignWriting work cannot rely on official Unicode SignWriting alone. The real gap is larger than font support: the facial system affects stable symbol identity, the Sutton SignWriting production stack still uses FSW and SWU, and public explanations should not flatten the problem into a solved-symbol-block story.",
   "essay": "essay.md",
   "primary_artifact": {

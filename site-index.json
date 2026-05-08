@@ -5,13 +5,13 @@
     "seriesIndex": "/series/index.json"
   },
   "counts": {
-    "section": 14,
+    "section": 13,
     "page": 7,
     "series": 11,
     "entry": 63,
     "primary-document": 63,
     "companion-document": 23,
-    "total": 181
+    "total": 180
   },
   "records": [
     {
@@ -136,13 +136,7 @@
         "A direct path into the full Formal SignWriting canon for technical readers who want the internal order",
         "An analyzer for rendering, converting, and inspecting an individual symbol, sign, or passage of sign text",
         "Reference links for the alphabet, series, analyzer, and supporting technical notes",
-        "The Shape of a Sign",
-        "Best first stop if you arrived from the public explanation and want to see how authored space becomes sign text.",
-        "Formal SignWriting Series Overview",
-        "The full eight-part technical publication structure, reading order, and publication strategy.",
-        "FSW / SWU Analyzer",
-        "Interactive workbench for rendering a symbol, sign, or passage and inspecting the encoding-level structure.",
-        "Formal SignWriting Slides",
+        "Formal SignWriting",
         "Opening entry on the two-part word of time and space, and on the technical roles of sequence and signbox.",
         "FSW and SWU",
         "The encoding layer, conversion story, and canonical boundaries between text and markup.",
@@ -166,7 +160,7 @@
         "Supporting notes on the core model, publication strategy, draft transition, and the technical position of the series."
       ],
       "contentExcerpt": "",
-      "searchText": "formal signwriting formal signwriting is the technical model that lets sutton signwriting become sign text software can store search check render inspect and process the shape of a sign gives public readers the plainest introduction to the model technical readers can move directly into the formal signwriting series overview and opening papers both paths lead to the same architecture for readable and processable sign text section formal signwriting technical mechanism layer the two part word of time and space with sequence and signbox kept distinct fsw and swu as two encodings of one model with fsw usually canonical internally grammar search rendering styling and implementation as related but distinct layers a clean entry point for developers researchers and standards minded readers a visible public bridge from writing systems theory into the technical model through the shape of a sign a direct path into the full formal signwriting canon for technical readers who want the internal order an analyzer for rendering converting and inspecting an individual symbol sign or passage of sign text reference links for the alphabet series analyzer and supporting technical notes the shape of a sign best first stop if you arrived from the public explanation and want to see how authored space becomes sign text formal signwriting series overview the full eight part technical publication structure reading order and publication strategy fsw swu analyzer interactive workbench for rendering a symbol sign or passage and inspecting the encoding level structure formal signwriting slides opening entry on the two part word of time and space and on the technical roles of sequence and signbox fsw and swu the encoding layer conversion story and canonical boundaries between text and markup grammar of formal signwriting token patterns syntax and what counts as well formed text before search or rendering begins searching signed text why query language ranges and variance make search a first class technical consequence of the model rendering formal signwriting svg fonts layout and output models kept distinct from the canonical text layer iswa 2010 section alphabet overview supporting context the viewer and the full base symbol reference alphabet viewer category group base fill and rotation browsing for the iswa 2010 alphabet all base symbols filtered table of the full 652 base iswa 2010 inventory fsw and swu slides encoding layer conversion story and the relation between ascii and unicode forms formal signwriting technical paper written artifact for the opening entry with the core argument in prose form formal signwriting technical notes supporting notes on the core model publication strategy draft transition and the technical position of the series"
+      "searchText": "formal signwriting formal signwriting is the technical model that lets sutton signwriting become sign text software can store search check render inspect and process the shape of a sign gives public readers the plainest introduction to the model technical readers can move directly into the formal signwriting series overview and opening papers both paths lead to the same architecture for readable and processable sign text section formal signwriting technical mechanism layer the two part word of time and space with sequence and signbox kept distinct fsw and swu as two encodings of one model with fsw usually canonical internally grammar search rendering styling and implementation as related but distinct layers a clean entry point for developers researchers and standards minded readers a visible public bridge from writing systems theory into the technical model through the shape of a sign a direct path into the full formal signwriting canon for technical readers who want the internal order an analyzer for rendering converting and inspecting an individual symbol sign or passage of sign text reference links for the alphabet series analyzer and supporting technical notes formal signwriting opening entry on the two part word of time and space and on the technical roles of sequence and signbox fsw and swu the encoding layer conversion story and canonical boundaries between text and markup grammar of formal signwriting token patterns syntax and what counts as well formed text before search or rendering begins searching signed text why query language ranges and variance make search a first class technical consequence of the model rendering formal signwriting svg fonts layout and output models kept distinct from the canonical text layer iswa 2010 section alphabet overview supporting context the viewer and the full base symbol reference alphabet viewer category group base fill and rotation browsing for the iswa 2010 alphabet all base symbols filtered table of the full 652 base iswa 2010 inventory fsw and swu slides encoding layer conversion story and the relation between ascii and unicode forms formal signwriting technical paper written artifact for the opening entry with the core argument in prose form formal signwriting technical notes supporting notes on the core model publication strategy draft transition and the technical position of the series"
     },
     {
       "id": "section:uiowa",
@@ -306,59 +300,11 @@
         "Historically sympathetic Martin comparison after the first seven-entry sequence",
         "Read Entry 9",
         "Field-level grapholinguistics review and the typology question pushed against SignWriting",
-        "Return to SignWriting",
-        "Move back from review and commentary into the main platform overview"
+        "Return to Publications",
+        "Move back from review and commentary into the publication overview"
       ],
       "contentExcerpt": "",
-      "searchText": "reviews and critical commentary the review papers evaluate scholarship standards work and recurring conceptual issues in signed language writing these papers ask whether the literature and standards discussion describe signwriting accurately and at the right level readers can begin with an applied review paper and use the unified critique framework when they need the shared method section review signed language writing critical review series readable review papers organized around recurring claims and level distinctions clarification of level distinctions between language writing notation and encoding standards review for unicode and similar technical discussions a reusable framework that supports comparison across papers a stable landing page for the review side of the platform a direct path into the review papers and the shared framework behind them standards commentary presented beside literature review and conceptual analysis a bridge from critique toward clearer theory better design and stronger future scholarship signed language writing critical review series overview overview entry for the review series and how it relates to the rest of the platform a unified critique framework for signed language writing encoding and representation the shared method behind the series and the basis for comparison across the review papers signwriting and formal signwriting through the framework a self application of the method to the writing system and its technical model a layer based evaluation of signed language writing systems comparative paper showing how the framework operates across four representative cases official unicode signwriting the character problem and the written sign problem standards review of what the unicode outcome did solve what it did not and where later interpretation drifted grushkin 2017 review of a real literacy argument that is still distorted by alphabetic bias filhol 2020 review of a software and semantic layer critique that misplaces signwriting thiessen 2011 review of serious structural insight that still stops one abstraction layer too low martin 2000 review of an early signwriting positive comparison with real insight and historical overreach meletis and durscheid 2022 review of a major comparative writing theory that still appears typologically incomplete for signed language writing start with the overview entry purpose and scope for the review series before reading a specific paper read entry 2 the framework applied first to signwriting and formal signwriting themselves read entry 3 matrix backed comparison before the individual review essays read entry 4 unicode compatibility and the written sign problem use the framework as a deep dive return here when you want the fuller method shared vocabulary and standards review questions read entry 8 historically sympathetic martin comparison after the first seven entry sequence read entry 9 field level grapholinguistics review and the typology question pushed against signwriting return to signwriting move back from review and commentary into the main platform overview"
-    },
-    {
-      "id": "section:signwriting",
-      "kind": "section",
-      "title": "SignWriting Platform",
-      "summary": "Sutton SignWriting writes signed languages directly, preserving visual-spatial language as readable text rather than reducing it to speech-language glosses. The platform brings together the public explanation, research argument, writing-systems analysis, adoption evidence, infrastructure case, and Formal SignWriting technical model behind that work.",
-      "route": "#section/signwriting",
-      "group": "Site Sections",
-      "keywords": [
-        "Platform Landing",
-        "A readable starting point through Sutton SignWriting Foundations and Start Here",
-        "Research material on language, literacy, and reading signed text",
-        "Writing-systems material for plane-based text, perspective, and authored space",
-        "An evidence-and-program layer for adoption, stewardship, and continuity",
-        "A technical mechanism layer through Formal SignWriting and The Shape of a Sign",
-        "A concise path into why signed languages need durable written forms",
-        "Research-facing materials on literacy, language modality, evidence, and open study questions",
-        "Infrastructure materials for people thinking about stewardship, host structure, and public continuity",
-        "Technical materials for implementers working with Formal SignWriting, Unicode questions, fonts, search, rendering, and structured signed text",
-        "Sutton SignWriting Foundations",
-        "Start with the big idea: language, literacy, writing, and why signed-language writing matters",
-        "Research",
-        "Research on the four pathways, reading signed text, and the harder scientific questions",
-        "Writing",
-        "Writing-systems work on plane-based composition, authored space, and representation",
-        "Evidence",
-        "Evidence on what is already supported and where SignWriting is already real",
-        "Infrastructure",
-        "Stewardship work on continuity, host structure, and what would make the work durable",
-        "Formal SignWriting",
-        "The mechanism layer where authored signed writing becomes sign text that software can preserve and process",
-        "Reviews",
-        "Critical review papers for literature, standards, Unicode, and recurring level-confusion in signed-language writing",
-        "Language Without Sound",
-        "Step 1: clear the conceptual ground around language, modality, and literacy",
-        "The Shape of Writing",
-        "Step 2: explain why signed writing does not need to imitate the line in order to count as writing",
-        "The Four Language Pathways",
-        "Step 3: state the research-facing model of language first, literacy second, and the four pathways",
-        "Brazil as the Empirical Center of SignWriting",
-        "Step 4: show the strongest current empirical case that SignWriting is already real in practice",
-        "Evidence Boundaries and Adoption Limits",
-        "Step 5: keep adoption, scale, and literacy claims bounded by the current evidence",
-        "The Shape of a Sign",
-        "Step 6: bridge from writing theory into the formal technical model"
-      ],
-      "contentExcerpt": "",
-      "searchText": "signwriting platform sutton signwriting writes signed languages directly preserving visual spatial language as readable text rather than reducing it to speech language glosses the platform brings together the public explanation research argument writing systems analysis adoption evidence infrastructure case and formal signwriting technical model behind that work section signwriting platform landing a readable starting point through sutton signwriting foundations and start here research material on language literacy and reading signed text writing systems material for plane based text perspective and authored space an evidence and program layer for adoption stewardship and continuity a technical mechanism layer through formal signwriting and the shape of a sign a concise path into why signed languages need durable written forms research facing materials on literacy language modality evidence and open study questions infrastructure materials for people thinking about stewardship host structure and public continuity technical materials for implementers working with formal signwriting unicode questions fonts search rendering and structured signed text sutton signwriting foundations start with the big idea language literacy writing and why signed language writing matters research research on the four pathways reading signed text and the harder scientific questions writing writing systems work on plane based composition authored space and representation evidence evidence on what is already supported and where signwriting is already real infrastructure stewardship work on continuity host structure and what would make the work durable formal signwriting the mechanism layer where authored signed writing becomes sign text that software can preserve and process reviews critical review papers for literature standards unicode and recurring level confusion in signed language writing language without sound step 1 clear the conceptual ground around language modality and literacy the shape of writing step 2 explain why signed writing does not need to imitate the line in order to count as writing the four language pathways step 3 state the research facing model of language first literacy second and the four pathways brazil as the empirical center of signwriting step 4 show the strongest current empirical case that signwriting is already real in practice evidence boundaries and adoption limits step 5 keep adoption scale and literacy claims bounded by the current evidence the shape of a sign step 6 bridge from writing theory into the formal technical model"
+      "searchText": "reviews and critical commentary the review papers evaluate scholarship standards work and recurring conceptual issues in signed language writing these papers ask whether the literature and standards discussion describe signwriting accurately and at the right level readers can begin with an applied review paper and use the unified critique framework when they need the shared method section review signed language writing critical review series readable review papers organized around recurring claims and level distinctions clarification of level distinctions between language writing notation and encoding standards review for unicode and similar technical discussions a reusable framework that supports comparison across papers a stable landing page for the review side of the platform a direct path into the review papers and the shared framework behind them standards commentary presented beside literature review and conceptual analysis a bridge from critique toward clearer theory better design and stronger future scholarship signed language writing critical review series overview overview entry for the review series and how it relates to the rest of the platform a unified critique framework for signed language writing encoding and representation the shared method behind the series and the basis for comparison across the review papers signwriting and formal signwriting through the framework a self application of the method to the writing system and its technical model a layer based evaluation of signed language writing systems comparative paper showing how the framework operates across four representative cases official unicode signwriting the character problem and the written sign problem standards review of what the unicode outcome did solve what it did not and where later interpretation drifted grushkin 2017 review of a real literacy argument that is still distorted by alphabetic bias filhol 2020 review of a software and semantic layer critique that misplaces signwriting thiessen 2011 review of serious structural insight that still stops one abstraction layer too low martin 2000 review of an early signwriting positive comparison with real insight and historical overreach meletis and durscheid 2022 review of a major comparative writing theory that still appears typologically incomplete for signed language writing start with the overview entry purpose and scope for the review series before reading a specific paper read entry 2 the framework applied first to signwriting and formal signwriting themselves read entry 3 matrix backed comparison before the individual review essays read entry 4 unicode compatibility and the written sign problem use the framework as a deep dive return here when you want the fuller method shared vocabulary and standards review questions read entry 8 historically sympathetic martin comparison after the first seven entry sequence read entry 9 field level grapholinguistics review and the typology question pushed against signwriting return to publications move back from review and commentary into the publication overview"
     },
     {
       "id": "section:stewardship",
@@ -389,15 +335,15 @@
       "id": "section:publications",
       "kind": "section",
       "title": "Sutton SignWriting Publications",
-      "summary": "The Sutton SignWriting publication platform is a citable eight-series release on signed-language writing, evidence, literacy research, writing systems, Formal SignWriting, stewardship, and Unicode. Start here to read, cite, evaluate, or navigate the release as scholarly and technical publication work, with claims, evidence, series structure, reading order, and citation context in one place.",
+      "summary": "The Sutton SignWriting publication platform is the citable release structure for the current papers, briefs, technical notes, evidence summaries, and series records. Use this page when you need the release as publication material: what belongs to the eight-series package, how the series relate, where to start reading, and how citation and reuse context should be understood.",
       "route": "#section/publications",
       "group": "Site Sections",
       "keywords": [
         "Eight-Series Platform Release",
-        "A top-level platform record that orients readers to the complete release",
+        "A release-level orientation for reading, citing, evaluating, and reusing the complete package",
         "Eight coordinated series with distinct scholarly, technical, evidence, and stewardship roles",
         "Bounded authorship and evidence claims, including clear distinction from community-authored ethnography",
-        "Publication metadata, citation context, release snapshots, and reusable reading order",
+        "Publication metadata, citation context, release snapshots, licensing, and reusable reading order",
         "Gives new readers a neutral starting point for the complete Sutton SignWriting release",
         "Helps scholars and implementers choose the right series or artifact to cite",
         "Keeps citation, evidence, and reading order clear",
@@ -418,15 +364,21 @@
         "Stewardship, continuity, shared infrastructure, and program design.",
         "Unicode and SignWriting",
         "Unicode-facing technical notes, compatibility issues, and standards record.",
-        "Publication Overview",
-        "Return to the overview for the complete eight-series release.",
-        "Licensing and Reuse",
-        "License distinctions for publications, software, fonts, and related materials.",
-        "Stewardship Overview",
-        "Institutional stewardship and continuity-function questions."
+        "Language Without Sound",
+        "Step 1: clear the conceptual ground around language, modality, and literacy",
+        "The Shape of Writing",
+        "Step 2: explain why signed writing does not need to imitate the line in order to count as writing",
+        "The Four Language Pathways",
+        "Step 3: state the research-facing model of language first, literacy second, and the four pathways",
+        "Brazil as the Empirical Center of SignWriting",
+        "Step 4: show the strongest current empirical case that SignWriting is already real in practice",
+        "Evidence Boundaries and Adoption Limits",
+        "Step 5: keep adoption, scale, and literacy claims bounded by the current evidence",
+        "The Shape of a Sign",
+        "Step 6: bridge from writing theory into the formal technical model"
       ],
       "contentExcerpt": "",
-      "searchText": "sutton signwriting publications the sutton signwriting publication platform is a citable eight series release on signed language writing evidence literacy research writing systems formal signwriting stewardship and unicode start here to read cite evaluate or navigate the release as scholarly and technical publication work with claims evidence series structure reading order and citation context in one place section publications eight series platform release a top level platform record that orients readers to the complete release eight coordinated series with distinct scholarly technical evidence and stewardship roles bounded authorship and evidence claims including clear distinction from community authored ethnography publication metadata citation context release snapshots and reusable reading order gives new readers a neutral starting point for the complete sutton signwriting release helps scholars and implementers choose the right series or artifact to cite keeps citation evidence and reading order clear places the infrastructure series within the complete release alongside the conceptual evidence review literacy technical and unicode materials sutton signwriting foundations public entry point and conceptual foundation evidence and adoption evidence base adoption boundaries and country anchors critical review literature and standards review through the layer based framework writing and representation writing systems theory authored space and typological framing formal signwriting technical text model encoding search rendering styling and practice language and literacy research research agenda for signed language literacy reading and pathway questions infrastructure and program stewardship continuity shared infrastructure and program design unicode and signwriting unicode facing technical notes compatibility issues and standards record publication overview return to the overview for the complete eight series release licensing and reuse license distinctions for publications software fonts and related materials stewardship overview institutional stewardship and continuity function questions"
+      "searchText": "sutton signwriting publications the sutton signwriting publication platform is the citable release structure for the current papers briefs technical notes evidence summaries and series records use this page when you need the release as publication material what belongs to the eight series package how the series relate where to start reading and how citation and reuse context should be understood section publications eight series platform release a release level orientation for reading citing evaluating and reusing the complete package eight coordinated series with distinct scholarly technical evidence and stewardship roles bounded authorship and evidence claims including clear distinction from community authored ethnography publication metadata citation context release snapshots licensing and reusable reading order gives new readers a neutral starting point for the complete sutton signwriting release helps scholars and implementers choose the right series or artifact to cite keeps citation evidence and reading order clear places the infrastructure series within the complete release alongside the conceptual evidence review literacy technical and unicode materials sutton signwriting foundations public entry point and conceptual foundation evidence and adoption evidence base adoption boundaries and country anchors critical review literature and standards review through the layer based framework writing and representation writing systems theory authored space and typological framing formal signwriting technical text model encoding search rendering styling and practice language and literacy research research agenda for signed language literacy reading and pathway questions infrastructure and program stewardship continuity shared infrastructure and program design unicode and signwriting unicode facing technical notes compatibility issues and standards record language without sound step 1 clear the conceptual ground around language modality and literacy the shape of writing step 2 explain why signed writing does not need to imitate the line in order to count as writing the four language pathways step 3 state the research facing model of language first literacy second and the four pathways brazil as the empirical center of signwriting step 4 show the strongest current empirical case that signwriting is already real in practice evidence boundaries and adoption limits step 5 keep adoption scale and literacy claims bounded by the current evidence the shape of a sign step 6 bridge from writing theory into the formal technical model"
     },
     {
       "id": "section:unicode",

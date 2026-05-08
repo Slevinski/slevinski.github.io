@@ -6,13 +6,14 @@
 - Series slug: `unicode-and-signwriting`
 - Repository slug: `unicode-and-signwriting`
 - GitHub repository: `https://github.com/sutton-signwriting/unicode-and-signwriting`
-- Zenodo series record: pending
+- Zenodo series record: reserved draft
+- Series DOI: `10.5281/zenodo.20075119`
 - Version: `v1.0.0`
 - License: `CC BY 4.0`
 - Creator: `Steve Slevinski`
 - Publication year: `2026`
 - Resource type: `Publication`
-- Release status: preparing
+- Release status: reserved draft
 - Living site: `https://steveslevinski.me/#series/unicode-and-signwriting`
 
 ## Series Description
@@ -41,7 +42,7 @@ Technical briefings and documentary notes on Unicode, Sutton SignWriting, compat
 ## Citation
 
 ```text
-Slevinski, S. (2026). Unicode and SignWriting (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Unicode and SignWriting (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20075119
 ```
 
 ## Artifact Register

@@ -11,7 +11,7 @@ This repository contains the writing-systems series of the Sutton SignWriting pl
 - Version: `v1.0.0`
 - Publication year: `2026`
 - License: `CC BY 4.0`
-- Series DOI: pending
+- Series DOI: `https://doi.org/10.5281/zenodo.20070484`
 
 ## Who This Repository Is For
 
@@ -48,7 +48,7 @@ Begin with:
 ## Citation
 
 ```text
-Slevinski, S. (2026). Writing and Representation in Sutton SignWriting (v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Writing and Representation in Sutton SignWriting (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20070484
 ```
 
 Use the series DOI when citing the writing-systems series as a whole. Use an artifact DOI when citing a specific paper that has its own record.
