@@ -37,7 +37,7 @@ The strongest current anchors are different in kind.
 
 Brazil is the strongest documented empirical center because it has visible depth across education, research, publication, and institutional activity.
 
-South Korea is a current institutional proof point because SignWriting appears inside public dictionary infrastructure connected to a national-language institution.
+South Korea is a current institutional case study because SignWriting appears inside public dictionary infrastructure connected to a national-language institution.
 
 Those two cases should be read together, but not collapsed into one story.
 
@@ -77,7 +77,7 @@ It demonstrates documented institutional breadth at that time.
 
 It does not verify, by itself, which programs remain active at the same scale today.
 
-## South Korea: current proof point, narrow claim
+## South Korea: current evidence point, narrow claim
 
 South Korea functions differently.
 
@@ -154,7 +154,7 @@ When citing the evidence boundary, cite:
 
 - *What the Current Evidence Base Shows*
 - *Brazil as the Empirical Center of SignWriting*
-- *South Korea as a Current Institutional Proof Point*
+- *South Korea as a Current Institutional Case Study*
 - *Evidence Boundaries and Adoption Limits*
 
 ## Open evidence questions

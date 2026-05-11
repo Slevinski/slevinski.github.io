@@ -228,7 +228,6 @@ Support includes:
 - sign-language processing work
 - machine translation using Formal SignWriting representations
 - evaluation work designed for SignWriting strings
-- current standardization work through the IETF Formal SignWriting Internet-Drafts
 
 This is one of the strongest parts of the case for SignWriting as infrastructure rather than only pedagogy.
 
@@ -253,7 +252,7 @@ That is enough to justify describing it as infrastructure in practice, not only 
 
 ### 1. Educational outcomes
 
-**Strength: Moderate to Strong**
+**Strength: Moderate for feasibility and use; limited for large-scale outcome claims**
 
 The literature supports:
 
@@ -775,7 +774,6 @@ These questions are especially useful for future-facing framing:
 - Parton, B. S. (2006). [Sign language recognition and translation: A multidisciplined approach from the field of artificial intelligence](https://doi.org/10.1093/deafed/enj003) *Journal of Deaf Studies and Deaf Education, 11*(1), 94-101.
 - Sevilla, A. F. G. (2020). [Tools for the use of SignWriting as a language resource](https://aclanthology.org/2020.signlang-1.33/). In *Proceedings of the LREC 2020 9th Workshop on the Representation and Processing of Sign Languages*.
 - Sevilla, A. F. G., Diaz Esteban, A., & Lahoz-Bengoechea, J. M. (2023). [Building the VisSE corpus of Spanish SignWriting](https://doi.org/10.1007/s10579-023-09694-9) *Language Resources and Evaluation*.
-- Slevinski, S. E. (2025). [*Formal SignWriting*](https://datatracker.ietf.org/doc/html/draft-slevinski-formal-signwriting) (Internet-Draft draft-slevinski-formal-signwriting-10). IETF. [Archive DOI](https://doi.org/10.5281/zenodo.17553763).
 
 ### Educational and thesis-level SignWriting work
 
@@ -824,4 +822,4 @@ This reference set is strong enough to support:
 - scientific argument for **Language Without Sound**
 - grant-aligned discussion of SignWriting as shared research infrastructure
 
-For formal publication or submission, a second verification pass would still be worthwhile, especially for dissertations and archive-cited technical works whose metadata may need local confirmation.
+This reference set is selective rather than exhaustive. It identifies sources used to support the model and research program; it is not a systematic review or complete outcome-evidence synthesis.

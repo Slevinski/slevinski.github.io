@@ -30,7 +30,7 @@ The core framing can stay simple:
 
 Start by confirming the reason for the conversation:
 
-- current SignWriting use on Wikimedia-facing infrastructure
+- documented SignWriting use on Wikimedia-facing infrastructure
 - why existing projects still rely on FSW and SWU
 - what the platform side actually needs to understand
 
@@ -57,11 +57,13 @@ The production baseline is:
 
 This is not only a future-facing standards question.
 
-There is already a visible Wikimedia footprint:
+Public Wikimedia records have documented a Wikimedia footprint:
 
-- Wikidata property `P14164` ("SignWriting transcription") formats through `https://steveslevinski.me/#page/formal-signwriting-analyzer/fsw/$1`
+- Wikidata property `P14164` ("SignWriting transcription") has been associated with a formatter URL for `https://steveslevinski.me/#page/formal-signwriting-analyzer/fsw/$1`
 - Wikimedia Incubator has supported sign-language test wikis with a SignWriting gadget and related custom scripts
 - older Wikimedia Cloud VPS / Labs services such as `swserver.wmflabs.org` and `swis.wmflabs.org` show that SignWriting support has already required custom bridge services
+
+The current state of individual properties, gadgets, services, and Cloud VPS resources should be verified before operational planning.
 
 That history matters because it shows both real demand and real drift.
 
@@ -81,7 +83,7 @@ Useful next steps may include:
 
 - confirming the current production stack and where the technical gaps remain
 - reviewing bridge tooling and datasets
-- deciding whether a Unicode-level discussion is worth reopening
+- deciding whether a future Unicode-level discussion would be worth reopening
 - documenting the present limitations accurately in any public-facing support material
 
 ## Documents to send or keep ready
@@ -89,7 +91,7 @@ Useful next steps may include:
 - [Wikimedia Brief](/#series/unicode-and-signwriting/wikimedia-brief/primary)
 - [Developer Notes](/#series/unicode-and-signwriting/developer-notes/primary)
 - [Unicode Overview](/#series/unicode-and-signwriting/unicode-overview/primary)
-- [UTC Technical Note](/#series/unicode-and-signwriting/utc-technical-note/primary), if the discussion becomes concrete
+- [Draft UTC-Facing Technical Note](/#series/unicode-and-signwriting/utc-technical-note/primary), if the discussion becomes concrete
 - [Chronology and Record](/#series/unicode-and-signwriting/chronology-and-record/primary), if history becomes relevant
 
 ## Useful outcome for an initial discussion

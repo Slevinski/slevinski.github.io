@@ -2,7 +2,7 @@
 
 *Compatibility, chronology, developer guidance, and standards-facing technical notes*
 
-This repository contains the Unicode and SignWriting technical companion series. It keeps the public record, current compatibility judgment, implementation guidance, Wikimedia context, and possible standards next steps in one bounded place.
+This repository contains the Unicode and SignWriting technical companion series. It keeps the v1.0.0 public record, compatibility judgment, implementation guidance, Wikimedia context, and possible standards next steps in one bounded place.
 
 ## Repository Details
 
@@ -30,7 +30,7 @@ Begin with:
 3. [Developer Notes](entries/developer-notes/essay.md)
 4. [Chronology and Record](entries/chronology-and-record/essay.md)
 5. [Wikimedia Brief](entries/wikimedia-brief/essay.md)
-6. [UTC Technical Note](entries/utc-technical-note/essay.md)
+6. [Draft UTC-Facing Technical Note](entries/utc-technical-note/essay.md)
 7. [Official Unicode SignWriting: The Character Problem and the Written-Sign Problem](https://steveslevinski.me/#series/signed-language-writing-critical-review/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/primary)
 
 ## Contents
@@ -40,7 +40,7 @@ Begin with:
 - [Developer Notes](entries/developer-notes/essay.md) - practical implementation guidance for FSW, SWU, official Unicode SignWriting, and bridge tooling
 - [Wikimedia Brief](entries/wikimedia-brief/essay.md) - public-platform context and why FSW/SWU remain relevant for Wikimedia-facing work
 - [Chronology and Record](entries/chronology-and-record/essay.md) - public proposal, minute, and technical-response trail
-- [UTC Technical Note](entries/utc-technical-note/essay.md) - standards-facing technical position on compatibility, symbol identity, spatial composition, sorting, and migration
+- [Draft UTC-Facing Technical Note](entries/utc-technical-note/essay.md) - standards-facing author-stewardship technical position on compatibility, symbol identity, spatial composition, sorting, and migration
 - [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
 ## Citation

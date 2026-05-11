@@ -28,8 +28,20 @@ A style string can be treated as a compact sequence of renderer directives attac
 The working shape is:
 
 ```text
-target "-" directives ("--" class-name)? ("!" id-value "!")?
+target "-" whole-sign-style "-" symbol-level-color "-" class-and-id
 ```
+
+The three style sections are hyphen-delimited:
+
+| Section | Contents |
+| --- | --- |
+| `whole-sign-style` | whole-sign color, padding, background, detail color, and scale directives |
+| `symbol-level-color` | zero or more per-symbol color directives such as `D01_blue_` |
+| `class-and-id` | an optional class-name list and optional `!id!` hook |
+
+The middle and final sections may be empty. When the symbol-level color section is empty and a class hook is present, the two section boundaries appear together as `--`, as in `Z1.1--primary`. That `--` sequence is not a separate directive; it is the empty middle section between the whole-sign style and class-and-id sections.
+
+Serialized style strings are compact. Spaces are not token separators in the whole-sign or symbol-level sections. Spaces are allowed only inside the class-name list, where they separate multiple CSS classes, as in `primary blinking`.
 
 For the example:
 
@@ -45,10 +57,11 @@ the parts are:
 | `-` | start of style directives |
 | `C` | colorize |
 | `P10` | padding value |
-| `G_blue_` | glyph or line color |
-| `D_red,Cyan_` | two-color directive |
+| `G_blue_` | background color |
+| `D_red,Cyan_` | detail colors: line red and fill Cyan |
 | `Z1.1` | scale |
-| `--primary` | CSS class hook |
+| empty middle section | no symbol-level color overrides |
+| `primary` | CSS class hook |
 | `!cursor!` | id hook |
 
 Parsers should treat unknown directives conservatively: preserve the canonical sign text, ignore or report unsupported styling, and avoid treating a style parse failure as a failure of the sign text itself.

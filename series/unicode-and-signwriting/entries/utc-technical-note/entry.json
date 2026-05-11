@@ -1,19 +1,17 @@
 {
   "slug": "utc-technical-note",
   "number": 5,
-  "title": "UTC Technical Note",
+  "title": "Draft UTC-Facing Technical Note",
   "subtitle": "Technical note on compatibility, symbol identity, spatial composition, and next steps",
   "summary": "Official Unicode SignWriting can name much of the character set, but it does not preserve stable symbol identity or provide compatible written-sign support.",
-  "cover_image": "/series/unicode-and-signwriting/entries/utc-technical-note/cover.png",
-  "cover_image_alt": "A minimal three-panel comparison separates unnamed character grid cells, stable symbol identity tiles, and a spatial written-sign signbox with compatibility boundaries and next-step arrows.",
-  "synopsis": "The current technical position separates character naming from stable symbol identity and written-sign encoding. The facial-diacritic model shifts part of symbol formation into font behavior, spatial composition and collation remain unresolved, and renewed technical review should replace automatic migration pressure.",
+  "synopsis": "The current technical position separates character naming from stable symbol identity and written-sign encoding. The facial-diacritic model shifts part of symbol formation into font behavior, spatial composition and collation remain unresolved, and any renewed Unicode-level discussion should begin from compatibility review rather than automatic migration pressure.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
     "artifact_type": "technical-briefing",
-    "public_label": "Technical Note",
+    "public_label": "Draft UTC-Facing Technical Note",
     "public_slug": "primary",
-    "publication_designation": "Technical Note"
+    "publication_designation": "Draft UTC-Facing Technical Note"
   },
   "companion_documents": [
     {

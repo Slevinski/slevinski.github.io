@@ -6,8 +6,6 @@
   "summary": "Language is not reducible to sound, literacy is a durable symbolic layer, and SignWriting offers a native-facing written pathway for signed languages.",
   "abstract": "Human language is not reducible to sound, and literacy is best understood as a durable symbolic layer built on accessible language. Spoken language, signed language, tactile language access, print, and Braille show that language and literacy can travel through different embodied pathways. That distinction matters for signed languages because they are fully linguistic while often lacking widely adopted, native-facing written pathways of their own. Sutton SignWriting addresses this structural gap by offering a durable written pathway for signed languages and by supporting the technical and human infrastructure needed for corpora, teaching, research, search, annotation, and long-term stewardship.",
   "synopsis": "Language is not tied to sound. Spoken, signed, tactile, and written pathways together show that human language is not reducible to one privileged sensory channel. Sutton SignWriting offers a durable written pathway for signed language and opens the door to literacy, research, and shared infrastructure, while leaving large-scale outcome claims as open research questions.",
-  "cover_image": "/series/foundations/entries/language-without-sound/cover.jpg",
-  "cover_image_alt": "An open book of signed-writing symbols unfolding into visual, tactile, written, and neural language pathways.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

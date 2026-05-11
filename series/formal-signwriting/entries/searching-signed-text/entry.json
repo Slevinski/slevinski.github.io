@@ -4,8 +4,6 @@
   "title": "Searching Signed Text",
   "subtitle": "Query language, matching, ranges, variance, and search logic",
   "summary": "Query language, matching, ranges, variance, and signed-text search define the searchable layer of Formal SignWriting.",
-  "cover_image": "/series/formal-signwriting/entries/searching-signed-text/cover.png",
-  "cover_image_alt": "A geometric search lens highlights matching features across a field of abstract signbox tiles with range arcs and branching match paths.",
   "synopsis": "Formal SignWriting supports serious search because its query language, matching logic, ranges, and variance rules belong to a coherent technical model. Signed text becomes searchable when search is kept distinct from grammar and rendering.",
   "essay": "essay.md",
   "primary_artifact": {

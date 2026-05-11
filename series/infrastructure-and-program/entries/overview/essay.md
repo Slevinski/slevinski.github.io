@@ -1,10 +1,12 @@
 # Sutton SignWriting Infrastructure and Program
 
-*A stewardship and program series*
+*A stewardship and program-design series*
 
 Sutton SignWriting is not only a writing system, a technical model, or a set of publications. It is also a maintained infrastructure: domains, code, fonts, data, documentation, standards work, partner relationships, and public resources that need accountable continuity.
 
 This series describes the stewardship functions that would make that infrastructure easier to preserve, extend, fund, and hand forward responsibly.
+
+Status note: this series describes stewardship requirements and program-design options. It does not announce a formal host institution, funding line, fiscal sponsor, lab placement, or institutional program unless such a structure is named in a later public update.
 
 It is for:
 
@@ -48,8 +50,9 @@ The clearest path through the series is:
 5. *International Shared Support*
 6. *Country Ambassadors*
 7. *Relevant Precedents for SignWriting Infrastructure*
+8. *SignWriting, AI, and Layered Stewardship*
 
-Readers who need the shortest forwardable case should begin with *Executive Brief*. Readers evaluating a possible host, sponsor, or consortium role should continue with *Infrastructure and Stewardship* and *Host Structure and Stewardship Requirements*. Readers focused on partner participation or local coordination should move from *International Shared Support* to *Country Ambassadors*.
+Readers who need the shortest forwardable case should begin with *Executive Brief*. Readers evaluating a possible host, sponsor, or consortium role should continue with *Infrastructure and Stewardship* and *Host Structure and Stewardship Requirements*. Readers focused on partner participation or local coordination should move from *International Shared Support* to *Country Ambassadors*. Readers working on sign-language AI, datasets, signer media, corpus governance, or ethical deployment should read *SignWriting, AI, and Layered Stewardship*.
 
 ## Entry Roles
 
@@ -88,9 +91,14 @@ Readers who need the shortest forwardable case should begin with *Executive Brie
 - compares the SignWriting stewardship problem with language archives, research data archives, sign-language resources, standards communities, and small research institutes
 - gives institutional readers familiar models for understanding the work
 
+**SignWriting, AI, and Layered Stewardship**
+
+- separates reusable written signs from authored passages, lexical records, corpora, media, datasets, encodings, and deployments
+- gives AI and data-governance readers a layer map for rights, consent, stewardship, and Deaf/community review
+
 ## Relationship To Other Series
 
-- *Sutton SignWriting Evidence and Adoption* documents the strongest current evidence base and institutional proof points.
+- *Sutton SignWriting Evidence and Adoption* documents the strongest current evidence base and institutional anchors.
 - *Sutton SignWriting Language and Literacy Research* develops the research questions that become more practical when infrastructure is stable.
 - *Formal SignWriting* defines the technical model that the infrastructure must preserve and maintain.
 - *Unicode and SignWriting* documents standards-facing compatibility questions.

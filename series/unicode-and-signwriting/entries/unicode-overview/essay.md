@@ -12,7 +12,7 @@ It is because the official model does not preserve stable symbol identity cleanl
 
 The Sutton SignWriting Resources currently hold that:
 
-- the official Unicode 8 SignWriting encoding is not fully compatible with the established Sutton SignWriting production ecosystem
+- the official Unicode SignWriting encoding, introduced in Unicode 8.0.0 and maintained in later Unicode versions, is not currently a compatible production replacement for the established FSW/SWU Sutton SignWriting production ecosystem
 - the official model does not preserve stable symbol identity cleanly across the full ISWA layer
 - the main unresolved issue is spatial composition
 - sorting and collation are also not adequate
@@ -159,7 +159,7 @@ The Sutton SignWriting ecosystem already includes:
 - real fonts
 - real dictionaries
 - real published materials
-- real corpora with more than one million written signs across dozens of sign languages
+- substantial corpora and dictionaries documented elsewhere in the v1.0.0 release
 
 Those assets are the standard by which any Unicode path should be judged.
 

@@ -7,7 +7,19 @@ This repository contains the public conceptual entry point for the Sutton SignWr
 - language is not reducible to sound
 - writing is not inherently linear
 
-Together, those claims make room for signed-language literacy on its own terms. Signed languages are full human languages, and SignWriting offers a durable written pathway that can be read, written, revised, searched, cited, taught, studied, and built into tools.
+Together, those claims make room for signed-language literacy on its own terms. Signed languages are full human languages, and SignWriting offers a durable written pathway that can be read, written, revised, cited, taught, studied, and, through compatible technical infrastructure, searched and built into tools.
+
+## Scope
+
+This series is the public conceptual entry point. It names the core argument and gives readers enough structure to understand why the rest of the platform exists.
+
+The specialist work is developed in the companion series:
+
+- evidence, adoption, and evidence boundaries are documented in *Sutton SignWriting Evidence and Adoption*
+- language development, literacy pathways, and research questions are developed in *Sutton SignWriting Language and Literacy Research*
+- plane-based writing, authored space, and writing-system theory are developed in *Writing and Representation in Sutton SignWriting*
+- encoding, search, validation, layout, rendering, and software processing are documented in *Formal SignWriting* and *Unicode and SignWriting*
+- stewardship, institutional continuity, and program design are developed in *Sutton SignWriting Infrastructure and Program*
 
 ## Repository Details
 

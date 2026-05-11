@@ -1,6 +1,6 @@
 # Sutton SignWriting Language and Literacy Research
 
-*Research-facing papers on language pathways, literacy pathways, reading signed text, and study design*
+*Research-facing papers on developmental language pathways, literacy pathways, reading signed text, and study design*
 
 This repository contains the research-facing series of the Sutton SignWriting platform. It carries the developmental, literacy, and reading questions that require a more explicit research posture than the public foundations essays.
 
@@ -39,6 +39,8 @@ Begin with:
 - [The Four Language Pathways](entries/the-four-language-pathways/essay.md) - model paper on language pathways, literacy pathways, and developmental layering
 - [Reading Signed Text](entries/reading-signed-text/essay.md) - research-facing paper on recognition, syntax, spatial reference, and signed-language reading
 - [Research Program for Literacy Without Sound](entries/research-program-for-literacy-without-sound/essay.md) - practical program for study design, materials, corpora, reusable research infrastructure, and evidence/model notes
+  - [Program Notes](entries/research-program-for-literacy-without-sound/program-notes.md) - support notes for program design and sequencing
+  - [Evidence and Model Notes](entries/research-program-for-literacy-without-sound/evidence-and-model-notes.md) - support notes for evidence boundaries, model claims, and reference anchors
 - [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
 ## Citation

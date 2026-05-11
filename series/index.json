@@ -68,8 +68,8 @@
     {
       "slug": "evidence-and-adoption",
       "title": "Sutton SignWriting Evidence and Adoption",
-      "subtitle": "Documented use, institutional proof points, lineages, and empirical anchors for SignWriting in practice",
-      "description": "A series for the empirical series of the Sutton SignWriting platform: documented communities, institutions, proof points, adoption evidence, and evidence boundaries that show where SignWriting is real in practice without overstating outcome claims.",
+      "subtitle": "Documented use, institutional anchors, lineages, and empirical anchors for SignWriting in practice",
+      "description": "A series for the empirical series of the Sutton SignWriting platform: documented communities, institutions, evidence anchors, adoption evidence, and evidence boundaries that show where SignWriting is real in practice without overstating outcome claims.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -84,8 +84,8 @@
           "slug": "overview",
           "number": 0,
           "title": "Sutton SignWriting Evidence and Adoption Overview",
-          "subtitle": "Documented use, institutional proof points, and evidence boundaries",
-          "summary": "Documented use, institutional proof points, and evidence boundaries show where SignWriting is already visible and where empirical claims must remain bounded.",
+          "subtitle": "Documented use, institutional anchors, and evidence boundaries",
+          "summary": "Documented use, institutional anchors, and evidence boundaries show where SignWriting is already visible and where empirical claims must remain bounded.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -129,9 +129,9 @@
           "companion_documents": []
         },
         {
-          "slug": "south-korea-as-a-current-institutional-proof-point",
+          "slug": "south-korea-as-a-current-institutional-case-study",
           "number": 2,
-          "title": "South Korea as a Current Institutional Proof Point",
+          "title": "South Korea as a Current Institutional Case Study",
           "subtitle": "National dictionary publication, current institutional use, and why Korea matters",
           "summary": "South Korea shows SignWriting functioning inside current public dictionary infrastructure connected to a national-language institution.",
           "essay": "essay.md",
@@ -157,7 +157,7 @@
           "number": 3,
           "title": "Evidence Boundaries and Adoption Limits",
           "subtitle": "What current evidence supports, what remains open, and what resistance still needs documentation",
-          "summary": "Current SignWriting evidence supports documented use and institutional proof points, while outcome claims, adoption density, resistance, and negative cases remain bounded research questions.",
+          "summary": "Current SignWriting evidence supports documented use and institutional anchors, while outcome claims, adoption density, resistance, and negative cases remain bounded research questions.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -205,8 +205,8 @@
     {
       "slug": "formal-signwriting",
       "title": "Formal SignWriting",
-      "subtitle": "Plain-text encodings, grammar, search, layout, rendering, styling, and implementation of written sign text",
-      "description": "A technical publication series on the Formal SignWriting model for sign text that can be stored, searched, checked, laid out, rendered, and processed by software, with a clear distinction between canonical text, layout, and presentation markup.",
+      "subtitle": "Plain-text encodings, grammar, search, layout, rendering, styling, authority, and implementation of written sign text",
+      "description": "A technical publication series on the Formal SignWriting model for sign text that can be stored, searched, checked, laid out, rendered, and processed by software, with a clear distinction between canonical text, layout, presentation markup, computational validity, and linguistic judgment.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -534,6 +534,30 @@
               "publication_designation": "Technical Notes"
             }
           ]
+        },
+        {
+          "slug": "encoding-authority-and-stability",
+          "number": 10,
+          "title": "Encoding Authority and Stability",
+          "subtitle": "Computational validity, linguistic judgment, practical finality, and forkability",
+          "summary": "A governance note explaining that FSW/SWU are stable author-stewarded encodings for computational validity, not claims of linguistic or community authority.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "governance-note",
+            "public_label": "Governance Note",
+            "public_slug": "primary",
+            "publication_designation": "Governance Note"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "governance-note",
+            "public_label": "Governance Note",
+            "public_slug": "primary",
+            "publication_designation": "Governance Note"
+          },
+          "slide_count": 5,
+          "companion_documents": []
         }
       ]
     },
@@ -629,8 +653,8 @@
     {
       "slug": "infrastructure-and-program",
       "title": "Sutton SignWriting Infrastructure and Program",
-      "subtitle": "Continuity, stewardship structure, and the practical program behind the Sutton SignWriting platform",
-      "description": "A series for the stewardship and program series of the Sutton SignWriting platform: stewardship models, continuity requirements, infrastructure reality, international participation, country-level coordination, and the institutional structures that make the work cumulative.",
+      "subtitle": "Continuity, stewardship structure, AI/data governance, and the practical program behind the Sutton SignWriting platform",
+      "description": "A stewardship and program-design series for the Sutton SignWriting platform: stewardship models, continuity requirements, infrastructure reality, international participation, country-level coordination, AI/data governance boundaries, and the institutional structures that make the work cumulative.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -832,6 +856,30 @@
           },
           "slide_count": 4,
           "companion_documents": []
+        },
+        {
+          "slug": "signwriting-ai-and-layered-stewardship",
+          "number": 8,
+          "title": "SignWriting, AI, and Layered Stewardship",
+          "subtitle": "Written signs, records, media, datasets, encodings, and deployment",
+          "summary": "A position note for sign-language AI governance that separates reusable written signs from authored passages, curated records, media, datasets, encodings, and AI deployment.",
+          "essay": "essay.md",
+          "primary_artifact": {
+            "file": "essay.md",
+            "artifact_type": "position-note",
+            "public_label": "Position Note",
+            "public_slug": "primary",
+            "publication_designation": "Position Note"
+          },
+          "primaryArtifact": {
+            "file": "essay.md",
+            "artifact_type": "position-note",
+            "public_label": "Position Note",
+            "public_slug": "primary",
+            "publication_designation": "Position Note"
+          },
+          "slide_count": 5,
+          "companion_documents": []
         }
       ]
     },
@@ -1031,8 +1079,8 @@
     {
       "slug": "signed-language-writing-critical-review",
       "title": "Signed Language Writing Critical Review Series",
-      "subtitle": "Structure, encoding, and evaluation in signed language writing",
-      "description": "A structured review series for the Sutton SignWriting platform: readable standalone review papers on academic work, theses, standards, and proposals, supported by a deeper shared critique framework.",
+      "subtitle": "Writing systems, text infrastructure, and critical evaluation",
+      "description": "A structured review series for the Sutton SignWriting platform: readable standalone review papers on academic work, theses, standards, proposals, tools, datasets, and infrastructure claims, supported by a full-path critique framework.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -1048,7 +1096,7 @@
           "number": 0,
           "title": "Signed Language Writing Critical Review Series Overview",
           "subtitle": "Scope, method, structure, reading paths, and future direction for the review series",
-          "summary": "Layer-based review of signed-language writing, notation, encoding, standards, and representation proposals.",
+          "summary": "Full-path review of signed-language writing, notation, encoding, standards, tools, datasets, and infrastructure claims.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1078,9 +1126,9 @@
         {
           "slug": "a-unified-critique-framework-for-signed-language-writing-systems",
           "number": 1,
-          "title": "A Unified Critique Framework for Signed Language Writing, Encoding, and Representation",
-          "subtitle": "A methodological guide for evaluating literature, proposals, and standards",
-          "summary": "A reusable evaluation framework for signed language writing systems, encodings, standards, and representation proposals.",
+          "title": "Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure",
+          "subtitle": "A methodological guide for evaluating writing systems, notation systems, encodings, standards, tools, datasets, research proposals, and infrastructure claims",
+          "summary": "A reusable evaluation framework for signed-language writing systems, text infrastructure, encodings, standards, tools, datasets, and adjacent-purpose systems.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1097,14 +1145,29 @@
             "publication_designation": "Working Framework"
           },
           "slide_count": 5,
-          "companion_documents": []
+          "companion_documents": [
+            {
+              "file": "review-procedure.md",
+              "label": "Review Procedure",
+              "slug": "review-procedure",
+              "artifact_type": "review-manual",
+              "publication_designation": "Companion Manual"
+            },
+            {
+              "file": "worksheet.md",
+              "label": "Reviewer Worksheet",
+              "slug": "worksheet",
+              "artifact_type": "review-worksheet",
+              "publication_designation": "Companion Worksheet"
+            }
+          ]
         },
         {
           "slug": "sutton-signwriting-and-formal-signwriting-through-the-framework",
           "number": 2,
           "title": "Sutton SignWriting and Formal SignWriting Through the Framework",
           "subtitle": "A self-application of the review method to the writing system and its technical model",
-          "summary": "A framework-based analysis distinguishing SignWriting as the writing system from Formal SignWriting as its technical text model.",
+          "summary": "A self-application distinguishing Sutton SignWriting as a human writing system from Formal SignWriting as its technical text model.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1128,7 +1191,7 @@
           "number": 3,
           "title": "A Layer-Based Evaluation of Signed Language Writing Systems",
           "subtitle": "A comparative demonstration across Filhol, Grushkin, Thiessen, and Unicode SignWriting",
-          "summary": "A bounded four-case comparison showing how layer discipline clarifies signed language writing, encoding, and standards claims.",
+          "summary": "A bounded four-case comparison showing how layer-level and full-path judgments clarify signed language writing, encoding, and standards claims.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1160,7 +1223,7 @@
           "number": 4,
           "title": "Official Unicode SignWriting: The Character Problem and the Written-Sign Problem",
           "subtitle": "A standards review of partial standardization, unresolved text structure, and later over-reading",
-          "summary": "The official Unicode SignWriting design solved part of the character-inventory problem but left the written-sign problem unresolved for current Sutton SignWriting production use.",
+          "summary": "Official Unicode SignWriting is useful as character standardization but incomplete as a compatible written-sign production path.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1184,7 +1247,7 @@
           "number": 5,
           "title": "Grushkin (2017): Writing Signed Languages: What For? What Form?",
           "subtitle": "A review of the need for signed writing and the alphabetic-bias problem",
-          "summary": "Grushkin makes the necessity-of-writing argument clearly but carries it toward an alphabetic prescription.",
+          "summary": "Grushkin is correct and useful on the need for signed writing, but not full-path adequate as an alphabetic prescription.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1208,7 +1271,7 @@
           "number": 6,
           "title": "Filhol (2020): A Human-Editable Sign Language Representation . . . and a Writing System?",
           "subtitle": "A review of semantic-layer insight, SignWriting misclassification, and overstated novelty claims",
-          "summary": "Filhol identifies real semantic-layer needs but misclassifies SignWriting and overstates the novelty of the proposed alternative.",
+          "summary": "Filhol is useful as semantic and software representation, but misleading when overextended into a writing-system replacement claim.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1232,7 +1295,7 @@
           "number": 7,
           "title": "Thiessen (2011): A Grammar of SignWriting",
           "subtitle": "A review of real structural insight placed one level too low",
-          "summary": "Thiessen recognizes rule-governed SignWriting structure but places the main abstraction one level too low.",
+          "summary": "Thiessen is correct and useful as script-internal description, but structurally incomplete where symbols remain too central.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1256,7 +1319,7 @@
           "number": 8,
           "title": "Martin (2000): From Notation to Writing",
           "subtitle": "A review of an early SignWriting-positive comparison with real insight and overstated claims",
-          "summary": "Martin sees SignWriting as a real public writing possibility while mixing useful insight with dated and overstated claims.",
+          "summary": "Martin is correct and useful as an early SignWriting-positive comparison, but evidence-limited as a full-path claim.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1278,9 +1341,9 @@
         {
           "slug": "meletis-and-durscheid-2022-writing-systems-and-their-use",
           "number": 9,
-          "title": "Meletis and Durscheid (2022): Writing Systems and Their Use",
+          "title": "Meletis and Dürscheid (2022): Writing Systems and Their Use",
           "subtitle": "A review of a major comparative writing theory and its typological limit with signed language writing",
-          "summary": "Meletis and Durscheid advance comparative writing theory while exposing typological limits around signed-language writing.",
+          "summary": "Meletis and Dürscheid are strong at general grapholinguistics but typologically incomplete for signed-language writing.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1312,7 +1375,7 @@
           "number": 10,
           "title": "From Critique to Construction: Priorities for Signed Language Writing Infrastructure",
           "subtitle": "A constructive synthesis for research, tooling, standards, and adoption",
-          "summary": "A forward-looking synthesis paper that turns the review series from diagnosis toward infrastructure priorities for signed language writing.",
+          "summary": "A forward-looking synthesis that turns critique toward evidence, tools, corpora, interoperability, data governance, and stewardship.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1510,23 +1573,23 @@
         {
           "slug": "utc-technical-note",
           "number": 5,
-          "title": "UTC Technical Note",
+          "title": "Draft UTC-Facing Technical Note",
           "subtitle": "Technical note on compatibility, symbol identity, spatial composition, and next steps",
           "summary": "Official Unicode SignWriting can name much of the character set, but it does not preserve stable symbol identity or provide compatible written-sign support.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
             "artifact_type": "technical-briefing",
-            "public_label": "Technical Note",
+            "public_label": "Draft UTC-Facing Technical Note",
             "public_slug": "primary",
-            "publication_designation": "Technical Note"
+            "publication_designation": "Draft UTC-Facing Technical Note"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "technical-briefing",
-            "public_label": "Technical Note",
+            "public_label": "Draft UTC-Facing Technical Note",
             "public_slug": "primary",
-            "publication_designation": "Technical Note"
+            "publication_designation": "Draft UTC-Facing Technical Note"
           },
           "slide_count": 7,
           "companion_documents": [

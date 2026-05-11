@@ -12,17 +12,23 @@
 - License: `CC BY 4.0`
 - Creator: `Steve Slevinski`
 - Publication year: `2026`
+- Publication date: `2026-__-__`
+- Publisher: `Zenodo`
 - Resource type: `Publication`
+- Publication type: `Report`
+- Access: `Open`
+- Language: `English`
 - Release status: reserved draft
 - Living site: `https://steveslevinski.me/#series/formal-signwriting`
+- Related identifiers: `isPartOf` `10.5281/zenodo.20041043`; `isDescribedBy` `https://steveslevinski.me/#series/formal-signwriting`
 
 ## Series Description
 
-`Formal SignWriting` is the technical publication series for sign text that can be stored, searched, checked, laid out, rendered, styled, and processed by software without losing the written form.
+`Formal SignWriting` is the technical publication series for modeling sign text so that it can be stored, searched, checked, laid out, rendered, styled, and processed by software without losing the written form. It also defines the boundary between computational validity and linguistic judgment.
 
 ## Repository Description
 
-Technical papers and source documents for Formal SignWriting: FSW, SWU, signboxes, grammar, search, layout, rendering, styling, and implementation.
+Technical papers and source documents for Formal SignWriting: FSW, SWU, signboxes, grammar, search, layout, rendering, styling, implementation, encoding authority, and stability.
 
 ## Keywords
 
@@ -55,6 +61,7 @@ Slevinski, S. (2026). Formal SignWriting (v1.0.0). Zenodo. https://doi.org/10.52
 | `Rendering Formal SignWriting` | `entries/rendering-formal-signwriting/essay.md` | artifact-doi-possible | pending decision | `technical-notes.md` | Technical-paper DOI candidate. |
 | `Styling Signs` | `entries/styling-signs/essay.md` | artifact-doi-possible | pending decision | `technical-notes.md` | Technical-paper DOI candidate. |
 | `Formal SignWriting in Practice` | `entries/formal-signwriting-in-practice/essay.md` | artifact-doi-possible | pending decision | `technical-notes.md`, `encoding-history.md` | Technical-paper DOI candidate. |
+| `Encoding Authority and Stability` | `entries/encoding-authority-and-stability/essay.md` | series-only | none | none | Governance note defining computational validity, linguistic judgment, practical finality, voluntary adoption, and forkability. |
 
 ## DOI Notes
 
@@ -70,6 +77,8 @@ Technical notes, encoding history, technical bridges, and implementation example
 `plane-writing-technical-bridge.md` carries the named technical bridge from `The Shape of Writing` to `The Shape of a Sign`. It should be treated as a technical bridge supplement and may become independently citable if the release needs the authorship, compatibility, and dataset-scale argument to stand on its own.
 
 `encoding-history.md` belongs with `Formal SignWriting in Practice` because the encoding story is a practice, migration, and stewardship story.
+
+`Encoding Authority and Stability` should remain series-contained for the first release. It states the governance boundary around the stable FSW/SWU path without turning that boundary into a new technical-paper DOI.
 
 ## File Naming
 

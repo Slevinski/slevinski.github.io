@@ -4,7 +4,9 @@
 
 This brief gives the shortest forwardable stewardship case for Sutton SignWriting as research infrastructure.
 
-For the concrete asset-and-continuity case behind this summary, see *Infrastructure and Stewardship*. For the strongest current empirical anchors behind the stewardship case, see *Brazil as the Empirical Center of SignWriting* and *South Korea as a Current Institutional Proof Point*.
+For the concrete asset-and-continuity case behind this summary, see *Infrastructure and Stewardship*. For the strongest current empirical anchors behind the stewardship case, see *Brazil as the Empirical Center of SignWriting* and *South Korea as a Current Institutional Case Study*.
+
+Status note: this brief describes stewardship requirements and program-design options. It does not announce a formal host institution, funding line, fiscal sponsor, lab placement, or institutional program unless such a structure is named in a later public update.
 
 ## Executive frame
 
@@ -16,7 +18,7 @@ It is also an existing body of tools, standards, data, and public resources that
 
 The mission of this project is to move Sutton SignWriting toward an accountable academic, institutional, consortium, or fiscal-sponsor structure so its existing standards, tools, datasets, and research pathways can be maintained, studied, preserved, and extended.
 
-In practical terms, that means moving from informal stewardship of a globally used system to stronger institutional stewardship that can sustain research, preservation, and future growth.
+In practical terms, that means moving from informal stewardship of a documented international system to stronger institutional stewardship that can sustain research, preservation, and future growth.
 
 ## What Sutton SignWriting is
 
@@ -104,7 +106,7 @@ It is also the strongest currently documented large-scale real-world context for
 
 South Korea adds a different kind of strength.
 
-It provides a current official institutional proof point through the Korean Sign Language Nuri Dictionary, showing that SignWriting already appears inside public dictionary infrastructure connected to a national-language institution.
+It provides a current official institutional evidence point through the Korean Sign Language Nuri Dictionary, showing that SignWriting already appears inside public dictionary infrastructure connected to a national-language institution.
 
 That matters because it gives the infrastructure case a real evidence base:
 
@@ -120,9 +122,9 @@ Several factors make this a timely opportunity:
 - growing interest in multimodal and non-speech language processing
 - increased emphasis on data sharing and reusable datasets
 - maturing technical tooling around SignWriting
-- a visible, if under-resourced, global user base
+- a visible, if under-resourced, documented international user base
 
-In addition, the technical foundation has reached a level of maturity where it can support broader research use, including corpus development, computational analysis, and integration with modern data workflows. The research path is also clearer than before: reading and literacy studies, Brazil-grounded empirical work, South Korea as a current institutional proof point, and infrastructure-plus-dataset development can be described as one connected program rather than as separate hopes.
+In addition, the technical foundation has reached a level of maturity where it can support broader research use, including corpus development, computational analysis, and integration with modern data workflows. The research path is also clearer than before: reading and literacy studies, Brazil-grounded empirical work, South Korea as a current institutional case study, and infrastructure-plus-dataset development can be described as one connected program rather than as separate hopes.
 
 This creates a narrow window where institutional stewardship can turn existing work into a stable, grant-ready program.
 
@@ -170,7 +172,7 @@ The role of a PI or host lab would be to:
 
 The most compelling framing is simple:
 
-Sutton SignWriting already exists as a working, globally used system with software, data, and standards.
+Sutton SignWriting already exists as a working international system with documented use, software, data, and standards.
 
 What it lacks is stable institutional stewardship.
 

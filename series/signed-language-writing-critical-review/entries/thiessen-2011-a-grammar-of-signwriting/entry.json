@@ -3,10 +3,8 @@
   "number": 7,
   "title": "Thiessen (2011): A Grammar of SignWriting",
   "subtitle": "A review of real structural insight placed one level too low",
-  "summary": "Thiessen recognizes rule-governed SignWriting structure but places the main abstraction one level too low.",
-  "synopsis": "Thiessen is one of the stronger early engagements with SignWriting. The thesis correctly recognizes rule-governed structure and computational need, but mislocates the main abstraction at the level of symbols rather than at the level of the written sign and sign text.",
-  "cover_image": "/series/signed-language-writing-critical-review/entries/thiessen-2011-a-grammar-of-signwriting/cover.png",
-  "cover_image_alt": "An open manuscript of SignWriting-like symbols with grammar cards, spatial rule diagrams, parsing grids, and a magnifying glass.",
+  "summary": "Thiessen is correct and useful as script-internal description, but structurally incomplete where symbols remain too central.",
+  "synopsis": "Thiessen is one of the stronger early engagements with SignWriting. The thesis correctly recognizes rule-governed structure, spatial composition, and computational need. Its layer-level value is substantial, but its full-path limit is that the main abstraction remains too centered on symbols rather than the written sign and sign text.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -66,8 +64,8 @@
       "speech": "Through the framework, Thiessen is strong on spatial organization and symbol analysis. The limits appear in structural unit analysis and text-model development. The work is serious and useful, but transitional.",
       "notes": "Use transitional as the key assessment.",
       "image_prompts": {
-        "concrete": "Layer-based reading slide separating writing need, alphabetic bias, structural unit analysis, spatial organization, and claims versus evidence",
-        "abstract": "A source claim passed through a clear layer-based review frame"
+        "concrete": "Layer-level review slide separating Thiessen's spatial insight, symbol analysis, written-sign abstraction, and incomplete text model",
+        "abstract": "A serious structural thesis sorted into symbol-level strength and written-sign-level limits"
       }
     },
     {
@@ -84,8 +82,8 @@
       "speech": "The durable contribution is substantial. Thiessen helps establish that SignWriting has describable internal structure and a real encoding problem. The review adds that the written sign and sign text need to become the governing abstraction.",
       "notes": "Close with value plus next step.",
       "image_prompts": {
-        "concrete": "Contribution slide showing the necessity-of-writing argument preserved while the orthographic prescription is bounded",
-        "abstract": "A valid contribution kept intact after critique"
+        "concrete": "Contribution slide showing Thiessen's internal structure analysis preserved while the need for a higher-level sign-text model is emphasized",
+        "abstract": "A structural contribution kept intact while its abstraction limit remains visible"
       }
     }
   ]

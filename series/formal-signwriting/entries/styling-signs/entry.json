@@ -4,8 +4,6 @@
   "title": "Styling Signs",
   "subtitle": "The style string as light markup for customization and rich presentation",
   "summary": "The style string as optional light markup for customization and rich presentation.",
-  "cover_image": "/series/formal-signwriting/entries/styling-signs/cover.png",
-  "cover_image_alt": "A stable abstract signbox is surrounded by presentation layers, color swatches, padding frames, scale outlines, and symbol-level highlight marks.",
   "synopsis": "The style string is optional light markup for customizing sign presentation. Styling belongs to presentation and rendering, not canonical plain-text encoding.",
   "essay": "essay.md",
   "primary_artifact": {

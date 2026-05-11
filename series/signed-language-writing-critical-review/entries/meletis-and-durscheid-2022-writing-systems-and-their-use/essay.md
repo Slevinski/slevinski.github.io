@@ -1,8 +1,15 @@
-# Meletis and Durscheid (2022): Writing Systems and Their Use
+# Meletis and Dürscheid (2022): Writing Systems and Their Use
 
 **A review of a major comparative writing theory and its typological limit with signed language writing**
 
-Dimitrios Meletis and Christa Durscheid's *Writing Systems and Their Use* is one of the stronger recent comparative accounts of writing.
+Reviewed source:
+
+- Dimitrios Meletis and Christa Dürscheid, *Writing Systems and Their Use: An Overview of Grapholinguistics*
+- Publisher: De Gruyter
+- Year: 2022
+- DOI: `10.1515/9783110757835`
+
+Dimitrios Meletis and Christa Dürscheid's *Writing Systems and Their Use* is one of the stronger recent comparative accounts of writing.
 
 A strong book is a better test of a field than a weak one. If signed writing still strains the categories here, the pressure probably is not local to one source.
 
@@ -12,10 +19,13 @@ A companion paper under this same entry asks the larger theory-facing version of
 
 ## Executive judgment
 
-Layer-specific classification:
+Framework judgment:
 
-- `Correct and Useful` as a strong general grapholinguistic framework
-- `Partially Correct` overall because the typology remains incomplete once signed writing is treated as a full comparative case
+| Field | Judgment |
+| --- | --- |
+| Layer-level judgment | Correct and useful as a strong general grapholinguistic framework. |
+| Full-path judgment | Strong but typologically incomplete once signed writing is treated as a full comparative case with plane-based written units, authored spatial composition, and signed-text infrastructure. |
+| Main layer risk | A general theory of writing remains too dependent on familiar spoken-language writing categories when signed writing is treated as a pressure test. |
 
 Refinement:
 
@@ -161,7 +171,7 @@ If that is true, then a theory that can speak about spatiality only as a surroun
 
 The presence of SignWriting in the book matters. It shows that signed language writing is visible within the field. But visibility is not the same as conceptual consequence.
 
-Nothing in the extracted material suggests that SignWriting forces the framework to revise its deepest typological assumptions. Instead, SignWriting appears more as something to be placed somewhere within the existing map than as something that might reveal the map itself to be incomplete.
+SignWriting does not appear to force the framework to revise its deepest typological assumptions. Instead, SignWriting appears more as something to be placed somewhere within the existing map than as something that might reveal the map itself to be incomplete.
 
 ## Chapter 2: modality and autonomy
 
@@ -287,14 +297,7 @@ Its deepest contribution is that it gives writing real internal structure.
 
 Its deepest limitation is that it still appears not to grant signed language writing a fully adequate typological position.
 
-That is why the best judgment is not:
-
-- `Incorrect`
-- or `Misleading`
-
-but:
-
-- `Partially Correct` overall, with major layer-specific strengths
+That is why the best judgment is not simple rejection.
 
 More specifically:
 

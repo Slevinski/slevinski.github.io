@@ -100,6 +100,10 @@ Its purpose is to protect trust while keeping the role practical.
 
 The first version should be small and clear.
 
+Volunteer ambassador work should be time-limited, opt-in, clearly scoped, and credited where appropriate.
+
+Repeated translation, sustained outreach, community review, meeting facilitation, or specialized documentation should move toward stipend-supported or contracted work when funding and administrative pathways exist.
+
 A practical pilot would include:
 
 - three to five countries where active use or institutional interest is already visible

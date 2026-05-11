@@ -89,7 +89,7 @@ Coulmas and Sampson help keep the relation between writing, language, sound, mea
 
 Goodman's work on notation is useful because it asks when a visible mark system becomes sufficiently articulated, repeatable, and shareable to support stable reference.
 
-Meletis and Durscheid's grapholinguistic account is especially important because it treats writing as a structured object of study rather than as a mere shadow of speech, while also showing how difficult typology remains.
+Meletis and Dürscheid's grapholinguistic account is especially important because it treats writing as a structured object of study rather than as a mere shadow of speech, while also showing how difficult typology remains.
 
 The present paper builds from that literature rather than setting it aside.
 
@@ -625,7 +625,7 @@ That is the point from which the rest of the writing-systems series can proceed.
 - Coulmas, F. (1989). *The Writing Systems of the World*. Blackwell.
 - Daniels, P. T., & Bright, W. (Eds.). (1996). *The World's Writing Systems*. Oxford University Press.
 - Goodman, N. (1976). *Languages of Art: An Approach to a Theory of Symbols* (2nd ed.). Hackett.
-- Meletis, D., & Durscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
+- Meletis, D., & Dürscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
 - Sampson, G. (1985). *Writing Systems: A Linguistic Introduction*. Stanford University Press.
 - Slevinski, S. (2026). *Human Writing and Machine Encoding: Authorship, Serialization, and the Layers of Signed Text*. Writing and Representation in Sutton SignWriting.
 - Slevinski, S. (2026). *Perspective and Authored Space: Viewpoint, Placement, and the Authored Space of Signed Writing*. Writing and Representation in Sutton SignWriting.

@@ -12,17 +12,23 @@
 - License: `CC BY 4.0`
 - Creator: `Steve Slevinski`
 - Publication year: `2026`
+- Publication date: `2026-__-__`
+- Publisher: `Zenodo`
 - Resource type: `Publication`
+- Publication type: `Report`
+- Access: `Open`
+- Language: `English`
 - Release status: reserved draft
 - Living site: `https://steveslevinski.me/#series/language-and-literacy-research`
+- Related identifiers: `isPartOf` `10.5281/zenodo.20041043`; `isDescribedBy` `https://steveslevinski.me/#series/language-and-literacy-research`
 
 ## Series Description
 
-`Sutton SignWriting Language and Literacy Research` is the research-facing series for developmental pathways, literacy layering, reading questions, and research-program design around signed-language writing.
+`Sutton SignWriting Language and Literacy Research` is the research-facing series for developmental language pathways, literacy layering, reading questions, and research-program design around signed-language writing.
 
 ## Repository Description
 
-Research-facing papers on signed-language writing, language pathways, literacy pathways, reading signed text, and research-program design for Sutton SignWriting.
+Research-facing papers on signed-language writing, developmental language pathways, literacy pathways, reading signed text, and research-program design for Sutton SignWriting.
 
 ## Keywords
 

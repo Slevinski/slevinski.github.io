@@ -55,6 +55,10 @@ It needs to support at least four important distinctions:
 
 This is one of the elegant parts of the architecture. The same technical model that makes writing signs processable also makes them searchable.
 
+The `T` marker makes temporal-prefix presence part of the query. `Q` finds all signs. `QT` finds signs that have a temporal prefix and can therefore participate in sequence-based sorting. `QS10000` finds signs that contain `S10000` in the spatial signbox, with or without a temporal prefix. `QTS10000` adds the sortable-sign requirement and finds signs that have a temporal prefix and contain `S10000` in the signbox.
+
+When `T` follows an `A...` prefix pattern, it closes that temporal-prefix query. The pattern is prefix-initial: `QA...T` finds signs whose temporal prefix starts with the specified sequence pattern, not only signs whose entire temporal prefix is exactly that pattern.
+
 ## Worked query examples
 
 Consider this FSW sign:
@@ -69,13 +73,13 @@ Several natural queries follow from it:
 QAS14c20S27106T
 ```
 
-Exact temporal-prefix search.
+Temporal-prefix search where the prefix starts with the exact symbol pattern `S14c20S27106`.
 
 ```text
 QAS14cuuS271uuT
 ```
 
-Generalized temporal-prefix search.
+Temporal-prefix search where the prefix starts with generalized symbols matching `S14cuuS271uu`.
 
 ```text
 QS14c20481x471S27106503x489
@@ -153,4 +157,3 @@ This is where the model becomes operational at scale.
 ## Core claim
 
 Formal SignWriting is searchable as text because its model supports a query language, controlled generalization, and reproducible matching workflows.
-

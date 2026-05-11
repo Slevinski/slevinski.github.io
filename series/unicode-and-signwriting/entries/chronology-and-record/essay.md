@@ -121,20 +121,20 @@ Treat 2015 as:
 
 ### 2020
 
-- Google released **Noto Sans SignWriting**, the first high-visibility font implementing the official Unicode 8 SignWriting design, including the facial-diacritic approach.
+- Google released **Noto Sans SignWriting**, the first high-visibility font implementing the official Unicode SignWriting design introduced in Unicode 8.0.0, including the facial-diacritic approach.
 
 This mattered because it showed that a font could be produced for the official design, but it did not solve the broader compatibility, symbol-identity, and layout questions.
 
 ### 2026
 
-- Wikimedia renewed outreach after regaining Unicode Consortium membership and asked whether better Unicode support for SignWriting could be pursued together.
+- A brief Wikimedia-facing discussion showed that the Unicode issue can reappear when public-platform work runs into unresolved compatibility questions.
 
-That renewed outreach shows again that the Unicode issue reappears when public-platform work runs into unresolved compatibility questions.
+No further public action is anticipated in the near future from that discussion.
 
-It also marks a practical shift:
+The point for this release is modest:
 
-- the Unicode issue is no longer only historical
-- it is again a live coordination question for public language infrastructure
+- the Unicode issue is not only historical
+- future public-platform discussion should begin from the real production history rather than from a flattened story that the compatibility problem has already been solved
 
 ## Why this chronology matters
 

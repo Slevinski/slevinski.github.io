@@ -6,18 +6,18 @@ It is critical in the ordinary scholarly sense:
 
 - it reads sources carefully
 - preserves what they establish
-- distinguishes insight from overreach
+- distinguishes insight from overextension
 - and asks whether the conclusions match the evidence
 
 It is neither a neutral bibliography nor a polemical archive.
 
 The goal is clear judgment, fair reading, and better discussion.
 
-The series does use a definite lens. It asks what signed-language writing work can support once writing, notation, encoding, rendering, and infrastructure are kept distinct, and it gives special weight to durable written form and text-model adequacy. That is a comparative tool, not a claim that every question in the field is already closed.
+The series does use a definite lens. It asks what signed-language writing work can support once writing, notation, encoding, rendering, infrastructure, evidence, authority, and data objects are kept distinct. It gives special weight to durable written form, written-unit structure, text-model adequacy, and full-path infrastructure. That is a comparative tool, not a claim that every question in the field is already closed.
 
-The author of the series is also a developer and steward of Formal SignWriting and related Sutton SignWriting infrastructure. The series therefore does not pretend to be written from nowhere. It states its standpoint, applies the framework inward to Sutton SignWriting and Formal SignWriting, and uses layer-specific judgments so that readers can see where a source is strong, where it is incomplete, and where the review's own baseline matters.
+The author of the series is also a developer and steward of Formal SignWriting and related Sutton SignWriting infrastructure. The series therefore does not pretend to be written from nowhere. It states its standpoint, applies the framework inward to Sutton SignWriting and Formal SignWriting, and separates layer-level judgment from full-path judgment so that readers can see where a source is strong, where it is incomplete, and where the review's own baseline matters.
 
-## Four things to know first
+## Five things to know first
 
 ### 1. SignWriting is treated here as a real writing system
 
@@ -52,6 +52,12 @@ The series repeatedly distinguishes:
 
 Many confusions in the literature come from collapsing those layers.
 
+### 5. Narrow systems can still be valuable
+
+Notation, transcription, semantic representation, corpus annotation, rendering systems, dictionary platforms, and datasets may be useful at their own layer.
+
+The series criticizes them only when layer-level success is treated as if it solved the whole signed-writing and text-infrastructure path.
+
 ## Preferred terms in this series
 
 The series uses a few terms in a consistent way:
@@ -60,6 +66,12 @@ The series uses a few terms in a consistent way:
 - signbox: the spatial frame in which a written sign is composed
 - text model: the structural encoding layer used to preserve and process written signs as text
 - plane-based writing: the series term for writing in which spatial composition is part of authorship
+- adjacent-purpose system: a system that may be useful as notation, annotation, rendering, data infrastructure, pedagogy, or semantic representation without being a complete writing system
+- full-path adequacy: an account of the path from human writing to durable signed-text infrastructure
+
+These are reference terms, not proprietary requirements.
+
+They come from SignWriting because SignWriting has made these distinctions concrete through a working signed-text infrastructure. Other systems may use other terms, but they still need to map to these distinctions or explain why they do not apply.
 
 Some reviewed sources use words such as *planar* or *iconographic*.
 
@@ -85,7 +97,7 @@ The reviews preserve those terms when discussing the source directly, but the se
 
 ### If you want the methodological version
 
-1. *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
+1. *Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure*
 2. *A Layer-Based Evaluation of Signed Language Writing Systems*
 
 ### If you want the forward-looking version
@@ -101,6 +113,6 @@ The strongest entries in this series usually do five things:
 - say what the source gets right
 - identify where the source becomes incomplete or overstated
 - keep the layer distinctions clear
-- land on what the source actually establishes
+- separate layer-level judgment from full-path judgment
 
 The tone should be direct, fair, and usable for readers who agree, disagree, or are entering the subject for the first time.

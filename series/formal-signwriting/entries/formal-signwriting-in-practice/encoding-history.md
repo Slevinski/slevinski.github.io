@@ -121,7 +121,7 @@ By the early 2010s the ideas had converged into a clean, durable architecture:
 This became **Formal SignWriting (FSW)**:
 
 - a stable ASCII-oriented encoding
-- a fixed 500 by 500 signbox centered at `(250,250)`
+- a fixed signbox model with the sign center normalized to `500x500`
 - a model that preserved both sequence and spatial composition in one text form
 
 It made canonical text directly storable, searchable, and migratable while keeping rendering downstream.

@@ -77,12 +77,12 @@ That mattered in two directions at once:
 
 Historically, this is one of the moments where the appearance of progress risked masking continuing incompatibility.
 
-## The 2026 reopening
+## Recent Wikimedia-Facing Discussion
 
-Wikimedia's renewed outreach in 2026 marks another turning point.
+A brief Wikimedia-facing discussion in 2026 showed that the Unicode issue may reappear in practical public-platform contexts.
 
-It suggests that the Unicode issue may become live again in a more practical way when public-platform questions run into the unresolved technical gap.
+No further action is anticipated in the near future from that discussion.
 
 The issue is no longer only about what happened.
 
-It is also about whether the next discussion will begin from the real history or from a flattened public story.
+It is also about whether any future discussion will begin from the real history or from a flattened public story.

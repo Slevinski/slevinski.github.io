@@ -551,7 +551,7 @@ This paper makes the human side explicit first:
 - Coulmas, F. (1989). *The Writing Systems of the World*. Blackwell.
 - Daniels, P. T., & Bright, W. (Eds.). (1996). *The World's Writing Systems*. Oxford University Press.
 - Martin, J. (2000). *A Linguistic Comparison: Two Notation Systems for Signed Languages, Stokoe Notation and Sutton SignWriting*.
-- Meletis, D., & Durscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
+- Meletis, D., & Dürscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
 - Sampson, G. (1985). *Writing Systems: A Linguistic Introduction*. Stanford University Press.
 - Slevinski, S. (2026). *Human Writing and Machine Encoding: Authorship, Serialization, and the Layers of Signed Text*. Writing and Representation in Sutton SignWriting.
 - Slevinski, S. (2026). *Iconicity, Convention, and Legibility: How Motivated Visual Form Becomes Disciplined Writing*. Writing and Representation in Sutton SignWriting.

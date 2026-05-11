@@ -452,7 +452,7 @@ The typology depends on keeping both halves in view.
 
 ## Relation to the Critical Review series
 
-The term *kinematography* was raised earlier in the *Signed Language Writing Critical Review Series*, especially in the Meletis and Durscheid review and companion paper.
+The term *kinematography* was raised earlier in the *Signed Language Writing Critical Review Series*, especially in the Meletis and Dürscheid review and companion paper.
 
 There, its role was diagnostic.
 
@@ -548,7 +548,7 @@ It is with the descriptive reach of the typology itself.
 
 - Coulmas, F. (1989). *The Writing Systems of the World*. Blackwell.
 - Daniels, P. T., & Bright, W. (Eds.). (1996). *The World's Writing Systems*. Oxford University Press.
-- Meletis, D., & Durscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
+- Meletis, D., & Dürscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
 - Sampson, G. (1985). *Writing Systems: A Linguistic Introduction*. Stanford University Press.
 - Slevinski, S. (2026). *Human Writing and Machine Encoding: Authorship, Serialization, and the Layers of Signed Text*. Writing and Representation in Sutton SignWriting.
 - Slevinski, S. (2026). *Plane-Based Writing and Script Typology: Where SignWriting Fits, and Where Existing Writing-System Categories Strain*. Writing and Representation in Sutton SignWriting.

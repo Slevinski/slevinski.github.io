@@ -2,6 +2,8 @@
 
 **What Wikimedia needs to understand about Unicode and SignWriting**
 
+Status note: This is a Sutton SignWriting project briefing for Wikimedia-facing discussion. It is not an official Wikimedia position, not a Wikimedia community decision, and not a MediaWiki implementation plan.
+
 ## Short answer
 
 Current official Unicode SignWriting support is not yet sufficient for real-world Sutton SignWriting production use.
@@ -16,7 +18,7 @@ You may see:
 - custom user scripts or renderers
 - understandable confusion about whether Unicode already solved SignWriting
 
-Unicode did encode a SignWriting block in Unicode 8.
+Unicode includes an official SignWriting block introduced in Unicode 8.0.0.
 
 That block names many characters, but it does not yet deliver a complete, compatible solution for stable symbols and plane-based written signs.
 
@@ -39,17 +41,19 @@ Current production workflows (tools, dictionaries, corpora, websites) use:
 - **FSW** (Formal SignWriting) as the canonical production encoding
 - **SWU** (SignWriting in Unicode) as the supported Unicode-oriented isomorphic representation
 
-These are not temporary workarounds. They are the stable, production-tested baseline that already carries real datasets (including the 68 000-sign Brazilian dictionary and more than 1 million signs across languages).
+These are not temporary workarounds. They are the stable, production-tested baseline that already carries existing dictionaries, corpora, and public resources documented elsewhere in the v1.0.0 release.
 
 ## Existing Wikimedia footprint
 
 This is not only a theoretical future issue for Wikimedia.
 
-There is already a visible SignWriting footprint across Wikimedia infrastructure:
+Public Wikimedia records have documented a SignWriting footprint across Wikimedia infrastructure:
 
-- **Wikidata property P14164** ("SignWriting transcription") currently uses a formatter URL pointing to the Formal SignWriting analyzer on `steveslevinski.me`
+- **Wikidata property P14164** ("SignWriting transcription") has been associated with a formatter URL pointing to the Formal SignWriting analyzer on `steveslevinski.me`
 - **Wikimedia Incubator** has maintained a sign-language gadget and a category of sign-language test wikis, including ASL, BSL, Libras, Tunisian Sign Language, Russian Sign Language, Italian Sign Language, and others over time
 - **Wikimedia Cloud VPS / Labs** has hosted SignWriting infrastructure such as `swserver.wmflabs.org` and `swis.wmflabs.org`, even though that stack is now deprecated and has drifted behind current production design
+
+The current state of individual properties, services, gadgets, and Cloud VPS resources should be verified before any operational planning.
 
 That matters because Wikimedia is not deciding whether SignWriting has ever touched its ecosystem.
 

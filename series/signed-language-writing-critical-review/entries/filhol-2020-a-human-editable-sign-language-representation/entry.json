@@ -3,10 +3,8 @@
   "number": 6,
   "title": "Filhol (2020): A Human-Editable Sign Language Representation . . . and a Writing System?",
   "subtitle": "A review of semantic-layer insight, SignWriting misclassification, and overstated novelty claims",
-  "summary": "Filhol identifies real semantic-layer needs but misclassifies SignWriting and overstates the novelty of the proposed alternative.",
-  "synopsis": "Filhol is right about the limits of video and the importance of editable, queryable signed-language representation, but wrong to treat SignWriting as merely phonographic and structurally inadequate. The paper's durable value is as semantic-layer prompting, not as a successful reclassification of SignWriting.",
-  "cover_image": "/series/signed-language-writing-critical-review/entries/filhol-2020-a-human-editable-sign-language-representation/cover.png",
-  "cover_image_alt": "Editable semantic representation nodes, query pathways, abstract video frames, and SignWriting-like pages arranged on a scholarly review desk.",
+  "summary": "Filhol is useful as semantic and software representation, but misleading when overextended into a writing-system replacement claim.",
+  "synopsis": "Filhol is right about the limits of video and the importance of editable, queryable signed-language representation, but wrong to treat SignWriting as merely phonographic and structurally inadequate. The paper's layer-level value is semantic and software prompting; as a full-path signed-writing claim, it overstates what semantic representation and graphical tooling can establish by themselves.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -35,17 +33,17 @@
       }
     },
     {
-      "id": "where-it-overreaches",
-      "title": "Where The Claim Overreaches",
+      "id": "where-it-extends",
+      "title": "Where The Claim Extends Too Far",
       "kicker": "2",
-      "summary": "The paper overreaches when it treats SignWriting as merely phonographic and structurally inadequate.",
+      "summary": "The paper extends too far when it treats SignWriting as merely phonographic and structurally inadequate.",
       "bullets": [
         "SignWriting is misclassified",
         "Solved technical problems are treated as unsolved",
         "Semantic representation is treated as writing replacement",
         "Novelty claims become too broad"
       ],
-      "speech": "The review's critique is that Filhol overreaches. SignWriting is treated as merely phonographic and structurally inadequate, and a semantic-layer proposal begins to sound like a replacement for a writing system.",
+      "speech": "The review's critique is that the claim extends too far. SignWriting is treated as merely phonographic and structurally inadequate, and a semantic-layer proposal begins to sound like a replacement for a writing system.",
       "notes": "Focus on layer placement.",
       "image_prompts": {
         "concrete": "Critical review slide showing a semantic representation proposal overextended into a writing-system replacement claim",
@@ -66,8 +64,8 @@
       "speech": "Through the framework, Filhol's durable value is semantic-layer prompting. It pressures the field to care about editability, queryability, and computation, but it does not successfully reclassify SignWriting or replace its writing-system account.",
       "notes": "This slide preserves the value while naming the limit.",
       "image_prompts": {
-        "concrete": "Layer-based reading slide separating writing need, alphabetic bias, structural unit analysis, spatial organization, and claims versus evidence",
-        "abstract": "A source claim passed through a clear layer-based review frame"
+        "concrete": "Layer-level review slide separating semantic representation, software workflow, SignWriting misclassification, prior-work engagement, and full-path overclaim",
+        "abstract": "A semantic representation claim sorted from a writing-system replacement claim"
       }
     },
     {
@@ -79,10 +77,10 @@
         "Semantic representation matters",
         "Writing remains a separate target",
         "Formal text models matter",
-        "Layer discipline prevents false replacement claims"
+        "Layer-level and full-path judgment prevent false replacement claims"
       ],
-      "speech": "The platform relevance is clear: semantic representation matters, but it is not the same layer as signed writing or machine-readable text. Keeping those layers separate prevents useful proposals from becoming false replacement claims.",
-      "notes": "Close with layer discipline.",
+      "speech": "The platform relevance is clear: semantic representation matters, but it is not the same layer as signed writing or machine-readable text. Keeping layer-level and full-path judgments separate prevents useful proposals from becoming false replacement claims.",
+      "notes": "Close with layer-level and full-path judgment.",
       "image_prompts": {
         "concrete": "Platform relevance slide separating semantic representation, signed writing, formal text models, and machine-readable infrastructure",
         "abstract": "Several related layers aligned without collapsing into one another"

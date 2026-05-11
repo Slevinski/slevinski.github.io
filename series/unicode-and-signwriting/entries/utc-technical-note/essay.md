@@ -1,6 +1,8 @@
-# UTC Technical Note
+# Draft UTC-Facing Technical Note
 
 **Technical note on compatibility, symbol identity, spatial composition, and next steps**
+
+Status note: This is an author-stewardship technical position note prepared for possible future Unicode-facing discussion. It is not a Unicode Technical Committee document, not a UTC resolution, and not an official Unicode publication.
 
 The Sutton SignWriting Resources regard the current official Unicode SignWriting encoding as insufficient for compatible production use within the established Sutton SignWriting ecosystem.
 
@@ -31,7 +33,7 @@ That means symbol formation is partly mediated by font behavior and designer int
 
 This breaks compatibility at the symbol layer before the larger written-sign problem is even fully considered.
 
-Renewed technical review is needed rather than continued assumption that migration to the current official encoding is the expected path.
+If renewed Unicode-level discussion is pursued, it should begin from a compatibility review rather than from the assumption that migration to the current official encoding is already the expected path.
 
 ## Terms
 
@@ -48,7 +50,7 @@ It can.
 
 The current problem is whether the official Unicode SignWriting encoding can carry the established Sutton SignWriting production ecosystem without loss, redesign, or incompatible workarounds.
 
-At present, it cannot.
+Under the production-compatibility criteria used here, it cannot.
 
 This is an interoperability judgment about what the current official encoding can carry in practice, not about the sincerity of past participants.
 
@@ -219,7 +221,7 @@ That path would need to begin by acknowledging that the current official model d
 
 The real-world ecosystem is now large enough that compatibility should be judged against production use, not only theoretical possibility.
 
-The current ecosystem includes more than one million written signs across dozens of sign languages, together with real software, public resources, dictionaries, and published materials.
+The current ecosystem includes substantial dictionaries and corpora documented elsewhere in the v1.0.0 release, together with real software, public resources, and published materials.
 
 In addition, current country-level cases such as Brazil and South Korea show that encoded SignWriting is not hypothetical or merely local.
 

@@ -1,8 +1,8 @@
 # Formal SignWriting
 
-*Technical papers on sign text, FSW, SWU, signboxes, grammar, search, layout, rendering, styling, and implementation practice*
+*Technical papers on sign text, FSW, SWU, signboxes, grammar, search, layout, rendering, styling, authority, and implementation practice*
 
-This repository contains the technical publication series for sign text that can be stored, searched, checked, laid out, rendered, and processed by software without losing the written form.
+This repository contains the technical publication series for modeling sign text so that it can be stored, searched, checked, laid out, rendered, and processed by software without losing the written form. It also states the boundary between computational validity and linguistic judgment.
 
 The central claim is:
 
@@ -55,6 +55,7 @@ Technical readers can begin with:
 - [Rendering Formal SignWriting](entries/rendering-formal-signwriting/essay.md) - SVG, fonts, layout, and output models
 - [Styling Signs](entries/styling-signs/essay.md) - style string and presentation markup
 - [Formal SignWriting in Practice](entries/formal-signwriting-in-practice/essay.md) - libraries, datasets, transformations, implementation pathways, and encoding history
+- [Encoding Authority and Stability](entries/encoding-authority-and-stability/essay.md) - computational validity, linguistic judgment, practical finality, and forkability
 - [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
 ## Citation
@@ -67,7 +68,7 @@ Use the series DOI when citing the technical series as a whole. Use an artifact 
 
 ## Platform Context
 
-This repository is one of eight series in the Sutton SignWriting platform release. It maintains a clear distinction between canonical sign text, layout behavior, presentation markup, rendering, and downstream tooling.
+This repository is one of eight series in the Sutton SignWriting platform release. It maintains a clear distinction between canonical sign text, layout behavior, presentation markup, rendering, downstream tooling, encoding authority, and community or reader judgment.
 
 ## License
 

@@ -39,7 +39,7 @@ Developers still need competent tooling for a standard that exists publicly, eve
 
 ## Short description
 
-`@sutton-signwriting/unicode8` is a JavaScript package for processing official Unicode 8 SignWriting characters while also supporting FSW and SWU in the same broader technical ecosystem.
+`@sutton-signwriting/unicode8` is a JavaScript package for processing official Unicode SignWriting characters, from the model introduced in Unicode 8.0.0, while also supporting FSW and SWU in the same broader technical ecosystem.
 
 It is a bridge and processing library.
 

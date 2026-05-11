@@ -4,8 +4,6 @@
   "title": "Chronology and Record",
   "subtitle": "Official submissions, minutes, and related documents",
   "summary": "A dated record of the main Unicode and related SignWriting documents relevant to current compatibility and standards discussions.",
-  "cover_image": "/series/unicode-and-signwriting/entries/chronology-and-record/cover.png",
-  "cover_image_alt": "An archival timeline of blank record cards, submission folders, date-marker dots, and connection threads leads to an abstract signbox and unnamed character grid.",
   "synopsis": "The main Unicode proposals, support letters, collation responses, design notes, and related records from 2011 forward create the documentary path behind the current distinctions among character naming, stable symbol identity, and written-sign encoding.",
   "essay": "essay.md",
   "primary_artifact": {

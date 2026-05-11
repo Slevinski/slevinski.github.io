@@ -4,8 +4,6 @@
   "title": "Formal SignWriting Overview",
   "subtitle": "Plain-text encodings, grammar, search, rendering, styling, and implementation",
   "summary": "Plain-text encodings, grammar, search, layout, rendering, styling, and implementation practice define the Formal SignWriting technical model.",
-  "cover_image": "/series/formal-signwriting/entries/overview/cover.png",
-  "cover_image_alt": "A technical overview map with abstract signboxes, encoding streams, grammar checks, search paths, layout lanes, rendering layers, styling modules, and implementation pathways.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

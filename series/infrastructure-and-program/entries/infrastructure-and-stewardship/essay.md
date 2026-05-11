@@ -39,9 +39,11 @@ In program terms, the work is a combination of preservation, maintenance, modern
 
 ## Domains and web infrastructure
 
-The SignWriting ecosystem includes a coordinated set of domains that support public access, tools, documentation, and archival material.
+The SignWriting ecosystem includes a coordinated set of domains that support public access, tools, documentation, archival material, and related stewardship work.
 
-Current domains under active maintenance include:
+Not every stewarded domain is part of the core Sutton SignWriting infrastructure. The public asset register distinguishes core, related, and adjacent domains.
+
+Core SignWriting access, tool, and documentation domains under active maintenance include:
 
 - `signwriting.org`
 - `signwriting.net`
@@ -52,9 +54,15 @@ Current domains under active maintenance include:
 - `signbank.org`
 - `signbank.net`
 - `sutton-signwriting.io`
+
+Related Sutton and MovementWriting domains include:
+
 - `valeriesutton.org`
 - `dancewriting.org`
 - `movementwriting.org`
+
+Adjacent or historical stewarded domains include:
+
 - `aslgospel.org`
 - `soulsite.com`
 - `pamelasuttonmd.org`
@@ -111,17 +119,11 @@ This is exactly the kind of infrastructure that becomes more valuable as its mai
 
 The continuity risk is no longer only theoretical.
 
-Recent international work has already exposed where the pressure is felt.
+Recent international dictionary and community use has exposed scaling, maintenance, and legacy-system risks.
 
-In South Korea, preparation for the February 6, 2025 launch of the Korean Sign Language Nuri Dictionary depended on SignPuddle 2 on the legacy server to author signs for a public institutional dictionary.
+These incidents required direct maintainer intervention and demonstrate that the continuity risk is already practical rather than theoretical.
 
-That work appears to have pushed the old system hard enough to expose scaling weaknesses in save operations and concurrent use.
-
-Direct technical help was needed during the launch period, including two days of vacation time taken to keep the work moving.
-
-In Brazil, prior outages were felt immediately in an active user community that depends on the system for ongoing work.
-
-More recently, repeated bot pressure and CPU-heavy requests have continued to cause temporary service interruptions on the legacy server.
+Detailed incident records, security-sensitive information, and mitigation plans belong in internal due-diligence materials for host, grant, and migration planning rather than in the public release file.
 
 These incidents matter because they show that thin stewardship is already interrupting real international work, not merely raising abstract maintenance concerns.
 
@@ -193,7 +195,7 @@ These systems:
 - support searching, sorting, and processing
 - integrate with modern web and programming environments
 
-Together they represent a complete and stable encoding framework for written signed language.
+Together they represent the supported v1.0.0 production framework for machine-readable Sutton SignWriting.
 
 Stewardship responsibilities include:
 
@@ -258,7 +260,7 @@ A host institution would not be:
 
 It would be:
 
-- stabilizing and extending an existing globally used infrastructure system
+- stabilizing and extending an existing documented international infrastructure system
 - inheriting a research-ready and partnership-ready technical base
 - making preservation, maintenance, and future grants more credible
 - supporting preservation, maintenance, modernization, and research enablement as one connected program

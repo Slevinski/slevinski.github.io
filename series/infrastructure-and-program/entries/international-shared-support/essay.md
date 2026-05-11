@@ -60,7 +60,7 @@ International participation can strengthen the program in several ways:
 - it gives the central project better information about local needs and constraints
 - it creates a path for shared planning without requiring premature formal agreements
 
-Brazil remains the strongest documented empirical center. South Korea provides a current institutional proof point through public dictionary infrastructure. Mexico and other countries may add different kinds of local relationship, educational, or community evidence.
+Brazil remains the strongest documented empirical center. South Korea provides a current institutional case study through public dictionary infrastructure. Mexico and other countries may add different kinds of local relationship, educational, or community evidence.
 
 Those examples should not be flattened into one generic adoption story. They matter because they show different parts of the stewardship case.
 

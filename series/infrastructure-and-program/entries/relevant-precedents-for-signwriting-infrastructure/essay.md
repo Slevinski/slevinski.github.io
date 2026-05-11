@@ -46,9 +46,10 @@ These examples are useful because they show language or data infrastructure beco
 
 - **Founding year:** 1962
 - **How it started:** Political scientist Warren E. Miller created the Inter-university Consortium for Political and Social Research at the University of Michigan's Institute for Social Research as the data-dissemination arm of the American National Election Studies, at a time when important datasets were often closely held by individual researchers.
-- **Funding model:** It began with membership dues from 21 founding universities and later expanded through foundation support, federal support, and consortial membership.
+- **Funding model:** It began with membership dues from participating universities and later expanded through foundation support, federal support, and consortial membership.
 - **What it provides:** Long-term preservation, curation, documentation, training, researcher services, and public access to a large social-science data archive.
 - **Why relevant to SignWriting:** ICPSR shows how a university can give durable form to a shared data need that already exists, then grow it into recognized research infrastructure.
+- **Source trail:** ICPSR's history page describes the 1962 founding by Warren E. Miller to share scientific data; ICPSR's early-years account describes the American National Election Studies connection and the early consortial dues model, including the 21 additional universities recruited by the end of 1962. See [ICPSR History](https://www.icpsr.umich.edu/sites/ICPSR/about/history) and [The Founding and Early Years](https://www.icpsr.umich.edu/sites/icpsr/about/history/early-years).
 
 ### 2. ELDP / ELAR
 
@@ -57,6 +58,7 @@ These examples are useful because they show language or data infrastructure beco
 - **Funding model:** Philanthropic seed funding, annual documentation grants, and sustained institutional hosting.
 - **What it provides:** Grants for language documentation plus an archive for preserving and sharing documentation materials.
 - **Why relevant to SignWriting:** ELDP and ELAR show that philanthropy can be a strong continuity pathway when paired with real institutional anchoring and clear archival responsibility.
+- **Source trail:** ELDP states that it was founded in 2002 by the Arcadia Fund and provides annual documentation grants; BBAW describes ELAR as a digital archive launched at SOAS in 2002; SOAS documents the 2021 move of ELDP to Berlin. See [ELDP Who We Are](https://www.eldp.net/en/about%20us/who%20we%20are/), [BBAW ELAR](https://www.bbaw.de/forschung/endangered-languages-archive-elar), and [SOAS on the ELDP move](https://www.soas.ac.uk/about/news/soas-marks-eldp-move-new-base-berlin).
 
 ### 3. PARADISEC
 
@@ -65,6 +67,7 @@ These examples are useful because they show language or data infrastructure beco
 - **Funding model:** Distributed university support, research-infrastructure grants, and shared operational responsibility.
 - **What it provides:** Long-term archiving, cataloguing, digitization, preservation, and community access for endangered-language and cultural recordings.
 - **Why relevant to SignWriting:** PARADISEC shows that a durable stewardship structure can be distributed rather than centralized, as long as preservation and access are treated as infrastructure functions.
+- **Source trail:** PARADISEC describes itself as a digital archive for records of small cultures and languages, with models for community access and digital-archiving standards; its funding page documents support from universities, the Australian Research Council, and related sources; its presentation history documents PARADISEC activity in 2003. See [PARADISEC About Us](https://www.paradisec.org.au/about-us/), [PARADISEC Funding](https://www.paradisec.org.au/funding.html), and [PARADISEC Presentations](https://www.paradisec.org.au/presentations.html).
 
 ### 4. BSL Corpus Project to BSL SignBank
 
@@ -73,6 +76,7 @@ These examples are useful because they show language or data infrastructure beco
 - **Funding model:** Research-council funding followed by continued university hosting and stewardship.
 - **What it provides:** A large video corpus together with a public lexical resource used for research, teaching, and community access.
 - **Why relevant to SignWriting:** This is one of the closest sign-language precedents because it shows sign-language documentation maturing into durable public lexical infrastructure.
+- **Source trail:** The BSL Corpus Project states that it was an ESRC-funded project led by UCL's Deafness Cognition and Language Research Centre, initially 2008-2010 and extended to 2011; BSL SignBank identifies the BSL Corpus as one of its two primary sources. See [BSL Corpus Project About](https://bslcorpusproject.org/project-information/) and [BSL SignBank Dictionary](https://bslsignbank.ucl.ac.uk/about/dictionary/).
 
 ## Adjacent but useful analogs
 
@@ -82,17 +86,19 @@ These examples are not perfect structural matches, but they strengthen important
 
 - **Founding period:** Late 1990s and early 2000s, with continued expansion.
 - **How it started:** Linguistic research at Boston University collected and annotated ASL video data that developed into public tools and lexical resources.
-- **Funding model:** NIH and NSF grants plus university support.
+- **Funding model:** Research grants, including NSF-supported work documented by ASLLRP, plus university-based stewardship.
 - **What it provides:** Video corpora, lexical resources, search interfaces, and downloadable annotations.
 - **Why relevant to SignWriting:** This shows that sign-language infrastructure naturally converges around corpora, lexical databases, annotation, search, and tools.
+- **Source trail:** ASLLRP describes NSF-supported work on ASL linguistic structure, computer-based recognition/generation, multimedia tools, public corpora, SignStream, DAI, and the ASLLRP ASL Sign Bank; Boston University's ASLLVD page describes the ASL Lexicon Video Dataset as more than 3,300 ASL signs and almost 9,800 tokens. See [ASLLRP](https://www.bu.edu/asllrp/indexright.html), [ASLLRP Resources](https://www.bu.edu/asllrp/indexleft.html), and [DAI-ASLLVD](https://www.bu.edu/asllrp/av/dai-asllvd.html).
 
 ### 6. MIDAS, University of Michigan
 
 - **Founding period:** Around 2015, with its 10th anniversary marked in 2025.
 - **How it started:** A cross-campus institute was created to advance data science and AI as shared research infrastructure across many disciplines.
 - **Funding model:** University support plus pilot grants, research services, proposal support, and partnership development.
-- **What it provides:** Proposal support, pilot funding, staff-scientist access, collaborator matching, training, and cross-campus research coordination.
+- **What it provides:** Research resources, training, pilot funding, proposal support, collaborator matching, partnership development, and cross-campus research coordination.
 - **Why relevant to SignWriting:** MIDAS is useful as a model for shared technical capacity: practical support can create immediate value while also generating collaborations and proposal leverage.
+- **Source trail:** MIDAS describes itself as a university-wide organization that advances data science and AI, provides research resources, training, postdoctoral programs, and collaborations; University of Michigan's technology timeline records MIDAS as created in July 2015 as part of the Data Science Initiative; MIDAS grant materials describe proposal support, collaborator identification, and research synergy. See [MIDAS](https://midas.umich.edu/), [U-M Accessible IT Timeline](https://timeline.it.umich.edu/node/2), and [MIDAS PODS RFP](https://micde.umich.edu/midas-request-for-proposals-for-propelling-original-data-science-grants-2024/).
 
 ## Pattern across the examples
 
@@ -129,7 +135,7 @@ The models differ, but they all show that language and data infrastructure often
 1. Sutton SignWriting is not a speculative new project; it is mature infrastructure with domains, tools, standards, libraries, and datasets already in active use.
 2. ICPSR shows how a university-housed data need can become recognized shared research infrastructure once curation, access, training, and continuity are supported.
 3. The BSL Corpus to BSL SignBank path shows how sign-language documentation can mature into durable public lexical infrastructure.
-4. ELDP, ELAR, and PARADISEC show that philanthropy and distributed institutional consortia work best when anchored in real organizational structures rather than improvised continuity arrangements.
+4. ELDP, ELAR, and PARADISEC show that philanthropic and distributed institutional models can support durable language infrastructure when anchored in real organizational structures rather than improvised continuity arrangements.
 5. MIDAS shows that shared technical capacity can produce immediate institutional value while also supporting longer-term research growth.
 
 ## Bottom line

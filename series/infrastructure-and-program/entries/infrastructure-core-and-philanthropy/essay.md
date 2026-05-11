@@ -123,6 +123,14 @@ A large philanthropic gift could combine several tiers.
 
 Smaller gifts can still be useful if they are tied to concrete continuity or access tasks.
 
+## Gift and donor safeguards
+
+No public donation solicitation should begin unless a legal receiving pathway exists through a host institution, fiscal sponsor, nonprofit, or other accountable structure.
+
+Gift acceptance policy, restricted versus unrestricted gift terms, reporting obligations, and conflict-of-interest handling belong with that receiving structure.
+
+Donors should not control research conclusions, community review outcomes, technical validity, spelling or language authority, or the governance of affected communities.
+
 ## Relationship to grants
 
 The strongest funding model is layered.

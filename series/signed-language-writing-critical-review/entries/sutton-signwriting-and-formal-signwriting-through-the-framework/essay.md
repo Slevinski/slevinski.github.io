@@ -50,7 +50,7 @@ So the point of the baseline is narrower.
 
 It is to show that a coherent full-path model already exists and can be described clearly enough that later work has to engage it at the right level.
 
-That distinction also explains why the same evidence problem can be treated differently in different reviews. When this entry names uneven adoption or incomplete outcome evidence as open limits, it is not claiming those questions have already been settled. When a reviewed source turns limited evidence into broad historical, educational, or comparative conclusions, the problem becomes overreach. The issue is not whether limits exist. The issue is whether the argument admits them or builds past them.
+That distinction also explains why the same evidence problem can be treated differently in different reviews. When this entry names uneven adoption or incomplete outcome evidence as open limits, it is not claiming those questions have already been settled. When a reviewed source turns limited evidence into broad historical, educational, or comparative conclusions, the problem becomes overextension. The issue is not whether limits exist. The issue is whether the argument admits them or builds past them.
 
 ## I. Layer identification
 
@@ -269,12 +269,16 @@ That does not make the system immune from criticism.
 
 It does mean later work has to engage its actual structure rather than a caricature.
 
-## Final assessment
+## Framework Judgment
 
-Under the framework, the best classification is:
+Under the framework, the strongest judgment is layer-level first:
 
-- SignWriting: `Correct and Useful` at the writing-system layer
-- Formal SignWriting: `Correct and Useful` at the text model and encoding layer
+| Field | Judgment |
+| --- | --- |
+| Layer-level judgment for Sutton SignWriting | Strong as a human writing system centered on written signs, signboxes, authored space, written convention, and reader/writer practice. |
+| Layer-level judgment for Formal SignWriting | Strong as a technical text model and encoding framework for preserving Sutton SignWriting as structured text. |
+| Full-path judgment | A strong full-path candidate when Sutton SignWriting, Formal SignWriting, and the existing tooling, corpus, dictionary, rendering, and publication ecosystem are evaluated together. |
+| Main remaining limits | Evidence remains uneven for global adoption, large-scale literacy outcomes, institutional succession, and standards resolution. |
 
 The strongest point is not that the system is perfect.
 
@@ -304,9 +308,3 @@ The result is not a claim of final perfection.
 It is a clearer statement of what the system actually is:
 
 > a plane-based writing system for signed language, supported by a technical text model that preserves the written sign as structured text
-
-## Go Next
-
-- *A Layer-Based Evaluation of Signed Language Writing Systems* for the comparative demonstration
-- *Formal SignWriting: The Shape of a Sign* for the technical bridge into the signbox model
-- *Official Unicode SignWriting: The Character Problem and the Written-Sign Problem* for the standards-review consequence

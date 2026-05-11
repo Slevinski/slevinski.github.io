@@ -4,8 +4,6 @@
   "title": "Developer Notes",
   "subtitle": "Production encoding guidance and compatibility cautions",
   "summary": "Implementation guidance for developers working with Sutton SignWriting data, conversion, symbol identity, and Unicode-facing workflows.",
-  "cover_image": "/series/unicode-and-signwriting/entries/developer-notes/cover.png",
-  "cover_image_alt": "A developer workflow shows canonical data blocks, conversion arrows, symbol identity tiles, compatibility guardrails, and output pathways.",
   "synopsis": "Developers need clear boundaries around what to store, what to treat as canonical, why naming characters is not the same as preserving stable symbols or written signs, where official Unicode SignWriting falls short, and how FSW and SWU should be used in current tooling, interchange, and data workflows.",
   "essay": "essay.md",
   "primary_artifact": {
@@ -128,16 +126,16 @@
       "kicker": "6",
       "summary": "Bridge packages are useful, but they should be described as compatibility tooling rather than proof that the deeper problem is solved.",
       "image_prompts": {
-        "concrete": "JavaScript package slide showing unicode8 bridge tooling connecting official Unicode 8 SignWriting, FSW, SWU, and compatibility workflows",
+        "concrete": "JavaScript package slide showing unicode8 bridge tooling connecting official Unicode SignWriting, FSW, SWU, and compatibility workflows",
         "abstract": "A bridge tool connecting encodings without claiming to solve the full standards model"
       },
       "bullets": [
-        "The package processes official Unicode 8 SignWriting where needed",
+        "The package processes official Unicode SignWriting where needed",
         "It also bridges FSW and SWU",
         "That makes it useful in real software",
         "Its existence does not settle the architectural question"
       ],
-      "speech": "The `@sutton-signwriting/unicode8` package is useful and should be described honestly. It helps process official Unicode 8 SignWriting characters where they exist, and it bridges them with FSW and SWU in JavaScript tooling. That makes it valuable. But it should be framed as compatibility tooling and bridge tooling, not as evidence that naming characters, preserving stable symbols, and encoding complete written signs have all been solved by one model.",
+      "speech": "The `@sutton-signwriting/unicode8` package is useful and should be described honestly. It helps process official Unicode SignWriting characters where they exist, and it bridges them with FSW and SWU in JavaScript tooling. That makes it valuable. But it should be framed as compatibility tooling and bridge tooling, not as evidence that naming characters, preserving stable symbols, and encoding complete written signs have all been solved by one model.",
       "notes": "End by acknowledging practical tooling without surrendering the larger position.",
       "mermaid": "flowchart TD\n  A[unicode8 package] --> B[Official Unicode 8 processing]\n  A --> C[Bridge to FSW]\n  A --> D[Bridge to SWU]\n  B --> E[Useful compatibility support]\n  C --> E\n  D --> E\n  E --> F[Not a proof that the standards problem is solved]\n\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef out fill:#fefce8,color:black,stroke:#ca8a04,stroke-width:2px;\n  class A,B,C,D,E,F node;\n  class F out;"
     }

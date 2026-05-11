@@ -32,6 +32,8 @@ Once that is accepted, a second claim becomes easier to see:
 
 The clearest way to see this is to ask how writing uses space.
 
+This essay uses a working model: point, line, and plane. These are not sealed boxes. They are a way to notice which spatial organization is doing the main work in a particular kind of writing.
+
 Three broad patterns matter:
 
 - **point**: structure is concentrated into a bounded written unit
@@ -40,7 +42,7 @@ Three broad patterns matter:
 
 Point, line, and plane are broad patterns for how writing organizes language in space.
 
-This series uses `plane-based writing` for writing in which two-dimensional spatial composition is part of authorship.
+Across this platform, `plane-based writing` names writing in which two-dimensional spatial composition is part of authorship.
 
 Many writing systems combine these patterns, but the distinction matters because it loosens a mistaken assumption:
 
@@ -146,7 +148,9 @@ Plane-based writing is not free placement alone.
 
 It also depends on a stable symbol inventory.
 
-For modern Sutton SignWriting, that shared inventory is **ISWA 2010**.
+For modern Sutton SignWriting, that shared inventory is **ISWA 2010**, the International SignWriting Alphabet 2010 symbol set.
+
+Here, `alphabet` means the stable SignWriting symbol inventory. It does not mean a small linear alphabet modeled on spoken-language print.
 
 This matters because the alphabet is the reference layer behind writing, editors, fonts, websites, datasets, and encoding.
 
@@ -280,6 +284,8 @@ But they do not by themselves provide the same kind of everyday readable and wri
 ## What follows once this is understood
 
 If SignWriting is understood as plane-based writing, then several consequences follow.
+
+If spatial relation is part of authorship, technical systems must preserve not only symbol identity but also authored placement. Encoding, layout, search, rendering, and font compatibility are therefore part of preserving the writing, not peripheral display details.
 
 It needs:
 

@@ -88,6 +88,8 @@ The layout model therefore uses a hybrid centering strategy:
 - the `x` center follows vertical-writing logic, using the head and trunk where available
 - the `y` center follows horizontal-writing logic, using the head where available
 
+Because `hcenter` and `vcenter` name signbox-centering symbol ranges rather than layout axes, the layout layer may use the `vcenter` range to determine an `x` center and the `hcenter` range to determine a `y` center.
+
 This keeps vertical and horizontal passage layout compatible while preserving the signbox as structured text.
 
 ## Reading Levels

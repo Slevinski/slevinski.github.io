@@ -153,7 +153,7 @@ If you want the comparative support layer after that:
 - *Writing and Representation in Sutton SignWriting* deepens the writing-systems argument.
 - *Formal SignWriting* provides the mechanism layer that follows from these concepts.
 - *Sutton SignWriting Evidence and Adoption* supports this series by showing where learned signed writing is already visible in practice.
-- *Signed Language Writing Critical Review Series* tests the broader writing-theory and standards claims, especially through the Meletis and Durscheid review and companion paper.
+- *Signed Language Writing Critical Review Series* tests the broader writing-theory and standards claims, especially through the Meletis and Dürscheid review and companion paper.
 
 The immediate reader path is:
 

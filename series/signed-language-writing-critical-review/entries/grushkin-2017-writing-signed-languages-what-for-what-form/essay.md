@@ -2,6 +2,13 @@
 
 **A review of the need for signed writing and the alphabetic-bias problem**
 
+Reviewed source:
+
+- Donald A. Grushkin, "Writing Signed Languages: What For? What Form?"
+- *American Annals of the Deaf*, 161(5), 509-527
+- Year: 2017
+- DOI: `10.1353/aad.2017.0001`
+
 Donald A. Grushkin's 2017 article asks an important question:
 
 > what is signed writing for, and what form should it take?
@@ -14,10 +21,13 @@ Its weakness appears later, when it moves from the general need for signed writi
 
 So the article is strongest on why signed languages need writing and weakest on what kind of writing supposedly follows.
 
-Layer-specific classification:
+Framework judgment:
 
-- `Correct and Useful` as a necessity-of-writing argument
-- `Partially Correct` overall because the orthographic prescription is alphabetically biased
+| Field | Judgment |
+| --- | --- |
+| Layer-level judgment | Correct and useful as a necessity-of-writing argument for signed languages. |
+| Full-path judgment | Not full-path adequate as an orthographic prescription, because the alphabetic recommendation does not account for signed written units, plane-based composition, text modeling, or existing SignWriting infrastructure. |
+| Main layer risk | Alphabetic bias and full-path overextension from a literacy need into an orthographic prescription. |
 
 Refinement:
 
@@ -341,8 +351,8 @@ The necessity-of-writing argument is stronger than the alphabetic recommendation
 ## Main critique categories
 
 - `Alphabetic Bias`
-- `Infrastructure Awareness`
-- `Level Confusion`
+- `Incomplete Infrastructure Engagement`
+- `Full-Path Overextension`
 
 ## Final assessment
 

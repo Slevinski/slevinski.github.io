@@ -11,7 +11,7 @@ The materials are organized around four reader needs:
 - platform and public-infrastructure readers need a compact explanation of the current gap
 - standards readers need a formal technical statement
 
-> the current official Unicode SignWriting encoding is not fully compatible with the established Sutton SignWriting production ecosystem
+> the official Unicode SignWriting encoding, introduced in Unicode 8.0.0 and maintained in later Unicode versions, is not currently a compatible production replacement for the established Sutton SignWriting production ecosystem
 
 It does **not** mean:
 
@@ -42,7 +42,7 @@ It also involves:
 
 The technical position is:
 
-- the official Unicode 8 SignWriting encoding is a non-compatible branch from the standpoint of the Sutton SignWriting production ecosystem
+- the official Unicode SignWriting encoding, introduced in Unicode 8.0.0 and maintained in later Unicode versions, is not currently a compatible production replacement for the established FSW/SWU Sutton SignWriting production ecosystem
 - FSW remains the canonical production encoding in practice
 - SWU remains the isomorphic Unicode-oriented representation supported by the Sutton SignWriting Resources
 - real-world corpora, publication, and current tooling should not be forced into the official Unicode encoding when that encoding cannot carry the writing system cleanly
@@ -52,6 +52,19 @@ One fact often causes confusion:
 - there are Unicode-related packages and experiments inside the Sutton SignWriting ecosystem, including `@sutton-signwriting/unicode8`
 
 That reflects the fact that official Unicode SignWriting exists in the world and must sometimes be processed, examined, converted, or bridged, even when it is not accepted as the main production path.
+
+## Namespace and Status
+
+| Term | What it is | What it is not |
+| --- | --- | --- |
+| Sutton SignWriting | Writing system and broader production ecosystem | Not an encoding by itself |
+| ISWA 2010 | Symbol inventory and reference layer used by Sutton SignWriting Resources | Not a complete text model |
+| FSW | ASCII Formal SignWriting production encoding | Not official Unicode |
+| SWU | Unicode-oriented isomorphic representation of the Formal SignWriting model | Not the official Unicode SignWriting block |
+| Official Unicode SignWriting | Unicode-side SignWriting encoding introduced in Unicode 8.0.0 | Not a compatible production replacement for FSW/SWU |
+| Noto Sans SignWriting | Font support for the official Unicode model | Not proof that symbol identity, signbox modeling, collation, migration, or dataset compatibility are solved |
+| `@sutton-signwriting/unicode8` | Bridge and inspection tooling for official Unicode SignWriting characters | Not evidence that official Unicode SignWriting is the canonical production path |
+| `Sgnw` | ISO 15924 script code | Not a serialization model |
 
 ## Reading path
 
@@ -67,7 +80,7 @@ For most readers, this order works best:
 3. **Chronology and Record**
    Follow the document trail and the turning points.
 
-4. **UTC Technical Note**
+4. **Draft UTC-Facing Technical Note**
    End with the standards-facing argument and the disciplined technical closing.
 
 5. **Standards Review in the Critical Review Series**

@@ -262,7 +262,7 @@ We can responsibly say:
 - SignWriting preserves meaningful written structure rather than only glossing spoken language
 - small reader-reported design histories suggest that layout direction affects ease of reading
 - real readers and institutions already exist, especially in Brazil
-- current institutional proof points exist, including South Korea
+- current institutional case studies exist, including South Korea
 
 We cannot yet say, at large scale:
 

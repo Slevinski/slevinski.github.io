@@ -18,13 +18,17 @@ AS14c20S27106M518x529S14c20481x471S27106503x489
 we can derive queries such as:
 
 ```text
+Q
+QT
+QS10000
+QTS10000
 QAS14c20S27106T
 QAS14cuuS271uuT
 QS14c20481x471S27106503x489
 QS14cuu481x471S271uu503x489
 ```
 
-That compactly demonstrates exact search, generalized search, and coordinate-aware search.
+That compactly demonstrates all-sign search, sortable-sign search, exact search, generalized search, and coordinate-aware search.
 
 ## I. Search is part of the architecture
 
@@ -43,16 +47,22 @@ The split gives both topics more clarity and keeps matching logic from being con
 
 ## III. Small query family
 
-The four example queries above illustrate a useful progression:
+The example queries above illustrate a useful progression:
 
 | Query | What it emphasizes |
 | --- | --- |
-| `QAS14c20S27106T` | exact temporal-prefix match |
-| `QAS14cuuS271uuT` | generalized temporal-prefix match |
+| `Q` | all signs |
+| `QT` | signs with a temporal prefix, suitable for sequence-based sorting |
+| `QS10000` | signs with `S10000` in the spatial signbox |
+| `QTS10000` | sortable signs with `S10000` in the spatial signbox |
+| `QAS14c20S27106T` | temporal prefix starts with exact symbols `S14c20S27106` |
+| `QAS14cuuS271uuT` | temporal prefix starts with generalized symbols matching `S14cuuS271uu` |
 | `QS14c20481x471S27106503x489` | exact spatial match with coordinates |
 | `QS14cuu481x471S271uu503x489` | generalized spatial match with coordinates |
 
 This is one of the most important patterns in the search layer: exactness and generalization can both be expressed compactly.
+
+The `T` marker makes temporal-prefix presence part of the query. By itself, as in `QT`, it requires a sign with a temporal prefix but does not specify the prefix contents. After an `A...` pattern, as in `QAS14c20S27106T`, it ends the temporal-prefix query section. That `A...T` pattern is prefix-initial: it matches signs whose temporal prefix starts with the specified sequence pattern, with additional prefix symbols still allowed after the matched pattern.
 
 ## IV. Exactness and flexibility belong together
 

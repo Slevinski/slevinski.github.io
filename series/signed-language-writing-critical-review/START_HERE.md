@@ -2,9 +2,9 @@
 
 This series reviews scholarship, standards, and proposals about signed language writing.
 
-It is critical in the ordinary scholarly sense: it reads sources carefully, preserves what they establish, distinguishes insight from overreach, and asks whether conclusions match the evidence.
+It is critical in the ordinary scholarly sense: it reads sources carefully, preserves what they establish, distinguishes insight from overextension, and asks whether conclusions match the evidence.
 
-The series uses a definite lens. It keeps writing, notation, encoding, rendering, infrastructure, and evidence distinct, then asks what each source actually solves.
+The series uses a definite lens. It keeps writing, notation, encoding, rendering, infrastructure, evidence, authority, and data objects distinct, then asks what each source actually solves.
 
 ## Best Entry Paths
 
@@ -15,8 +15,9 @@ For the quickest orientation:
 
 For the method:
 
-1. *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
-2. *A Layer-Based Evaluation of Signed Language Writing Systems*
+1. *Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure*
+2. *Review Procedure for the Full-Path Critique Framework*
+3. *A Layer-Based Evaluation of Signed Language Writing Systems*
 
 For the internal baseline:
 
@@ -29,4 +30,4 @@ For the constructive close:
 
 ## What To Expect
 
-The reviews are direct but not dismissive. They credit real strengths, name limits, and keep the review judgments tied to specific layers rather than global approval or rejection.
+The reviews are direct but not dismissive. They credit real strengths, name limits, and separate layer-level judgment from full-path judgment rather than relying on global approval or rejection.

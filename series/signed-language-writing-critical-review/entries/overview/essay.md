@@ -14,6 +14,8 @@ The series exists because this literature repeatedly runs into a small set of pr
 - alphabetic bias in the evaluation of signed writing
 - incomplete engagement with prior signed-writing practice and technical tooling
 - symbol-centric analysis that misses the written sign as the primary unit
+- full-path overextension, where a useful layer-level result is treated as if it solved the whole signed-text path
+- data-object collapse, where written signs, dictionary records, corpus items, media, datasets, rights, and permissions are treated as the same object
 - novelty claims that do not adequately engage existing work
 
 So this is not a neutral bibliography or a general catalog.
@@ -40,10 +42,10 @@ It gives the series unusually close knowledge of the technical stack, but it als
 The series handles that risk structurally rather than pretending it does not exist:
 
 - the framework is applied to Sutton SignWriting and Formal SignWriting before it is used only on external work
-- review judgments are made by layer rather than by global approval or rejection
+- review judgments distinguish layer-level success from full-path adequacy
 - useful contributions from other systems are preserved even when their larger claims are narrowed
 - standards success is separated from writing-system completeness and production compatibility
-- the constructive synthesis keeps alternative systems in view for transcription, pedagogy, handwriting, semantic modeling, and local practice
+- the constructive synthesis keeps alternative systems in view for transcription, pedagogy, handwriting, semantic modeling, data, tooling, and local practice
 
 The result is not a view from nowhere.
 
@@ -74,6 +76,11 @@ Throughout the series, a few terms are used consistently:
 - *durable signed text* for signed text that persists across time and supports revisiting, revision, citation, search, teaching, and software processing
 - *technical infrastructure* for alphabets, encodings, fonts, editors, corpora, datasets, renderers, tools, and platforms
 - *human and institutional infrastructure* for teachers, communities of practice, publishing habits, stewardship, funding, policy, and institutions
+- *adjacent-purpose systems* for notation, transcription, semantic representation, corpus annotation, rendering, datasets, or other systems that may be useful without satisfying full-path writing infrastructure requirements
+
+This is reference terminology, not proprietary terminology.
+
+The terms are used because SignWriting has made these distinctions concrete through writing, encoding, rendering, search, dictionary, corpus, standards, and stewardship work. Other systems may use different terms, but serious comparison requires mapping their terms to these distinctions or explaining why the distinctions do not apply.
 
 The term *pathways* is also used more carefully across the project:
 
@@ -91,16 +98,18 @@ Its governing principle is simple:
 
 In practice, that means each review asks:
 
-1. what layer the work addresses
-2. what representational target it assumes
-3. what structural unit it treats as primary
-4. how it handles space, linearization, and text structure
+1. what the source claims to do
+2. what layer or adjacent-purpose category it belongs to
+3. what primary unit and representational target it assumes
+4. how it handles space, sequence, text structure, and data objects
 5. what it accounts for in existing signed-writing practice and infrastructure
-6. what its evidence actually supports
+6. what its evidence, maturity, authority, and prior-work engagement support
+7. what layer-level judgment and full-path judgment follow
 
 Readers who want the full methodological version can begin with:
 
-- *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
+- *Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure*
+- *Review Procedure for the Full-Path Critique Framework*
 
 Most readers do not need to start there.
 
@@ -112,7 +121,7 @@ The series has five main parts.
 
 These define the review method and its main distinctions.
 
-- *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
+- *Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure*
 
 ### 2. Internal baseline entries
 
@@ -142,9 +151,9 @@ These entries are where the recurring critique categories become concrete.
 
 These entries widen the frame beyond the immediate SignWriting debate and ask whether broader writing theory can actually accommodate signed writing.
 
-- *Meletis and Durscheid (2022): Writing Systems and Their Use*
+- *Meletis and Dürscheid (2022): Writing Systems and Their Use*
 
-The Meletis and Durscheid entry also includes a companion paper:
+The Meletis and Dürscheid entry also includes a companion paper:
 
 - *Signed Writing as a Pressure Test for General Writing Theory*
 
@@ -169,14 +178,14 @@ Use this path if you want the shortest route into the series without beginning f
 
 ### Fastest path into the method
 
-1. *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
+1. *Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure*
 2. *A Layer-Based Evaluation of Signed Language Writing Systems*
 
 Use this path if you want the shortest route from method to comparative demonstration.
 
 ### Best path for understanding the series baseline
 
-1. *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
+1. *Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure*
 2. *Sutton SignWriting and Formal SignWriting Through the Framework*
 3. *Official Unicode SignWriting: The Character Problem and the Written-Sign Problem*
 
@@ -194,8 +203,8 @@ Use this path if you want to move from the comparative overview into the main ex
 
 ### Best path for broader theory
 
-1. *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation*
-2. *Meletis and Durscheid (2022): Writing Systems and Their Use*
+1. *Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure*
+2. *Meletis and Dürscheid (2022): Writing Systems and Their Use*
 3. *Signed Writing as a Pressure Test for General Writing Theory*
 
 Use this path if your immediate question is how signed writing bears on general writing-system theory.
@@ -230,12 +239,18 @@ Its role is evaluative:
 
 Across the entries, recurring failure modes are named and reused so that the reviews can be compared without flattening their differences.
 
-- **Infrastructure Awareness**
-- **Alphabetic Bias**
 - **Level Confusion**
+- **Full-Path Overextension**
 - **Symbol-Centric Modeling**
-- **Insufficient Engagement With Prior Work**
 - **Forced Linearization**
+- **Character-Inventory Substitution**
+- **Renderer Substitution**
+- **Alphabetic Bias**
+- **Incomplete Infrastructure Engagement**
+- **Evidence Overextension**
+- **Authority Conflation**
+- **Incomplete Prior-Work Engagement**
+- **Data-Object Collapse**
 
 These categories are not substitutes for argument.
 

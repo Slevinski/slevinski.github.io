@@ -3,11 +3,9 @@
   "number": 3,
   "title": "A Layer-Based Evaluation of Signed Language Writing Systems",
   "subtitle": "A comparative demonstration across Filhol, Grushkin, Thiessen, and Unicode SignWriting",
-  "summary": "A bounded four-case comparison showing how layer discipline clarifies signed language writing, encoding, and standards claims.",
-  "abstract": "A bounded comparison of Filhol (2020), Grushkin (2017), Thiessen (2011), and Unicode SignWriting demonstrates a recurring pattern: each work identifies a real part of the signed-writing problem, but the insight is often displaced onto the wrong layer or pressed too far toward becoming the whole answer. Signed writing analysis becomes clearer when semantic representation, literacy design, symbol analysis, character standardization, writing systems, text models, and rendering are kept distinct. The conclusion is methodological as much as evaluative: the field needs layer discipline in order to preserve valid insights without mistaking them for complete solutions.",
-  "synopsis": "The review framework is demonstrated across a bounded core comparison set: Filhol (2020), Grushkin (2017), Thiessen (2011), and Unicode SignWriting. These works identify real parts of the signed-writing problem but repeatedly displace the writing problem onto another layer; the comparative matrix gives the pattern in compact form.",
-  "cover_image": "/series/signed-language-writing-critical-review/entries/a-layer-based-evaluation-of-signed-language-writing-systems/cover.png",
-  "cover_image_alt": "Four case folders passing through stacked evaluation layers beside a comparative matrix, an open book, and a magnifying glass.",
+  "summary": "A bounded four-case comparison showing how layer-level and full-path judgments clarify signed language writing, encoding, and standards claims.",
+  "abstract": "A bounded comparison of Filhol (2020), Grushkin (2017), Thiessen (2011), and Unicode SignWriting demonstrates a recurring pattern: each work identifies a real part of the signed-writing problem, but the insight is often displaced onto the wrong layer or pressed too far toward becoming the whole answer. Signed writing analysis becomes clearer when semantic representation, literacy design, symbol analysis, character standardization, writing systems, text models, rendering, evidence, and infrastructure are kept distinct. The conclusion is methodological as much as evaluative: the field needs layer-level and full-path judgments in order to preserve valid insights without mistaking them for complete solutions.",
+  "synopsis": "The review framework is demonstrated across a bounded core comparison set: Filhol (2020), Grushkin (2017), Thiessen (2011), and Unicode SignWriting. These works identify real parts of the signed-writing problem but repeatedly displace the writing problem onto another layer; the comparative matrix gives the layer-level and full-path pattern in compact form.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -25,10 +23,10 @@
       "bullets": [
         "Four representative cases",
         "Not a complete survey",
-        "A test of layer discipline",
+        "A test of layer-level and full-path judgment",
         "A demonstration of recurring patterns"
       ],
-      "speech": "This paper is a bounded comparison, not a complete survey. It uses Filhol, Grushkin, Thiessen, and Unicode SignWriting to demonstrate how layer discipline clarifies signed-language writing, encoding, and standards claims.",
+      "speech": "This paper is a bounded comparison, not a complete survey. It uses Filhol, Grushkin, Thiessen, and Unicode SignWriting to demonstrate how layer-level and full-path judgments clarify signed-language writing, encoding, and standards claims.",
       "notes": "Set the scope tightly.",
       "image_prompts": {
         "concrete": "Comparative review slide showing four cases: Filhol, Grushkin, Thiessen, and Unicode SignWriting inside a bounded demonstration set",
@@ -75,18 +73,18 @@
       "id": "why-it-matters",
       "title": "Why It Matters",
       "kicker": "4",
-      "summary": "Layer discipline preserves valid insights while preventing incomplete solutions from becoming field-wide conclusions.",
+      "summary": "Layer-level and full-path judgments preserve valid insights while preventing incomplete solutions from becoming field-wide conclusions.",
       "bullets": [
         "Avoid false dismissals",
         "Avoid overclaiming partial solutions",
         "Preserve useful work",
         "Build better research and infrastructure"
       ],
-      "speech": "The conclusion is that the field needs layer discipline. Without it, useful insights are either dismissed too quickly or overextended into complete solutions. With it, critique can preserve what is valid and build better infrastructure.",
+      "speech": "The conclusion is that the field needs separate layer-level and full-path judgments. Without that separation, useful insights are either dismissed too quickly or overextended into complete solutions. With it, critique can preserve what is valid and build better infrastructure.",
       "notes": "Close with constructive value.",
       "image_prompts": {
-        "concrete": "Constructive review slide showing layer discipline preventing false dismissal and overclaiming while preserving useful work",
-        "abstract": "Layer discipline as a stabilizing bridge between critique and construction"
+        "concrete": "Constructive review slide showing layer-level and full-path judgment preventing false dismissal and overclaiming while preserving useful work",
+        "abstract": "Layer-level and full-path judgment as a stabilizing bridge between critique and construction"
       }
     }
   ],

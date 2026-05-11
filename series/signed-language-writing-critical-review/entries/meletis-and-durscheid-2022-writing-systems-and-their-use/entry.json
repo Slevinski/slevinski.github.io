@@ -1,12 +1,10 @@
 {
   "slug": "meletis-and-durscheid-2022-writing-systems-and-their-use",
   "number": 9,
-  "title": "Meletis and Durscheid (2022): Writing Systems and Their Use",
+  "title": "Meletis and Dürscheid (2022): Writing Systems and Their Use",
   "subtitle": "A review of a major comparative writing theory and its typological limit with signed language writing",
-  "summary": "Meletis and Durscheid advance comparative writing theory while exposing typological limits around signed-language writing.",
-  "synopsis": "Writing Systems and Their Use is one of the strongest recent comparative theories of writing. The book meaningfully advances grapholinguistics by rejecting crude speech-dependence, giving writing internal structure, and taking visual form and typological self-critique seriously; the framework still appears typologically incomplete once signed language writing and SignWriting are treated as real writing on their own terms.",
-  "cover_image": "/series/signed-language-writing-critical-review/entries/meletis-and-durscheid-2022-writing-systems-and-their-use/cover.png",
-  "cover_image_alt": "A comparative writing-theory desk with books, typology cards, visual-form diagrams, and a signed-language writing plane.",
+  "summary": "Meletis and Dürscheid are strong at general grapholinguistics but typologically incomplete for signed-language writing.",
+  "synopsis": "Writing Systems and Their Use is one of the strongest recent comparative theories of writing. The book meaningfully advances grapholinguistics by rejecting crude speech-dependence, giving writing internal structure, and taking visual form and typological self-critique seriously. Its layer-level strength remains clear, while its full-path adequacy is limited once signed language writing and SignWriting are treated as real writing on their own terms.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -30,7 +28,7 @@
       "speech": "This review treats Writing Systems and Their Use as one of the strongest recent comparative theories of writing. Its value is real: it moves beyond weak speech-dependence, gives writing internal structure, and takes materiality and typology seriously.",
       "notes": "Open with respect for the source.",
       "image_prompts": {
-        "concrete": "Grapholinguistics review slide showing Meletis and Durscheid as a major theory source for writing systems, materiality, autonomy, and typology",
+        "concrete": "Grapholinguistics review slide showing Meletis and Dürscheid as a major theory source for writing systems, materiality, autonomy, and typology",
         "abstract": "A broad writing theory framework meeting signed-language writing"
       }
     },
@@ -84,8 +82,8 @@
       "speech": "The platform relevance is that this major theory source helps clarify exactly where SignWriting presses grapholinguistics: plane-based organization, authored space, and the possible need for a term like kinematography.",
       "notes": "Close by linking to Writing and Representation.",
       "image_prompts": {
-        "concrete": "Platform relevance slide separating semantic representation, signed writing, formal text models, and machine-readable infrastructure",
-        "abstract": "Several related layers aligned without collapsing into one another"
+        "concrete": "Platform relevance slide connecting grapholinguistic theory to plane-based writing, authored space, kinematography, and signed-writing typology",
+        "abstract": "General writing theory pressured by plane-based signed writing"
       }
     }
   ],

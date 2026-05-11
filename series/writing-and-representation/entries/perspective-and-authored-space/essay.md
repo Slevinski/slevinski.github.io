@@ -455,7 +455,7 @@ From here, the strongest next moves are:
 - Coulmas, F. (1989). *The Writing Systems of the World*. Blackwell.
 - Daniels, P. T., & Bright, W. (Eds.). (1996). *The World's Writing Systems*. Oxford University Press.
 - Goodman, N. (1976). *Languages of Art: An Approach to a Theory of Symbols* (2nd ed.). Hackett.
-- Meletis, D., & Durscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
+- Meletis, D., & Dürscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
 - Sampson, G. (1985). *Writing Systems: A Linguistic Introduction*. Stanford University Press.
 - Sutton, V. (1995). *Lessons in SignWriting*. Deaf Action Committee for SignWriting.
 - Sutton, V. (2010). *ISWA 2010: International SignWriting Alphabet*. Center for Sutton Movement Writing.

@@ -12,9 +12,15 @@
 - License: `CC BY 4.0`
 - Creator: `Steve Slevinski`
 - Publication year: `2026`
+- Publication date: `2026-__-__`
+- Publisher: `Zenodo`
 - Resource type: `Publication`
+- Publication type: `Report`
+- Access: `Open`
+- Language: `English`
 - Release status: reserved draft
 - Living site: `https://steveslevinski.me/#series/unicode-and-signwriting`
+- Related identifiers: `isPartOf` `10.5281/zenodo.20041043`; `isDescribedBy` `https://steveslevinski.me/#series/unicode-and-signwriting`
 
 ## Series Description
 
@@ -22,7 +28,7 @@
 
 ## Repository Description
 
-Technical briefings and documentary notes on Unicode, Sutton SignWriting, compatibility, current production encodings, and standards-facing next steps.
+Technical briefings and documentary notes on Unicode, Sutton SignWriting, compatibility, production encodings documented in the v1.0.0 release, and standards-facing next steps.
 
 ## Keywords
 
@@ -59,9 +65,9 @@ Slevinski, S. (2026). Unicode and SignWriting (v1.0.0). Zenodo. https://doi.org/
 | `Source Register` | `entries/chronology-and-record/source-register.md` | series-only | none | Companion to `Chronology and Record`; may be uploaded as supplement. |
 | `Wikimedia Brief` | `entries/wikimedia-brief/essay.md` | artifact-doi-possible | pending decision | Platform-facing technical briefing candidate. |
 | `Discussion Outline` | `entries/wikimedia-brief/meeting-notes.md` | series-only | none | Companion to `Wikimedia Brief`; may be uploaded as supplement. |
-| `UTC Technical Note` | `entries/utc-technical-note/essay.md` | artifact-doi-planned | planned | Strongest standalone DOI candidate in this series. |
-| `Compatibility Matrix` | `entries/utc-technical-note/compatibility-matrix.md` | series-only | none | Companion to `UTC Technical Note`; may be uploaded as supplement. |
-| `Requested Work` | `entries/utc-technical-note/requested-work.md` | series-only | none | Companion to `UTC Technical Note`; may be uploaded as supplement. |
+| `Draft UTC-Facing Technical Note` | `entries/utc-technical-note/essay.md` | artifact-doi-planned | planned | Strongest standalone DOI candidate in this series. |
+| `Compatibility Matrix` | `entries/utc-technical-note/compatibility-matrix.md` | series-only | none | Companion to `Draft UTC-Facing Technical Note`; may be uploaded as supplement. |
+| `Requested Work` | `entries/utc-technical-note/requested-work.md` | series-only | none | Companion to `Draft UTC-Facing Technical Note`; may be uploaded as supplement. |
 
 ## DOI Notes
 
@@ -69,7 +75,7 @@ This series should receive a series DOI as an independent technical companion re
 
 The strongest artifact DOI candidates are:
 
-- `UTC Technical Note`
+- `Draft UTC-Facing Technical Note`
 - `Chronology and Record`
 
 Other technical briefings can remain series-contained unless a standards, developer, or platform audience needs a stable standalone citation.

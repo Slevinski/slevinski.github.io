@@ -22,9 +22,9 @@ Research transcription can help specialists analyze language.
 
 But those tools do not do the same job as ordinary writing. They do not give signers the same kind of direct written pathway that print gives many spoken languages or that Braille gives blind readers.
 
-SignWriting matters because it answers that missing layer.
+SignWriting matters because it offers one serious answer to that missing layer.
 
-It can represent handshape, movement, facial marking, and spatial structure in a form that can be read, written, revised, searched, taught, cited, and built into tools.
+It can represent handshape, movement, facial marking, and spatial structure in a form that can be read, written, revised, taught, cited, and, through compatible technical infrastructure, searched and built into tools.
 
 That does not make it a replacement for bilingual literacy, video, or community practice. It makes it a written pathway for signed language itself.
 
@@ -83,6 +83,16 @@ The rest of the Sutton SignWriting platform carries the deeper specialist work.
 Those series are not required before reading Sutton SignWriting Foundations.
 
 They are where the questions go next.
+
+## Documentation Path
+
+This Foundations series gives the conceptual entry point. The rest of the platform carries the detailed documentation:
+
+- language development, literacy pathways, and reading questions are developed in *Sutton SignWriting Language and Literacy Research*
+- public-use evidence, adoption limits, and country-level anchors are documented in *Sutton SignWriting Evidence and Adoption*
+- plane-based writing, authored space, and writing-system theory are developed in *Writing and Representation in Sutton SignWriting*
+- search, encoding, symbol identity, validation, layout, rendering, and software processing are documented in *Formal SignWriting* and *Unicode and SignWriting*
+- continuity, stewardship, institutional support, and program design are developed in *Sutton SignWriting Infrastructure and Program*
 
 ## Why This Matters
 

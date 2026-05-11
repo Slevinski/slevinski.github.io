@@ -1,6 +1,6 @@
 # Signed Writing as a Pressure Test for General Writing Theory
 
-**A companion paper to the review of Meletis and Durscheid (2022)**
+**A companion paper to the review of Meletis and Dürscheid (2022)**
 
 The review of *Writing Systems and Their Use* asks a source-centered question:
 
@@ -10,7 +10,7 @@ This companion asks the broader theory-facing version:
 
 - what does signed writing reveal about the present limits of general writing theory when one of its strongest recent grapholinguistic statements is used as the lead case?
 
-The claim of this paper is not that Meletis and Durscheid fail in any simple or dismissive sense. On the contrary, they are useful precisely because the book is strong. It gives writing internal structure, treats the autonomy question more carefully than older work, takes materiality seriously, and handles typology with unusual self-awareness.
+The claim of this paper is not that Meletis and Dürscheid fail in any simple or dismissive sense. On the contrary, they are useful precisely because the book is strong. It gives writing internal structure, treats the autonomy question more carefully than older work, takes materiality seriously, and handles typology with unusual self-awareness.
 
 That is what makes it the right lead case.
 
@@ -18,7 +18,7 @@ Weak theories do not pressure the field very much. They fail too crudely. A stro
 
 So the purpose of this paper is not to repeat the review. It is to argue that signed writing is not merely another example to be accommodated by grapholinguistics. It is a pressure test for what grapholinguistics can presently describe at all.
 
-## Why Meletis and Durscheid is the right lead case
+## Why Meletis and Dürscheid is the right lead case
 
 There are at least three reasons this book is the right anchor for a broader theory-facing companion.
 
@@ -55,7 +55,7 @@ That is why signed writing should be treated not as a marginal example but as a 
 
 ## Pressure point 1: autonomy is stronger than many theories can comfortably admit
 
-Modern grapholinguistics has already moved beyond the crudest speech-dependence models. Meletis and Durscheid help make that move explicit by treating writing as a structured object of study rather than a mere derivative shell.
+Modern grapholinguistics has already moved beyond the crudest speech-dependence models. Meletis and Dürscheid help make that move explicit by treating writing as a structured object of study rather than a mere derivative shell.
 
 That is real progress.
 
@@ -118,7 +118,7 @@ That again suggests not that grapholinguistics is useless, but that it may still
 
 This is one of the clearest places where signed writing exposes the present limit of otherwise strong theory.
 
-Modern grapholinguistics is much better than older accounts at recognizing that writing is visual, material, and spatial. Meletis and Durscheid are good on this. They discuss:
+Modern grapholinguistics is much better than older accounts at recognizing that writing is visual, material, and spatial. Meletis and Dürscheid are good on this. They discuss:
 
 - graphs and basic shapes
 - layout
@@ -217,7 +217,7 @@ General writing theory often relies, directly or indirectly, on psycholinguistic
 - phonology-heavy tasks
 - English-centered experimental traditions
 
-Meletis and Durscheid are better than most in acknowledging this problem. But acknowledgment is not the same as resolution.
+Meletis and Dürscheid are better than most in acknowledging this problem. But acknowledgment is not the same as resolution.
 
 If signed writing depends on different units, different perceptual chunking, and different relations between spatial composition and recognition, then grapholinguistic reading theory cannot simply treat the signed case as an application of already adequate models. It has to ask whether the dominant evidence base was theory-forming only because the scripts under study were too narrow a sample.
 
@@ -247,7 +247,7 @@ It should be used to improve it.
 
 ## Why this should remain a companion and not replace the review
 
-The review of Meletis and Durscheid does a different job and should remain disciplined:
+The review of Meletis and Dürscheid does a different job and should remain disciplined:
 
 - what the book says
 - what it gets right

@@ -1,0 +1,108 @@
+{
+  "slug": "encoding-authority-and-stability",
+  "number": 10,
+  "title": "Encoding Authority and Stability",
+  "subtitle": "Computational validity, linguistic judgment, practical finality, and forkability",
+  "summary": "A governance note explaining that FSW/SWU are stable author-stewarded encodings for computational validity, not claims of linguistic or community authority.",
+  "synopsis": "Formal SignWriting is author-stewarded infrastructure. Its authority is formal and representational: it defines well-formed structures for parsing, rendering, search, sorting, and interchange. It does not decide good spelling, local preference, reader judgment, community approval, or AI deployment. The supported Sutton SignWriting production path remains the established FSW/SWU model because it has reached practical production maturity, while open licensing permits use, critique, rejection, and forks.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "governance-note",
+    "public_label": "Governance Note",
+    "public_slug": "primary",
+    "publication_designation": "Governance Note"
+  },
+  "slides": [
+    {
+      "id": "core-boundary",
+      "title": "Core Boundary",
+      "kicker": "1",
+      "summary": "Formal SignWriting defines well-formed structures for computation, not good or approved spelling for readers.",
+      "image_prompts": {
+        "concrete": "Technical governance slide separating computer validity from reader judgment, with FSW and SWU at the stable center",
+        "abstract": "Two clearly separated columns: well formed for software and well written for readers"
+      },
+      "bullets": [
+        "Well-formed for the computer",
+        "Not spelling authority",
+        "Not community authority",
+        "Not deployment authority"
+      ],
+      "speech": "The central boundary is simple. Formal SignWriting decides what is well-formed for the computer. It does not decide what is well-written for the reader.",
+      "notes": "This slide carries the thesis."
+    },
+    {
+      "id": "what-authority-covers",
+      "title": "What Encoding Authority Covers",
+      "kicker": "2",
+      "summary": "Encoding authority covers grammar, valid structure, parsing, rendering, search, sorting, interchange, and compatibility.",
+      "image_prompts": {
+        "concrete": "Formal SignWriting encoding map showing grammar, parsing, rendering, search, sorting, interchange, and compatibility connected to one stable model",
+        "abstract": "A technical hub with stable spokes to software functions"
+      },
+      "bullets": [
+        "Valid text structure",
+        "Parsing and rendering",
+        "Search and sorting",
+        "Interchange and compatibility"
+      ],
+      "speech": "Encoding authority is real, but it is bounded. It covers the formal model: grammar, valid structures, parsing, rendering, search, sorting, interchange, and compatibility with the established production path.",
+      "notes": "Make the authority concrete before narrowing it."
+    },
+    {
+      "id": "what-it-does-not-cover",
+      "title": "What It Does Not Cover",
+      "kicker": "3",
+      "summary": "The encoding does not decide spelling quality, local preference, community approval, corpus policy, media consent, or AI safety.",
+      "image_prompts": {
+        "concrete": "Boundary slide showing spelling, community norms, corpus governance, signer media consent, and AI deployment outside the encoding box",
+        "abstract": "Responsibility zones outside a stable encoding boundary"
+      },
+      "bullets": [
+        "Good or preferred spelling",
+        "Local and community practice",
+        "Corpus and dataset governance",
+        "AI deployment safety"
+      ],
+      "speech": "Formal SignWriting does not decide whether a spelling is good, preferred, local, standard, poetic, readable, or community-approved. It also does not decide corpus governance, media consent, dataset permissions, or AI deployment safety.",
+      "notes": "This prevents overclaiming."
+    },
+    {
+      "id": "stable-supported-path",
+      "title": "Stable Supported Path",
+      "kicker": "4",
+      "summary": "FSW and SWU are stable, mature, and no longer under ordinary design revision as the supported Sutton SignWriting production encoding.",
+      "image_prompts": {
+        "concrete": "Stable software road map with FSW and SWU as the supported production path and optional alternate paths branching outward",
+        "abstract": "A firm central path with optional branches"
+      },
+      "bullets": [
+        "Stable production model",
+        "Practical finality",
+        "Documentation and tools continue",
+        "Supported path remains FSW/SWU"
+      ],
+      "speech": "Finality here means stable, mature, and no longer under ordinary design revision. It is a stewardship judgment, not a refusal of critique. Future work concerns documentation, tooling, preservation, datasets, access, research use, and bridge support, not redesign of the core model.",
+      "notes": "Use practical finality rather than absolute finality."
+    },
+    {
+      "id": "voluntary-and-forkable",
+      "title": "Voluntary And Forkable",
+      "kicker": "5",
+      "summary": "Open licensing permits use, critique, rejection, alternatives, and forks while preserving a clear supported model.",
+      "image_prompts": {
+        "concrete": "Open infrastructure slide showing use, study, critique, rejection, alternative implementations, and forks around a maintained supported path",
+        "abstract": "Open branches around a stable maintained center"
+      },
+      "bullets": [
+        "Use it",
+        "Ignore it",
+        "Build alternatives",
+        "Fork under license"
+      ],
+      "speech": "The supported path does not compel adoption. Communities, institutions, researchers, and developers may use it, ignore it, critique it, reject it, build alternatives, or fork it under the applicable licenses.",
+      "notes": "Close by showing the model is stable without being coercive."
+    }
+  ]
+}

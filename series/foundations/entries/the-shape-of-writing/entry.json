@@ -6,8 +6,6 @@
   "summary": "Writing is not inherently linear, and SignWriting is a strong case of plane-based writing.",
   "abstract": "Writing is not inherently linear, and signed language does not need to imitate the line in order to be written. Point, line, and plane provide a simple lens for seeing how writing systems organize language in space: some written forms concentrate structure into bounded units, some depend mainly on ordered sequence, and some make spatial composition part of authorship. Sutton SignWriting is a strong case of plane-based writing because writers compose symbols spatially inside a written sign rather than merely submitting a sequence for later layout. Human writing and machine encoding remain distinct: software may need serialized text, but serialization does not prove that the writing system itself is linear.",
   "synopsis": "Most people think writing is a line because most modern literacy is taught that way. Writing can also work through bounded units and spatial composition, so signed language does not need to be forced into a line in order to be written. SignWriting is a strong case of plane-based writing built on a stable alphabet, with Formal SignWriting showing how that writing can remain processable as text without losing symbol identity or spatial composition.",
-  "cover_image": "/series/foundations/entries/the-shape-of-writing/cover.png",
-  "cover_image_alt": "An open book where a point becomes a line and unfolds into a plane of spatially arranged signed-writing symbols.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",

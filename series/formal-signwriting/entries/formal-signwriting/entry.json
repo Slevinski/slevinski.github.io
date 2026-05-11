@@ -4,8 +4,6 @@
   "title": "Formal SignWriting",
   "subtitle": "The two-part word, sign text, and the core model",
   "summary": "A Formal SignWriting word combines a spatial signbox with an optional temporal prefix so sign text can be stored, searched, checked, and processed.",
-  "cover_image": "/series/formal-signwriting/entries/formal-signwriting/cover.png",
-  "cover_image_alt": "An abstract temporal sequence flows into a central spatial signbox, showing one Formal SignWriting word carrying time and space.",
   "synopsis": "Formal SignWriting models a sign as a structured word with a required spatial signbox and an optional temporal prefix. The core model shows how theory-based sequence and spatial composition survive together in one text form that software can work with.",
   "essay": "essay.md",
   "primary_artifact": {

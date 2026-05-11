@@ -32,6 +32,8 @@ It is pathway type.
 
 This essay uses a four-pathway model to organize the argument.
 
+The model is a public-facing way to keep language access and literacy infrastructure separate. It is not meant to replace the more detailed developmental, linguistic, or educational categories used in specialist research.
+
 Human language and literacy depend on at least four kinds of pathways:
 
 - **language input pathways**: how language reaches the brain
@@ -302,11 +304,11 @@ It provides:
 - readable signed language text
 - writable signed language text
 - direct representation of handshape, movement, facial expression, and spatial organization
-- structured and searchable text
+- structured text that can be searched through compatible technical models
 - shareable and revisable written forms
 - reusable representations for corpora, annotation, and computation
 
-Brazil is the clearest empirical anchor for this claim.
+The Evidence and Adoption series treats Brazil as the clearest empirical anchor for this claim.
 
 The public record documents SignWriting use across schools, universities, curricula, research activity, and reader-centered studies in Brazilian Libras contexts. That record should not be overstated as a complete current census or as proof of every literacy outcome, but it does show that SignWriting has functioned inside real educational and institutional settings rather than only as a theoretical proposal.
 
@@ -348,7 +350,7 @@ It points toward:
 
 If language is not reducible to sound,
 and if literacy depends on durable readable and writable systems,
-then signed languages require written pathways in order to participate more fully in education, research, and technology.
+then signed languages need durable written pathways in order to gain the full advantages of reusable text in education, research, software, corpora, and long-term infrastructure.
 
 SignWriting provides such a pathway.
 

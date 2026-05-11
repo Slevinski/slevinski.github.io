@@ -8,7 +8,7 @@ If the series is right about the field's recurring problems, then the next task 
 
 This paper therefore shifts the emphasis from critique to construction. It treats SignWriting and Formal SignWriting as the strongest currently documented path to durable signed-language text infrastructure, while also treating that position as the beginning of a serious program rather than its conclusion.
 
-For the broader theory-facing bridge behind this constructive agenda, see *Signed Writing as a Pressure Test for General Writing Theory*, the companion paper attached to the Meletis and Durscheid review.
+For the broader theory-facing bridge behind this constructive agenda, see *Signed Writing as a Pressure Test for General Writing Theory*, the companion paper attached to the Meletis and Dürscheid review.
 
 ## The point of construction
 
@@ -26,6 +26,7 @@ The more serious questions are constructive:
 - what text infrastructure already exists
 - what remains incomplete
 - what evidence is still needed
+- what authority, data-governance, and stewardship boundaries must be named
 - what comparisons would actually move the field forward
 - and how signed writing can be made easier to use, study, preserve, and extend
 
@@ -83,7 +84,7 @@ It is a claim about comparative completeness at present.
 
 A constructive field does not flatten alternatives into irrelevance.
 
-Other systems may remain valuable for:
+Adjacent-purpose systems may remain valuable for:
 
 - transcriptional precision
 - pedagogical bridge use
@@ -154,6 +155,7 @@ That means:
 - preserving earlier materials
 - supporting text reuse across dictionaries, publications, and research
 - making corpora suitable for both human reading and computational analysis
+- keeping written signs, lexical records, media records, corpus records, dataset items, and rights metadata distinct
 
 This is where SignWriting's current strengths matter most. A real text model and a real writing practice make corpus work possible in a way that video-only ecosystems do not.
 
@@ -162,6 +164,7 @@ But corpus growth does not happen automatically. It depends on:
 - tools
 - curation
 - metadata
+- rights and consent practices
 - maintenance
 - and institutional continuity
 
@@ -317,6 +320,7 @@ A serious next-phase program would tie together:
 - lower-friction writing tools
 - interoperability work
 - standards engagement
+- data governance and stewardship
 - handwriting and ordinary-use study
 - and clearer comparative work on alternative systems by function
 

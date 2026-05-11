@@ -2,6 +2,13 @@
 
 **A review of real structural insight placed one level too low**
 
+Reviewed source:
+
+- Stuart M. Thiessen, *A Grammar of SignWriting*
+- M.A. thesis, University of North Dakota
+- Year: 2011
+- Stable record: `https://commons.und.edu/theses/4458/`
+
 Stuart M. Thiessen's thesis is one of the stronger early engagements with SignWriting because it takes the writing system seriously as writing.
 
 It does not dismiss SignWriting as merely pictorial, merely pedagogical, or merely marginal. It treats it as a writing system with internal structure, recurring units, non-arbitrary composition, and computational consequences.
@@ -10,10 +17,13 @@ Thiessen gets much closer than many other writers to the real problem. He recogn
 
 At the same time, the thesis still organizes its main analysis around symbol inventory, symbol classes, symbol behavior, and symbol combination. It reaches toward sign structure and encoding, especially in its final chapter, but it does so from a symbol-first base and only provisionally.
 
-Layer-specific classification:
+Framework judgment:
 
-- `Correct and Useful` as script-internal descriptive and computational work
-- `Partially Correct` overall because the analysis remains too symbol-centered at the top level
+| Field | Judgment |
+| --- | --- |
+| Layer-level judgment | Correct and useful as script-internal descriptive and computational work. |
+| Full-path judgment | Structurally incomplete where symbol categories remain too central and the written sign is not yet established as the governing text unit. |
+| Main layer risk | Symbol-centric modeling, with the strongest explanatory weight placed one abstraction level too low. |
 
 Refinement:
 

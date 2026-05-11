@@ -49,10 +49,24 @@ S10000 - C P10 G_blue_ D_red,Cyan_ Z1.1 -- primary ! cursor !
 At the paper level, the useful syntax model is:
 
 ```text
-target "-" style-directives ("--" css-class)? ("!" id-value "!")?
+target "-" whole-sign-style "-" symbol-level-color "-" class-and-id
 ```
 
 The initial target identifies what is being styled. It may be a whole sign, a symbol key, or another supported output target depending on the renderer.
+
+After the target, the style string has three hyphen-delimited sections:
+
+- **whole-sign style**, for whole-sign color, padding, background, detail color, and scale directives
+- **symbol-level color**, for per-symbol color overrides
+- **class and id**, for CSS class hooks and an optional id hook
+
+The middle and final sections may be empty. In the compact example, there is no symbol-level color section, so the boundary between the whole-sign style section and the class-and-id section appears as `--`:
+
+```text
+S10000 - CP10G_blue_D_red,Cyan_Z1.1 - [empty] - primary!cursor!
+```
+
+The spaces in the explanatory forms are not serialized style-string separators. The serialized form is compact. Spaces are used only inside the class-name list, where they separate multiple CSS classes, such as `primary blinking`.
 
 The directives are compact presentation commands:
 
@@ -60,10 +74,11 @@ The directives are compact presentation commands:
 | --- | --- |
 | `C` | colorize the sign or target using default color behavior |
 | `P10` | apply padding of `10` units |
-| `G_blue_` | set the line or primary glyph color to `blue` |
-| `D_red,Cyan_` | set two-color output values, commonly line and fill colors |
+| `G_blue_` | set the background color to `blue` |
+| `D_red,Cyan_` | set detail colors: line `red` and fill `Cyan` |
 | `Z1.1` | scale output by `1.1` |
-| `--primary` | add a CSS class hook |
+| `D01_blue_` | apply a symbol-level color override in the middle section |
+| `primary blinking` | add multiple CSS class hooks in the final section |
 | `!cursor!` | add an id hook |
 
 This is a compact renderer-facing language rather than canonical sign grammar.

@@ -1,8 +1,8 @@
 # Sutton SignWriting Infrastructure and Program
 
-*Stewardship and program-design briefs for continuity, host structure, international participation, and shared infrastructure*
+*Stewardship and program-design briefs for continuity, host-structure requirements, international participation, shared infrastructure, and layered AI/data governance*
 
-This repository contains the stewardship, continuity, and program-design series of the Sutton SignWriting platform. It explains what already exists, what continuity risks remain, and what technical, human, institutional, and funding structures would make the work durable, citable, maintainable, and cumulative.
+This repository contains the stewardship, continuity, and program-design series of the Sutton SignWriting platform. It distinguishes what already exists, what continuity risks remain, and what technical, human, institutional, data-governance, and funding structures would make the work durable, citable, maintainable, and cumulative.
 
 The central stewardship question is:
 
@@ -38,6 +38,7 @@ Begin with:
 6. [International Shared Support](entries/international-shared-support/essay.md)
 7. [Country Ambassadors](entries/country-ambassadors/essay.md)
 8. [Relevant Precedents for SignWriting Infrastructure](entries/relevant-precedents-for-signwriting-infrastructure/essay.md)
+9. [SignWriting, AI, and Layered Stewardship](entries/signwriting-ai-and-layered-stewardship/essay.md)
 
 ## Contents
 
@@ -49,6 +50,7 @@ Begin with:
 - [International Shared Support](entries/international-shared-support/essay.md) - international participation without inappropriate obligations
 - [Country Ambassadors](entries/country-ambassadors/essay.md) - bounded local liaison role for outreach, translation, relationship-building, and follow-up
 - [Relevant Precedents for SignWriting Infrastructure](entries/relevant-precedents-for-signwriting-infrastructure/essay.md) - archive, language, data, and research-infrastructure models
+- [SignWriting, AI, and Layered Stewardship](entries/signwriting-ai-and-layered-stewardship/essay.md) - layer map for written signs, records, media, datasets, encodings, and AI deployment
 - [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
 ## Citation

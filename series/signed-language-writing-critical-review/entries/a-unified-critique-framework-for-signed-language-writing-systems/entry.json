@@ -1,13 +1,11 @@
 {
   "slug": "a-unified-critique-framework-for-signed-language-writing-systems",
   "number": 1,
-  "title": "A Unified Critique Framework for Signed Language Writing, Encoding, and Representation",
-  "subtitle": "A methodological guide for evaluating literature, proposals, and standards",
-  "summary": "A reusable evaluation framework for signed language writing systems, encodings, standards, and representation proposals.",
-  "abstract": "A reusable method for evaluating signed language writing systems, encodings, standards, and representation proposals requires keeping distinct layers from collapsing into a single judgment. Language, writing system, notation, semantic representation, encoding, rendering, empirical grounding, and institutional infrastructure should be separated before each source is judged. SignWriting-related literature makes those distinctions especially important because it exposes recurring confusions between symbols and written signs, serialization and writing, encoding and rendering, and technical feasibility and durable text infrastructure. The purpose is not to dismiss alternative approaches, but to preserve useful insights while identifying level confusion, overreach, and missing infrastructure requirements.",
-  "synopsis": "The shared evaluative framework distinguishes language, writing, notation, semantic representation, encoding, rendering, empirical grounding, and institutional infrastructure. It gives a reusable method for evaluating papers, theses, proposals, and standards without collapsing distinct layers into opinion.",
-  "cover_image": "/series/signed-language-writing-critical-review/entries/a-unified-critique-framework-for-signed-language-writing-systems/cover.png",
-  "cover_image_alt": "Transparent evaluation layers above source documents, SignWriting-like symbols, encoding grids, rendering diagrams, and institutional archive markers.",
+  "title": "Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure",
+  "subtitle": "A methodological guide for evaluating writing systems, notation systems, encodings, standards, tools, datasets, research proposals, and infrastructure claims",
+  "summary": "A reusable evaluation framework for signed-language writing systems, text infrastructure, encodings, standards, tools, datasets, and adjacent-purpose systems.",
+  "abstract": "A reusable method for evaluating signed-language writing systems, encodings, standards, tools, datasets, and representation proposals requires keeping system layers, adjacent-purpose categories, and evaluation axes from collapsing into a single judgment. The framework separates human writing, written convention, written units, spatial and compositional organization, technical text models, encoding, text operations, layout, rendering, tooling, literacy practice, governance, and stewardship before judging claims. It also treats notation, transcription, semantic representation, pedagogical bridge systems, corpus annotation, video records, character encodings, renderers, dictionary platforms, and AI datasets as adjacent-purpose systems that may be valuable without satisfying full-path signed-text infrastructure requirements. The purpose is not to dismiss narrower systems, but to preserve useful insights while identifying level confusion, full-path overextension, evidence mismatch, authority conflation, data-object collapse, and missing infrastructure requirements.",
+  "synopsis": "The shared evaluative framework distinguishes system layers from adjacent-purpose categories and evaluation axes. It gives a reusable method for evaluating papers, theses, proposals, tools, datasets, and standards without treating narrow usefulness as full-path adequacy or collapsing technical, human, evidentiary, data-governance, and stewardship questions into one opinion.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -16,58 +14,74 @@
     "public_slug": "primary",
     "publication_designation": "Working Framework"
   },
+  "companion_documents": [
+    {
+      "file": "review-procedure.md",
+      "label": "Review Procedure",
+      "slug": "review-procedure",
+      "artifact_type": "review-manual",
+      "publication_designation": "Companion Manual"
+    },
+    {
+      "file": "worksheet.md",
+      "label": "Reviewer Worksheet",
+      "slug": "worksheet",
+      "artifact_type": "review-worksheet",
+      "publication_designation": "Companion Worksheet"
+    }
+  ],
   "slides": [
     {
       "id": "why-a-framework",
       "title": "Why A Framework",
       "kicker": "1",
-      "summary": "Signed-language writing proposals are often misread when writing, notation, encoding, rendering, evidence, and infrastructure are collapsed.",
+      "summary": "Signed-language writing proposals are often misread when system layers, adjacent purposes, evidence, authority, and infrastructure are collapsed.",
       "bullets": [
         "Separate claims before judging them",
         "Preserve useful insights",
         "Identify level confusion",
         "Make critique reusable"
       ],
-      "speech": "This framework exists because signed-language writing proposals often mix layers. A source may be useful about notation, weak about writing, strong about encoding, or incomplete about infrastructure. The framework separates those questions before judging the work.",
+      "speech": "This framework exists because signed-language writing proposals often mix layers and purposes. A source may be useful as notation, weak as writing, strong as encoding, or incomplete as infrastructure. The framework separates those questions before judging the work.",
       "notes": "Open with method, not opposition.",
       "image_prompts": {
-        "concrete": "Methodology slide showing signed-language writing claims separated into writing, notation, encoding, rendering, evidence, and infrastructure layers",
+        "concrete": "Methodology slide showing signed-language writing claims separated into system layers, adjacent representational targets, evidence axes, and infrastructure requirements",
         "abstract": "Overlapping claims sorted into clear transparent layers"
       }
     },
     {
-      "id": "four-distinctions",
-      "title": "Four Distinctions",
+      "id": "threshold-distinctions",
+      "title": "Threshold Distinctions",
       "kicker": "2",
-      "summary": "The method depends on separating writing from encoding, symbols from written signs, serialization from linear writing, and notation from writing.",
+      "summary": "The method depends on separating writing from encoding and rendering, symbols from written signs, serialization from linear writing, adjacent purposes from full-path infrastructure, and data objects from rights layers.",
       "bullets": [
         "Writing system, encoding, and rendering differ",
         "A symbol is not a written sign",
         "Serialization is not linearization",
-        "Notation, writing, and semantic representation differ"
+        "Data objects and rights layers differ"
       ],
-      "speech": "Four distinctions make the framework necessary. Writing, encoding, and rendering are not the same. A symbol is not the same as a written sign. Serialization is not evidence that writing is linear. Notation, writing, semantic representation, and software representation are different targets.",
+      "speech": "The threshold distinctions make the framework necessary. Writing, encoding, and rendering are not the same. A symbol is not the same as a written sign. Serialization is not evidence that writing is linear. Adjacent-purpose systems are not failed writing systems. Written signs, lexical records, corpora, datasets, media, rights, and consent are also different objects.",
       "notes": "This is the core teaching slide.",
       "image_prompts": {
-        "concrete": "Four-panel academic slide separating writing from encoding, symbols from written signs, serialization from linear writing, and notation from writing",
-        "abstract": "Four precise distinctions opening a clean review framework"
+        "concrete": "Five-part academic slide separating writing from encoding, symbols from written signs, serialization from linear writing, adjacent-purpose systems from full-path writing infrastructure, and data objects from rights layers",
+        "abstract": "Five precise distinctions opening a clean review framework"
       }
     },
     {
       "id": "evaluation-layers",
       "title": "Evaluation Layers",
       "kicker": "3",
-      "summary": "The framework evaluates layer identification, representation model, structural unit analysis, spatial organization, text model, human-machine layers, evidence, and claims.",
+      "summary": "The framework evaluates system layers, adjacent-purpose categories, claim scope, evidence status, maturity, authority type, audience, completeness, interdependence, and prior-work engagement.",
       "bullets": [
         "Identify the layer being solved",
-        "Ask what structure is represented",
+        "Classify adjacent-purpose systems fairly",
         "Locate the primary written unit",
-        "Compare claims with evidence"
+        "Compare claims with evidence and authority"
       ],
-      "speech": "The framework asks recurring questions. What layer is the source solving? What representation model does it assume? What is the primary written unit? How does it treat space, text, machines, evidence, and institutional requirements?",
+      "speech": "The framework asks recurring questions. What layer is the source solving? Is it a full-path writing claim or an adjacent-purpose claim? What is the primary written unit? How does it treat space, text operations, evidence, maturity, authority, audience, prior work, and stewardship?",
       "notes": "Keep the list usable, not exhaustive.",
       "image_prompts": {
-        "concrete": "Layered evaluation checklist for signed-language writing systems, with rows for representation, structural unit, spatial organization, text model, evidence, and claims",
+        "concrete": "Layered evaluation checklist for signed-language writing systems, with rows for written convention, written units, text model, encoding, operations, layout, rendering, tooling, practice, governance, and evidence status",
         "abstract": "A vertical stack of review layers forming a reusable analytic instrument"
       }
     },
@@ -75,17 +89,18 @@
       "id": "output-classification",
       "title": "Output Classification",
       "kicker": "4",
-      "summary": "The framework classifies claims as correct and useful, partially correct, misleading, or fundamentally misframed.",
+      "summary": "The framework separates layer-level judgment from full-path judgment, then records what would be needed next.",
       "bullets": [
         "Correct and useful",
-        "Partially correct",
-        "Misleading",
-        "Fundamentally misframed"
+        "Useful but narrow",
+        "Strong partial path",
+        "Misleading when overextended",
+        "Full-path adequate"
       ],
-      "speech": "The framework also needs a way to classify outputs. Some claims are correct and useful. Some are partially correct. Some are misleading because they move a valid insight to the wrong layer. Some are fundamentally misframed. The classification keeps critique from becoming all-or-nothing.",
+      "speech": "The framework also needs a way to classify outputs. Some claims are correct and useful. Some are useful but narrow. Some are strong partial paths. Some become misleading when a real layer-level success is overextended into full-path adequacy. The classification keeps critique from becoming all-or-nothing and asks what would be needed next.",
       "notes": "This slide makes the method more usable. It gives readers a vocabulary for judgment without flattening every reviewed source into right or wrong.",
       "image_prompts": {
-        "concrete": "Four-category review classification slide: correct and useful, partially correct, misleading, and fundamentally misframed, shown as a scholarly decision tree",
+        "concrete": "Review classification slide with layer-level judgment, full-path judgment, useful but narrow contributions, overextended claims, and fundamentally misframed claims shown as a scholarly decision tree",
         "abstract": "A careful evaluation rubric sorting claims by usefulness and fit"
       }
     },
@@ -93,17 +108,17 @@
       "id": "final-principle",
       "title": "Final Principle",
       "kicker": "5",
-      "summary": "The goal is constructive critique: preserve what each source sees clearly while refusing to let one layer become the whole answer.",
+      "summary": "The goal is constructive critique: preserve what each source solves while refusing to let one layer become the whole answer.",
       "bullets": [
         "Credit real strengths",
         "Name the limits",
         "Avoid all-or-nothing judgments",
         "Use critique to build better infrastructure"
       ],
-      "speech": "The final principle is constructive. The review should preserve what each source sees clearly while refusing to let one layer become the whole answer. That is how critique becomes useful for future writing systems, tools, standards, and research.",
+      "speech": "The final principle is constructive. The review should preserve what each source actually solves while refusing to let one layer become the whole answer. That is how critique becomes useful for future writing systems, tools, standards, datasets, and research.",
       "notes": "Close with constructive purpose.",
       "image_prompts": {
-        "concrete": "Constructive critique slide showing useful source insights preserved while overextended claims are bounded by layer discipline",
+        "concrete": "Constructive critique slide showing useful source insights preserved while overextended claims are bounded by layer-level and full-path judgment",
         "abstract": "A review frame preserving valid insights while preventing one layer from becoming the whole answer"
       }
     }

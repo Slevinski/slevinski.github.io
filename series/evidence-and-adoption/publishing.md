@@ -12,13 +12,19 @@
 - License: `CC BY 4.0`
 - Creator: `Steve Slevinski`
 - Publication year: `2026`
+- Publication date: `2026-__-__`
+- Publisher: `Zenodo`
 - Resource type: `Publication`
+- Publication type: `Report`
+- Access: `Open`
+- Language: `English`
 - Release status: reserved draft
 - Living site: `https://steveslevinski.me/#series/evidence-and-adoption`
+- Related identifiers: `isPartOf` `10.5281/zenodo.20041043`; `isDescribedBy` `https://steveslevinski.me/#series/evidence-and-adoption`
 
 ## Series Description
 
-`Sutton SignWriting Evidence and Adoption` is the empirical series for documented use, institutional anchors, adoption lineages, and claim discipline around SignWriting in practice.
+`Sutton SignWriting Evidence and Adoption` is the empirical series for documented use, institutional anchors, adoption lineages, and claim discipline around SignWriting in practice as documented in the v1.0.0 release.
 
 ## Repository Description
 
@@ -49,7 +55,7 @@ Slevinski, S. (2026). Sutton SignWriting Evidence and Adoption (v1.0.0). Zenodo.
 | `Sutton SignWriting Evidence and Adoption Overview` | `entries/overview/essay.md` | series-only | none | `evidence-and-adoption-overview-v1.0.0.pdf` | Cite as part of the series release. |
 | `What the Current Evidence Base Shows` | `entries/what-the-current-evidence-base-shows/essay.md` | artifact-doi-planned | pending | `what-the-current-evidence-base-shows-synthesis-brief-v1.0.0.pdf` | Planned standalone synthesis brief. |
 | `Brazil as the Empirical Center of SignWriting` | `entries/brazil-as-the-empirical-center-of-signwriting/essay.md` | artifact-doi-possible | pending decision | `brazil-as-the-empirical-center-of-signwriting-research-brief-v1.0.0.pdf` | Source-current check complete; standalone DOI decision remains optional. |
-| `South Korea as a Current Institutional Proof Point` | `entries/south-korea-as-a-current-institutional-proof-point/essay.md` | artifact-doi-possible | pending decision | `south-korea-as-a-current-institutional-proof-point-research-brief-v1.0.0.pdf` | Current-status check complete; standalone DOI decision remains optional. |
+| `South Korea as a Current Institutional Case Study` | `entries/south-korea-as-a-current-institutional-case-study/essay.md` | artifact-doi-possible | pending decision | `south-korea-as-a-current-institutional-case-study-research-brief-v1.0.0.pdf` | Current-status check complete; standalone DOI decision remains optional. |
 | `Evidence Boundaries and Adoption Limits` | `entries/evidence-boundaries-and-adoption-limits/essay.md` | artifact-doi-possible | pending decision | `evidence-boundaries-and-adoption-limits-evidence-note-v1.0.0.pdf` | Strong claim-discipline note; may also remain a supplement to a DOI-bearing evidence artifact. |
 
 ## Artifact Metadata
@@ -63,7 +69,7 @@ Slevinski, S. (2026). Sutton SignWriting Evidence and Adoption (v1.0.0). Zenodo.
 
 Abstract:
 
-> This synthesis brief defines what the current public evidence base for SignWriting supports, what remains partial, and how adoption claims should be read. It argues that SignWriting should no longer be treated as a merely hypothetical proposal: documented educational, institutional, scholarly, and technical use, especially in Brazil and South Korea, establishes real-world relevance. At the same time, the evidence does not yet amount to a complete global census, broad population-scale outcome evidence, or a single adoption story across all communities. The brief therefore treats SignWriting as real infrastructure and research material while keeping claims about scale, generalization, and educational outcomes bounded.
+> This synthesis brief defines what the v1.0.0 public evidence base for SignWriting supports, what remains partial, and how adoption claims should be read. It argues that SignWriting should no longer be treated as a merely hypothetical proposal: documented educational, institutional, scholarly, and technical use, especially in Brazil and South Korea, establishes real-world relevance. At the same time, the evidence does not yet amount to a complete global census, broad population-scale outcome evidence, or a single adoption story across all communities. The brief therefore treats SignWriting as real infrastructure and research material while keeping claims about scale, generalization, and educational outcomes bounded.
 
 Citation:
 
@@ -90,8 +96,8 @@ Source and citation notes:
 - DOI posture: possible separate artifact DOI; source-current check complete
 - Source path: `entries/brazil-as-the-empirical-center-of-signwriting/essay.md`
 
-### South Korea as a Current Institutional Proof Point
+### South Korea as a Current Institutional Case Study
 
 - Type: Research Brief
 - DOI posture: possible separate artifact DOI; current-status check complete
-- Source path: `entries/south-korea-as-a-current-institutional-proof-point/essay.md`
+- Source path: `entries/south-korea-as-a-current-institutional-case-study/essay.md`

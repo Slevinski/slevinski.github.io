@@ -249,7 +249,7 @@ That is exactly what an empirical series should do.
 ## Go Next
 
 - *Brazil as the Empirical Center of SignWriting* for the strongest documented empirical center
-- *South Korea as a Current Institutional Proof Point* for one of the clearest current institutional evidence points
+- *South Korea as a Current Institutional Case Study* for one of the clearest current institutional evidence points
 - *Evidence Boundaries and Adoption Limits* for the evidence limits, adoption limits, and negative-case documentation agenda
 
 After completing this evidence series, *Sutton SignWriting Infrastructure and Program: Executive Brief* carries the stewardship consequence of the evidence base.

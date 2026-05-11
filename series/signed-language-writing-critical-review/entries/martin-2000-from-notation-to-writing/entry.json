@@ -3,10 +3,8 @@
   "number": 8,
   "title": "Martin (2000): From Notation to Writing",
   "subtitle": "A review of an early SignWriting-positive comparison with real insight and overstated claims",
-  "summary": "Martin sees SignWriting as a real public writing possibility while mixing useful insight with dated and overstated claims.",
-  "synopsis": "Martin's 2000 paper is an important sympathetic comparison rather than an opponent text. It clearly sees the limitations of linear and alphabetic assumptions for signed writing and takes SignWriting seriously as a real public writing possibility, while also overstating in places, relying on historically dated software and learnability claims, and not always distinguishing cleanly between real insight and broader conclusions.",
-  "cover_image": "/series/signed-language-writing-critical-review/entries/martin-2000-from-notation-to-writing/cover.png",
-  "cover_image_alt": "A comparison table moving from linear notation strips and early interface sketches toward a plane-based signed-writing page.",
+  "summary": "Martin is correct and useful as an early SignWriting-positive comparison, but evidence-limited as a full-path claim.",
+  "synopsis": "Martin's 2000 paper is an important sympathetic comparison rather than an opponent text. It clearly sees the limitations of linear and alphabetic assumptions for signed writing and takes SignWriting seriously as a real public writing possibility. Its layer-level insight remains valuable, while its broader historical, software, and learnability claims remain evidence-limited.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -60,14 +58,14 @@
       "bullets": [
         "Strong writing-problem recognition",
         "Strong critique of linear assumptions",
-        "Mixed claims-versus-evidence discipline",
+        "Evidence-limited full-path claims",
         "Written sign not always centered cleanly"
       ],
       "speech": "Through the framework, Martin is strong on the writing problem and on the limits of linear assumptions. The limits appear in claims-versus-evidence discipline and in not always centering the written sign as the primary unit.",
       "notes": "This slide connects review to method.",
       "image_prompts": {
-        "concrete": "Layer-based reading slide separating writing need, alphabetic bias, structural unit analysis, spatial organization, and claims versus evidence",
-        "abstract": "A source claim passed through a clear layer-based review frame"
+        "concrete": "Layer-level review slide separating Martin's SignWriting-positive insight, linearity critique, evidence limits, historical context, and full-path caution",
+        "abstract": "A sympathetic comparison sorted into contribution, evidence boundary, and full-path caution"
       }
     },
     {
@@ -84,8 +82,8 @@
       "speech": "Martin's durable value is that it sees SignWriting as a real public writing possibility. Its limits remind the platform to keep strong claims bounded by evidence.",
       "notes": "Close as historical contribution plus caution.",
       "image_prompts": {
-        "concrete": "Contribution slide showing the necessity-of-writing argument preserved while the orthographic prescription is bounded",
-        "abstract": "A valid contribution kept intact after critique"
+        "concrete": "Contribution slide showing Martin's early SignWriting-positive comparison preserved while dated software, learnability, and historical claims are bounded",
+        "abstract": "A historical contribution kept intact while evidence limits remain visible"
       }
     }
   ]

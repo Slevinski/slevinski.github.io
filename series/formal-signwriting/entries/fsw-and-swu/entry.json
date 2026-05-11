@@ -4,8 +4,6 @@
   "title": "FSW and SWU",
   "subtitle": "Plain-text encodings, character sets, and conversion",
   "summary": "Plain-text encodings, explicit character inventories, conversion, and canonical text boundaries.",
-  "cover_image": "/series/formal-signwriting/entries/fsw-and-swu/cover.png",
-  "cover_image_alt": "Two parallel streams of abstract character tiles converge on one central sign structure, representing FSW and SWU as two encodings of one model.",
   "synopsis": "Formal SignWriting depends on clear plain-text encodings. FSW and SWU are two technical encodings of the same model: FSW commonly serves canonical processing, SWU provides an isomorphic Unicode-oriented form, and conversion belongs to the encoding layer rather than the rendering layer.",
   "essay": "essay.md",
   "primary_artifact": {

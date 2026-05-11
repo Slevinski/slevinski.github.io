@@ -1,0 +1,109 @@
+{
+  "slug": "signwriting-ai-and-layered-stewardship",
+  "number": 8,
+  "title": "SignWriting, AI, and Layered Stewardship",
+  "subtitle": "Written signs, records, media, datasets, encodings, and deployment",
+  "summary": "A position note for sign-language AI governance that separates reusable written signs from authored passages, curated records, media, datasets, encodings, and AI deployment.",
+  "synopsis": "SignWriting can help sign-language AI governance by separating layers that are often collapsed. Individual written signs should be treated as reusable linguistic forms; authored passages, lexical records, corpora, media, datasets, and deployments carry distinct rights, consent, attribution, stewardship, and community-review responsibilities.",
+  "essay": "essay.md",
+  "primary_artifact": {
+    "file": "essay.md",
+    "artifact_type": "position-note",
+    "public_label": "Position Note",
+    "public_slug": "primary",
+    "publication_designation": "Position Note"
+  },
+  "slides": [
+    {
+      "id": "why-this-note",
+      "title": "Why This Note Matters",
+      "kicker": "1",
+      "summary": "Sign-language AI governance often collapses signs, records, media, datasets, encodings, and deployment into one generic data question.",
+      "image_prompts": {
+        "concrete": "Governance slide showing written signs, lexical records, corpora, signer video, AI datasets, and deployment separated into clear layers",
+        "abstract": "Several stacked transparent layers with distinct labels and responsibility paths"
+      },
+      "bullets": [
+        "Written signs",
+        "Authored texts",
+        "Curated records",
+        "Signer media",
+        "AI datasets and deployment"
+      ],
+      "speech": "The note begins from a practical governance problem. Sign-language AI conversations need to distinguish written signs, authored passages, curated records, signer media, datasets, encodings, and deployment. Those layers carry different rights and responsibilities.",
+      "notes": "Start with the governance confusion, not with defense."
+    },
+    {
+      "id": "signs-and-records",
+      "title": "Signs Are Not Records",
+      "kicker": "2",
+      "summary": "Individual written signs are reusable linguistic forms; records around them carry metadata, attribution, licensing, and stewardship requirements.",
+      "image_prompts": {
+        "concrete": "A single written sign form at center with separate metadata cards for source, video, region, license, corpus, and review status",
+        "abstract": "One stable index surrounded by separate metadata and rights containers"
+      },
+      "bullets": [
+        "Reusable linguistic forms",
+        "Metadata at record level",
+        "Rights at the appropriate layer",
+        "No ownership claim over the sign itself"
+      ],
+      "speech": "A written sign can serve as an index for metadata, source records, videos, examples, or dictionary entries. That does not make the written sign itself a privately owned data object. The record around the sign carries attribution, licensing, and stewardship details.",
+      "notes": "This is the core intellectual contribution."
+    },
+    {
+      "id": "media-and-datasets",
+      "title": "Media And Datasets Need Separate Care",
+      "kicker": "3",
+      "summary": "Authored passages, corpora, videos, and dataset exports require distinct consent, licensing, provenance, and review.",
+      "image_prompts": {
+        "concrete": "AI dataset governance diagram separating authored passage, dictionary record, corpus export, signer video, and model deployment",
+        "abstract": "Rights and consent markers attached to different layers of a data pipeline"
+      },
+      "bullets": [
+        "Authorship for passages",
+        "Curation for corpora",
+        "Consent for media",
+        "Provenance for datasets"
+      ],
+      "speech": "The note does not flatten all reuse into one rule. Authored passages can carry authorship and publication rights. Dictionaries and corpora are curated resources. Videos introduce likeness, consent, privacy, and community-impact concerns. Dataset exports need provenance and terms.",
+      "notes": "Keep the distinction crisp."
+    },
+    {
+      "id": "encoding-boundary",
+      "title": "Encoding Authority Has A Boundary",
+      "kicker": "4",
+      "summary": "FSW and SWU define computational validity; they do not decide language authority, spelling preference, or AI deployment safety.",
+      "image_prompts": {
+        "concrete": "Stable encoding core with outward paths to spelling judgment, corpus governance, signer consent, and AI deployment review",
+        "abstract": "A stable technical center with separate authority rings around it"
+      },
+      "bullets": [
+        "Well-formed for software",
+        "Not well-written for readers",
+        "Stable supported path",
+        "Open ecosystem"
+      ],
+      "speech": "FSW and SWU are infrastructure encodings. They define how written signs are represented for parsing, rendering, search, sorting, and interchange. They do not decide good spelling, local practice, community approval, dataset use, or AI deployment.",
+      "notes": "Tie to the companion Formal SignWriting note."
+    },
+    {
+      "id": "affected-community-review",
+      "title": "Where Affected Review Belongs",
+      "kicker": "5",
+      "summary": "Affected signers, signing communities, educators, readers, local stakeholders, and accountable institutions should shape decisions where systems affect them.",
+      "image_prompts": {
+        "concrete": "Community evaluation workflow for sign-language AI showing review by affected signers, signing communities, educators, data stewards, local stakeholders, and deployment teams",
+        "abstract": "Human review and accountability layer around an AI deployment pathway"
+      },
+      "bullets": [
+        "Language practice",
+        "Education and readability",
+        "Dataset use",
+        "Deployment and impact"
+      ],
+      "speech": "The stable encoding boundary does not reduce the need for affected review. Authority should follow the layer, the affected community, and the consequence. Affected signers, signing communities, educators, readers, local stakeholders, and accountable institutions should shape decisions where language practice, education, dataset use, model evaluation, deployment, and community impact are at stake.",
+      "notes": "End on layered stewardship without treating identity as blanket ownership."
+    }
+  ]
+}

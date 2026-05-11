@@ -1,8 +1,8 @@
 {
   "slug": "formal-signwriting",
   "title": "Formal SignWriting",
-  "subtitle": "Plain-text encodings, grammar, search, layout, rendering, styling, and implementation of written sign text",
-  "description": "A technical publication series on the Formal SignWriting model for sign text that can be stored, searched, checked, laid out, rendered, and processed by software, with a clear distinction between canonical text, layout, and presentation markup.",
+  "subtitle": "Plain-text encodings, grammar, search, layout, rendering, styling, authority, and implementation of written sign text",
+  "description": "A technical publication series on the Formal SignWriting model for sign text that can be stored, searched, checked, laid out, rendered, and processed by software, with a clear distinction between canonical text, layout, presentation markup, computational validity, and linguistic judgment.",
   "accepting_entries": true,
   "kind": "technical-and-publication-series",
   "home_doc": "README.md"

@@ -40,12 +40,13 @@ All four selected works identify genuine pressures:
 - SignWriting structure
 - standardization and interoperability
 
-The comparison asks four stricter questions:
+The comparison asks stricter questions:
 
-- what layer is the work actually operating on?
-- what does it really establish?
-- where is it insightful?
-- where does that insight get mislocated?
+- what layer or adjacent-purpose category the work actually occupies
+- what primary unit and representational target it centers
+- how it handles space, sequence, text structure, and infrastructure
+- what evidence and authority support its claims
+- where the layer-level judgment differs from the full-path judgment
 
 The companion matrix offers the compact version of the same argument.
 
@@ -66,14 +67,15 @@ Applied to signed language writing, it requires distinguishing at least the foll
 
 For each case, the comparison asks:
 
-- what primary layer the work addresses
+- what primary layer or adjacent-purpose category the work addresses
 - whether it keeps its layers distinct
 - what representational target it privileges
-- what structural unit it centers
-- how it handles spatial composition
+- what primary unit it centers
+- how it handles spatial and sequential organization
 - what sort of text model or technical model it gives
 - how well it is grounded in actual Sutton SignWriting practice and infrastructure
-- whether its conclusions are stronger than its evidence
+- what evidence, maturity, authority, and prior-work engagement support its claims
+- where the layer-level judgment and full-path judgment differ
 
 ## Why these four cases
 
@@ -116,7 +118,7 @@ He is also right that spontaneous user diagrams tend toward:
 
 Those are real contributions.
 
-The problem begins when those insights are extended into a writing-system comparison without sufficient layer discipline.
+The problem begins when those insights are extended into a writing-system comparison without separating layer-level success from full-path adequacy.
 
 Filhol's strongest constructive proposal is really at the semantic plus software-representation layer. AZee is being used to build a human-readable, machine-tractable graphical interface to formal meaning-bearing structures. That is legitimate and potentially useful.
 
@@ -130,7 +132,9 @@ So Filhol's paper is not best read as a successful reclassification of signed wr
 
 It is better read as a prompt toward semantic-layer tooling, graphical interfaces, and software representation.
 
-**Layer-specific classification:** `Correct and Useful` at the semantic/software pressure layer; `Partially Correct` overall because the writing-system replacement argument is overstated
+**Layer-level judgment:** Useful but narrow as semantic, software, and synthesis-oriented representation.
+
+**Full-path judgment:** Misleading when overextended into a writing-system replacement argument, because the proposal does not by itself supply human written units, written convention, durable text operations, public use, and stewardship.
 
 ### 2. Grushkin (2017)
 
@@ -171,7 +175,9 @@ It is better described more carefully:
 - strong on why signed languages need writing
 - weak and biased on what kind of writing supposedly follows
 
-**Layer-specific classification:** `Correct and Useful` as a necessity-of-writing argument; `Partially Correct` overall because the orthographic prescription is alphabetically biased
+**Layer-level judgment:** Correct and useful as a necessity-of-writing argument for signed languages.
+
+**Full-path judgment:** Not full-path adequate as an orthographic prescription, because the alphabetic recommendation does not account for signed written units, plane-based composition, text modeling, or existing SignWriting infrastructure.
 
 ### 3. Thiessen (2011)
 
@@ -214,7 +220,9 @@ It is that he mislocates the strongest explanatory weight too low:
 
 rather than centering the written sign as the primary written unit from the start.
 
-**Layer-specific classification:** `Correct and Useful` as script-internal descriptive and computational work; `Partially Correct` overall because the analysis remains one abstraction level too low
+**Layer-level judgment:** Correct and useful as script-internal descriptive and computational work.
+
+**Full-path judgment:** Structurally incomplete where the analysis treats symbol categories as the main abstraction instead of centering the written sign and authored spatial composition as the primary text structure.
 
 ### 4. Unicode SignWriting
 
@@ -259,7 +267,9 @@ It is an instance of:
 - partial completion
 - and later over-reading by others who treated character encoding as if it had solved writing as text
 
-**Layer-specific classification:** `Correct and Useful` at the character-standardization layer; `Partially Correct` overall because the written-sign text model remains incomplete and was later overinterpreted as more complete than it was
+**Layer-level judgment:** Correct and useful as character-repertoire standardization and script-recognition work.
+
+**Full-path judgment:** Structurally incomplete as a compatible production replacement, because the written-sign text model, stable writer-selected symbol identity, spatial composition, sorting, migration, and dataset compatibility remain unresolved.
 
 ## Cross-case analysis
 
@@ -344,9 +354,3 @@ The question is not whether signed language can be written.
 It already is.
 
 The question is whether the field is describing that writing at the right level.
-
-## Go Next
-
-- *A Unified Critique Framework for Signed Language Writing, Encoding, and Representation* for the full method behind this comparison
-- *Sutton SignWriting and Formal SignWriting Through the Framework* for the internal baseline
-- *From Critique to Construction: Priorities for Signed Language Writing Infrastructure* for the next-step synthesis

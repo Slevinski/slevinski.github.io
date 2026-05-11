@@ -2,6 +2,12 @@
 
 **A review of an early SignWriting-positive comparison with real insight and overstated claims**
 
+Reviewed source:
+
+- Joe Martin, *A Linguistic Comparison: Two Notation Systems for Signed Languages, Stokoe Notation & Sutton SignWriting*
+- Year: 2000
+- Source type: comparative paper
+
 Joe Martin's 2000 comparison of Stokoe Notation and Sutton SignWriting is worth keeping in view because it is sympathetic to SignWriting in places where much of the literature was not.
 
 That sympathy still matters.
@@ -33,10 +39,13 @@ It also takes SignWriting seriously as a real public writing possibility rather 
 
 Its main weakness is that it repeatedly turns real insight into stronger claims than the evidence shown can support.
 
-Layer-specific classification:
+Framework judgment:
 
-- `Correct and Useful` as an early SignWriting-positive comparison beyond linear assumptions
-- `Partially Correct` overall because several historical and learnability claims outrun the evidence shown
+| Field | Judgment |
+| --- | --- |
+| Layer-level judgment | Correct and useful as an early SignWriting-positive comparison beyond linear assumptions. |
+| Full-path judgment | Useful but evidence-limited as a full-path claim, because several historical, literacy, and learnability conclusions outrun the evidence shown. |
+| Main layer risk | Evidence overextension from real structural insight into broader claims about learning, history, and comparative adequacy. |
 
 ## What Martin sees well
 
@@ -256,11 +265,11 @@ The paper's insights are often real.
 
 Its conclusions are sometimes stronger than the evidence shown.
 
-That is the main reason the overall judgment remains `Partially Correct`, even though several layer-specific contributions are `Correct and Useful`.
+That is the main reason the full-path judgment remains evidence-limited, even though several layer-level contributions are correct and useful.
 
 ## Main critique categories
 
-- `Claims vs Evidence`
+- `Evidence Overextension`
 - `Level Confusion`
 - `Forced Linearization`
 

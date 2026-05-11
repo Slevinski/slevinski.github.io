@@ -4,9 +4,7 @@
   "title": "Executive Brief",
   "subtitle": "Sutton SignWriting as research infrastructure",
   "summary": "Sutton SignWriting is existing research infrastructure with real assets, an unmet continuity layer, and a clear first-stage stewardship opportunity.",
-  "cover_image": "/series/infrastructure-and-program/entries/executive-brief/cover.png",
-  "cover_image_alt": "A concise research-infrastructure tableau shows asset stacks, a completed continuity bridge, a stewardship compass, and a first-stage program gateway.",
-  "synopsis": "Sutton SignWriting is an existing global system with real assets, an unmet continuity layer, a stronger empirical base in Brazil, a current institutional proof point in South Korea, and a clear opportunity for a PI or host structure to convert informal stewardship into a durable program.",
+  "synopsis": "Sutton SignWriting is a documented international system with real assets, an unmet continuity layer, a stronger empirical base in Brazil, a current institutional case study in South Korea, and a clear opportunity for a PI or host structure to convert informal stewardship into a durable program.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -26,7 +24,7 @@
         "abstract": "An existing infrastructure base surrounded by a stronger continuity frame"
       },
       "bullets": [
-        "Existing global system",
+        "Documented international system",
         "Real assets and documented use",
         "Continuity layer not fully institutionalized",
         "Clear stewardship opportunity"

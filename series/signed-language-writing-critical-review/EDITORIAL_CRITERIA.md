@@ -58,15 +58,16 @@ The series is not neutral arbitration from nowhere.
 
 It is a coherent evaluative program built around:
 
-- layer distinction
+- layer-level and full-path distinction
 - structural adequacy
 - written-form analysis
 - text-model adequacy
+- evidence, authority, and data-object discipline
 - and long-term infrastructure viability
 
 That lens should be made visible early, not smuggled in as though it were self-evident.
 
-### 2. Comparative claims must be layer-specific
+### 2. Comparative claims must separate layer-level success from full-path adequacy
 
 Do not say an approach is incomplete in the abstract.
 
@@ -81,6 +82,12 @@ Say where it is incomplete:
 - as a pedagogical bridge
 
 This is the main safeguard against unfairness.
+
+Every review should state, where relevant:
+
+- what the source accomplishes at its own layer
+- whether that accomplishment supports a full signed-text infrastructure path
+- what remains unresolved for a stronger full-path claim
 
 ### 3. The baseline must remain strong, but not absolute
 
@@ -139,6 +146,7 @@ At minimum, reviews should identify one or more of:
 - what research is now needed
 - what interoperability question remains open
 - what data would clarify the dispute
+- what authority or data-governance boundary must be named
 - what infrastructure task follows
 
 The series should increasingly read as:
@@ -223,7 +231,8 @@ An entry is publication-ready only if it satisfies all of the following:
 - it states the source's aim before criticizing it
 - it identifies what the source gets right before escalation
 - it says what layer or layers are being judged
-- it distinguishes niche value from full-path claims where relevant
+- it distinguishes layer-level success from full-path adequacy where relevant
+- it names evidence, authority, and data-object limits where they affect the claim
 - it avoids implying that SignWriting wins by default
 - it states at least one constructive consequence or open question
 - it keeps the strongest claim no broader than the evidence allows
@@ -241,41 +250,38 @@ The series is publication-ready only if:
 - alternative systems are acknowledged for their real niches
 - SignWriting's own open problems remain visible
 
-## Plan of Attack
+## Standing Editorial Checks
 
-The next work should mitigate the trust and positioning issues directly.
+The series should maintain these checks across new and revised entries.
 
-### 1. Reframe the series front matter
+### 1. Keep the series lens visible
 
-- [ ] Add a short positioning paragraph to the overview entry
-- [ ] Add a matching paragraph to the start-here companion
-- [ ] State plainly that the series offers a coherent evaluative lens, not neutral arbitration
-- [ ] State plainly that the lens is oriented toward durable writing, text structure, and infrastructure adequacy
+- State plainly that the series offers a coherent evaluative lens, not neutral arbitration.
+- State plainly that the lens is oriented toward durable writing, text structure, and infrastructure adequacy.
+- Keep the distinction between layer-level success and full-path adequacy visible.
 
-### 2. Add a constructive synthesis piece
+### 2. Preserve the constructive horizon
 
-- [ ] Create a new entry: `From Critique to Construction: Priorities for Signed Language Writing Infrastructure`
-- [ ] Make it forward-looking rather than source-review-shaped
-- [ ] Organize it around open research, tooling, standards, corpora, education, and interoperability
-- [ ] Use it to show that the critique series is a filter for building, not only judging
+- Keep reviews connected to open research, tooling, standards, corpora, education, data governance, and interoperability.
+- Use critique as a filter for building, not only judging.
 
-### 3. Strengthen visible pluralism
+### 3. Preserve visible pluralism
 
-- [ ] Revisit the treatment of alternative systems and name their real niches more explicitly
-- [ ] Distinguish more clearly between transcription value, pedagogical value, handwriting value, semantic value, and full-path infrastructure value
-- [ ] Make sure alternatives are not introduced only in order to be narrowed
+- Name the real niches of adjacent-purpose systems.
+- Distinguish transcription value, pedagogical value, handwriting value, semantic value, dataset value, rendering value, and full-path infrastructure value.
+- Make sure alternatives are not introduced only in order to be narrowed.
 
-### 4. Sharpen self-critique where warranted
+### 4. Keep self-critique visible
 
-- [ ] Add or strengthen a section naming SignWriting's own open problems
-- [ ] Keep adoption, readability, handwriting, and interoperability questions visible
-- [ ] Make sure the internal baseline does not read as closure
+- Keep SignWriting's own open problems visible.
+- Keep adoption, readability, handwriting, interoperability, institutional support, and standards questions visible.
+- Make sure the internal baseline does not read as closure.
 
 ### 5. Invite external evidence
 
-- [ ] Add a short call for independent empirical work where appropriate
-- [ ] Name the kinds of evidence that would most improve the field
-- [ ] Treat unresolved questions as research opportunities, not embarrassments
+- Name the kinds of evidence that would most improve the field.
+- Treat unresolved questions as research opportunities, not embarrassments.
+- Welcome independent empirical work, standards-facing review, corpus work, and tool interoperability testing.
 
 ## Operating Rule
 

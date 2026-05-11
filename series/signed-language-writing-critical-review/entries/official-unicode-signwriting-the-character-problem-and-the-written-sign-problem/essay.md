@@ -2,6 +2,12 @@
 
 **A standards review of partial standardization, unresolved text structure, and later over-reading**
 
+Reviewed sources:
+
+- Unicode and WG2 proposals for Sutton SignWriting, especially `N4342 / L2/12-321`
+- Unicode Standard treatment of Sutton SignWriting, including the Sutton SignWriting block and core-spec discussion
+- Related UTC/WG2 records and Sutton SignWriting compatibility notes listed in the local Unicode review source register
+
 The official Unicode SignWriting work solved part of a real problem.
 
 It did not solve the whole problem, and later discussion often treated it as though it had.
@@ -16,14 +22,17 @@ In SignWriting, the written sign is not just a list of symbols. It is a structur
 
 ## Executive judgment
 
-Layer-specific classification:
+Framework judgment:
 
-- `Correct and Useful` at the character-inventory and public-standardization layer
-- `Partially Correct` overall because the written-sign text model remains incomplete and currently non-compatible with the existing Sutton production ecosystem
+| Field | Judgment |
+| --- | --- |
+| Layer-level judgment | Correct and useful as character-repertoire standardization and script-recognition work. |
+| Full-path judgment | Structurally incomplete and not currently compatible as a production replacement for the existing Sutton SignWriting ecosystem, because written-sign structure, stable writer-selected symbol identity, spatial composition, sorting, migration, and dataset compatibility remain unresolved. |
+| Main layer risk | Character-inventory substitution and later full-path overextension. |
 
 Refinement:
 
-> Correct at the character-inventory layer, but structurally incomplete and currently non-compatible with the existing production ecosystem at the written-sign layer
+> Correct at the character-inventory layer, but structurally incomplete and not currently compatible with the existing production ecosystem at the written-sign layer
 
 The design correctly recognized that SignWriting is a real script and that spatial composition is essential to it.
 
@@ -300,9 +309,10 @@ It is a case of:
 ## Main critique categories
 
 - `Level Confusion`
-- `Symbol-Centric Modeling`
-- `Infrastructure Awareness`
+- `Character-Inventory Substitution`
+- `Incomplete Infrastructure Engagement`
 - `Forced Linearization`
+- `Full-Path Overextension`
 
 The first category matters most in public discussion.
 
@@ -337,7 +347,7 @@ The cleanest judgment is:
 
 That means the standardization outcome is real and historically important.
 
-It also means it is still incomplete and currently non-compatible as a production text model for current Sutton SignWriting use.
+It also means it is still incomplete and not currently compatible as a production text model for current Sutton SignWriting use.
 
 So the right conclusion is not:
 

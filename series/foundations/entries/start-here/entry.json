@@ -5,8 +5,6 @@
   "subtitle": "What Sutton SignWriting is, why it matters, and where to go next",
   "summary": "Plain-language orientation to Sutton SignWriting, the Sutton SignWriting Foundations series, and the core public argument.",
   "synopsis": "Sutton SignWriting is a writing system for signed languages. Signed languages are full human languages, but they have often lacked durable, readable, and writable text within the language itself. The Foundations series begins from two claims: language is not sound, and writing is not only a line.",
-  "cover_image": "/series/foundations/entries/start-here/cover.png",
-  "cover_image_alt": "An open book of signed-writing symbols unfolding into organized paths for research, evidence, infrastructure, and technical work.",
   "orientation": "orientation.md",
   "primary_artifact": {
     "file": "orientation.md",
@@ -48,7 +46,7 @@
         "Signed languages are full human languages",
         "Many have lacked durable written pathways",
         "Durable text supports revision, search, teaching, research, and tools",
-        "SignWriting answers that missing layer"
+        "SignWriting offers one serious answer to that missing layer"
       ],
       "speech": "The central idea is simple. Signed languages are full human languages, but they have often lacked equally durable readable and writable pathways of their own. That lack matters because durable text changes what a community, researcher, teacher, or software system can do with language.\n\nText can be revisited, revised, cited, searched, compared, taught, annotated, and processed. SignWriting matters because it offers a real written pathway for signed languages, without replacing bilingual literacy, video, or community practice.",
       "notes": "This is the one-slide thesis.\n\nKeep the claims balanced:\n- SignWriting matters\n- it is not the only thing that matters\n- the missing layer is durable signed text\n\nTransition:\n- define the terms that will recur.",
@@ -85,7 +83,7 @@
       "bullets": [
         "Conceptual readers need a core argument",
         "Researchers need a disciplined model",
-        "Evidence readers need documented proof points",
+        "Evidence readers need documented evidence anchors",
         "Technical readers need mechanism",
         "Review readers need careful evaluation"
       ],

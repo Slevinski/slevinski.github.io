@@ -159,7 +159,7 @@ In practice:
 
 The package `@sutton-signwriting/unicode8` is still useful and worth linking for developers.
 
-Its role is to process official Unicode 8 SignWriting characters where they exist and to bridge them with FSW and SWU inside JavaScript tooling.
+Its role is to process official Unicode SignWriting characters, from the model introduced in Unicode 8.0.0, where they exist and to bridge them with FSW and SWU inside JavaScript tooling.
 
 Useful links:
 

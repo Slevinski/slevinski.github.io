@@ -668,7 +668,7 @@ The next technical step is to read the Formal SignWriting series with the layers
 
 - Coulmas, F. (1989). *The Writing Systems of the World*. Blackwell.
 - Daniels, P. T., & Bright, W. (Eds.). (1996). *The World's Writing Systems*. Oxford University Press.
-- Meletis, D., & Durscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
+- Meletis, D., & Dürscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
 - Sampson, G. (1985). *Writing Systems: A Linguistic Introduction*. Stanford University Press.
 - Slevinski, S. (2026). *Formal SignWriting: The Two-Part Word, Spatial Text, and the Core Model*. Formal SignWriting.
 - Slevinski, S. (2026). *FSW and SWU: Plain-Text Encodings, Character Sets, and Conversion*. Formal SignWriting.

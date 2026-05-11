@@ -16,7 +16,7 @@ Its purpose is narrower:
 - to make the recurring comparative pattern visible quickly
 - to show how the framework behaves across four different problem locations
 
-Later entries such as Martin (2000) and Meletis and Durscheid (2022) extend the series beyond this core demonstration set.
+Later entries such as Martin (2000) and Meletis and Dürscheid (2022) extend the series beyond this core demonstration set.
 
 | Dimension | Filhol (2020) | Grushkin (2017) | Thiessen (2011) | Unicode SignWriting |
 | --- | --- | --- | --- | --- |
@@ -29,12 +29,12 @@ Later entries such as Martin (2000) and Meletis and Durscheid (2022) extend the 
 | **Spatial Completion** | No: useful proposal, but not a completed writing-system model | No: spatial adequacy is not the governing criterion | Partial: described seriously, but not fully recentered in the top-level model | No: acknowledged, but unresolved at the written-sign layer |
 | **Text Model / Encoding** | Useful for semantic/software representation, not a settled writing text model | Not really provided; the argument is mainly pedagogical and orthographic | Partial: encoding need is clear, but the model remains exploratory | Partial: character layer only, with no compatible completed written-sign solution |
 | **Human vs Machine Separation** | Mixed | Mostly not explicit | Partial | Mixed, with rendering absorbing too much in some areas |
-| **Infrastructure Awareness** | Limited: existing SignWriting practice and tooling are under-accounted for | Limited: SignWriting structure and use are minimized in the comparison | Stronger: real SignWriting data and structure are taken seriously | Strong historical grounding, but incomplete continuity with current production use |
+| **Infrastructure Engagement** | Limited: existing SignWriting practice and tooling are under-accounted for | Limited: SignWriting structure and use are minimized in the comparison | Stronger: real SignWriting data and structure are taken seriously | Strong historical grounding, but incomplete continuity with current production use |
 | **Empirical Grounding** | Limited but not empty | Real educational and literacy grounding | Strong descriptive grounding | Strong historical and standards grounding |
-| **Claims vs Evidence** | Software insight exceeds writing-system proof | Necessity-of-writing argument is stronger than alphabetic conclusion | Ambitious but comparatively disciplined; still mis-scoped | Proposal claims were modest, but later public interpretation over-read them |
+| **Evidence Discipline** | Software insight exceeds writing-system proof | Necessity-of-writing argument is stronger than alphabetic conclusion | Ambitious but comparatively disciplined; still mis-scoped | Proposal claims were modest, but later public interpretation over-read them |
 | **Relationship to SignWriting** | Mischaracterizes it too narrowly as chiefly phonographic | Misclassifies it too shallowly as iconographic | Takes it seriously and studies it directly | Attempts standardization, but only partially completes the task |
-| **Core Failure Mode(s)** | `Level Confusion`<br>`Insufficient Engagement With Prior Work` | `Alphabetic Bias`<br>`Level Confusion` | `Symbol-Centric Modeling`<br>`Level Confusion` | `Symbol-Centric Modeling`<br>structural incompleteness<br>later over-reading |
-| **Layer-Specific Classification** | `Correct and Useful` at the semantic/software pressure layer<br>`Partially Correct` overall | `Correct and Useful` as a necessity-of-writing argument<br>`Partially Correct` overall | `Correct and Useful` as descriptive and computational work<br>`Partially Correct` overall | `Correct and Useful` at the character-standardization layer<br>`Partially Correct` overall |
+| **Core Failure Mode(s)** | `Level Confusion`<br>`Incomplete Prior-Work Engagement`<br>`Full-Path Overextension` | `Alphabetic Bias`<br>`Full-Path Overextension` | `Symbol-Centric Modeling`<br>`Level Confusion` | `Character-Inventory Substitution`<br>`Symbol-Centric Modeling`<br>`Full-Path Overextension` |
+| **Framework Judgment** | Layer-level: useful but narrow as semantic/software representation<br>Full-path: misleading when overextended into a writing-system replacement claim | Layer-level: correct and useful as a necessity-of-writing argument<br>Full-path: not adequate as an alphabetic orthographic prescription | Layer-level: correct and useful as descriptive and computational work<br>Full-path: structurally incomplete where symbol categories remain too central | Layer-level: correct and useful as character standardization<br>Full-path: structurally incomplete as a compatible production replacement |
 
 ## Key pattern
 

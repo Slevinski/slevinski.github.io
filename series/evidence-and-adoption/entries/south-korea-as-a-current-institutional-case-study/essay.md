@@ -1,4 +1,4 @@
-# South Korea as a Current Institutional Proof Point
+# South Korea as a Current Institutional Case Study
 
 **National dictionary publication, current institutional use, and why Korea matters**
 
@@ -14,7 +14,7 @@ That does not make South Korea the strongest documented empirical center for Sig
 
 Brazil still carries that different claim much more strongly.
 
-But it does make South Korea a current institutional proof point.
+But it does make South Korea a current institutional case study.
 
 It shows that SignWriting is already functioning inside a public language resource connected to a national-language institution.
 
@@ -37,7 +37,7 @@ South Korea shows something narrower but very powerful:
 - corpus-based language work
 - official publication context
 
-That combination makes Korea especially useful when the conversation needs a current proof point rather than a broader historical or educational map.
+That combination makes Korea especially useful when the conversation needs a current evidence point rather than a broader historical or educational map.
 
 ## What happened on February 6, 2025
 
@@ -104,7 +104,7 @@ That is especially useful for infrastructure conversations, because it shows tha
 
 ## Evidence value
 
-South Korea changes the burden of proof in a useful way.
+South Korea changes the evidentiary baseline in a useful way.
 
 It shows that SignWriting is not only preserved in older archives or used in isolated settings.
 
@@ -133,7 +133,7 @@ It does **not** claim:
 
 The point is different.
 
-South Korea already offers a current institutional proof point.
+South Korea already offers a current institutional case study.
 
 That is enough to matter.
 
@@ -148,7 +148,7 @@ The strongest evidence-facing next steps are documentation tasks:
 - document Deaf user, editor, and institutional perspectives where available
 - distinguish dictionary publication from classroom adoption or ordinary writing practice
 
-South Korea therefore deserves to be treated not as a passing international anecdote, but as one of the clearest public proof points that SignWriting can function inside official language infrastructure.
+South Korea therefore deserves to be treated not as a passing international anecdote, but as one of the clearest public evidence anchors that SignWriting can function inside official language infrastructure.
 
 For the broader empirical center, see *Brazil as the Empirical Center of SignWriting*. For stewardship consequences, see *Sutton SignWriting Infrastructure and Program*.
 

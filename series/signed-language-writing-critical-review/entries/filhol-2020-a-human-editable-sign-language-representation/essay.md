@@ -2,6 +2,13 @@
 
 **A review of semantic-layer insight, SignWriting misclassification, and overstated novelty claims**
 
+Reviewed source:
+
+- Michael Filhol, "A Human-Editable Sign Language Representation Inspired by Spontaneous Productions . . . and a Writing System?"
+- *Sign Language Studies*, 21(1), 98-136
+- Year: 2020
+- DOI: `10.1353/sls.2020.0030`
+
 Michael Filhol's 2020 paper identifies real pressures in signed-language representation:
 
 - video is weak for routine text use
@@ -14,10 +21,13 @@ The paper becomes less reliable when it turns those pressures into a writing-sys
 
 ## Executive summary
 
-Layer-specific classification:
+Framework judgment:
 
-- `Correct and Useful` at the semantic/software pressure layer
-- `Partially Correct` overall because the writing-system replacement argument is overstated
+| Field | Judgment |
+| --- | --- |
+| Layer-level judgment | Useful but narrow as semantic, software, and synthesis-oriented representation. |
+| Full-path judgment | Misleading when overextended into a writing-system replacement argument, because the proposal does not by itself supply human written units, written convention, durable text operations, public use, and stewardship. |
+| Main layer risk | Semantic and software representation are treated as though they answer the writing-system and infrastructure problem. |
 
 Refinement:
 
@@ -83,7 +93,7 @@ That does not adequately account for:
 - the existence of structured sign text
 - actual technical support for editing, search, and processing
 
-This is therefore a case of both `Level Confusion` and limited `Infrastructure Awareness`.
+This is therefore a case of both `Level Confusion` and `Incomplete Infrastructure Engagement`.
 
 ### 2. Already-solved technical problems are treated as if they remain unsolved
 
@@ -160,9 +170,10 @@ It does not sufficiently account for existing SignWriting technical infrastructu
 
 ## Main critique categories
 
-- `Infrastructure Awareness`
+- `Incomplete Infrastructure Engagement`
 - `Level Confusion`
-- `Insufficient Engagement With Prior Work`
+- `Incomplete Prior-Work Engagement`
+- `Full-Path Overextension`
 
 ## Final assessment
 

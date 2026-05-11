@@ -191,7 +191,7 @@ The strongest evidence-facing next steps are documentation tasks:
 
 Brazil therefore deserves to be treated not merely as a successful chapter in SignWriting history, but as the strongest documented empirical center in the current public record.
 
-For a narrower present-tense institutional companion, see *South Korea as a Current Institutional Proof Point*. For stewardship consequences of this evidence, see *Sutton SignWriting Infrastructure and Program*.
+For a narrower present-tense institutional companion, see *South Korea as a Current Institutional Case Study*. For stewardship consequences of this evidence, see *Sutton SignWriting Infrastructure and Program*.
 
 ## Selected sources
 

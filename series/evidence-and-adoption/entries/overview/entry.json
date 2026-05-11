@@ -2,10 +2,8 @@
   "slug": "overview",
   "number": 0,
   "title": "Sutton SignWriting Evidence and Adoption Overview",
-  "subtitle": "Documented use, institutional proof points, and evidence boundaries",
-  "summary": "Documented use, institutional proof points, and evidence boundaries show where SignWriting is already visible and where empirical claims must remain bounded.",
-  "cover_image": "/series/evidence-and-adoption/entries/overview/cover.png",
-  "cover_image_alt": "An open research desk with SignWriting-like symbols, evidence records, country anchors, archive boxes, charts, and connected adoption pathways.",
+  "subtitle": "Documented use, institutional anchors, and evidence boundaries",
+  "summary": "Documented use, institutional anchors, and evidence boundaries show where SignWriting is already visible and where empirical claims must remain bounded.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -37,9 +35,9 @@
       "id": "evidence-discipline",
       "title": "Evidence Discipline",
       "kicker": "2",
-      "summary": "The series treats documented use, institutional proof points, and evidence boundaries as separate but related tasks.",
+      "summary": "The series treats documented use, institutional anchors, and evidence boundaries as separate but related tasks.",
       "image_prompts": {
-        "concrete": "Three-column research slide labeled documented use, institutional proof points, and evidence boundaries",
+        "concrete": "Three-column research slide labeled documented use, institutional anchors, and evidence boundaries",
         "abstract": "Three stable columns holding separate kinds of evidence"
       },
       "bullets": [
@@ -48,7 +46,7 @@
         "Boundary evidence prevents overclaiming",
         "Research questions remain open"
       ],
-      "speech": "The evidence record is strongest when it is separated into layers. Documented use shows SignWriting is not hypothetical. Institutional proof points show that it can function in organized settings. Evidence boundaries explain what has not yet been shown.",
+      "speech": "The evidence record is strongest when it is separated into layers. Documented use shows SignWriting is not hypothetical. Institutional anchors show that it can function in organized settings. Evidence boundaries explain what has not yet been shown.",
       "notes": "This slide prevents the series from sounding like an adoption pitch."
     },
     {
@@ -57,16 +55,16 @@
       "kicker": "3",
       "summary": "Brazil and South Korea do different evidence work and should not be collapsed into one adoption story.",
       "image_prompts": {
-        "concrete": "Map-based scholarly slide highlighting Brazil as empirical depth and South Korea as current institutional proof point",
+        "concrete": "Map-based scholarly slide highlighting Brazil as empirical depth and South Korea as current institutional case study",
         "abstract": "Two distinct anchor points holding different kinds of evidence"
       },
       "bullets": [
         "Brazil: strongest documented empirical center",
-        "South Korea: current institutional proof point",
+        "South Korea: current institutional case study",
         "Evidence boundaries: limits and open questions",
         "Synthesis brief: how to read the record"
       ],
-      "speech": "Brazil and South Korea matter for different reasons. Brazil is the strongest documented empirical center. South Korea is a current institutional proof point. The series keeps those claims distinct, then uses the boundary and synthesis entries to explain how the record should be read.",
+      "speech": "Brazil and South Korea matter for different reasons. Brazil is the strongest documented empirical center. South Korea is a current institutional case study. The series keeps those claims distinct, then uses the boundary and synthesis entries to explain how the record should be read.",
       "notes": "Avoid making Korea sound like a second Brazil. The distinction is the strength."
     },
     {
@@ -84,7 +82,7 @@
         "Read South Korea for current institutional evidence",
         "Read evidence boundaries before making broad claims"
       ],
-      "speech": "The easiest path is simple. Start with the overview or synthesis. Read Brazil to understand the strongest empirical anchor. Read South Korea to understand the current institutional proof point. Then read the evidence-boundary entry before making broad claims about adoption or outcomes.",
+      "speech": "The easiest path is simple. Start with the overview or synthesis. Read Brazil to understand the strongest empirical anchor. Read South Korea to understand the current institutional case study. Then read the evidence-boundary entry before making broad claims about adoption or outcomes.",
       "notes": "Close with reader orientation. This is a map, not a conclusion."
     }
   ]

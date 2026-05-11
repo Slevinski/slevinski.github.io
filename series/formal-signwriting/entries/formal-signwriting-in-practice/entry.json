@@ -4,8 +4,6 @@
   "title": "Formal SignWriting in Practice",
   "subtitle": "Libraries, datasets, transformations, and implementation pathways",
   "summary": "Libraries, datasets, transformations, and implementation pathways connect Formal SignWriting to real software and data practice.",
-  "cover_image": "/series/formal-signwriting/entries/formal-signwriting-in-practice/cover.png",
-  "cover_image_alt": "A central abstract Formal SignWriting model branches into corpus tiles, transformation paths, rendering plates, package blocks, and maintenance rings.",
   "synopsis": "The specification matters most when it supports real libraries, transformations, datasets, corpora, and implementation pathways. The stewardship layer connects the model to the broader software and data ecosystem.",
   "essay": "essay.md",
   "primary_artifact": {

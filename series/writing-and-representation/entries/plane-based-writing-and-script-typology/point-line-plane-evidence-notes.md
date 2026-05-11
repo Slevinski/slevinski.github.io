@@ -2,11 +2,11 @@
 
 **Interpretive framing, writing theory, and the case for plane-based writing**
 
-These notes carry the fuller point-line-plane argument behind *Sutton SignWriting Foundations: The Shape of Writing* and connect it to the writing-systems series.
+These notes carry the evidence layer behind the point-line-plane argument in *Sutton SignWriting Foundations: The Shape of Writing* and connect that argument to the writing-systems series.
 
 Just as *Language Without Sound* argued that literacy does not require sound or vision, this companion piece argues that literacy does not require linearity. The aim here is to clarify the strongest writing-theory points behind the essay, identify where the framework is interpretive rather than taxonomic, and show why SignWriting matters as a case of writable space rather than only as a notation for sign.
 
-The framework below clarifies why plane-based writing systems such as SignWriting deserve equal consideration as writing, literacy, and research support.
+If the primary written unit is organized in a plane, the evidence must include how that plane is stabilized, encoded, searched, rendered, studied, and maintained.
 
 It is offered as an interpretive contribution to writing-systems theory rather than as an exhaustive taxonomy of scripts.
 
@@ -247,9 +247,9 @@ ISWA 2010 shows that the plane also depends on a stable alphabetic reference lay
 
 Formal SignWriting shows that plane-based writing can also be stored and processed as text.
 
-Support for plane-based writing therefore extends the modality-independent literacy pathway first outlined in *Language Without Sound*.
+Plane-based writing therefore extends the modality-independent literacy pathway first outlined in *Language Without Sound*.
 
-That is enough to justify a stronger infrastructure response: not only better theory, but better tools, datasets, corpora, interfaces, alphabet references, and collaborative research built around plane-based writing.
+It also shows why plane-based writing requires careful technical treatment: tools, datasets, corpora, interfaces, alphabet references, and collaborative research all affect what can be studied and preserved.
 
 ## Selected APA-style references with links
 

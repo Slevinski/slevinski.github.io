@@ -1,497 +1,404 @@
-# A Unified Critique Framework for Signed Language Writing, Encoding, and Representation
+# Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure
 
-**A methodological guide for evaluating literature, proposals, and standards**
+**A methodological guide for evaluating writing systems, notation systems, encodings, standards, tools, datasets, research proposals, and infrastructure claims**
 
-This framework is for evaluating work on signed language writing without collapsing different kinds of problems into one another.
+This framework evaluates work on signed-language writing without collapsing different kinds of problems into one another.
 
-It is meant for work on:
+It is designed for work on:
 
-- signed language writing
-- SignWriting
-- notation and transcription
-- literacy and biliteracy
-- encoding and text models
-- computational representation
-- technical standards and proposals
+- signed-language writing systems
+- Sutton SignWriting and Formal SignWriting
+- notation, transcription, and linguistic description
+- orthography, writing-system theory, and written convention
+- literacy, biliteracy, pedagogy, and classroom bridge systems
+- semantic, computational, synthesis, and avatar-oriented representation
+- encoding, serialization, text models, and standards proposals
+- rendering, fonts, layout, document structure, and display systems
+- dictionaries, corpora, datasets, APIs, and AI infrastructure
+- governance, stewardship, institutional support, and public language infrastructure
 
-Its purpose is direct:
+The purpose is direct:
 
 - identify what a source is trying to do
 - preserve what it gets right
-- separate insight from overreach
+- separate insight from overextension
+- distinguish layer-level success from full-path adequacy
+- identify what remains unresolved
 - and judge claims at the level where they actually belong
 
-## What this framework is for
+The governing principle is:
 
-This framework is not presented as a method detached from its problem domain.
+> A system must be evaluated at the level it claims to operate on.
 
-It was built from recurring problems in the signed-writing literature that become especially visible once signed writing is treated as writing, text, and infrastructure rather than as notation alone.
+Most recurring problems in signed-language writing literature come from violating that principle. A source may solve a notation problem without solving a writing problem. It may define characters without defining written signs. It may render signs without preserving authored text. It may support classroom use without proving broad literacy outcomes. It may be useful for semantic representation without becoming public writing infrastructure.
 
-SignWriting is part of what made those problems hard to ignore, because it is the case that most clearly pressures older habits of comparison:
+The framework makes those distinctions visible.
 
-- collapsing writing into notation
-- collapsing symbols into written units
-- treating linear serialization as evidence of linear writing
-- and treating technical partial solutions as though they completed the whole path
+Every review must keep two judgments separate:
 
-For that reason, this framework is best understood as a tool for evaluating candidate paths to durable signed-language writing and text infrastructure.
+1. **Layer-level judgment:** Is the source adequate for its stated purpose at the layer where it actually operates?
+2. **Full-path judgment:** Is the source adequate as, or as part of, a durable signed-language writing and text-infrastructure path?
 
-It is strongest when the question is:
+A source can succeed at the first without succeeding at the second. That distinction is the center of the framework.
 
-- what counts as writing
-- what counts as text
-- what counts as an adequate text model
-- and what counts as a real infrastructural path
+Two companion documents support application of the method: *Review Procedure for the Full-Path Critique Framework* gives the detailed review manual, and *Reviewer Worksheet for the Full-Path Critique Framework* gives the reusable blank worksheet.
 
-It is less final when the question is narrower, such as:
+## What This Framework Is For
 
-- pedagogical bridge use
-- handwriting experimentation
+This framework is not a neutral bibliography, a detached taxonomy, or a ranking of systems by preference. It is a critical method for evaluating candidate paths to durable signed-language writing and text infrastructure.
+
+`Durable signed text` means signed text that persists across time and supports revisiting, revision, correction, citation, search, comparison, teaching, publication, archiving, exchange, and software processing. Durability does not make video, live performance, gloss, translation, or linguistic annotation obsolete. It means signed language also has a written pathway capable of functioning as text.
+
+`Full-path adequacy` means that a system, or a coordinated stack of systems, can plausibly support the path from human authorship to durable signed-text infrastructure. A full path includes human writing, written units, written convention, spatial and sequential organization, text modeling, encoding, text operations, layout, rendering, tooling, pedagogy, evidence, governance, and stewardship. A system does not have to solve every layer alone, but a claim that it solves signed-language writing must account for how those layers are handled.
+
+`Layer-level success` means that a system succeeds at a narrower purpose, for example as notation, semantic representation, character encoding, video annotation, rendering, corpus tagging, classroom scaffolding, dictionary infrastructure, or linguistic analysis, without thereby becoming a full writing system or full text infrastructure. Layer-level success is real success. It should be preserved in reviews, not treated as failure.
+
+`Technical infrastructure` means alphabets, symbol inventories, character sets, encodings, fonts, editors, renderers, search systems, corpora, dictionaries, datasets, APIs, validators, converters, libraries, repositories, archives, and platforms.
+
+`Human and institutional infrastructure` means teaching practice, reader and writer communities, publication habits, correction practices, documentation, maintenance, funding, governance, policy, standards engagement, institutional support, data rights, and succession planning.
+
+`Pathway` should be specified where possible:
+
+- `language pathways` for routes of language access and expression
+- `literacy pathways` for routes of reading and writing
+- `reading pathways` for the route from visible or tactile text to perception, recognition, and interpretation
+- `infrastructure pathways` for the route by which text becomes maintainable, searchable, citable, reusable, and preservable
+
+The framework is strongest when the question is full-path adequacy:
+
+- What counts as writing?
+- What counts as signed text?
+- What is the primary written unit?
+- What is preserved when text is stored, searched, cited, or exchanged?
+- How are spatial relations preserved when they are part of the authored written form?
+- What evidence supports claims about usability, adoption, literacy, or infrastructure?
+- What authority does the system claim, and what authority does it actually have?
+- For whom, and in what context, is the system adequate?
+
+The framework is less final when the question is intentionally narrower:
+
 - research transcription
-- or semantic software representation
+- sign-language phonological notation
+- semantic representation
+- synthesis or avatar control
+- pedagogical bridge use
+- local classroom practice
+- corpus annotation
+- video-linked documentation
+- handwriting experimentation
+- prototype software
 
-That does not make those narrower functions unimportant.
+That does not make narrower work unimportant. It means narrower work should be judged as narrower work rather than silently treated as though it answered the entire writing and infrastructure problem.
 
-It means they should be judged as narrower functions rather than silently treated as though they answered the entire writing problem.
+## Author Position and Safeguards
 
-## Author position and methodological safeguards
+This framework is written from inside the Sutton SignWriting and Formal SignWriting project, not from an external view from nowhere.
 
-The framework is written from inside the Sutton SignWriting and Formal SignWriting project, not from an external neutral position.
+That position is both a strength and a risk.
 
-That is a strength and a risk.
+It is a strength because the framework is grounded in long-running implementation work: symbol inventories, written signs, encodings, fonts, editors, dictionaries, corpora, rendering paths, search behavior, migration problems, public sites, Unicode-facing work, and stewardship requirements.
 
-It is a strength because the framework is grounded in long-running implementation work: alphabets, encodings, fonts, editors, corpora, rendering paths, search behavior, and migration problems. It is a risk because the author is also evaluating work that sometimes competes with, revises, or ignores that infrastructure.
+It is a risk because the author may evaluate work that competes with, revises, ignores, mischaracterizes, or attempts to replace parts of that infrastructure.
 
-The framework therefore requires several safeguards:
+The framework therefore requires safeguards:
 
 - apply the method to Sutton SignWriting and Formal SignWriting themselves
-- separate layer-level success from overall adequacy
-- preserve useful contributions from reviewed work even when its broader claims are narrowed
+- separate layer-level success from full-path adequacy
+- preserve useful contributions from reviewed work even when broader claims are narrowed
 - distinguish incompatibility with an existing production ecosystem from failure in every possible use
 - treat prior-work engagement as a general scholarly requirement, not as automatic deference to one system
+- distinguish technical validity from linguistic, educational, community, institutional, legal, data-governance, and standards authority
+- name evidence gaps in the SignWriting ecosystem as clearly as evidence gaps in competing systems
+- allow non-Sutton systems to count as legitimate signed writing when they define their own written units, conventions, use practices, and infrastructure path
 
-The framework does not ask readers to accept the author's position as authority.
+The framework does not ask readers to accept the author's position as authority. It asks readers to inspect whether the layer distinctions, evidence boundaries, and classification judgments hold.
 
-It asks readers to inspect whether the layer distinctions, evidence boundaries, and classification judgments hold.
+## Why SignWriting Matters Methodologically
 
-## Terminology note
+The framework is not structurally biased because it overlaps with SignWriting. It overlaps with SignWriting because SignWriting is a major reference case in which many layers of a signed-language writing and text-infrastructure path have had to be confronted in practice:
 
-Three recurring terms need stable meanings in the framework.
+- human writing and readable written forms
+- written units and written conventions
+- symbol inventories and symbol identity
+- authored spatial composition
+- formal text models
+- encoding and serialization strategies
+- search, sorting, and query behavior
+- fonts, SVG, layout engines, and rendering paths
+- passage layout and document organization
+- dictionaries, corpora, and public sites
+- classroom use and teaching materials
+- Unicode pressure and standards-facing claims
+- governance, maintenance, and stewardship
 
-- `durable signed text` means signed text that persists across time and supports revisiting, revision, citation, search, teaching, and software processing
-- `technical infrastructure` means alphabets, encodings, fonts, editors, corpora, datasets, renderers, tools, and platforms
-- `human and institutional infrastructure` means the teaching, stewardship, publishing, funding, and institutional conditions that make writing sustainable in practice
+That does not mean other systems must become SignWriting.
 
-The term `pathways` should also be specified where possible:
+It means that a whole working signed-language writing and text-infrastructure path must eventually answer questions like these:
 
-- `language pathways` for developmental access and expression
-- `literacy pathways` for reading and writing routes
-- `reading pathways` for the narrower perceptual and cognitive route from text to interpretation
+- What do people read?
+- What do people write?
+- What is the primary written unit?
+- What conventions stabilize variation?
+- How is spatial organization authored, preserved, and displayed?
+- How is text stored?
+- How is it searched, sorted, normalized, migrated, exchanged, and archived?
+- How is it displayed?
+- How are passages organized?
+- How is it taught and corrected?
+- What evidence supports claims about use, literacy, or adoption?
+- Who maintains the technical system?
+- Who has authority over spelling practice, community review, data use, standards claims, and stewardship?
 
-Before the framework itself, four distinctions need to stay clear.
+SignWriting is a reference case for the problem because it has carried enough of the path for these layers to become visible in implementation.
 
-## Four distinctions that make the framework necessary
+The standard is not:
 
-### 1. Writing system, encoding, and rendering are not the same thing
+> be like SignWriting
 
-These three are often collapsed in the literature.
+The standard is:
 
-They should not be.
+> account for the layers a whole working signed-language writing system must solve, or state clearly that the system serves a narrower purpose
 
-- `writing system`: the readable and writable form used by people
-- `encoding`: the text model used to store and process that writing
-- `rendering`: the visual display produced on screen or paper
+This series therefore uses SignWriting-derived terminology as reference terminology.
 
-In Sutton SignWriting terms:
+That is not a claim that SignWriting owns the field or that every system must adopt every SignWriting term.
 
-- Sutton SignWriting is the writing system
-- FSW and SWU are encoding or text model layers
-- fonts, layout engines, and SVG output belong to rendering
+It is a claim that Sutton SignWriting is the clearest currently documented full-path signed-writing infrastructure available for comparison, and that terms such as `written sign`, `signbox`, `plane-based writing`, and `text model` name distinctions that became necessary through actual writing, encoding, rendering, search, corpus, dictionary, standards, and stewardship work.
 
-A source that solves one of these problems has not automatically solved the other two.
+This is implementation-tested vocabulary, not proprietary vocabulary.
 
-### 2. A symbol is not the same thing as a written sign
+Other systems may use different terminology. Serious comparison still requires mapping their terms to these distinctions or explaining why the distinctions do not apply.
 
-Many sources describe inventories of hand symbols, arrows, face symbols, or modifiers and stop there.
+For example, another system does not have to use the word `signbox`, but it should say what its bounded composed unit is, or why it does not need one. It does not have to use `Formal SignWriting`, but a full-path claim still needs an adequate text model. It does not have to use `written sign`, but it needs to explain what writers compose, what readers recognize, and what software preserves.
 
-That is not yet an account of signed writing as writing.
+The point is not to require every system to become SignWriting.
 
-A `symbol` is one component.
+The point is to prevent the field from repeatedly renaming, flattening, or overlooking problems already exposed by a working signed-text infrastructure.
 
-A `written sign` is the structured written unit composed in a signbox.
+## Five Threshold Distinctions
 
-If a paper treats the symbol inventory as the whole writing problem, it is likely stopping one level too low.
+The following distinctions are threshold tests. If a review collapses them, the rest of the critique becomes unreliable.
 
-### 3. Serialization is not evidence that the writing system itself is linear
+### 1. Writing System, Encoding, and Rendering Are Not the Same Thing
 
-A system may need a one-dimensional text form for storage or processing.
+- A `writing system` is the human-readable and human-writable form used to write language.
+- An `encoding` is a technical representation used to store, transmit, parse, validate, or process text.
+- A `renderer` is a mechanism that turns modeled or encoded text into visible output.
 
-That does not mean the writing, as authored and read, is fundamentally line-based.
+A source that solves one of these problems has not automatically solved the others.
 
-This matters especially for SignWriting, where spatial composition is part of the written form rather than a later display choice.
+In Sutton SignWriting terms, Sutton SignWriting is the human writing system. Formal SignWriting belongs to the technical text-model layer. FSW and SWU are encoding or serialization strategies within that model. Fonts, SVG, style strings, and layout engines belong to rendering and presentation.
 
-### 4. Notation, writing, semantic representation, and software representation are different targets
+A font is not a writing system. A character repertoire is not a full text model. A serialization is not evidence that the writing itself is linear. A visual image may show a sign while still failing to preserve text.
 
-A source may be:
+### 2. A Symbol Is Not the Same Thing as a Written Sign
 
-- analyzing language
-- proposing a notation
-- designing a public writing system
-- building a semantic representation
-- or solving a software problem
+A `symbol` is a component. A `written sign` is a structured written unit composed for reading and writing.
 
-All of these can be valuable.
+In Sutton SignWriting, the written sign is composed in a signbox. Other systems may define a different primary written unit, but they still need to identify what writers compose, what readers read, what can be cited, and what software preserves.
 
-They should not be treated as though they were the same achievement.
+If a source treats the symbol inventory as the whole writing problem, it is stopping one level too low. The question is not only which symbols exist. The question is how they become written units, how those units become text, and how text remains readable, writable, searchable, and maintainable.
 
-## Core principle
+### 3. Serialization Is Not Evidence That Writing Is Linear
 
-The framework begins with a single requirement:
+A system may need a one-dimensional serialized form for storage or processing. That does not mean the writing, as authored and read, is fundamentally line-based.
 
-> a system must be evaluated at the level it claims to operate on
+For plane-based writing, spatial composition may be part of the written form rather than a later display choice. Serialization, storage order, or character sequence may preserve writing for software; they do not prove that the writing itself is linear.
 
-Most recurring problems in this literature are violations of that requirement.
+A review must therefore ask whether a source preserves authored spatial relations as text, treats them as rendering, or discards them as incidental.
 
-## A compact example
+### 4. Adjacent-Purpose Systems Are Not Failed Writing Systems
 
-Consider a SignWriting sign written in a signbox.
+A source may be analyzing language, proposing a notation, transcribing signed media, designing a public writing system, building a semantic representation, controlling an avatar, supporting classroom transition, annotating a corpus, or solving a software problem.
 
-At the writing-system level, the question is:
+All of these can be valuable. They should not be treated as the same achievement.
 
-- what written form did the writer compose and what does the reader read?
+The critique begins when success at one purpose is presented as if it solves another.
 
-At the encoding level, the question is:
+### 5. Data Objects, Rights Layers, and Written Units Are Not the Same Thing
 
-- how is that written sign serialized, stored, searched, and segmented as text?
+A written sign, a lexical record, a dictionary entry, a corpus record, a dataset item, a linked video, and a signer performance are different objects.
 
-At the rendering level, the question is:
+They may be connected, but they do not carry the same structure, evidence, rights, consent, governance, or reuse conditions.
 
-- how is that stored text drawn on screen or paper?
+A source that stores dictionary records has not thereby defined a writing system. A source that publishes a corpus has not thereby granted permission for every dataset use. A source that links video to written forms has not thereby merged video rights, transcription rights, and written-text rights into one object.
 
-If a source solves character naming, it has not necessarily solved text structure.
+This distinction is especially important for AI, dataset, corpus, dictionary, and public-platform claims.
 
-If it solves serialization, it has not necessarily described the writing system adequately.
+## Framework Architecture
 
-If it draws the sign attractively, it has not necessarily defined a usable text model.
+The framework separates three kinds of categories.
 
-## I. Layer identification
+1. **System layers** are components of a whole signed-language writing and text-infrastructure path.
+2. **Adjacent-purpose categories** are useful systems whose primary purpose may not be full public writing infrastructure.
+3. **Evaluation axes** are questions about evidence, authority, claim scope, audience, completeness, dependency, and prior work that apply across all layers and categories.
 
-Every source must first be located at the correct layer or layers.
+Mixing these three kinds of categories weakens critique. Separating them makes the framework fairer and harder to dismiss.
 
-A source may span multiple layers.
+A review should therefore proceed in this order:
 
-It must not collapse them.
+1. Name what the source claims to do.
+2. Locate it in the layer stack or adjacent-purpose categories.
+3. Identify the primary unit it treats as basic.
+4. Identify its representational target and spatial/sequential assumptions.
+5. Evaluate evidence, maturity, authority, audience, and completeness at that level.
+6. State a layer-level judgment.
+7. State a separate full-path judgment.
 
-### Layers
+The method is not designed to force every source into a deficiency narrative. It is designed to prevent a review from either overpraising a partial solution or unfairly dismissing a narrow but valuable one.
 
-1. **Language**
-   - phonology, morphology, syntax, discourse
-   - the structure of signed language itself
-2. **Writing system**
-   - how language is represented as readable and writable text
-   - symbol system plus spatial or sequential composition
-3. **Notation / transcription**
-   - analytic or research-oriented representations
-   - often more detailed than a public writing system
-4. **Semantic representation**
-   - meaning structures independent of language form
-   - graphs, diagrams, interlingua, or semantic-layer systems
-5. **Encoding / text model**
-   - how writing is stored, serialized, searched, segmented, and processed
-   - for example FSW and SWU
-6. **Rendering / presentation**
-   - visual output
-   - fonts, layout, and display behavior
+## System Layers
 
-### Evaluation questions
+A full signed-language writing and text-infrastructure path contains the following layers.
 
-- Which layer does the work explicitly address?
-- Which layer does it implicitly assume?
-- Does it keep those layers distinct?
+A reviewed source may address one layer, several layers, or the whole path. It should not be credited with solving layers it does not address. It should also not be condemned for failing to solve layers it never claimed to address.
 
-### Common failure: level confusion
+| # | Layer | Core question |
+| -: | --- | --- |
+| 1 | **Language and modality target** | What signed-language form, structure, or communicative object is being represented? |
+| 2 | **Human writing-system layer** | What do people read and write? |
+| 3 | **Orthographic / written-convention layer** | What makes forms stable, contrastive, teachable, correctable, reusable, and legible within a community of practice? |
+| 4 | **Written-unit layer** | What is the primary written unit, and what can be composed, recognized, cited, copied, corrected, and preserved? |
+| 5 | **Spatial, sequential, and compositional organization layer** | How are written units organized internally and externally, and is spatial relation part of authorship, display, or both? |
+| 6 | **Technical text-model layer** | How is written structure modeled for validation, parsing, comparison, transformation, and preservation? |
+| 7 | **Encoding / serialization layer** | How is text represented as characters, strings, code points, markup, or serialized data? |
+| 8 | **Text-operations and interoperability layer** | Can it be searched, sorted, normalized, converted, migrated, indexed, and exchanged? |
+| 9 | **Layout and document-organization layer** | How are written units arranged into readable passages, columns, pages, lanes, or other document structures? |
+| 10 | **Rendering / styling layer** | How is modeled text displayed visually? |
+| 11 | **Tooling, corpus, and platform layer** | Are there editors, fonts, libraries, datasets, corpora, dictionaries, APIs, documentation, and preservation paths? |
+| 12 | **Use, pedagogy, and literacy-practice layer** | Can people learn, teach, read, write, revise, correct, and use the system in practice? |
+| 13 | **Governance and stewardship layer** | Who maintains the system, separates authority, governs data, and sustains infrastructure over time? |
 
-Examples include:
+These layers are not a rigid checklist that every narrow-purpose system must satisfy. They are the layers a full-path claim must eventually account for. A source may intentionally operate at one layer. That is fine. A source becomes overstated when success at one layer is treated as if it solves the whole path.
 
-- treating a writing system as if it were a language
-- treating notation as if it were public writing
-- treating encoding as if it defined the writing system itself
+The companion manual, *Review Procedure for the Full-Path Critique Framework*, expands these layers into detailed questions, layer risks, review steps, output classifications, examples, and stress tests.
 
-## II. Representation model
+## Adjacent-Purpose Categories
 
-This section asks what the work thinks it is representing.
+Adjacent-purpose systems are not failed writing systems. They are systems with different primary purposes.
 
-The central distinction is:
+The framework identifies adjacent-purpose categories before judging full-path adequacy. This is fairer than treating every narrow system as a deficient version of a full writing system. It also preserves critique when a narrow system is rhetorically extended beyond what it actually solves.
 
-> does the system model form, meaning, or text structure?
+| Adjacent target | Core question | Typical full-path risk |
+| --- | --- | --- |
+| **Notation / transcription** | Is this adequate for analysis, description, documentation, or research transcription? | Specialist notation is presented as public writing. |
+| **Semantic / computational representation** | Is this adequate for meaning representation, translation, computational analysis, or language technology? | Meaning representation is treated as written signed text. |
+| **Pedagogical bridge system** | Is this useful for teaching, transition, literacy support, or classroom scaffolding? | Classroom scaffold is presented as full orthography or public infrastructure. |
+| **Corpus annotation** | Is this useful for tagging, alignment, analysis, search, or dataset enrichment? | Annotation metadata is treated as durable signed text. |
+| **Video-linked annotation** | Is this useful for connecting signed media with structured metadata or linguistic analysis? | Durable records about video are treated as durable written signs. |
+| **Video-centered language record** | Is this useful for preserving performance, timing, expression, prosody, and embodiment? | Video is treated as a replacement for every function of durable text. |
+| **Synthesis / avatar representation** | Is this useful for generating movement, controlling avatars, or specifying performance? | Performance instructions are treated as writing for readers and writers. |
+| **Character encoding / standards** | Is this adequate as character-repertoire, symbol-identity, or standards-facing work? | Character identity is treated as complete written-text infrastructure. |
+| **Rendering / font system** | Is this adequate as display, styling, or visual output mechanism? | Visible output is treated as canonical text. |
+| **Lexical database / dictionary infrastructure** | Is this adequate for storing lexical records, translations, examples, metadata, and media? | Dictionary records are treated as the writing system itself. |
+| **AI / dataset infrastructure** | Is this adequate for training data, evaluation data, search, recognition, generation, or machine learning? | Dataset usefulness is treated as community authorization or writing-system adequacy. |
 
-### Common orientations
+For each adjacent-purpose category, the review question is:
 
-- **Form-based**
-  - phonographic or articulatory emphasis
-- **Meaning-based**
-  - semantic or logographic emphasis
-- **Structural**
-  - textual or compositional emphasis
+> Is the system adequate for its adjacent purpose, and is it being overclaimed as full durable signed-language writing infrastructure?
 
-These should be treated as dominant orientations, not always as exclusive categories.
+A positive adjacent-purpose judgment should be explicit. Use phrases such as:
 
-They are not mutually exclusive categories, but analytical lenses for identifying what a system prioritizes.
+- useful but narrow as notation
+- correct and useful as character-repertoire work
+- strong as corpus annotation
+- valuable as a pedagogical bridge
+- useful as a renderer but not a text model
+- promising as semantic representation but not public writing infrastructure
 
-### Evaluation questions
+## Evaluation Axes
 
-- What is the primary representational target?
-- Does the model preserve simultaneity?
-- Does it respect spatial structure?
-- Does it assume linearity as a default?
+Evaluation axes are not layers. They are questions applied across all layers and adjacent-purpose categories.
 
-### Common failure: alphabetic bias
+| Axis | Core question |
+| --- | --- |
+| **Claim scope** | What is the source actually claiming: notation, pedagogy, encoding, writing, infrastructure, empirical outcome, standards status, or something else? |
+| **Evidence status** | What kind of evidence supports the claim, and what stronger evidence would be needed for a stronger claim? |
+| **Maturity level** | Is the work an idea, prototype, implemented tool, documented practice, maintained infrastructure, institutional resource, or independently studied system? |
+| **Authority type** | Is the claim technical, linguistic, orthographic, educational, community-based, institutional, legal, standards-facing, data-governance, or stewardship authority? |
+| **Audience and use context** | For whom, and for what task, is the system adequate? |
+| **Completeness at the claimed layer** | Is the relevant layer absent, implied, partial, working, mature, or institutionally sustained? |
+| **Interdependence** | Which downstream layers depend on this one, and which dependencies are hidden or assumed? |
+| **Prior-work engagement** | Does the source account for relevant existing systems, tools, corpora, encodings, practices, and migration questions? |
 
-This appears when a work:
+The companion manual expands these axes into review questions and maturity categories.
 
-- assumes sequential phonological units are primary
-- evaluates signed writing mainly by resemblance to spoken-language orthography
-- treats line-based writing as the norm that signed writing must approximate
+## Minimum Conditions for a Full-Path Claim
 
-## III. Structural unit analysis
+A system does not need to solve every layer alone. It may rely on other systems, standards, tools, institutions, or practices. But a full-path claim must account for the path.
 
-What does the work treat as the fundamental unit of the system?
+A full-path claim should satisfy, or explicitly defer with a credible dependency, the following minimum conditions:
 
-Possible units include:
+1. **Human written form:** It identifies what people read and write.
+2. **Primary written unit:** It identifies the basic unit that writers compose, readers recognize, and tools preserve.
+3. **Convention:** It explains how variation becomes stable, teachable, correctable, and reusable.
+4. **Spatial and compositional organization:** It explains how space, sequence, simultaneity, orientation, and arrangement are authored, preserved, linearized if necessary, and displayed.
+5. **Text model:** It preserves written structure as text, not merely as image, video, performance instruction, or display output.
+6. **Encoding or storage:** It defines how text is stored, transmitted, exchanged, and versioned.
+7. **Text operations:** It supports or accounts for search, comparison, sorting, validation, conversion, migration, and indexing where relevant.
+8. **Layout and documents:** It explains how written units become passages, pages, or other durable documents.
+9. **Rendering:** It makes text visible without confusing display with canonical text identity.
+10. **Tooling and data:** It provides or accounts for usable tools, documentation, dictionaries, corpora, datasets, and preservation paths.
+11. **Use and pedagogy:** It provides evidence appropriate to claims about learning, teaching, reading, writing, correction, adoption, and literacy.
+12. **Governance:** It identifies who maintains the system and who has authority over technical validity, data, community practice, education, standards, and stewardship.
+13. **Dependency honesty:** It states which layers are solved, which are borrowed, which are partial, and which remain unresolved.
 
-- phoneme-like units
-- articulatory features
-- symbols
-- the sign as a structured written unit
-- utterance or discourse
+A system that cannot meet these conditions may still be correct and useful at a layer or adjacent purpose. It should not be described as a complete signed-language writing and text-infrastructure path.
 
-For signed writing systems, confusion at this level is especially consequential, because the written sign is often the primary unit, not the symbol.
+## Recurring Failure Patterns
 
-### Evaluation questions
+Common failure patterns include level confusion, full-path overextension, symbol-centric modeling, forced linearization, character-inventory substitution, renderer substitution, alphabetic bias, incomplete infrastructure engagement, evidence overextension, authority conflation, incomplete prior-work engagement, and data-object collapse.
 
-- What is the smallest meaningful unit?
-- What is the primary compositional unit?
-- Is the model symbol-centric or unit-centric?
+These are diagnostic labels, not substitutes for argument. The companion manual defines each pattern and gives review tests for applying them.
 
-### Common failure: symbol-centric modeling
+## What This Framework Does Not Claim
 
-This appears when a work:
+This framework does not claim that all signed-language writing must be Sutton SignWriting.
 
-- focuses on symbol inventory rather than written structure
-- decomposes signs into parts but misses the signbox or equivalent unit
-- treats a writing system as if it were only a symbol catalog
+It does not claim that every useful system must solve the full path.
 
-## IV. Spatial vs linear organization
+It does not claim that notation, transcription, semantic representation, video, gloss, annotation, bridge systems, Unicode, rendering systems, or AI datasets are unimportant.
 
-The key question here is:
+It does not claim that technical infrastructure proves literacy outcomes.
 
-> does the system treat space as part of writing, or as something to be flattened?
+It does not claim that adoption evidence proves universal community preference.
 
-### Categories
+It does not claim that community preference automatically solves technical infrastructure.
 
-- **Linear**
-  - sequence-dominant
-- **Planar**
-  - spatial composition as part of writing
-- **Hybrid**
-  - a mixed approach
+It does not claim that standards recognition automatically creates production compatibility.
 
-### Evaluation questions
+It does not claim that public availability automatically grants data-use permission.
 
-- Is spatial relation part of authorship?
-- Is linearization imposed artificially?
-- Is two-dimensional structure preserved in the model?
+It does not claim that computational validity decides spelling quality, educational value, legal rights, or community legitimacy.
 
-### Common failure: forced linearization
+It does not claim that the current Sutton SignWriting production ecosystem is beyond critique.
 
-This appears when a work:
+It does claim that a full working signed-language writing system requires more than one successful layer, and that reviews should say exactly which layers a source handles, which it does not, and what would still be needed.
 
-- flattens spatial structure into a sequence
-- treats serialization as evidence that the writing system itself is linear
-- mistakes technical convenience for writing-system adequacy
+## Conclusion
 
-## V. Text model and encoding
+Signed-language writing work becomes confused when partial solutions are treated as whole solutions.
 
-This is where much of the literature becomes least clear.
+A notation system can solve notation. A semantic system can solve semantic representation. A video corpus can solve documentation. A character encoding can solve character naming. A renderer can solve display. A classroom bridge can solve a teaching problem. A dataset can support analysis or machine learning. A dictionary can support lexical practice.
 
-The essential distinction is:
+Those are real contributions.
 
-> writing is not encoding
-> encoding is not rendering
-> and rendering is not structure
+But durable signed-language writing requires a full path from human written form to reusable text infrastructure. That path includes language target, human writing, convention, written units, spatial and document organization, text modeling, encoding, operations, layout, rendering, tooling, pedagogy, evidence, governance, and stewardship.
 
-### Evaluation questions
+The purpose of this framework is not to dismiss narrower systems. It is to say exactly what each system accomplishes, where it belongs, what it does not accomplish, and what would still be needed for a whole working signed-language writing system.
 
-- Is there a defined text model?
-- Does the encoding preserve structure?
-- Is the representation editable, searchable, and segmentable?
-- Is a canonical form defined?
+The strongest review is not the one that says simply `correct` or `wrong`.
 
-### Common failure: incomplete infrastructure awareness
+The strongest review says:
 
-This appears when a work:
+> This is what the source actually solves.
+>
+> This is the layer where it is useful.
+>
+> This is where the claim has been overstated, if anywhere.
+>
+> This is what remains unresolved.
+>
+> This is what would be needed for full-path adequacy.
 
-- assumes signed language lacks writable text
-- ignores existing encoding systems
-- mistakes visual layout questions for the absence of a text model
-
-## VI. Human vs machine layers
-
-Another required distinction is:
-
-- **human writing**
-  - what users compose and read
-- **machine encoding**
-  - how systems store and process
-
-### Evaluation questions
-
-- Are these layers separated clearly?
-- Is serialization mistaken for writing?
-- Is rendering mistaken for structure?
-
-### Common failure
-
-This appears when a work:
-
-- treats a user interface as if it were the writing system itself
-- designs for machine convenience while ignoring human readability
-- treats rendering artifacts as textual units
-
-## VII. Empirical grounding
-
-### Evaluation questions
-
-- Is there real-world usage?
-- Are claims based on observation, experiment, or speculation?
-- Is community adoption considered?
-
-### Common failure
-
-This appears when a work:
-
-- proposes a system with no user grounding
-- dismisses existing communities of practice
-- reasons as if actual adoption history were irrelevant
-
-## VIII. Claims vs evidence
-
-### Evaluation questions
-
-- What does the work actually demonstrate?
-- What is inferred but not demonstrated?
-- Are the conclusions stronger than the evidence?
-
-### Common failure
-
-This appears when a work:
-
-- draws universal conclusions from limited data
-- confuses feasibility with superiority
-- treats one partial success as evidence for a broader theory
-
-## IX. Relationship to existing systems
-
-### Evaluation questions
-
-- Does the work acknowledge existing systems?
-- Does it extend them, ignore them, or mischaracterize them?
-- Does it present old solutions as if they were new?
-
-### Common failure: insufficient engagement with prior work
-
-This appears when a work:
-
-- proposes a feature, system, or standard without adequately accounting for relevant existing systems, tools, datasets, or literature
-- treats an already-addressed problem as if the design space were empty
-- mischaracterizes prior systems strongly enough that the comparison becomes unreliable
-
-In SignWriting-related work, this often includes insufficient engagement with Sutton SignWriting practice or Formal SignWriting infrastructure.
-
-But the criterion is broader than SignWriting.
-
-It is a general scholarly requirement: novelty claims should be made against the actual prior work, not against a simplified absence.
-
-## X. Output classification
-
-Each review in the series should end with a clear classification.
-
-The classification should be layer-specific before it is global.
-
-Many sources are correct and useful at one layer while incomplete or misleading at another. A review should therefore state:
-
-1. where the source is strongest
-2. where its claims become incomplete or overstated
-3. what overall reading follows from that layer map
-
-### 1. Correct and useful
-
-- valid insight
-- correctly placed at the layer being evaluated
-- evidence and claim are well matched
-
-### 2. Partially correct
-
-- real observation
-- incomplete interpretation, overextended conclusion, or incorrect level placement
-
-### 3. Misleading
-
-- the framing error is strong enough that it leads to bad conclusions
-- the work may contain useful observations, but its main frame directs readers toward an unreliable conclusion
-
-### 4. Fundamentally misframed
-
-- the work is built on assumptions that do not match the thing it is describing
-- the main target, layer, or unit of analysis is wrong enough that the work cannot be repaired by local qualification alone
-
-## XI. Application to standards and proposals
-
-This framework also extends to technical standards such as Unicode proposals.
-
-### Additional questions
-
-- What layer does the proposal recognize, and what layer does it actually standardize?
-- Which parts of the problem are actually solved, and which are deferred, incomplete, or left to external mechanisms?
-- Are the proposal, the standardized outcome, and later public interpretation being kept distinct?
-- Does the encoding preserve authored structure?
-- Are the encoded units atomic glyphs or structured text elements?
-- Is the model glyph-based or text-based?
-- Does the standard support search and segmentation, or only rendering?
-
-### Common failures at the standards layer
-
-- solving only a character-repertoire problem while later readers assume the writing-system problem is finished
-- encoding glyphs rather than text structure
-- collapsing composition into rendering
-- losing spatial relations in serialization
-
-## XII. Final principle
-
-All critique resolves to one question:
-
-> does this work understand what kind of thing it is describing?
-
-If not, everything built on top of it will drift.
-
-## Closing note
-
-This framework is not tied to any single system.
-
-But it is especially effective in settings where:
-
-- modality differs from spoken language
-- writing is not inherently linear
-- structure must be preserved across human and machine use
-
-It is intended not only to correct past work, but to make future work clearer.
-
-This framework is intended for direct use in reviewing papers, theses, proposals, and standards.
-
-Each review in this series applies the framework in practice, so readers can see both the method and its results.
-
-## Go Next
-
-- *Sutton SignWriting and Formal SignWriting Through the Framework* for self-application of the framework
-- *A Layer-Based Evaluation of Signed Language Writing Systems* for the comparative demonstration
-- *From Critique to Construction: Priorities for Signed Language Writing Infrastructure* for the constructive synthesis
+That is the standard this framework applies.

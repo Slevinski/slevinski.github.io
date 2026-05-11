@@ -6,8 +6,6 @@
   "summary": "A synthesis brief distinguishing strong, partial, and still-open evidence for SignWriting adoption and infrastructure claims.",
   "abstract": "The current public evidence base for SignWriting supports real-world relevance while leaving important scale, generalization, and educational-outcome questions open. Documented educational, institutional, scholarly, and technical use, especially in Brazil and South Korea, means SignWriting should no longer be treated as a merely hypothetical proposal. At the same time, the evidence does not yet amount to a complete global census, broad population-scale outcome evidence, or a single adoption story across all communities. SignWriting can therefore be treated as real infrastructure and research material while keeping claims about scale, generalization, and educational outcomes bounded.",
   "synopsis": "The current public evidence base supports real-world relevance, identifies partial evidence, and shows how Brazil, South Korea, and the wider SignWriting record should be interpreted without overclaiming. The empirical distinction is between documented adoption and open empirical questions.",
-  "cover_image": "/series/evidence-and-adoption/entries/what-the-current-evidence-base-shows/cover.png",
-  "cover_image_alt": "A research desk with evidence papers, charts, a magnifying glass, and connected SignWriting-like symbols organized into strong, partial, and open evidence paths.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -39,7 +37,7 @@
       "id": "strong-evidence",
       "title": "Strong Evidence",
       "kicker": "2",
-      "summary": "The strongest evidence concerns existence, country anchors, institutional proof points, and technical maturity.",
+      "summary": "The strongest evidence concerns existence, country anchors, institutional anchors, and technical maturity.",
       "image_prompts": {
         "concrete": "Evidence hierarchy slide with four strong areas: existence, Brazil, South Korea, technical and scholarly record",
         "abstract": "A layered evidence stack with strongest claims at the base"
@@ -47,10 +45,10 @@
       "bullets": [
         "SignWriting is real in practice",
         "Brazil is the strongest empirical center",
-        "South Korea is a current institutional proof point",
+        "South Korea is a current institutional case study",
         "Technical and scholarly records are substantial"
       ],
-      "speech": "The strongest evidence falls into four areas: SignWriting exists in practice, Brazil gives the strongest empirical center, South Korea gives a current institutional proof point, and the technical and scholarly record is already substantial.",
+      "speech": "The strongest evidence falls into four areas: SignWriting exists in practice, Brazil gives the strongest empirical center, South Korea gives a current institutional case study, and the technical and scholarly record is already substantial.",
       "notes": "Keep this as a hierarchy of claim strength."
     },
     {

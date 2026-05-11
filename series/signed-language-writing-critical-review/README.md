@@ -8,7 +8,7 @@ The recurring question is:
 
 > what level of the problem is this work actually solving?
 
-That question keeps the reviews disciplined. A proposal may solve a notation problem without solving a writing problem. A standard may encode characters without providing a complete written-sign model. A rendering system may display signs without preserving authored text.
+That question keeps the reviews disciplined. A proposal may solve a notation problem without solving a writing problem. A standard may encode characters without providing a complete written-sign model. A rendering system may display signs without preserving authored text. A dataset or dictionary may support important infrastructure without deciding community authority, data rights, or full-path adequacy.
 
 ## Repository Details
 
@@ -31,7 +31,7 @@ That question keeps the reviews disciplined. A proposal may solve a notation pro
 Begin with the shared framework and baseline reviews:
 
 1. [Signed Language Writing Critical Review Series Overview](entries/overview/essay.md)
-2. [A Unified Critique Framework for Signed Language Writing, Encoding, and Representation](entries/a-unified-critique-framework-for-signed-language-writing-systems/essay.md)
+2. [Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure](entries/a-unified-critique-framework-for-signed-language-writing-systems/essay.md)
 3. [Sutton SignWriting and Formal SignWriting Through the Framework](entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md)
 4. [A Layer-Based Evaluation of Signed Language Writing Systems](entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md)
 
@@ -40,21 +40,21 @@ Then read the individual reviews and the constructive synthesis.
 ## Contents
 
 - [Overview](entries/overview/essay.md) - public orientation for the review series
-- [A Unified Critique Framework](entries/a-unified-critique-framework-for-signed-language-writing-systems/essay.md) - reusable evaluation framework
+- [Full-Path Critique Framework](entries/a-unified-critique-framework-for-signed-language-writing-systems/essay.md) - reusable evaluation framework; companions: [Review Procedure](entries/a-unified-critique-framework-for-signed-language-writing-systems/review-procedure.md), [Reviewer Worksheet](entries/a-unified-critique-framework-for-signed-language-writing-systems/worksheet.md)
 - [Sutton SignWriting and Formal SignWriting Through the Framework](entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md) - internal baseline review
-- [A Layer-Based Evaluation of Signed Language Writing Systems](entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md) - bounded comparison across systems
+- [A Layer-Based Evaluation of Signed Language Writing Systems](entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md) - bounded comparison across systems; companion: [Comparative Matrix](entries/a-layer-based-evaluation-of-signed-language-writing-systems/comparative-matrix.md)
 - [Official Unicode SignWriting](entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/essay.md) - standards review of official Unicode SignWriting
 - [Grushkin 2017](entries/grushkin-2017-writing-signed-languages-what-for-what-form/essay.md) - review of writing-form arguments
 - [Filhol 2020](entries/filhol-2020-a-human-editable-sign-language-representation/essay.md) - review of AZee and editable representation
 - [Thiessen 2011](entries/thiessen-2011-a-grammar-of-signwriting/essay.md) - review of grammar and SignWriting description
 - [Martin 2000](entries/martin-2000-from-notation-to-writing/essay.md) - review of notation-to-writing arguments
-- [Meletis and Durscheid 2022](entries/meletis-and-durscheid-2022-writing-systems-and-their-use/essay.md) - review of general writing-system theory
+- [Meletis and Dürscheid 2022](entries/meletis-and-durscheid-2022-writing-systems-and-their-use/essay.md) - review of general writing-system theory; companion: [Signed Writing as a Pressure Test for General Writing Theory](entries/meletis-and-durscheid-2022-writing-systems-and-their-use/signed-writing-as-a-pressure-test-for-general-writing-theory.md)
 - [From Critique to Construction](entries/from-critique-to-construction-priorities-for-signed-language-writing-infrastructure/essay.md) - constructive synthesis for research, tooling, standards, education, and infrastructure
 - [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
 ## Review Commitments
 
-Each review distinguishes writing, notation, encoding, rendering, and infrastructure; evaluates claims at the level where they operate; separates useful contributions from unresolved gaps; and connects review findings back to better research, standards, tools, and public explanation.
+Each review distinguishes writing, notation, encoding, rendering, infrastructure, evidence, authority, and data objects; evaluates claims at the level where they operate; separates layer-level success from full-path adequacy; and connects review findings back to better research, standards, tools, data practice, and public explanation.
 
 ## Citation
 
