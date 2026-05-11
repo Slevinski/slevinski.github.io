@@ -65,7 +65,7 @@ Slevinski, S. (2026). Signed Language Writing Critical Review Series (v1.0.0). Z
 | Artifact | Source | Status | DOI | Companion Files |
 | --- | --- | --- | --- | --- |
 | `Overview` | `entries/overview/essay.md` | series-only | none | `start-here.md` |
-| `Full-Path Critique Framework` | `entries/a-unified-critique-framework-for-signed-language-writing-systems/essay.md` | artifact-doi-planned | pending | `review-procedure.md`; `worksheet.md` |
+| `Full-Path Critique Framework` | `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md` | artifact-doi-planned | pending | `review-procedure.md`; `worksheet.md` |
 | `Sutton SignWriting and Formal SignWriting Through the Framework` | `entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md` | artifact-doi-planned | pending | none |
 | `A Layer-Based Evaluation of Signed Language Writing Systems` | `entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md` | artifact-doi-planned | pending | `comparative-matrix.md` |
 | `Official Unicode SignWriting` | `entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/essay.md` | artifact-doi-planned | pending | none |
@@ -82,7 +82,7 @@ Slevinski, S. (2026). Signed Language Writing Critical Review Series (v1.0.0). Z
 
 - Type: Working Framework
 - DOI posture: separate artifact DOI planned
-- Source path: `entries/a-unified-critique-framework-for-signed-language-writing-systems/essay.md`
+- Source path: `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md`
 
 Abstract:
 

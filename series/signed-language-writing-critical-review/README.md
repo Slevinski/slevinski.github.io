@@ -31,7 +31,7 @@ That question keeps the reviews disciplined. A proposal may solve a notation pro
 Begin with the shared framework and baseline reviews:
 
 1. [Signed Language Writing Critical Review Series Overview](entries/overview/essay.md)
-2. [Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure](entries/a-unified-critique-framework-for-signed-language-writing-systems/essay.md)
+2. [Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md)
 3. [Sutton SignWriting and Formal SignWriting Through the Framework](entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md)
 4. [A Layer-Based Evaluation of Signed Language Writing Systems](entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md)
 
@@ -40,7 +40,7 @@ Then read the individual reviews and the constructive synthesis.
 ## Contents
 
 - [Overview](entries/overview/essay.md) - public orientation for the review series
-- [Full-Path Critique Framework](entries/a-unified-critique-framework-for-signed-language-writing-systems/essay.md) - reusable evaluation framework; companions: [Review Procedure](entries/a-unified-critique-framework-for-signed-language-writing-systems/review-procedure.md), [Reviewer Worksheet](entries/a-unified-critique-framework-for-signed-language-writing-systems/worksheet.md)
+- [Full-Path Critique Framework](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md) - reusable evaluation framework; companions: [Review Procedure](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/review-procedure.md), [Reviewer Worksheet](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/worksheet.md)
 - [Sutton SignWriting and Formal SignWriting Through the Framework](entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md) - internal baseline review
 - [A Layer-Based Evaluation of Signed Language Writing Systems](entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md) - bounded comparison across systems; companion: [Comparative Matrix](entries/a-layer-based-evaluation-of-signed-language-writing-systems/comparative-matrix.md)
 - [Official Unicode SignWriting](entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/essay.md) - standards review of official Unicode SignWriting
