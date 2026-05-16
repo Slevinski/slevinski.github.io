@@ -138,9 +138,11 @@ In practice:
 - lane behavior belongs to layout
 - document-level segmentation belongs to the host format or corpus convention
 
+In a plain-text stream, a parser identifies the next sign by the structural marker that begins it, or by the surrounding format when signs are stored as separate fields or records.
+
 That division keeps the grammar strict where it needs to be strict while leaving passage layout and document packaging to the layers designed for them.
 
-## Tokenization and NLP
+## Preserve First, Derive Second
 
 At the grammar layer, tokenization means that valid text can be separated into recognizable structural parts.
 

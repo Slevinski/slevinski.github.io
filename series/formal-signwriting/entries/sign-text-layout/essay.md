@@ -90,6 +90,8 @@ The layout model therefore uses a hybrid centering strategy:
 
 Because `hcenter` and `vcenter` name signbox-centering symbol ranges rather than layout axes, the layout layer may use the `vcenter` range to determine an `x` center and the `hcenter` range to determine a `y` center.
 
+For example, in vertical writing, head and trunk symbols in the `vcenter` range help align the written body on the `x` axis of the column. In horizontal writing, head symbols in the `hcenter` range help align the sign on the `y` axis of the row. The range names come from signbox-centering practice, while the layout axis depends on passage direction.
+
 This keeps vertical and horizontal passage layout compatible while preserving the signbox as structured text.
 
 ## Reading Levels
@@ -106,6 +108,8 @@ The profiles are practical layout defaults:
 - `SW4` supports the longest default passage units with the tightest default padding
 
 The values should be understood as shared implementation defaults. A publication system may define its own typographic profile, but it should document how it differs from these defaults.
+
+The numeric defaults are pixel-oriented implementation values at the renderer's normal coordinate scale. Renderers that scale output should scale these values proportionally or document their alternative profile.
 
 The default values are:
 

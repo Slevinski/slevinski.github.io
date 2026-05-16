@@ -71,7 +71,7 @@
     },
     {
       "id": "encoding-boundary",
-      "title": "Encoding Authority Has A Boundary",
+      "title": "Encoding Stewardship Has A Boundary",
       "kicker": "4",
       "summary": "FSW and SWU define computational validity; they do not decide language authority, spelling preference, or AI deployment safety.",
       "image_prompts": {

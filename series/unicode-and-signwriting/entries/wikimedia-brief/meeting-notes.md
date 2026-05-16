@@ -63,7 +63,9 @@ Public Wikimedia records have documented a Wikimedia footprint:
 - Wikimedia Incubator has supported sign-language test wikis with a SignWriting gadget and related custom scripts
 - older Wikimedia Cloud VPS / Labs services such as `swserver.wmflabs.org` and `swis.wmflabs.org` show that SignWriting support has already required custom bridge services
 
-The current state of individual properties, gadgets, services, and Cloud VPS resources should be verified before operational planning.
+Because Wikimedia properties, gadgets, services, and Cloud VPS resources can change, operational planning should start from a fresh check of their current state.
+
+For this release, P14164 and its formatter URL were checked on 2026-05-15.
 
 That history matters because it shows both real demand and real drift.
 
@@ -102,3 +104,5 @@ A strong discussion ends with:
 - clear recognition that the issue is about encoding and interoperability, not only fonts
 - a cooperative tone for future discussion
 - a concrete next step
+
+A weak outcome would be a public-facing statement that Unicode has already solved SignWriting in full, or that FSW and SWU are merely obsolete workarounds. That would repeat the confusion this discussion is meant to prevent.

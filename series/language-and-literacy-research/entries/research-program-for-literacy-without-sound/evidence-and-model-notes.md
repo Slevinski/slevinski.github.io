@@ -22,6 +22,12 @@ This is an evidence register and model notebook, not a single linear article.
 
 It is meant to gather claims, distinctions, comparative cases, and source anchors that support the research program. Readers should use it as a structured support document rather than as a finished standalone review paper.
 
+## How To Use These Notes
+
+These notes serve three related purposes. Sections I-V gather the evidence status behind the pathway and literacy claims. Sections VI-VIII compare representation layers and clarify what different media can and cannot support. Sections IX-XI turn those limits into research questions, working formulations, and claim boundaries.
+
+Readers checking evidence can begin with Sections I-V. Readers evaluating the comparative model can begin with Sections VI-VIII. Readers designing studies or citing the research agenda can begin with Sections IX-XI.
+
 ## I. What is strongly established
 
 ### 1. Language is not tied to sound
@@ -260,7 +266,7 @@ The literature supports:
 - actual use
 - pedagogical relevance
 - classroom experimentation
-- small- and medium-scale educational benefit
+- documented educational use and promise of benefit
 
 But the current record is still limited by:
 

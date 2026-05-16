@@ -8,6 +8,8 @@ This register supports the chronology and the broader distinction between:
 - preserving stable symbol identity
 - encoding complete written signs
 
+Links in this register were checked for the v1.0.0 release on 2026-05-15. Live registries, repositories, and Wikimedia records may change after publication.
+
 ## Unicode and WG2 submissions
 
 - [N4015 / L2/11-101](https://www.unicode.org/L2/L2011/11101-n4015-signwriting.pdf)

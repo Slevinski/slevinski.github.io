@@ -2,7 +2,9 @@
 
 *Writing-systems essays on plane-based composition, authored space, convention, handwriting, machine encoding, and signed-writing typology*
 
-This repository contains the writing-systems series of the Sutton SignWriting platform. It defines the conceptual place of SignWriting as writing: not only as notation, not only as technical encoding, and not only as visual representation, but as authored signed-language text.
+This repository carries the writing-system claim for the Sutton SignWriting platform: SignWriting is authored signed-language text organized through plane-based composition, conventional written practice, and durable technical preservation.
+
+The series explains how SignWriting works as writing, how authored space functions inside the written sign, and why signed writing pressures familiar typologies built around line-based scripts.
 
 ## Repository Details
 
@@ -27,6 +29,7 @@ Begin with:
 
 1. [Writing and Representation in Sutton SignWriting Overview](entries/overview/essay.md)
 2. [Plane-Based Writing and Script Typology](entries/plane-based-writing-and-script-typology/essay.md)
+   - optional support: [Point, Line, and Plane Evidence Notes](entries/plane-based-writing-and-script-typology/point-line-plane-evidence-notes.md)
 3. [Perspective and Authored Space](entries/perspective-and-authored-space/essay.md)
 4. [Iconicity, Convention, and Legibility](entries/iconicity-convention-and-legibility/essay.md)
 5. [Handwriting and Spatial Script Practice](entries/handwriting-and-spatial-script-practice/essay.md)
@@ -37,6 +40,7 @@ Begin with:
 
 - [Writing and Representation in Sutton SignWriting Overview](entries/overview/essay.md) - public overview for the writing-systems sequence
 - [Plane-Based Writing and Script Typology](entries/plane-based-writing-and-script-typology/essay.md) - typological anchor paper
+- [Point, Line, and Plane Evidence Notes](entries/plane-based-writing-and-script-typology/point-line-plane-evidence-notes.md) - companion bridge note for the point-line-plane argument
 - [Perspective and Authored Space](entries/perspective-and-authored-space/essay.md) - viewpoint, relation, and composed space
 - [Iconicity, Convention, and Legibility](entries/iconicity-convention-and-legibility/essay.md) - motivated visual form as disciplined writing
 - [Handwriting and Spatial Script Practice](entries/handwriting-and-spatial-script-practice/essay.md) - human material practice

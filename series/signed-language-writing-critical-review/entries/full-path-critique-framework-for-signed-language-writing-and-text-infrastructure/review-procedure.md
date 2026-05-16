@@ -356,6 +356,15 @@ Judge completeness at the claimed layer before making any full-path judgment.
 
 Ask which downstream layers depend on the one being reviewed. A partial system should not be treated as complete because its dependencies are hidden or assumed.
 
+Classify required layers as:
+
+- **Solved:** handled directly by the source, system, or stack being reviewed.
+- **Borrowed:** handled by another named system, standard, tool, model, or notation that the source adopts as part of its own stack.
+- **Externally supplied:** provided by communities, institutions, public practice, corpora, datasets, publications, stewardship arrangements, or infrastructure outside the source's direct control.
+- **Assumed:** required by the claim but not specified, evidenced, or assigned to a responsible actor.
+- **Deferred:** acknowledged as future work or a later implementation requirement.
+- **Not in scope:** intentionally excluded because the source makes a narrower claim.
+
 ### Prior-Work Engagement
 
 Prior-work engagement is a methodological requirement, not a demand for deference.
@@ -399,7 +408,7 @@ Then identify whether the aim is explicit, inferred, mixed, or shifting.
 
 Assign the source to one or more system layers and/or adjacent-purpose categories.
 
-State the primary layer, secondary layers, adjacent-purpose category, explicit layers, assumed layers, and layers outside scope.
+State the primary layer, secondary layers, adjacent-purpose category, and explicit layers. Then classify required layers as solved, borrowed, externally supplied, assumed, deferred, or not in scope.
 
 Do not force a source into the full-path stack if it is plainly doing a narrower job. Do not excuse a full-path claim by pretending it is narrower than it is.
 
@@ -485,6 +494,7 @@ Use this table for written reviews.
 | Primary layer |  |
 | Secondary layers |  |
 | Adjacent-purpose category |  |
+| Declared dependencies | Solved / borrowed / externally supplied / assumed / deferred / not in scope |
 | Primary unit |  |
 | Representational target |  |
 | Spatial / sequential treatment |  |

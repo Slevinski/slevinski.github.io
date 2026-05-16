@@ -200,7 +200,7 @@ A writing system can be plane-based for readers and writers while still needing 
 
 That is not a contradiction.
 
-It is a design problem.
+It is an encoding-layer design question.
 
 The important point is:
 
@@ -247,7 +247,7 @@ That gap affects:
 - datasets
 - long-term infrastructure
 
-Here again, the gap is two-layered: technical infrastructure for text and tools, and human infrastructure for continuity, adoption, and stewardship.
+Here, `infrastructure gap` includes both technical layers such as text models, fonts, editors, corpora, and software, and human layers such as continuity, teaching, adoption, stewardship, and publication practice.
 
 ## Comparative cases
 

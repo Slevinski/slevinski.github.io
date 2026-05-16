@@ -312,6 +312,8 @@ Promising but incomplete.
 
 Chapter 10 is the most forward-looking part of the thesis. It shows that Thiessen can see the need for implementation-neutral structure and constrained relation-based encoding. But it remains exploratory and does not yet deliver a full sign-text model.
 
+This is best described as a deferred layer rather than a missing insight. The thesis solves a great deal of script-internal description and supplies serious symbol-level analysis. It begins to address written-sign structure and encoding, but those layers remain preliminary. The later full-path production model must therefore be supplied from outside the thesis rather than treated as something the thesis already completed.
+
 ## Main critique categories
 
 - `Symbol-Centric Modeling`

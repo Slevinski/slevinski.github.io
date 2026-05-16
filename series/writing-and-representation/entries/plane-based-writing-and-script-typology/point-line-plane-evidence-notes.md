@@ -4,6 +4,8 @@
 
 These notes carry the evidence layer behind the point-line-plane argument in *Sutton SignWriting Foundations: The Shape of Writing* and connect that argument to the writing-systems series.
 
+They are a companion bridge note rather than a separate main paper: useful for readers who want the evidence and infrastructure background behind the typological claim before moving into *Plane-Based Writing and Script Typology*.
+
 Just as *Language Without Sound* argued that literacy does not require sound or vision, this companion piece argues that literacy does not require linearity. The aim here is to clarify the strongest writing-theory points behind the essay, identify where the framework is interpretive rather than taxonomic, and show why SignWriting matters as a case of writable space rather than only as a notation for sign.
 
 If the primary written unit is organized in a plane, the evidence must include how that plane is stabilized, encoded, searched, rendered, studied, and maintained.
@@ -199,9 +201,9 @@ That is especially relevant for plane-based writing.
 
 If readers use spatial organization to build cognitive maps of what they are reading, then plane-based writing raises sharper questions about how layout, grouping, and interface design support comprehension and reuse.
 
-This does not prove that any one medium or script is universally superior.
+The point is not universal superiority for any one medium or script.
 
-It does strengthen the claim that the geometry of writing affects the work readers can do with it.
+The point is that the geometry of writing affects the work readers can do with it.
 
 The scientific implications are equally important.
 

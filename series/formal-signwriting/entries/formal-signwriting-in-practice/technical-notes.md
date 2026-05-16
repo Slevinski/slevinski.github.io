@@ -7,7 +7,7 @@ Implementation reference only. Read the companion technical paper for the concep
 
 These technical notes are the implementation-oriented companion to the practice paper. They collect ecosystem details, maintenance cautions, and package-level notes that should stay out of the main stewardship argument.
 
-## 0. Minimal ecosystem sketch
+## Minimal ecosystem sketch
 
 Concrete package examples already give the ecosystem a visible shape:
 
@@ -24,7 +24,7 @@ That is enough to show that the model already lives in real software artifacts.
 
 Treat this list as a release-time snapshot. The maintained package inventory should live in the public reference data and library documentation so the paper does not become the only source for ecosystem state.
 
-## I. Practice is part of the argument
+## Practice is part of the argument
 
 Formal SignWriting is more persuasive when its real ecosystem is visible.
 
@@ -37,7 +37,7 @@ That includes:
 
 The practical record is not separate from the technical argument. It is one of the strongest pieces of evidence for it.
 
-## II. Package and implementation notes belong here
+## Package and implementation notes belong here
 
 These technical notes are a good place for:
 
@@ -57,7 +57,7 @@ The safest answer remains:
 
 That keeps the main essay readable while preserving useful operational detail.
 
-## III. Canonical and derived layers
+## Canonical and derived layers
 
 The practical distinction can be stated compactly:
 
@@ -70,7 +70,7 @@ The practical distinction can be stated compactly:
 
 This distinction does a great deal of maintenance work.
 
-## IV. Package roles at a glance
+## Package roles at a glance
 
 Concrete package roles also help:
 
@@ -85,7 +85,7 @@ Concrete package roles also help:
 | `@sutton-signwriting/sgnw-components` | browser-facing components |
 | `@sutton-signwriting/signmaker` | browser-based sign editing and embedding |
 
-## V. What future builders need
+## What future builders need
 
 Future builders still need clear answers to questions like:
 
@@ -94,11 +94,11 @@ Future builders still need clear answers to questions like:
 - what is stable?
 - what can be transformed safely?
 
-## VI. Maintenance depends on clear layers
+## Maintenance depends on clear layers
 
 Maintenance becomes easier when canonical text, derived output, and implementation examples remain clearly separated.
 
-## VII. Appendix note on continuity
+## Appendix note on continuity
 
 Practice is where continuity is tested.
 

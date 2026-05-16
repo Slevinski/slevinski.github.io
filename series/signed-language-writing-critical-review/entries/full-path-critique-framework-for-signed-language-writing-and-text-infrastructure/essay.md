@@ -2,7 +2,22 @@
 
 **A methodological guide for evaluating writing systems, notation systems, encodings, standards, tools, datasets, research proposals, and infrastructure claims**
 
-This framework evaluates work on signed-language writing without collapsing different kinds of problems into one another.
+This framework carries the critical-method claim for the review series: signed-language writing work should be evaluated at the layer it actually claims to solve.
+
+The governing principle is:
+
+> A system must be evaluated at the level it claims to operate on.
+
+The purpose is direct:
+
+- identify what a source is trying to do
+- preserve what it gets right
+- separate insight from overextension
+- distinguish layer-level success from full-path adequacy
+- identify what remains unresolved
+- and judge claims at the level where they actually belong
+
+The framework evaluates work on signed-language writing without collapsing different kinds of problems into one another.
 
 It is designed for work on:
 
@@ -17,19 +32,6 @@ It is designed for work on:
 - dictionaries, corpora, datasets, APIs, and AI infrastructure
 - governance, stewardship, institutional support, and public language infrastructure
 
-The purpose is direct:
-
-- identify what a source is trying to do
-- preserve what it gets right
-- separate insight from overextension
-- distinguish layer-level success from full-path adequacy
-- identify what remains unresolved
-- and judge claims at the level where they actually belong
-
-The governing principle is:
-
-> A system must be evaluated at the level it claims to operate on.
-
 Most recurring problems in signed-language writing literature come from violating that principle. A source may solve a notation problem without solving a writing problem. It may define characters without defining written signs. It may render signs without preserving authored text. It may support classroom use without proving broad literacy outcomes. It may be useful for semantic representation without becoming public writing infrastructure.
 
 The framework makes those distinctions visible.
@@ -41,7 +43,7 @@ Every review must keep two judgments separate:
 
 A source can succeed at the first without succeeding at the second. That distinction is the center of the framework.
 
-Two companion documents support application of the method: *Review Procedure for the Full-Path Critique Framework* gives the detailed review manual, and *Reviewer Worksheet for the Full-Path Critique Framework* gives the reusable blank worksheet.
+Two companion documents support application of the method: *Review Procedure for the Full-Path Critique Framework* gives the detailed review manual, and *Reviewer Worksheet for the Full-Path Critique Framework* gives the reusable blank worksheet. In a complete packet, the framework essay states the method; the procedure and worksheet switch into application mode.
 
 ## What This Framework Is For
 
@@ -90,17 +92,17 @@ The framework is less final when the question is intentionally narrower:
 
 That does not make narrower work unimportant. It means narrower work should be judged as narrower work rather than silently treated as though it answered the entire writing and infrastructure problem.
 
-## Author Position and Safeguards
+## Author Position and Method
 
-This framework is written from inside the Sutton SignWriting and Formal SignWriting project, not from an external view from nowhere.
+This framework is written from inside the Sutton SignWriting and Formal SignWriting project.
 
-That position is both a strength and a risk.
+That position is a methodological fact.
 
-It is a strength because the framework is grounded in long-running implementation work: symbol inventories, written signs, encodings, fonts, editors, dictionaries, corpora, rendering paths, search behavior, migration problems, public sites, Unicode-facing work, and stewardship requirements.
+It grounds the framework in long-running implementation work: symbol inventories, written signs, encodings, fonts, editors, dictionaries, corpora, rendering paths, search behavior, migration problems, public sites, Unicode-facing work, and stewardship requirements.
 
-It is a risk because the author may evaluate work that competes with, revises, ignores, mischaracterizes, or attempts to replace parts of that infrastructure.
+It also means the framework must be inspectable when it evaluates work that competes with, revises, ignores, mischaracterizes, or attempts to replace parts of that infrastructure.
 
-The framework therefore requires safeguards:
+The method uses these safeguards:
 
 - apply the method to Sutton SignWriting and Formal SignWriting themselves
 - separate layer-level success from full-path adequacy
@@ -111,11 +113,11 @@ The framework therefore requires safeguards:
 - name evidence gaps in the SignWriting ecosystem as clearly as evidence gaps in competing systems
 - allow non-Sutton systems to count as legitimate signed writing when they define their own written units, conventions, use practices, and infrastructure path
 
-The framework does not ask readers to accept the author's position as authority. It asks readers to inspect whether the layer distinctions, evidence boundaries, and classification judgments hold.
+Readers do not need to accept the author's position as authority. They can inspect whether the layer distinctions, evidence boundaries, and classification judgments hold.
 
 ## Why SignWriting Matters Methodologically
 
-The framework is not structurally biased because it overlaps with SignWriting. It overlaps with SignWriting because SignWriting is a major reference case in which many layers of a signed-language writing and text-infrastructure path have had to be confronted in practice:
+The framework overlaps with SignWriting because SignWriting is a major reference case in which many layers of a signed-language writing and text-infrastructure path have had to be confronted in practice:
 
 - human writing and readable written forms
 - written units and written conventions
@@ -159,11 +161,9 @@ The standard is:
 
 > account for the layers a whole working signed-language writing system must solve, or state clearly that the system serves a narrower purpose
 
-This series therefore uses SignWriting-derived terminology as reference terminology.
+This series therefore uses SignWriting-derived terminology as reference terminology, not as proprietary terminology.
 
-That is not a claim that SignWriting owns the field or that every system must adopt every SignWriting term.
-
-It is a claim that Sutton SignWriting is the clearest currently documented full-path signed-writing infrastructure available for comparison, and that terms such as `written sign`, `signbox`, `plane-based writing`, and `text model` name distinctions that became necessary through actual writing, encoding, rendering, search, corpus, dictionary, standards, and stewardship work.
+Sutton SignWriting is the clearest currently documented full-path signed-writing infrastructure available for comparison, and terms such as `written sign`, `signbox`, `plane-based writing`, and `text model` name distinctions that became necessary through actual writing, encoding, rendering, search, corpus, dictionary, standards, and stewardship work.
 
 This is implementation-tested vocabulary, not proprietary vocabulary.
 
@@ -254,7 +254,7 @@ A full signed-language writing and text-infrastructure path contains the followi
 A reviewed source may address one layer, several layers, or the whole path. It should not be credited with solving layers it does not address. It should also not be condemned for failing to solve layers it never claimed to address.
 
 | # | Layer | Core question |
-| -: | --- | --- |
+| ---: | --- | --- |
 | 1 | **Language and modality target** | What signed-language form, structure, or communicative object is being represented? |
 | 2 | **Human writing-system layer** | What do people read and write? |
 | 3 | **Orthographic / written-convention layer** | What makes forms stable, contrastive, teachable, correctable, reusable, and legible within a community of practice? |
@@ -318,7 +318,7 @@ Evaluation axes are not layers. They are questions applied across all layers and
 | **Authority type** | Is the claim technical, linguistic, orthographic, educational, community-based, institutional, legal, standards-facing, data-governance, or stewardship authority? |
 | **Audience and use context** | For whom, and for what task, is the system adequate? |
 | **Completeness at the claimed layer** | Is the relevant layer absent, implied, partial, working, mature, or institutionally sustained? |
-| **Interdependence** | Which downstream layers depend on this one, and which dependencies are hidden or assumed? |
+| **Interdependence and declared dependencies** | Which downstream layers depend on this one, and are required layers solved, borrowed, externally supplied, assumed, deferred, or outside the source's scope? |
 | **Prior-work engagement** | Does the source account for relevant existing systems, tools, corpora, encodings, practices, and migration questions? |
 
 The companion manual expands these axes into review questions and maturity categories.
@@ -341,7 +341,16 @@ A full-path claim should satisfy, or explicitly defer with a credible dependency
 10. **Tooling and data:** It provides or accounts for usable tools, documentation, dictionaries, corpora, datasets, and preservation paths.
 11. **Use and pedagogy:** It provides evidence appropriate to claims about learning, teaching, reading, writing, correction, adoption, and literacy.
 12. **Governance:** It identifies who maintains the system and who has authority over technical validity, data, community practice, education, standards, and stewardship.
-13. **Dependency honesty:** It states which layers are solved, which are borrowed, which are partial, and which remain unresolved.
+13. **Declared dependencies:** It states which layers are solved, borrowed, externally supplied, assumed, deferred, or not in scope.
+
+Dependency honesty is not a demand that every source solve every layer. It is a demand that required layers be named accurately. A review should distinguish:
+
+- **Solved layers:** handled directly by the source, system, or stack being reviewed.
+- **Borrowed layers:** handled by another named system, standard, tool, model, or notation that the source adopts as part of its own stack.
+- **Externally supplied layers:** provided by communities, institutions, public practice, corpora, datasets, publications, stewardship arrangements, or infrastructure outside the source's direct control.
+- **Assumed layers:** required by the claim but not specified, evidenced, or assigned to a responsible actor.
+- **Deferred layers:** acknowledged as future work or a later implementation requirement.
+- **Not in scope layers:** intentionally excluded because the source makes a narrower claim.
 
 A system that cannot meet these conditions may still be correct and useful at a layer or adjacent purpose. It should not be described as a complete signed-language writing and text-infrastructure path.
 
@@ -351,29 +360,29 @@ Common failure patterns include level confusion, full-path overextension, symbol
 
 These are diagnostic labels, not substitutes for argument. The companion manual defines each pattern and gives review tests for applying them.
 
-## What This Framework Does Not Claim
+## Scope of the Framework
 
-This framework does not claim that all signed-language writing must be Sutton SignWriting.
+This framework is a review method, not a demand that every system become Sutton SignWriting or solve every layer alone.
 
-It does not claim that every useful system must solve the full path.
+It gives notation, transcription, semantic representation, video, gloss, annotation, bridge systems, Unicode, rendering systems, AI datasets, and public writing systems a fairer way to be described: each should be credited at the layer where it actually works.
 
-It does not claim that notation, transcription, semantic representation, video, gloss, annotation, bridge systems, Unicode, rendering systems, or AI datasets are unimportant.
+It also keeps adjacent authorities distinct.
 
-It does not claim that technical infrastructure proves literacy outcomes.
+Technical infrastructure does not by itself prove literacy outcomes.
 
-It does not claim that adoption evidence proves universal community preference.
+Adoption evidence does not automatically prove universal community preference.
 
-It does not claim that community preference automatically solves technical infrastructure.
+Community preference does not automatically solve technical infrastructure.
 
-It does not claim that standards recognition automatically creates production compatibility.
+Standards recognition does not automatically create production compatibility.
 
-It does not claim that public availability automatically grants data-use permission.
+Public availability does not automatically grant data-use permission.
 
-It does not claim that computational validity decides spelling quality, educational value, legal rights, or community legitimacy.
+Computational validity does not decide spelling quality, educational value, legal rights, or community legitimacy.
 
-It does not claim that the current Sutton SignWriting production ecosystem is beyond critique.
+Those boundaries make the framework stronger rather than narrower.
 
-It does claim that a full working signed-language writing system requires more than one successful layer, and that reviews should say exactly which layers a source handles, which it does not, and what would still be needed.
+A full working signed-language writing system requires more than one successful layer, and reviews should say exactly which layers a source handles, which it leaves to others, and what would still be needed.
 
 ## Conclusion
 

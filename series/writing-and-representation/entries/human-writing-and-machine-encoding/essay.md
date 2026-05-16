@@ -311,13 +311,13 @@ The human written sign is not identical to either string.
 
 But a faithful string can preserve the structure needed to recover the human written sign.
 
-## What encoding does not claim to preserve
+## What encoding leaves outside scope
 
 Encoding also has limits.
 
 A responsible account should name them.
 
-A SignWriting encoding does not claim to preserve:
+A SignWriting encoding preserves written structure while leaving these layers outside its scope:
 
 - every physical nuance of an actual signing event
 - every possible linguistic analysis of the sign
@@ -422,9 +422,9 @@ This is why Formal SignWriting belongs downstream from the human writing claim.
 
 The model is valuable because it preserves a form of writing that already has its own visual-spatial logic.
 
-It should not be read as if it invents that logic from scratch.
+It preserves that logic; it does not invent it from scratch.
 
-Nor should it be read as if the technical string is the final object of literacy.
+The technical string is also not the final object of literacy.
 
 The final object of literacy is still readable signed text.
 
@@ -443,6 +443,8 @@ A font is not a writing system.
 Rendering is not the same as authorship.
 
 Unicode can be extremely important for interchange, identifiers, character assignment, and standards work. But assigning characters does not automatically solve the problem of preserving a composed spatial sign.
+
+The Unicode case is treated in detail in the *Signed Language Writing Critical Review Series*. Here, the point is the general layer distinction: script identity, character assignment, encoding model, rendering, and authored spatial structure are related but not identical.
 
 For SignWriting, the core question remains:
 
@@ -589,7 +591,7 @@ But they are not the writing system itself.
 
 They are computational tools built around writing.
 
-## What this paper does and does not claim
+## What this paper establishes
 
 This paper claims:
 
@@ -602,18 +604,11 @@ This paper claims:
 - Unicode, fonts, rendering, styling, search, and layout should not be collapsed into one layer
 - compatibility should be judged by whether authored written signs survive across layers, not merely by whether symbols can be displayed
 
-This paper does not claim:
+The scope is architectural.
 
-- that every technical detail of Formal SignWriting belongs in the writing-systems series
-- that FSW or SWU is the only possible serialization strategy in principle
-- that encoding alone proves adoption, literacy outcomes, or cultural acceptance
-- that all questions of handwriting, typography, or reader processing are solved
-- that machine structure replaces human writing practice
-- that software should define one globally correct written form for every sign
+Detailed Formal SignWriting syntax, alternative serialization strategies, typography, handwriting, reader processing, adoption, literacy outcomes, and community preference belong in the technical, evidence, and research documents built for those questions.
 
-The purpose is narrower.
-
-It is to make the layer relationship clear enough that later technical, scholarly, and standards conversations start from the right object.
+This paper makes the layer relationship clear enough that later technical, scholarly, and standards conversations start from the right object: authored signed writing preserved as processable text.
 
 ## Conclusion
 
@@ -670,8 +665,8 @@ The next technical step is to read the Formal SignWriting series with the layers
 - Daniels, P. T., & Bright, W. (Eds.). (1996). *The World's Writing Systems*. Oxford University Press.
 - Meletis, D., & Dürscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
 - Sampson, G. (1985). *Writing Systems: A Linguistic Introduction*. Stanford University Press.
-- Slevinski, S. (2026). *Formal SignWriting: The Two-Part Word, Spatial Text, and the Core Model*. Formal SignWriting.
-- Slevinski, S. (2026). *FSW and SWU: Plain-Text Encodings, Character Sets, and Conversion*. Formal SignWriting.
-- Slevinski, S. (2026). *Rendering Formal SignWriting: Styling, SVG, Fonts, and Web Output*. Formal SignWriting.
+- Slevinski, S. (2026). *Formal SignWriting: The Two-Part Word, Spatial Text, and the Core Model*. In *Formal SignWriting*.
+- Slevinski, S. (2026). *FSW and SWU: Plain-Text Encodings, Character Sets, and Conversion*. In *Formal SignWriting*.
+- Slevinski, S. (2026). *Rendering Formal SignWriting: Styling, SVG, Fonts, and Web Output*. In *Formal SignWriting*.
 - Sutton, V. (2010). *ISWA 2010: International SignWriting Alphabet*. Center for Sutton Movement Writing.
 - The Unicode Consortium. (n.d.). *The Unicode Standard*.

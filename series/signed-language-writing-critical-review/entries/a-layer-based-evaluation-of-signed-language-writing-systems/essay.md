@@ -17,6 +17,8 @@ Taken together, they show how good insights can still produce incomplete conclus
 
 This paper is a bounded core comparison, not a total survey of the field.
 
+It can still serve as an orientation piece because a small bounded comparison shows the method quickly; it should not be mistaken for the whole review set.
+
 ## Introduction
 
 Work on signed language writing systems, notation, representation, and encoding often identifies real problems while still arriving at incomplete conclusions.
@@ -45,6 +47,7 @@ The comparison asks stricter questions:
 - what layer or adjacent-purpose category the work actually occupies
 - what primary unit and representational target it centers
 - how it handles space, sequence, text structure, and infrastructure
+- which layers it solves, borrows, receives from external practice or infrastructure, assumes, defers, or leaves outside its scope
 - what evidence and authority support its claims
 - where the layer-level judgment differs from the full-path judgment
 
@@ -73,6 +76,7 @@ For each case, the comparison asks:
 - what primary unit it centers
 - how it handles spatial and sequential organization
 - what sort of text model or technical model it gives
+- which layers are solved, borrowed, externally supplied, assumed, deferred, or not in scope
 - how well it is grounded in actual Sutton SignWriting practice and infrastructure
 - what evidence, maturity, authority, and prior-work engagement support its claims
 - where the layer-level judgment and full-path judgment differ
@@ -120,7 +124,7 @@ Those are real contributions.
 
 The problem begins when those insights are extended into a writing-system comparison without separating layer-level success from full-path adequacy.
 
-Filhol's strongest constructive proposal is really at the semantic plus software-representation layer. AZee is being used to build a human-readable, machine-tractable graphical interface to formal meaning-bearing structures. That is legitimate and potentially useful.
+Filhol's strongest constructive proposal is really at the semantic plus software-representation layer. AZee was designed to support human-readable, machine-tractable graphical interfaces to formal meaning-bearing structures. That is legitimate and potentially useful.
 
 But once this is treated as though it were also a writing-system replacement argument, several problems appear:
 
@@ -131,6 +135,8 @@ But once this is treated as though it were also a writing-system replacement arg
 So Filhol's paper is not best read as a successful reclassification of signed writing.
 
 It is better read as a prompt toward semantic-layer tooling, graphical interfaces, and software representation.
+
+In declared-dependency terms, the semantic and software layers are the solved or directly addressed layers. Human writing, written convention, public text operations, pedagogy, and stewardship are not supplied by the proposal itself; they become assumed layers only when the paper is read as a writing-system replacement argument.
 
 **Layer-level judgment:** Useful but narrow as semantic, software, and synthesis-oriented representation.
 
@@ -174,6 +180,8 @@ It is better described more carefully:
 
 - strong on why signed languages need writing
 - weak and biased on what kind of writing supposedly follows
+
+The declared dependencies are therefore uneven. Grushkin solves a conceptual and advocacy layer by showing why signed languages need writing. The alphabetic recommendation assumes that transfer into English can govern orthographic design and leaves the signed written unit, spatial composition, text model, infrastructure, and comparative evidence unresolved.
 
 **Layer-level judgment:** Correct and useful as a necessity-of-writing argument for signed languages.
 
@@ -219,6 +227,8 @@ It is that he mislocates the strongest explanatory weight too low:
 - in a language-like "grammar of SignWriting"
 
 rather than centering the written sign as the primary written unit from the start.
+
+This makes Thiessen a useful case of deferred rather than ignored dependency. The thesis solves much of the script-internal descriptive layer and directly recognizes the need for encoding, but the written-sign text model remains late and preliminary. The missing full-path layer is not invisible; it is not yet governing.
 
 **Layer-level judgment:** Correct and useful as script-internal descriptive and computational work.
 
@@ -267,6 +277,8 @@ It is an instance of:
 - partial completion
 - and later over-reading by others who treated character encoding as if it had solved writing as text
 
+The declared-dependency pattern is especially clear here. Character repertoire and script recognition are solved layers. Existing SignWriting practice and infrastructure are externally supplied layers the standard attempts to serve. The written-sign text model, stable symbol identity, sorting, migration, and production compatibility remain deferred or assumed layers when the standard is interpreted as a complete production replacement.
+
 **Layer-level judgment:** Correct and useful as character-repertoire standardization and script-recognition work.
 
 **Full-path judgment:** Structurally incomplete as a compatible production replacement, because the written-sign text model, stable writer-selected symbol identity, spatial composition, sorting, migration, and dataset compatibility remain unresolved.
@@ -302,9 +314,7 @@ It shows that the field's recurring problems are not merely differences of opini
 
 They are recurrent displacements of the problem itself.
 
-## What this paper does and does not claim
-
-Because the series has grown, this should be said explicitly.
+## Scope of this paper
 
 This paper does claim:
 
@@ -312,11 +322,11 @@ This paper does claim:
 - that the layer-based method works across multiple kinds of signed-writing problem
 - that a recurring comparative pattern can be shown across those cases
 
-This paper does not claim:
+The comparison is intentionally bounded.
 
-- that these four cases exhaust the field
-- that this bounded comparison replaces the fuller series
-- that every later review can be reduced without remainder to the same four-case pattern
+These four cases do not exhaust the field, replace the fuller series, or reduce every later review to the same pattern.
+
+They show why the layer-based method is useful enough to carry forward.
 
 ## Conclusion
 

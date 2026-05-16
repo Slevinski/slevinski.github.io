@@ -185,7 +185,7 @@ The Brazilian Sign Language dictionary alone contains nearly **68,000 signs**.
 
 Across languages, the broader accumulated dataset contains well over **one million unique signs**.
 
-These figures should be refreshed against the current SignPuddle and SignBank data exports before each formal release, but the order of magnitude is already central to the technical argument.
+For the v1.0.0 release, these figures are used as release-scoped order-of-magnitude counts for the practical scale of the current SignPuddle and SignBank data record.
 
 Those signs have not yet been fully catalogued and cross-referenced.
 

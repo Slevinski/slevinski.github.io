@@ -7,7 +7,7 @@ Implementation reference only. Read the companion technical paper for the concep
 
 These technical notes are the implementation-oriented companion to the rendering paper. They collect practical SVG fragments, font behavior, passage rendering cautions, and boundary rules.
 
-## 0. Minimal rendering example
+## Minimal rendering example
 
 Example sign:
 
@@ -40,7 +40,7 @@ This demonstrates two layers inside one output:
 - hidden encoded text
 - visible positioned graphics
 
-## I. Multiple rendering paths are a strength
+## Multiple rendering paths are a strength
 
 Formal SignWriting does not depend on a single output strategy.
 
@@ -55,7 +55,7 @@ Rendering should be comfortable documenting:
 
 Those paths differ in implementation, but they do not need to differ in canonical source text.
 
-## II. Hidden text and visible graphics can coexist
+## Hidden text and visible graphics can coexist
 
 One of the elegant features of the rendering model is that visible graphics and copyable encoded text can coexist in the same output.
 
@@ -81,7 +81,7 @@ That pattern preserves:
 - machine-readable payload
 - visible output in the same artifact
 
-## III. Layout deserves explicit treatment
+## Layout deserves explicit treatment
 
 Passage rendering is not only a matter of drawing symbols.
 
@@ -105,7 +105,7 @@ div.signtext {
 
 That small rule already signals that passage layout is part of rendering, not an afterthought.
 
-## IV. Why the boundary still matters
+## Why the boundary still matters
 
 Rendering can be richly documented without becoming the definition of the text model.
 
@@ -118,7 +118,7 @@ That boundary should remain stable:
 
 Keeping those layers distinct helps prevent confusion about what should be stored, what should be validated, and what can safely vary across platforms.
 
-## V. Appendix note on passage layout
+## Appendix note on passage layout
 
 Rendering a passage is not just rendering many signs.
 
@@ -131,7 +131,7 @@ It also requires decisions about:
 
 That is why passage rendering deserves to be treated as a first-class implementation concern.
 
-## VI. Appendix note on fonts
+## Appendix note on fonts
 
 Font-backed rendering remains useful because it can make symbol output compact and portable.
 

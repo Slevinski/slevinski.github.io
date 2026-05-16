@@ -24,11 +24,17 @@
 
 ## Series Description
 
-`Sutton SignWriting Foundations` is the public conceptual series for Sutton SignWriting: language is not sound, writing is not only a line, and signed languages need durable written pathways of their own.
+`Sutton SignWriting Foundations` carries the conceptual foundation for Sutton SignWriting: language is not reducible to sound, writing is not inherently linear, and signed languages need durable read-write pathways of their own.
+
+## Claim Role
+
+- Primary claim lane: conceptual foundation.
+- Cite this series for the public synthesis that language is not reducible to sound, writing is not inherently linear, and signed-language writing needs durable read-write pathways.
+- Route evidence, literacy outcomes, technical encoding, standards compatibility, and stewardship claims to the companion series designed for those layers.
 
 ## Repository Description
 
-Public conceptual essays for Sutton SignWriting: language without sound, plane-based writing, literacy pathways, and signed-language writing infrastructure.
+Public conceptual essays on language without sound, plane-based writing, literacy pathways, and signed-language writing infrastructure.
 
 ## Keywords
 
@@ -59,8 +65,8 @@ Slevinski, S. (2026). Sutton SignWriting Foundations (v1.0.0). Zenodo. https://d
 | Artifact | Source | Status | DOI | Release File |
 | --- | --- | --- | --- | --- |
 | `Start Here` | `entries/start-here/orientation.md` | series-only | none | `start-here-orientation-v1.0.0.pdf` |
-| `Language Without Sound` | `entries/language-without-sound/essay.md` | artifact-doi-planned | pending | `language-without-sound-working-paper-v1.0.0.pdf` |
-| `The Shape of Writing` | `entries/the-shape-of-writing/essay.md` | artifact-doi-planned | pending | `the-shape-of-writing-working-paper-v1.0.0.pdf` |
+| `Language Without Sound` | `entries/language-without-sound/essay.md` | artifact-doi-planned | `10.5281/zenodo.20213918` | `language-without-sound-working-paper-v1.0.0.pdf` |
+| `The Shape of Writing` | `entries/the-shape-of-writing/essay.md` | artifact-doi-planned | `10.5281/zenodo.20214678` | `the-shape-of-writing-working-paper-v1.0.0.pdf` |
 
 ## Artifact Metadata
 
@@ -89,7 +95,7 @@ Abstract:
 Citation:
 
 ```text
-Slevinski, S. (2026). Language Without Sound: Brain Networks, Pathway Expansion, Literacy, and the Case for SignWriting Infrastructure (Working Paper, v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). Language Without Sound: Brain Networks, Pathway Expansion, Literacy, and the Case for SignWriting Infrastructure (Working Paper, v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20213918
 ```
 
 Source and citation notes:
@@ -111,7 +117,7 @@ Abstract:
 Citation:
 
 ```text
-Slevinski, S. (2026). The Shape of Writing: Why Signed Writing Does Not Need to Fit Into a Line (Working Paper, v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). The Shape of Writing: Why Signed Writing Does Not Need to Fit Into a Line (Working Paper, v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20214678
 ```
 
 Source and citation notes:

@@ -24,11 +24,17 @@
 
 ## Series Description
 
-`Unicode and SignWriting` is the technical companion series for Unicode history, standards-facing discussion, compatibility, developer guidance, Wikimedia context, and the distinction between character encoding, stable symbol identity, and written-sign text modeling.
+`Unicode and SignWriting` carries the standards and compatibility claim for Sutton SignWriting: Unicode history, official encoding status, and current production compatibility must be distinguished from complete written-sign text modeling.
+
+## Claim Role
+
+- Primary claim lane: standards and compatibility.
+- Cite this series for Unicode chronology, official encoding status, compatibility judgments, developer guidance, Wikimedia context, and UTC-facing technical notes.
+- Route public foundations, writing-system theory, adoption evidence, Formal SignWriting specifications, and stewardship claims to the companion series built for those layers.
 
 ## Repository Description
 
-Technical briefings and documentary notes on Unicode, Sutton SignWriting, compatibility, production encodings documented in the v1.0.0 release, and standards-facing next steps.
+Technical briefings and documentary notes on Unicode chronology, official encoding status, FSW/SWU production encodings, compatibility limits, developer guidance, Wikimedia context, and standards-facing next steps.
 
 ## Keywords
 
@@ -65,7 +71,7 @@ Slevinski, S. (2026). Unicode and SignWriting (v1.0.0). Zenodo. https://doi.org/
 | `Source Register` | `entries/chronology-and-record/source-register.md` | series-only | none | Companion to `Chronology and Record`; may be uploaded as supplement. |
 | `Wikimedia Brief` | `entries/wikimedia-brief/essay.md` | artifact-doi-possible | pending decision | Platform-facing technical briefing candidate. |
 | `Discussion Outline` | `entries/wikimedia-brief/meeting-notes.md` | series-only | none | Companion to `Wikimedia Brief`; may be uploaded as supplement. |
-| `Draft UTC-Facing Technical Note` | `entries/utc-technical-note/essay.md` | artifact-doi-planned | planned | Strongest standalone DOI candidate in this series. |
+| `Draft UTC-Facing Technical Note` | `entries/utc-technical-note/essay.md` | artifact-doi-planned | pending | Strongest standalone DOI candidate in this series. |
 | `Compatibility Matrix` | `entries/utc-technical-note/compatibility-matrix.md` | series-only | none | Companion to `Draft UTC-Facing Technical Note`; may be uploaded as supplement. |
 | `Requested Work` | `entries/utc-technical-note/requested-work.md` | series-only | none | Companion to `Draft UTC-Facing Technical Note`; may be uploaded as supplement. |
 
@@ -80,9 +86,9 @@ The strongest artifact DOI candidates are:
 
 Other technical briefings can remain series-contained unless a standards, developer, or platform audience needs a stable standalone citation.
 
-## Release-Time Checks
+## Release-Time Status
 
-Before freezing `v1.0.0`, confirm current official Unicode status and citations, including:
+For `v1.0.0`, current official Unicode status and citations are treated as release-scoped status checks covering:
 
 - current Unicode version and Sutton SignWriting block documentation
 - current Unicode code charts and core specification language

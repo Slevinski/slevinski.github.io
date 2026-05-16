@@ -204,7 +204,7 @@ For that reason, `kinematography` should be held carefully.
 
 It is not yet a finished typology.
 
-It is a name for the category that general writing theory may need if signed writing is taken seriously.
+It is a name for the category that general writing theory may need if signed writing is taken seriously, and its adequacy remains an open question rather than a settled terminological contribution.
 
 ## Pressure point 6: reading theory may still be too alphabetically loaded
 

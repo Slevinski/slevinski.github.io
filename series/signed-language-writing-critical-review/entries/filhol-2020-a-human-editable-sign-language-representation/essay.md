@@ -17,7 +17,7 @@ Michael Filhol's 2020 paper identifies real pressures in signed-language represe
 
 Those pressures are real.
 
-The paper becomes less reliable when it turns those pressures into a writing-system argument and treats SignWriting too narrowly in the process.
+The argument weakens when it turns those pressures into a writing-system argument and treats SignWriting too narrowly in the process.
 
 ## Executive summary
 
@@ -150,6 +150,8 @@ The paper moves across:
 
 It does not keep those levels distinct enough.
 
+Declared dependencies clarify the judgment. The paper directly addresses semantic representation, software manipulation, and synthesis-oriented workflows. Public writing, written convention, durable text operations, pedagogy, and stewardship are either outside the paper's strongest contribution or assumed when the argument is read as a writing-system replacement claim. Read narrowly, that is not a failure. Read as a full-path writing claim, those assumed layers become the problem.
+
 ### Representation model
 
 Its most useful ideas point toward semantic representation.
@@ -183,7 +185,7 @@ This paper is worth reading because it identifies real pressures:
 - the importance of queryability
 - the need for software-native signed-language representation
 
-It becomes less reliable when it treats SignWriting as merely phonographic and ignores the extent to which SignWriting technical infrastructure has already realized parts of the design space it describes.
+It becomes overextended when it treats SignWriting as merely phonographic and ignores the extent to which SignWriting technical infrastructure has already realized parts of the design space it describes.
 
 Its lasting value is therefore not as a successful replacement argument for signed writing.
 

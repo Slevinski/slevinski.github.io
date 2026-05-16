@@ -28,7 +28,7 @@ The central questions of the series include:
 
 ## Series Shape
 
-This series has six conceptual anchors, one comparative support entry, and two bridge readings from adjacent series.
+This series has six conceptual anchors, one companion bridge note, one comparative support entry, and two bridge readings from adjacent series.
 
 Together, they give the series a typological center.
 
@@ -45,6 +45,10 @@ The comparative support entry is:
 
 - *Other Sign Language Scripts and Their Conceptions*
 
+The companion bridge note is:
+
+- *Point, Line, and Plane Evidence Notes*
+
 The two most important bridge readings are:
 
 - *The Shape of Writing* in *Sutton SignWriting Foundations*
@@ -59,7 +63,7 @@ The following map is meant to keep those terms from collapsing into one another.
 | Term | Axis or layer | Meaning in this series |
 | --- | --- | --- |
 | Plane-based writing | Organizational | Writing in which the primary written unit is composed through authored spatial relation within a two-dimensional field. |
-| Kinematography | Representational | A provisional term for writing whose primary representational work is articulatory, spatial, and kinetic. |
+| Kinematography | Representational | A candidate analytic term and pressure test, not settled field terminology, for writing whose primary representational work is articulatory, spatial, and kinetic. |
 | Signbox | Written-unit field | The bounded plane where selected SignWriting symbols are composed into one written sign. |
 | Authored space | Authorship | The writer-selected placement, relation, viewpoint, and composition inside the written form. |
 | Iconicity | Visual motivation | Motivated visual relation between written form and signed form; not by itself sufficient for writing. |
@@ -76,6 +80,7 @@ The clearest short path through this series is:
 
 1. *The Shape of Writing*
 2. *Plane-Based Writing and Script Typology*
+   - optional support: *Point, Line, and Plane Evidence Notes*
 3. *Perspective and Authored Space*
 4. *Iconicity, Convention, and Legibility*
 5. *Handwriting and Spatial Script Practice*
@@ -101,6 +106,12 @@ If you want the comparative support layer after that:
 - argues that SignWriting needs both a representational axis and an organizational axis
 - defines plane-based writing as an analytic descriptor
 - situates the signbox as a writing-systems issue before it becomes a technical model
+
+**Point, Line, and Plane Evidence Notes**
+
+- companion bridge note rather than a separate main paper
+- supports the move from *The Shape of Writing* to the writing-systems series
+- identifies the evidence and infrastructure questions behind the point-line-plane frame
 
 **Perspective and Authored Space**
 
@@ -134,6 +145,7 @@ If you want the comparative support layer after that:
 - capstone of this series
 - develops *kinematography* as a candidate representational-axis term
 - distinguishes plane-based organization from articulatory-spatial-kinetic representation
+- keeps the term bounded as a pressure test rather than settled terminology
 - connects this series to the grapholinguistic pressure-test work in the critical-review series
 
 **The Shape of a Sign**
@@ -153,7 +165,7 @@ If you want the comparative support layer after that:
 - *Writing and Representation in Sutton SignWriting* deepens the writing-systems argument.
 - *Formal SignWriting* provides the mechanism layer that follows from these concepts.
 - *Sutton SignWriting Evidence and Adoption* supports this series by showing where learned signed writing is already visible in practice.
-- *Signed Language Writing Critical Review Series* tests the broader writing-theory and standards claims, especially through the Meletis and Dürscheid review and companion paper.
+- *Signed Language Writing Critical Review Series* tests the broader writing-theory and standards claims, especially through the Meletis and Dürscheid review and companion paper. In that series, kinematography is used diagnostically; here, it is developed cautiously as a native writing-systems proposal.
 
 The immediate reader path is:
 

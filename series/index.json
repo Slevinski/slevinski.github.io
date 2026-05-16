@@ -69,7 +69,7 @@
       "slug": "evidence-and-adoption",
       "title": "Sutton SignWriting Evidence and Adoption",
       "subtitle": "Documented use, institutional anchors, lineages, and empirical anchors for SignWriting in practice",
-      "description": "A series for the empirical series of the Sutton SignWriting platform: documented communities, institutions, evidence anchors, adoption evidence, and evidence boundaries that show where SignWriting is real in practice without overstating outcome claims.",
+      "description": "The empirical evidence and adoption series for Sutton SignWriting: documented use, institutional anchors, country evidence, and evidence boundaries that show where SignWriting is real in practice while keeping outcome and scale claims bounded.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -206,7 +206,7 @@
       "slug": "formal-signwriting",
       "title": "Formal SignWriting",
       "subtitle": "Plain-text encodings, grammar, search, layout, rendering, styling, authority, and implementation of written sign text",
-      "description": "A technical publication series on the Formal SignWriting model for sign text that can be stored, searched, checked, laid out, rendered, and processed by software, with a clear distinction between canonical text, layout, presentation markup, computational validity, and linguistic judgment.",
+      "description": "The technical text-model series for Formal SignWriting: FSW, SWU, signboxes, grammar, search, layout, rendering, styling, implementation practice, and the boundary between computational validity and linguistic judgment.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -538,8 +538,8 @@
         {
           "slug": "encoding-authority-and-stability",
           "number": 10,
-          "title": "Encoding Authority and Stability",
-          "subtitle": "Computational validity, linguistic judgment, practical finality, and forkability",
+          "title": "Encoding Stewardship and Stability",
+          "subtitle": "Technical coherence, computational validity, linguistic judgment, practical finality, and forkability",
           "summary": "A governance note explaining that FSW/SWU are stable author-stewarded encodings for computational validity, not claims of linguistic or community authority.",
           "essay": "essay.md",
           "primary_artifact": {
@@ -565,7 +565,7 @@
       "slug": "foundations",
       "title": "Sutton SignWriting Foundations",
       "subtitle": "Language, literacy, writing, and the core conceptual argument for SignWriting",
-      "description": "A public conceptual series for the core Sutton SignWriting argument: language is not sound, writing is not only a line, and signed languages need durable written pathways of their own.",
+      "description": "The conceptual foundation for Sutton SignWriting: language is not reducible to sound, writing is not inherently linear, and signed languages need durable read-write pathways of their own.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -612,14 +612,16 @@
             "artifact_type": "theoretical-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "10.5281/zenodo.20213918"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "theoretical-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "10.5281/zenodo.20213918"
           },
           "slide_count": 14,
           "companion_documents": []
@@ -636,14 +638,16 @@
             "artifact_type": "theoretical-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "10.5281/zenodo.20214678"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "theoretical-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "10.5281/zenodo.20214678"
           },
           "slide_count": 12,
           "companion_documents": []
@@ -654,7 +658,7 @@
       "slug": "infrastructure-and-program",
       "title": "Sutton SignWriting Infrastructure and Program",
       "subtitle": "Continuity, stewardship structure, AI/data governance, and the practical program behind the Sutton SignWriting platform",
-      "description": "A stewardship and program-design series for the Sutton SignWriting platform: stewardship models, continuity requirements, infrastructure reality, international participation, country-level coordination, AI/data governance boundaries, and the institutional structures that make the work cumulative.",
+      "description": "The stewardship and program-design series for Sutton SignWriting: existing infrastructure, continuity risks, host requirements, international participation, support models, AI/data governance, and operational stewardship.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -887,7 +891,7 @@
       "slug": "language-and-literacy-research",
       "title": "Sutton SignWriting Language and Literacy Research",
       "subtitle": "Developmental pathways, literacy layering, reading questions, and research-program design",
-      "description": "A research-facing series for the harder language, literacy, reading, and study-design questions opened by signed-language writing.",
+      "description": "The language and literacy research-program series for Sutton SignWriting: developmental pathways, literacy layering, reading signed text, study design, materials, corpora, and outcome-study needs.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -1080,7 +1084,7 @@
       "slug": "signed-language-writing-critical-review",
       "title": "Signed Language Writing Critical Review Series",
       "subtitle": "Writing systems, text infrastructure, and critical evaluation",
-      "description": "A structured review series for the Sutton SignWriting platform: readable standalone review papers on academic work, theses, standards, proposals, tools, datasets, and infrastructure claims, supported by a full-path critique framework.",
+      "description": "The critical-method and review series for signed-language writing: a full-path framework and structured reviews that evaluate scholarship, standards, tools, datasets, and infrastructure claims at the layer they actually address.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -1399,8 +1403,8 @@
     {
       "slug": "unicode-and-signwriting",
       "title": "Unicode and SignWriting",
-      "subtitle": "Compatibility, chronology, and direct-link technical notes",
-      "description": "A technical companion series for Unicode history, compatibility, Wikimedia context, developer guidance, and UTC-facing notes.",
+      "subtitle": "Compatibility, chronology, developer guidance, and standards-facing technical notes",
+      "description": "The standards and compatibility series for Unicode and SignWriting: Unicode chronology, official encoding status, production-compatibility judgments, developer guidance, Wikimedia context, and UTC-facing technical notes.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
@@ -1575,7 +1579,7 @@
           "number": 5,
           "title": "Draft UTC-Facing Technical Note",
           "subtitle": "Technical note on compatibility, symbol identity, spatial composition, and next steps",
-          "summary": "Official Unicode SignWriting can name much of the character set, but it does not preserve stable symbol identity or provide compatible written-sign support.",
+          "summary": "Official Unicode SignWriting can name much of the character layer, but it does not preserve stable symbol identity or provide compatible written-sign support.",
           "essay": "essay.md",
           "primary_artifact": {
             "file": "essay.md",
@@ -1728,7 +1732,7 @@
       "slug": "writing-and-representation",
       "title": "Writing and Representation in Sutton SignWriting",
       "subtitle": "Plane-based writing, authored space, perspective, and the conceptual place of SignWriting as writing",
-      "description": "A series on SignWriting as writing: its use of space, script typology, authored viewpoint, iconicity, convention, legibility, handwriting, human authorship, machine encoding, kinematography, representational logic, and relationship to broader writing-systems questions.",
+      "description": "The writing-system theory series for SignWriting: plane-based composition, authored space, iconicity, convention, legibility, handwriting, machine encoding, kinematography, and broader typological questions.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",

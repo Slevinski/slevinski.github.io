@@ -65,7 +65,7 @@
         "Writing output should matter",
         "The model must be revised if evidence requires it"
       ],
-      "speech": "The value of the model is that it can be tested. It predicts that early language access matters, that direct signed-language literacy creates distinct affordances, and that literacy output matters. It also stays accountable: if durable signed text does not change use, the model should be revised.",
+      "speech": "The value of the model is that it can be tested. It predicts that early language access matters, that direct signed-language literacy creates distinct affordances, and that literacy output matters. It also stays accountable: if durable signed text does not produce distinctive use affordances in tasks where durability should matter, the model should be revised.",
       "notes": "Emphasize falsifiability and discipline."
     },
     {

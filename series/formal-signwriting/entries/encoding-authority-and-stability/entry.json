@@ -1,10 +1,10 @@
 {
   "slug": "encoding-authority-and-stability",
   "number": 10,
-  "title": "Encoding Authority and Stability",
-  "subtitle": "Computational validity, linguistic judgment, practical finality, and forkability",
+  "title": "Encoding Stewardship and Stability",
+  "subtitle": "Technical coherence, computational validity, linguistic judgment, practical finality, and forkability",
   "summary": "A governance note explaining that FSW/SWU are stable author-stewarded encodings for computational validity, not claims of linguistic or community authority.",
-  "synopsis": "Formal SignWriting is author-stewarded infrastructure. Its authority is formal and representational: it defines well-formed structures for parsing, rendering, search, sorting, and interchange. It does not decide good spelling, local preference, reader judgment, community approval, or AI deployment. The supported Sutton SignWriting production path remains the established FSW/SWU model because it has reached practical production maturity, while open licensing permits use, critique, rejection, and forks.",
+  "synopsis": "Formal SignWriting is author-stewarded infrastructure. Steve Slevinski stewards the formal encoding he authored and maintains: the supported FSW/SWU path, its technical coherence, stability, documentation, compatibility, and reference behavior. That stewardship defines well-formed structures for parsing, rendering, search, sorting, and interchange. It does not decide good spelling, local preference, reader judgment, community approval, or AI deployment. The supported Sutton SignWriting production path remains the established FSW/SWU model because it has reached practical production maturity, while open licensing permits use, critique, rejection, and forks.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -29,14 +29,14 @@
         "Not community authority",
         "Not deployment authority"
       ],
-      "speech": "The central boundary is simple. Formal SignWriting decides what is well-formed for the computer. It does not decide what is well-written for the reader.",
+      "speech": "The central boundary is simple. Formal SignWriting defines what is well-formed for software. It does not decide what is well-written for the reader.",
       "notes": "This slide carries the thesis."
     },
     {
-      "id": "what-authority-covers",
-      "title": "What Encoding Authority Covers",
+      "id": "what-stewardship-covers",
+      "title": "What Encoding Stewardship Covers",
       "kicker": "2",
-      "summary": "Encoding authority covers grammar, valid structure, parsing, rendering, search, sorting, interchange, and compatibility.",
+      "summary": "Encoding stewardship covers grammar, valid structure, parsing, rendering, search, sorting, interchange, and compatibility.",
       "image_prompts": {
         "concrete": "Formal SignWriting encoding map showing grammar, parsing, rendering, search, sorting, interchange, and compatibility connected to one stable model",
         "abstract": "A technical hub with stable spokes to software functions"
@@ -47,8 +47,8 @@
         "Search and sorting",
         "Interchange and compatibility"
       ],
-      "speech": "Encoding authority is real, but it is bounded. It covers the formal model: grammar, valid structures, parsing, rendering, search, sorting, interchange, and compatibility with the established production path.",
-      "notes": "Make the authority concrete before narrowing it."
+      "speech": "Encoding stewardship is real, but it is bounded. It covers the formal model: grammar, valid structures, parsing, rendering, search, sorting, interchange, and compatibility with the established production path.",
+      "notes": "Make the stewardship responsibility concrete before narrowing it."
     },
     {
       "id": "what-it-does-not-cover",

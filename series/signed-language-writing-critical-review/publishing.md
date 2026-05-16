@@ -24,11 +24,17 @@
 
 ## Series Description
 
-This series applies a full-path critique framework to signed-language writing scholarship, separating system layers, adjacent-purpose categories, and evaluation axes so that claims are judged at the level where they actually belong.
+`Signed Language Writing Critical Review Series` carries the critical-method claim for signed-language writing: systems, standards, tools, datasets, and proposals should be evaluated at the layer they actually address.
+
+## Claim Role
+
+- Primary claim lane: critical method and review.
+- Cite this series for layer-level evaluation, full-path adequacy, structured reviews, and comparisons of scholarship, standards, tools, datasets, and adjacent-purpose systems.
+- Route primary evidence, technical specifications, research outcomes, and stewardship proposals to the series responsible for those layers.
 
 ## Repository Description
 
-Critical review series on signed-language writing, SignWriting, notation, encoding, standards, grapholinguistics, tools, datasets, and durable signed text infrastructure.
+Critical review series on signed-language writing, SignWriting, notation, encoding, standards, grapholinguistics, tools, datasets, layer-level success, full-path adequacy, and durable signed-text infrastructure.
 
 ## Publication Direction
 
@@ -62,19 +68,24 @@ Slevinski, S. (2026). Signed Language Writing Critical Review Series (v1.0.0). Z
 
 ## Artifact Register
 
-| Artifact | Source | Status | DOI | Companion Files |
+| Artifact | Source | Status | DOI | Notes |
 | --- | --- | --- | --- | --- |
-| `Overview` | `entries/overview/essay.md` | series-only | none | `start-here.md` |
-| `Full-Path Critique Framework` | `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md` | artifact-doi-planned | pending | `review-procedure.md`; `worksheet.md` |
-| `Sutton SignWriting and Formal SignWriting Through the Framework` | `entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md` | artifact-doi-planned | pending | none |
-| `A Layer-Based Evaluation of Signed Language Writing Systems` | `entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md` | artifact-doi-planned | pending | `comparative-matrix.md` |
-| `Official Unicode SignWriting` | `entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/essay.md` | artifact-doi-planned | pending | none |
-| `Grushkin (2017)` | `entries/grushkin-2017-writing-signed-languages-what-for-what-form/essay.md` | artifact-doi-possible | pending decision | none |
-| `Filhol (2020)` | `entries/filhol-2020-a-human-editable-sign-language-representation/essay.md` | artifact-doi-possible | pending decision | none |
-| `Thiessen (2011)` | `entries/thiessen-2011-a-grammar-of-signwriting/essay.md` | artifact-doi-possible | pending decision | none |
-| `Martin (2000)` | `entries/martin-2000-from-notation-to-writing/essay.md` | artifact-doi-possible | pending decision | none |
-| `Meletis and Dürscheid (2022)` | `entries/meletis-and-durscheid-2022-writing-systems-and-their-use/essay.md` | artifact-doi-possible | pending decision | `signed-writing-as-a-pressure-test-for-general-writing-theory.md` |
-| `From Critique to Construction` | `entries/from-critique-to-construction-priorities-for-signed-language-writing-infrastructure/essay.md` | artifact-doi-planned | pending | none |
+| `Overview` | `entries/overview/essay.md` | series-only | none | Series overview. |
+| `Start Here Note` | `entries/overview/start-here.md` | series-only | none | Companion to `Overview`; may be uploaded as supplement. |
+| `Full-Path Critique Framework` | `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md` | artifact-doi-planned | pending | Working framework. |
+| `Review Procedure for the Full-Path Critique Framework` | `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/review-procedure.md` | series-only | none | Companion to `Full-Path Critique Framework`; may be uploaded as supplement. |
+| `Reviewer Worksheet` | `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/worksheet.md` | series-only | none | Companion to `Full-Path Critique Framework`; may be uploaded as supplement. |
+| `Sutton SignWriting and Formal SignWriting Through the Framework` | `entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md` | artifact-doi-planned | pending | Working paper. |
+| `A Layer-Based Evaluation of Signed Language Writing Systems` | `entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md` | artifact-doi-planned | pending | Working paper. |
+| `Comparative Matrix` | `entries/a-layer-based-evaluation-of-signed-language-writing-systems/comparative-matrix.md` | series-only | none | Companion to `A Layer-Based Evaluation of Signed Language Writing Systems`; may be uploaded as supplement. |
+| `Official Unicode SignWriting` | `entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/essay.md` | artifact-doi-planned | pending | Review paper. |
+| `Grushkin (2017)` | `entries/grushkin-2017-writing-signed-languages-what-for-what-form/essay.md` | artifact-doi-possible | pending decision | Review-paper candidate. |
+| `Filhol (2020)` | `entries/filhol-2020-a-human-editable-sign-language-representation/essay.md` | artifact-doi-possible | pending decision | Review-paper candidate. |
+| `Thiessen (2011)` | `entries/thiessen-2011-a-grammar-of-signwriting/essay.md` | artifact-doi-possible | pending decision | Review-paper candidate. |
+| `Martin (2000)` | `entries/martin-2000-from-notation-to-writing/essay.md` | artifact-doi-possible | pending decision | Review-paper candidate. |
+| `Meletis and Dürscheid (2022)` | `entries/meletis-and-durscheid-2022-writing-systems-and-their-use/essay.md` | artifact-doi-possible | pending decision | Review-paper candidate. |
+| `Signed Writing as a Pressure Test for General Writing Theory` | `entries/meletis-and-durscheid-2022-writing-systems-and-their-use/signed-writing-as-a-pressure-test-for-general-writing-theory.md` | series-only | none | Companion to `Meletis and Dürscheid (2022)`; may be uploaded as supplement. |
+| `From Critique to Construction` | `entries/from-critique-to-construction-priorities-for-signed-language-writing-infrastructure/essay.md` | artifact-doi-planned | pending | Synthesis paper. |
 
 ## Artifact Metadata
 
@@ -86,7 +97,7 @@ Slevinski, S. (2026). Signed Language Writing Critical Review Series (v1.0.0). Z
 
 Abstract:
 
-> This framework provides a reusable method for evaluating signed-language writing systems, encodings, standards, tools, datasets, and representation proposals without collapsing system layers, adjacent-purpose categories, and evidence axes into a single judgment. It separates human writing, written convention, written units, spatial and compositional organization, technical text models, encoding, text operations, layout, rendering, tooling, literacy practice, governance, and stewardship, while treating notation, transcription, semantic representation, pedagogical bridge systems, corpus annotation, video records, character encodings, renderers, dictionary platforms, and AI datasets as adjacent-purpose systems. Its purpose is not to dismiss narrower systems, but to preserve useful insights while identifying level confusion, full-path overextension, evidence mismatch, authority conflation, data-object collapse, and unmet infrastructure requirements.
+> This framework provides a reusable method for evaluating signed-language writing systems, encodings, standards, tools, datasets, and representation proposals at the layer they actually address. It separates human writing, written convention, written units, spatial and compositional organization, technical text models, encoding, text operations, layout, rendering, tooling, literacy practice, governance, and stewardship, while treating notation, transcription, semantic representation, pedagogical bridge systems, corpus annotation, video records, character encodings, renderers, dictionary platforms, and AI datasets as adjacent-purpose systems. The framework preserves useful layer-level insights while identifying full-path overextension, evidence mismatch, authority conflation, data-object collapse, and unmet infrastructure requirements.
 
 ### Sutton SignWriting and Formal SignWriting Through the Framework
 

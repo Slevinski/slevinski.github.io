@@ -33,6 +33,8 @@ Begin with:
 6. [Draft UTC-Facing Technical Note](entries/utc-technical-note/essay.md)
 7. [Official Unicode SignWriting: The Character Problem and the Written-Sign Problem](https://steveslevinski.me/#series/signed-language-writing-critical-review/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/primary)
 
+The final standards review listed above belongs to the separate Signed Language Writing Critical Review Series record, DOI `10.5281/zenodo.20042604`.
+
 ## Contents
 
 - [Unicode and SignWriting Overview](entries/overview/essay.md) - series frame and main compatibility distinction

@@ -60,7 +60,7 @@ Do not assume that official Unicode SignWriting:
 - can reuse the Sutton SignWriting production fonts without mismatch
 - can solve layout by adding a font alone
 
-It encodes much of the character set.
+It encodes much of the character set at the base/fill/rotation character layer.
 
 That is not the same as preserving stable writer-selected symbols.
 
@@ -142,6 +142,8 @@ In current practice:
 
 - FSW remains a strong canonical form
 - SWU is also usable for AI-oriented data preparation and model input
+
+SWU is useful in those contexts because it preserves the Formal SignWriting two-part word structure in a Unicode-oriented form: sequence information, signbox symbols, coordinates, and sign boundaries remain available to software.
 
 This shows the Sutton SignWriting production stack is still computationally relevant.
 

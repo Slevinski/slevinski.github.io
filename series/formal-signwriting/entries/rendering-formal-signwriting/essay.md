@@ -101,6 +101,8 @@ M518x533S1870a489x515S18701482x490S20500508x496S2e734500x468
 
 That keeps visible graphics and encoded text together in one output artifact.
 
+This is a rendering-profile choice rather than a requirement of canonical text. It is useful for copyable or archival SVG output, but a deployment may omit hidden text for accessibility, size, security, or host-format reasons if the canonical text is preserved elsewhere.
+
 ## Stand-alone graphics
 
 Font-based rendering is not the only pathway.
@@ -158,6 +160,8 @@ At the document level, the classic browser layout pattern includes:
 - per-sign containers with explicit width and height
 - lane offsets through margin or transparent border rules
 - print behavior that preserves column flow
+
+Mixed-language environments need their own host-layout rules. SignWriting containers can use vertical layout while surrounding spoken-language text, captions, metadata, or interface text use a different writing mode or direction; the renderer should keep those concerns explicit rather than letting one CSS writing mode silently redefine the other.
 
 ## Fonts as implementation infrastructure
 

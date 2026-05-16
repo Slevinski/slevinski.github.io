@@ -49,13 +49,15 @@ Technical readers can begin with:
 - [Formal SignWriting](entries/formal-signwriting/essay.md) - two-part word and core model
 - [FSW and SWU](entries/fsw-and-swu/essay.md) - plain-text encodings and conversion
 - [The Shape of a Sign](entries/the-shape-of-a-sign/essay.md) - symbols, coordinates, centering, and signbox structure
+  - [Plane Writing Technical Bridge](entries/the-shape-of-a-sign/plane-writing-technical-bridge.md) - companion bridge from plane-based writing to the signbox model
 - [Grammar of Formal SignWriting](entries/grammar-of-formal-signwriting/essay.md) - valid token patterns and grammar
 - [Searching Signed Text](entries/searching-signed-text/essay.md) - query language and matching logic
 - [Sign Text Layout](entries/sign-text-layout/essay.md) - vertical writing, horizontal writing, lanes, centering, and reading levels
 - [Rendering Formal SignWriting](entries/rendering-formal-signwriting/essay.md) - SVG, fonts, layout, and output models
 - [Styling Signs](entries/styling-signs/essay.md) - style string and presentation markup
 - [Formal SignWriting in Practice](entries/formal-signwriting-in-practice/essay.md) - libraries, datasets, transformations, implementation pathways, and encoding history
-- [Encoding Authority and Stability](entries/encoding-authority-and-stability/essay.md) - computational validity, linguistic judgment, practical finality, and forkability
+  - [From Experimental Encodings to Formal SignWriting](entries/formal-signwriting-in-practice/encoding-history.md) - companion history of migration, stabilization, and model design
+- [Encoding Stewardship and Stability](entries/encoding-authority-and-stability/essay.md) - technical coherence, computational validity, linguistic judgment, practical finality, and forkability
 - [Publishing Notes](publishing.md) - release metadata, citation posture, and artifact register
 
 ## Citation
@@ -68,7 +70,7 @@ Use the series DOI when citing the technical series as a whole. Use an artifact 
 
 ## Platform Context
 
-This repository is one of eight series in the Sutton SignWriting platform release. It maintains a clear distinction between canonical sign text, layout behavior, presentation markup, rendering, downstream tooling, encoding authority, and community or reader judgment.
+This repository is one of eight series in the Sutton SignWriting platform release. It maintains a clear distinction between canonical sign text, layout behavior, presentation markup, rendering, downstream tooling, encoding stewardship, and community or reader judgment.
 
 ## License
 

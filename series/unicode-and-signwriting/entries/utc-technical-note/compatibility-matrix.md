@@ -17,6 +17,8 @@
 | Solves the written-sign problem by itself | Yes, in the current ecosystem | Yes, as equivalent form | No |
 | Solves the writing-system problem as text | Yes, in the current ecosystem | Yes, in the current ecosystem | No, character layer only |
 
+Here, "in the current ecosystem" means within the Sutton SignWriting production stack: existing FSW/SWU data, tools, rendering, search, sorting, corpora, dictionaries, and publication workflows.
+
 ## What this table is meant to show
 
 The main distinction is not simply:

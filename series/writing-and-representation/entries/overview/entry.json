@@ -35,7 +35,7 @@
       "id": "terms-map",
       "title": "Terms Map",
       "kicker": "2",
-      "summary": "The series distinguishes plane-based organization, authored space, iconicity, convention, handwriting, encoding, and kinematography.",
+      "summary": "The series distinguishes plane-based organization, authored space, iconicity, convention, handwriting, encoding, and kinematography as a candidate pressure-test term.",
       "image_prompts": {
         "concrete": "Concept map slide linking plane-based writing, authored space, iconicity, convention, handwriting, machine encoding, and kinematography",
         "abstract": "A writing-systems vocabulary map around a composed sign"
@@ -46,7 +46,7 @@
         "Convention makes visual motivation readable",
         "Encoding preserves written structure for machines"
       ],
-      "speech": "The series builds a vocabulary. Plane-based writing describes organization. Authored space describes composition. Iconicity and convention explain legibility. Handwriting shows material practice. Machine encoding preserves authored written structure. Kinematography names a broader representational question.",
+      "speech": "The series builds a vocabulary. Plane-based writing describes organization. Authored space describes composition. Iconicity and convention explain legibility. Handwriting shows material practice. Machine encoding preserves authored written structure. Kinematography is treated as a candidate term for a broader representational question.",
       "notes": "This slide turns the series into a usable map."
     },
     {

@@ -18,6 +18,8 @@ Evaluating them together makes that distinction clearer and states more precisel
 
 The framework supports a strong but disciplined conclusion:
 
+In this framework, `strong full-path candidate` is the strongest responsible positive classification for a system with a credible route across the full path; it is not a claim of total closure.
+
 - SignWriting is best understood as a plane-based writing system whose primary written unit is the sign
 - Formal SignWriting is best understood as the text model and encoding layer that preserves SignWriting as structured text for storage, search, processing, and rendering
 
@@ -51,6 +53,8 @@ So the point of the baseline is narrower.
 It is to show that a coherent full-path model already exists and can be described clearly enough that later work has to engage it at the right level.
 
 That distinction also explains why the same evidence problem can be treated differently in different reviews. When this entry names uneven adoption or incomplete outcome evidence as open limits, it is not claiming those questions have already been settled. When a reviewed source turns limited evidence into broad historical, educational, or comparative conclusions, the problem becomes overextension. The issue is not whether limits exist. The issue is whether the argument admits them or builds past them.
+
+Declared dependencies matter here too. The combined Sutton SignWriting and Formal SignWriting stack directly solves the human writing, written-unit, spatial-composition, text-model, encoding, search, rendering, tooling, corpus, and dictionary layers to a substantial degree. Some layers are externally supplied by use communities, teachers, dictionary contributors, institutions, public sites, and existing publications. Other layers remain open or evidence-limited: broad literacy outcomes, handwriting uptake, institutional succession, standards alignment, and global adoption. Naming those dependencies prevents the self-application from turning real infrastructure strength into a claim of total closure.
 
 ## I. Layer identification
 
@@ -303,8 +307,6 @@ Applied that way, it does not weaken the system.
 
 It clarifies it.
 
-The result is not a claim of final perfection.
-
-It is a clearer statement of what the system actually is:
+The result is a clearer statement of what the system actually is:
 
 > a plane-based writing system for signed language, supported by a technical text model that preserves the written sign as structured text

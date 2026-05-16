@@ -2,9 +2,9 @@
 
 *Research-facing papers on developmental language pathways, literacy pathways, reading signed text, and study design*
 
-This repository contains the research-facing series of the Sutton SignWriting platform. It carries the developmental, literacy, and reading questions that require a more explicit research posture than the public foundations essays.
+This repository carries the research-program claim for the Sutton SignWriting platform: signed-language writing opens testable questions about language pathways, literacy pathways, reading signed text, and reusable research infrastructure.
 
-It also defines practical next steps for study design, materials, corpora, and reusable research infrastructure.
+The series turns the public foundations argument into models, study-design questions, materials work, corpora, and outcome-study needs.
 
 ## Repository Details
 

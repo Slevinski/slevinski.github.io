@@ -4,7 +4,7 @@
   "title": "What the Current Evidence Base Shows",
   "subtitle": "Strong evidence, partial evidence, and how to read SignWriting adoption claims",
   "summary": "A synthesis brief distinguishing strong, partial, and still-open evidence for SignWriting adoption and infrastructure claims.",
-  "abstract": "The current public evidence base for SignWriting supports real-world relevance while leaving important scale, generalization, and educational-outcome questions open. Documented educational, institutional, scholarly, and technical use, especially in Brazil and South Korea, means SignWriting should no longer be treated as a merely hypothetical proposal. At the same time, the evidence does not yet amount to a complete global census, broad population-scale outcome evidence, or a single adoption story across all communities. SignWriting can therefore be treated as real infrastructure and research material while keeping claims about scale, generalization, and educational outcomes bounded.",
+  "abstract": "The current public evidence base for SignWriting supports real-world relevance while leaving important scale, generalization, community-preference, resistance, and educational-outcome questions open. Documented educational, institutional, scholarly, and technical use, especially in Brazil and South Korea, establishes SignWriting as real infrastructure and research material. The evidence supports documented-use and institutional-anchor claims while keeping global census, population-scale outcome, and universal adoption claims bounded.",
   "synopsis": "The current public evidence base supports real-world relevance, identifies partial evidence, and shows how Brazil, South Korea, and the wider SignWriting record should be interpreted without overclaiming. The empirical distinction is between documented adoption and open empirical questions.",
   "essay": "essay.md",
   "primary_artifact": {
@@ -25,12 +25,12 @@
         "abstract": "Multiple evidence streams converging into a stable platform record"
       },
       "bullets": [
-        "Not merely hypothetical",
+        "Real documented practice",
         "Documented educational and institutional use",
         "Substantial technical and scholarly record",
         "Real research material with bounded claims"
       ],
-      "speech": "The synthesis claim is straightforward. SignWriting should no longer be treated as a merely hypothetical proposal. The public record includes documented educational use, institutional activity, scholarship, technical infrastructure, and public language resources.",
+      "speech": "The synthesis claim is straightforward. SignWriting has real documented practice. The public record includes educational use, institutional activity, scholarship, technical infrastructure, and public language resources.",
       "notes": "Begin with the positive synthesis before moving to limits."
     },
     {
@@ -91,7 +91,7 @@
       "id": "responsible-claims",
       "title": "Responsible Claims",
       "kicker": "5",
-      "summary": "The platform can claim real-world relevance and research value without overstating global scale or educational outcomes.",
+      "summary": "The platform can claim real-world relevance, documented anchors, and research value while keeping scale, preference, resistance, and outcome claims bounded.",
       "image_prompts": {
         "concrete": "Balanced claim slide with responsible claims on one side and claims to avoid on the other",
         "abstract": "A balanced scale comparing supported claims and overclaims"

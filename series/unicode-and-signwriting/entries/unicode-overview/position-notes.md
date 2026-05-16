@@ -16,6 +16,8 @@ It shapes:
 
 The question is whether the current official Unicode SignWriting design is adequate and compatible.
 
+This series uses production compatibility as the criterion: whether the official model can carry current data, tools, sorting, rendering, and publication practice without loss or redesign.
+
 ## Years of attempted engagement still matter
 
 The present position comes after years of:

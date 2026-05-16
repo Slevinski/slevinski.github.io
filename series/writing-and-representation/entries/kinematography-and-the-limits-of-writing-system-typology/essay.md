@@ -186,9 +186,7 @@ A label that glosses a sign with a spoken-language word is not kinematographic w
 
 A linear analytic transcription may contain kinematic information, but it is not necessarily kinematographic as a writing system unless that information is organized as durable readable language text.
 
-The point is not to police boundaries for their own sake.
-
-The point is to keep the term from becoming a decorative synonym for "visual" or "movement-related."
+These boundaries keep the term from becoming a decorative synonym for "visual" or "movement-related."
 
 ## A worked typological contrast
 
@@ -462,6 +460,8 @@ This paper gives the term a different role.
 
 Here, it is developed inside the writing-systems series as a native theoretical proposal.
 
+The critical-review material provides source-critical background; this paper provides the positive typological development.
+
 The critical-review use asks:
 
 > where does existing theory strain?
@@ -492,27 +492,21 @@ Fifth, the term helps avoid misleading reductions to phonography, morphography, 
 
 Sixth, signed writing should be treated as a theory-shaping case for grapholinguistics, not as a marginal exception.
 
-## What this paper does not claim
+## Scope and next questions
 
-The paper does not claim that *kinematography* is settled field terminology.
+*Kinematography* is offered as a working proposal and a pressure test, not as settled field terminology.
 
-It does not claim that grapholinguistics must adopt this exact word.
+The term names a representational problem that existing labels do not handle well: durable writing whose primary representational work is articulatory, spatial, and kinetic.
 
-It does not claim that all signed writing must be SignWriting.
+That proposal sits beside `plane-based writing`.
 
-It does not claim that SignWriting captures every physical detail of signing.
+Plane-based writing names organization of the written unit.
 
-It does not claim that video, notation, linguistic transcription, or semantic modeling are obsolete.
+Kinematography names the kind of bodily language form represented in that unit.
 
-It does not claim that the typological question settles literacy outcomes, adoption, community preference, or educational effectiveness.
+Future work should test the term against additional signed-writing systems, pedagogical practices, handwritten materials, corpus data, reader behavior, and community preference.
 
-It does not claim that kinematography replaces plane-based writing.
-
-The term is offered as a working proposal and a pressure test.
-
-It also does not claim that the term is proven merely because it is useful here.
-
-A stronger future version would test the term against additional signed-writing systems, pedagogical practices, handwritten materials, corpus data, and reader behavior.
+Video, notation, linguistic transcription, and semantic modeling remain valuable neighboring systems with different jobs.
 
 ## Conclusion
 
@@ -550,7 +544,7 @@ It is with the descriptive reach of the typology itself.
 - Daniels, P. T., & Bright, W. (Eds.). (1996). *The World's Writing Systems*. Oxford University Press.
 - Meletis, D., & Dürscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
 - Sampson, G. (1985). *Writing Systems: A Linguistic Introduction*. Stanford University Press.
-- Slevinski, S. (2026). *Human Writing and Machine Encoding: Authorship, Serialization, and the Layers of Signed Text*. Writing and Representation in Sutton SignWriting.
-- Slevinski, S. (2026). *Plane-Based Writing and Script Typology: Where SignWriting Fits, and Where Existing Writing-System Categories Strain*. Writing and Representation in Sutton SignWriting.
-- Slevinski, S. (2026). *Signed Writing as a Pressure Test for General Writing Theory*. Signed Language Writing Critical Review Series.
+- Slevinski, S. (2026). *Human Writing and Machine Encoding: Authorship, Serialization, and the Layers of Signed Text*. In *Writing and Representation in Sutton SignWriting*.
+- Slevinski, S. (2026). *Plane-Based Writing and Script Typology: Where SignWriting Fits, and Where Existing Writing-System Categories Strain*. In *Writing and Representation in Sutton SignWriting*.
+- Slevinski, S. (2026). *Signed Writing as a Pressure Test for General Writing Theory*. In *Signed Language Writing Critical Review Series*.
 - Sutton, V. (2010). *ISWA 2010: International SignWriting Alphabet*. Center for Sutton Movement Writing.

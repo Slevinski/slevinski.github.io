@@ -47,4 +47,6 @@ If UTC discussion does reopen, several work areas could be explored:
 - reconsideration of the facial-diacritic model where it breaks writer-selected symbol identity
 - reconsideration of minimal structural additions needed for usable written-sign encoding
 
+Explicit first fill and first rotation values would preserve the writer's selected symbol directly in the encoding instead of inferring part of that identity from a canonical default.
+
 The first requirement is honest acknowledgment of the current gap and its actual shape.

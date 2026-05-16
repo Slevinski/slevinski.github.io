@@ -24,11 +24,17 @@
 
 ## Series Description
 
-`Writing and Representation in Sutton SignWriting` is the writing-systems series for SignWriting as writing: plane-based organization, authored space, iconicity, convention, legibility, handwriting, machine encoding, and kinematography.
+`Writing and Representation in Sutton SignWriting` carries the writing-system theory claim for Sutton SignWriting: SignWriting is authored signed-language text organized through plane-based composition, conventional written practice, and durable technical preservation.
+
+## Claim Role
+
+- Primary claim lane: writing-system theory.
+- Cite this series for plane-based writing, authored space, iconicity, convention, legibility, handwriting, machine encoding, and typological consequences.
+- Route empirical adoption, literacy outcomes, formal encoding details, standards compatibility, and stewardship claims to the companion series built for those claims.
 
 ## Repository Description
 
-Conceptual and writing-systems papers on SignWriting, plane-based writing, authored space, legibility, handwriting, machine encoding, and grapholinguistic typology.
+Writing-systems papers on SignWriting, plane-based composition, authored space, iconicity, convention, legibility, handwriting, machine encoding, kinematography, and grapholinguistic typology.
 
 ## Keywords
 

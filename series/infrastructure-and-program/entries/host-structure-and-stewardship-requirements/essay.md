@@ -12,6 +12,8 @@ This entry describes that structure generically.
 
 It does not name a current host, imply formal sponsorship, or assume that one university or lab has already accepted responsibility.
 
+A formal host announcement would follow institutional agreement and internal planning rather than precede it.
+
 ## Core claim
 
 The institutional question is not:
@@ -149,6 +151,8 @@ The strongest near-term model is layered:
 6. Grants and philanthropy used together rather than treated as competing paths.
 
 This model keeps the work practical.
+
+For the funding-side version of this point, see *Infrastructure Core and Philanthropy*.
 
 It allows the public infrastructure case to remain stable even if the first host path changes.
 

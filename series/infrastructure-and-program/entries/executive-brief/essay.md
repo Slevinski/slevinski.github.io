@@ -106,7 +106,7 @@ It is also the strongest currently documented large-scale real-world context for
 
 South Korea adds a different kind of strength.
 
-It provides a current official institutional evidence point through the Korean Sign Language Nuri Dictionary, showing that SignWriting already appears inside public dictionary infrastructure connected to a national-language institution.
+It provides a current official institutional evidence point through the Korean Sign Language Nuri Dictionary, showing that SignWriting already appears inside public dictionary infrastructure connected to a national-language institution, as documented in the Evidence and Adoption series.
 
 That matters because it gives the infrastructure case a real evidence base:
 
@@ -126,7 +126,7 @@ Several factors make this a timely opportunity:
 
 In addition, the technical foundation has reached a level of maturity where it can support broader research use, including corpus development, computational analysis, and integration with modern data workflows. The research path is also clearer than before: reading and literacy studies, Brazil-grounded empirical work, South Korea as a current institutional case study, and infrastructure-plus-dataset development can be described as one connected program rather than as separate hopes.
 
-This creates a narrow window where institutional stewardship can turn existing work into a stable, grant-ready program.
+This creates a timely opportunity where institutional stewardship can turn existing work into a stable, grant-ready program.
 
 ## What first-stage stewardship would fund
 

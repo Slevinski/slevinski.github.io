@@ -7,7 +7,7 @@ Implementation reference only. Read the companion technical paper for the concep
 
 These technical notes are the implementation-oriented companion to the paper. They carry the conversion arithmetic, range details, regex-level patterns, and encoding cautions that would overburden the main paper.
 
-## 0. Quick examples
+## Quick examples
 
 Minimal conversion examples:
 
@@ -21,7 +21,7 @@ AS10011S10019S2e704S2e748M525x535S2e748483x510S10011501x466S2e704510x500S1001947
 𝠀񀀒񀀚񋚥񋛩𝠃𝤟𝤩񋛩𝣵𝤐񀀒𝤇𝣤񋚥𝤐𝤆񀀚𝣮𝣭
 ```
 
-## I. Canonical encodings
+## Canonical encodings
 
 FSW and SWU are core encodings of Formal SignWriting text.
 
@@ -29,7 +29,7 @@ They belong to the technical model rather than to an auxiliary display layer, bu
 
 For stewardship and implementation work, FSW is commonly used as the canonical processing form for storage, indexing, and validation, while SWU is supported for conversion, input/output boundaries, and Unicode-oriented workflows.
 
-## II. Minimal inventory
+## Minimal inventory
 
 The shared inventory can be summarized compactly:
 
@@ -48,7 +48,7 @@ In SWU, this means:
 - the null symbol at `U+40000`
 - `62,504` symbol characters from `U+40001` to `U+4F428`
 
-## III. Symbol key structure
+## Symbol key structure
 
 FSW symbol keys deserve a more explicit reading.
 
@@ -81,7 +81,7 @@ For `S10000`, that produces:
 - `id = 1`
 - `U+40001`
 
-## IV. Script code and language tags
+## Script code and language tags
 
 `Sgnw` is the ISO 15924 script code for SignWriting.
 
@@ -91,7 +91,9 @@ That identifies language plus script, not whether the text is serialized in FSW 
 
 For public technical guidance, the encoding choice should be stated separately by the format, schema, protocol, or profile.
 
-## V. Separation of concerns
+In BCP 47 terms, `ase-Sgnw` identifies language plus script. Store it at the collection, record, or field level according to the corpus structure, and document FSW or SWU separately as the serialization choice.
+
+## Separation of concerns
 
 Encoding should stay distinct from:
 
@@ -100,7 +102,7 @@ Encoding should stay distinct from:
 - rendering
 - styling
 
-## VI. Style string distinction
+## Style string distinction
 
 The style string should not be taught as part of the plain-text encoding itself.
 
@@ -108,7 +110,7 @@ It is better understood as optional light markup for presentation and customizat
 
 That makes it analogous to a rendering adjunct rather than the text proper.
 
-## VII. Conversion as continuity
+## Conversion as continuity
 
 Conversion between FSW and SWU is part of the continuity of the model.
 
@@ -120,7 +122,7 @@ At the symbol level, conversion remains systematic rather than ad hoc:
 - fill is preserved
 - rotation is preserved
 
-## VIII. Coordinate and number range note
+## Coordinate and number range note
 
 The shared numeric restriction matters enough to state explicitly:
 
@@ -154,7 +156,7 @@ This preserves the same coordinate model across both encodings.
 
 That is why conversion belongs to the encoding layer and not to rendering.
 
-## IX. Recurring confusions to avoid
+## Recurring confusions to avoid
 
 Several confusions recur often:
 
@@ -166,7 +168,7 @@ Several confusions recur often:
 
 Those confusions create downstream trouble in software, teaching, and technical writing.
 
-## X. Appendix note on plain text
+## Appendix note on plain text
 
 The important point is not only that FSW is ASCII and SWU is Unicode.
 

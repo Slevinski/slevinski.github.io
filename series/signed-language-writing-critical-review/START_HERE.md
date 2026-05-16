@@ -2,6 +2,8 @@
 
 This series reviews scholarship, standards, and proposals about signed language writing.
 
+Use this note as a quick reader orientation. The Overview gives the fuller scholarly map; this note gives the shortest route into the method, baseline, and review set.
+
 It is critical in the ordinary scholarly sense: it reads sources carefully, preserves what they establish, distinguishes insight from overextension, and asks whether conclusions match the evidence.
 
 The series uses a definite lens. It keeps writing, notation, encoding, rendering, infrastructure, evidence, authority, and data objects distinct, then asks what each source actually solves.

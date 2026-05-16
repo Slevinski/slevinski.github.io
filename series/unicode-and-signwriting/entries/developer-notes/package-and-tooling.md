@@ -32,6 +32,8 @@ Developers still need competent tooling for a standard that exists publicly, eve
 
 ## Useful links
 
+These links are repeated here for readers who enter through this companion note rather than the main Developer Notes entry.
+
 - [Source](https://github.com/sutton-signwriting/unicode8)
 - [Distribution](https://unpkg.com/browse/@sutton-signwriting/unicode8/)
 - [Documentation](https://sutton-signwriting.github.io/unicode8/)

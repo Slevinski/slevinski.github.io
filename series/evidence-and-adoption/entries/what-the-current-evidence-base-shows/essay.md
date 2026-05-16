@@ -4,9 +4,7 @@
 
 This brief gives *Sutton SignWriting Evidence and Adoption* its synthesis layer.
 
-Its purpose is not to replace the country briefs.
-
-Its purpose is to state, as plainly as possible, what the current public evidence base supports, what it does not yet support, and how the strongest cases should be interpreted.
+It states, as plainly as possible, what the current public evidence base supports, where the strongest cases sit, and what future evidence-building should target.
 
 The broad conclusion is bounded but important:
 
@@ -42,15 +40,13 @@ Brazil is currently the strongest documented case for:
 - research activity
 - visible long-term public record
 
-That does not mean Brazil has been fully mapped in every present-tense detail.
-
-It does mean that Brazil is the clearest current answer to the question:
+Brazil is the clearest current answer to the question:
 
 > where is the strongest documented SignWriting ecosystem?
 
-The word "current" here should be read carefully.
+Here, "current" means the public evidence base available for this release, not a live census.
 
-Brazil is the strongest current case in the public evidence base, but some of the strongest quantitative figures are dated snapshots. The 2018 documented institutional floor shows demonstrated breadth at that time; it does not by itself verify which programs remain active at the same scale today.
+Brazil is the strongest current case in that public evidence base. Some of the strongest quantitative figures are dated snapshots. The 2018 documented institutional floor shows demonstrated breadth at that time; current activity at the same scale remains a separate source-current question.
 
 ### 3. South Korea is a current institutional evidence point
 
@@ -94,9 +90,9 @@ It is also a matter of reader experience, comfort, obstacles, identification, an
 
 The evidence here is promising but still small. It should be treated as a starting point for reader-centered documentation, not as a completed community reception study.
 
-## What the evidence is only partial on
+## What still needs better evidence
 
-Some questions remain much less settled.
+Some questions need stronger documentation before they can carry broad claims.
 
 ### 1. There is no complete current global map
 
@@ -106,15 +102,17 @@ The public record does not yet provide:
 - a verified program-by-program international institutional map
 - a stable present-tense accounting of where use is strong, weak, emerging, or dormant
 
-That means country and regional claims should stay disciplined.
+That makes updated country and regional mapping an important next task.
 
 ### 2. Large-scale literacy outcome claims remain limited
 
-The current evidence base does not yet support sweeping statements such as:
+Large-scale literacy outcome claims need stronger study designs than the current public record provides.
 
-- SignWriting has already been shown superior at national scale
-- one writing system has already solved signed-language literacy in general
-- broad educational outcome differences are already settled across contexts
+Future work should distinguish:
+
+- national-scale superiority claims
+- general claims about signed-language literacy
+- cross-context educational outcome claims
 
 The stronger current claim is:
 
@@ -122,23 +120,22 @@ The stronger current claim is:
 
 ### 3. Community desire cannot be assumed from limited cases
 
-It would be too strong to say:
+Community reception remains an empirical question. The evidence should distinguish:
 
-- all Deaf communities want native signed writing
-- bilingual literacy concerns are solved by signed writing alone
-- one successful country case automatically predicts universal uptake
+- documented use
+- documented interest
+- documented resistance
+- local preference
+- bilingual literacy concerns
+- transfer from one country case to another
 
-The evidence supports real use, real institutional adoption, and real literacy interest in some places.
-
-It does not justify universalizing from those cases.
+The current record supports real use, real institutional adoption, and real literacy interest in some places. Broader claims need broader evidence.
 
 ### 4. Adoption limits and negative cases are underdocumented
 
 The public evidence base is stronger on successful, visible, and institutionally documented cases than on stalled, resistant, discontinued, or contested cases.
 
-That is a limitation.
-
-A serious evidence series should eventually include:
+That gap points to a useful next evidence agenda:
 
 - cases where SignWriting instruction was tried and did not continue
 - communities or institutions that preferred other approaches
@@ -146,19 +143,17 @@ A serious evidence series should eventually include:
 - documented resistance to signed-language writing in public or academic settings
 - adoption paths that remained small despite initial interest
 
-The point is not to weaken the evidence.
-
-The point is to make the evidence more complete.
+The purpose is to make the evidence more complete and more useful.
 
 That documentation belongs in *Evidence Boundaries and Adoption Limits*.
 
 ### 5. Comparative adoption evidence remains incomplete
 
-This synthesis does not yet provide a systematic adoption comparison between SignWriting, ASLwrite, HamNoSys, ASL-phabet, or other signed-language writing and notation systems.
+Comparative adoption evidence between SignWriting, ASLwrite, HamNoSys, ASL-phabet, or other signed-language writing and notation systems remains incomplete.
 
 The available record suggests that SignWriting has unusually broad documented educational, technical, and international infrastructure compared with many alternatives.
 
-But that comparative claim should not be made too strongly until the adoption record for alternative systems has been documented with the same care.
+The strongest future comparison would document the adoption record for alternative systems with the same care.
 
 ## How the evidence should be read
 
@@ -170,9 +165,7 @@ The weakest skeptical question is:
 
 > is this merely an idea?
 
-The answer is no.
-
-Brazil, South Korea, the research archive, and the technical record are already enough to answer that.
+No. Brazil, South Korea, the research archive, and the technical record are already enough to answer that.
 
 ### Level 2: Strength of current anchors
 
@@ -213,9 +206,9 @@ The current public evidence supports the following claims:
 - some reader-centered evidence exists, especially in the Brazilian record
 - the work should be treated as real infrastructure and real research material rather than as a merely speculative possibility
 
-## What should not yet be claimed too strongly
+## Claims reserved for future evidence
 
-The current public evidence does not yet justify:
+Future evidence work should be designed before making:
 
 - a complete global adoption map
 - sweeping worldwide population estimates
@@ -224,17 +217,17 @@ The current public evidence does not yet justify:
 - claims that dated institutional floors prove present-tense activity everywhere they once documented
 - claims that SignWriting's adoption has already been systematically compared against all alternative systems
 
-That discipline strengthens the evidence series rather than weakening it.
-
-It lets the strongest claims stand on firmer ground.
+Keeping those claims for later lets the current evidence stand on firmer ground.
 
 ## Why this matters for the rest of the platform
 
 This synthesis matters because every other series depends on it.
 
-- *Sutton SignWriting Foundations* should not sound purely theoretical.
-- *Sutton SignWriting Language and Literacy Research* should not sound like a research program in search of users.
-- *Sutton SignWriting Infrastructure and Program* should not sound like stewardship planning for a hypothetical system.
+It gives *Sutton SignWriting Foundations* its practical grounding.
+
+It gives *Sutton SignWriting Language and Literacy Research* a base of real readers, texts, and institutions.
+
+It gives *Sutton SignWriting Infrastructure and Program* a stewardship problem tied to an existing system rather than a hypothetical one.
 
 The evidence series is what keeps the rest of the platform honest.
 
@@ -258,7 +251,7 @@ After completing this evidence series, *Sutton SignWriting Infrastructure and Pr
 
 - Slevinski, S. (2018). [Brazilian Sign Language Wikipedia Project](https://meta.wikimedia.org/wiki/Grants:Project/slevinski/Brazilian_Sign_Language_Wikipedia_Project). Wikimedia Meta-Wiki.
 - Stumpf, M. R., & Barreto, M. (2014). [*SignWriting in Brazilian Deaf Education: 1996 to present*](https://www.signwriting.org/symposium/presentation0024.html). SignWriting Symposium, Presentation 0024.
-- Gonçalves Filho, J. S. T., Stumpf, M. R., & Sousa, A. M. de. (2024). [*Leitura de Textos em Libras (SignWriting) por Surdos Acadêmicos: Conforto Linguístico e Identificação Cultural*](https://signwriting.com/symposium/presentation0092.html). SignWriting Symposium, Presentation 0092.
+- Gonçalves Filho, J. S. T., Stumpf, M. R., & Sousa, A. M. de. (2024). [*Leitura de Textos em Libras (SignWriting) por Surdos Acadêmicos: Conforto Linguístico e Identificação Cultural*](https://www.signwriting.org/symposium/presentation0092.html). SignWriting Symposium, Presentation 0092.
 - Korean Sign Language Nuri Dictionary. [Public dictionary site](https://ksldict.korean.go.kr).
 - Asia Business Daily. (2025, February 5). [National Institute of Korean Language Korean Sign Language Nuri Dictionary Opens on the 6th](https://www.asiae.co.kr/en/article/2025020520372098889).
 - SignWriting.org. (2025). [SignWriting 2025 Year-End Report: South Korean Sign Language Dictionary](https://www.signwriting.org/forums/literacy/year/year2025.html).

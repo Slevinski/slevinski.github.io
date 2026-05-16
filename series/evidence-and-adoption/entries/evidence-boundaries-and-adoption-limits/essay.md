@@ -4,17 +4,14 @@
 
 This entry belongs in *Sutton SignWriting Evidence and Adoption* because evidence discipline should not be buried as a footnote to positive cases.
 
-It answers a skeptical empirical question:
+It answers two empirical questions:
 
-> what does current public evidence make reasonable to claim, and what remains open?
+- what does current public evidence make reasonable to claim?
+- what evidence would make the next claims stronger?
 
-It also answers a second question:
+It also identifies where adoption limits, resistance, stalled cases, and negative evidence still need better documentation.
 
-> where are adoption limits, resistance, stalled cases, and negative evidence still underdocumented?
-
-This entry is not yet a complete negative-case catalog.
-
-It is the series boundary statement: the place where supportable claims, open questions, and known documentation gaps are kept visible.
+This is the series boundary statement: the place where supportable claims, open questions, and known documentation gaps are kept visible.
 
 ## What current evidence supports
 
@@ -41,9 +38,9 @@ South Korea is a current institutional case study because SignWriting appears in
 
 Those two cases should be read together, but not collapsed into one story.
 
-## What current evidence does not yet prove
+## Claims reserved for stronger evidence
 
-Current public evidence does not yet prove:
+Current public evidence establishes the reality and importance of SignWriting use, but stronger evidence is needed for:
 
 - global adoption scale
 - broad population-level literacy outcomes
@@ -52,9 +49,7 @@ Current public evidence does not yet prove:
 - that SignWriting should replace video, bilingual literacy, gloss, or research transcription
 - that all Deaf communities want the same writing future
 
-These limits do not make the evidence weak.
-
-They define what kind of evidence it is.
+Those boundaries define the evidence task clearly.
 
 ## Brazil: strong anchor, dated floor
 
@@ -142,7 +137,7 @@ Future evidence should separate:
 
 Those are related, but they are not the same evidence category.
 
-## Relationship to Sutton SignWriting Foundations
+## Citation Routing Note
 
 *Sutton SignWriting Foundations: Language Without Sound* uses evidence to make a conceptual and infrastructural argument.
 
@@ -169,6 +164,4 @@ The next evidence-building work should ask:
 - what objections or practical barriers do readers, teachers, and institutions report?
 - what claims should remain local, provisional, or exploratory?
 
-The goal is not to make the evidence sound larger than it is.
-
-The goal is to make it easier to build from what is already real.
+The goal is to make the next evidence-building work easier to design from what is already real.

@@ -54,6 +54,8 @@ target "-" whole-sign-style "-" symbol-level-color "-" class-and-id
 
 The initial target identifies what is being styled. It may be a whole sign, a symbol key, or another supported output target depending on the renderer.
 
+For whole-sign styling, the canonical sign text is the FSW or SWU target before the first style-string separator. A parser that does not understand a later directive should preserve that target rather than discarding the sign.
+
 After the target, the style string has three hyphen-delimited sections:
 
 - **whole-sign style**, for whole-sign color, padding, background, detail color, and scale directives

@@ -10,9 +10,11 @@ Across language documentation, social-science data, sign-language corpora, and r
 
 > mature assets first -> institutional anchoring second -> staffing and credibility next -> grants, philanthropy, and longer-term infrastructure growth after that
 
-This entry does not claim that SignWriting is identical to any one precedent.
+This entry uses precedent as comparison, not equivalence.
 
-It claims that the infrastructure move is recognizable.
+The infrastructure move is recognizable.
+
+The examples below are drawn mostly from English-language institutional records in the United States, United Kingdom, and Australia. They are useful analogs, not a claim that stewardship must follow an Anglo-American model; Brazilian, Korean, and other national research or public-infrastructure contexts may offer additional paths.
 
 ## Why precedents matter
 

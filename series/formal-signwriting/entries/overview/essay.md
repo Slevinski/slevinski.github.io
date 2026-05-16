@@ -40,7 +40,7 @@ This overview:
 - keeps canonical text, rendering, styling, and implementation practice distinct
 - points technical readers toward the right companion material
 
-The series should not be read as one long specification where every entry repeats the same facts.
+The entries work as a layered technical canon rather than as one long specification repeating the same facts.
 
 The publication split is:
 
@@ -61,7 +61,7 @@ The publication split is:
 | *Rendering Formal SignWriting* | explains downstream visible output from canonical text | keeps output format details downstream from the stored text |
 | *Styling Signs* | defines optional style strings as presentation markup | separates customization from canonical FSW or SWU text |
 | *Formal SignWriting in Practice* | connects the model to libraries, datasets, transformations, and maintenance | carries the encoding history as a practice companion |
-| *Encoding Authority and Stability* | states the governance boundary around the supported FSW/SWU path | separates computational validity from linguistic judgment, community authority, and AI deployment |
+| *Encoding Stewardship and Stability* | states the governance boundary around the supported FSW/SWU path | separates computational validity from linguistic judgment, community authority, and AI deployment |
 
 ## Core Boundaries
 
@@ -114,7 +114,7 @@ The technical papers should be read in this sequence:
 7. *Rendering Formal SignWriting*
 8. *Styling Signs*
 9. *Formal SignWriting in Practice*
-10. *Encoding Authority and Stability*
+10. *Encoding Stewardship and Stability*
 
 Each entry should stand alone. The series is strongest when read as a layered technical canon.
 
@@ -136,11 +136,11 @@ These are not reasons to weaken the core model.
 
 They are the next maintenance edge around a stable center.
 
-## Authority and Stability
+## Stewardship and Stability
 
 The technical canon also needs a clear governance boundary.
 
-*Encoding Authority and Stability* states that FSW and SWU are stable author-stewarded encodings for computational validity.
+*Encoding Stewardship and Stability* states that FSW and SWU are stable author-stewarded encodings for computational validity.
 
 They define well-formed structure for parsing, rendering, search, sorting, and interchange.
 

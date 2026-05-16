@@ -194,6 +194,8 @@ The following table is not a fixed protocol.
 
 It is a first operational map for turning the reading agenda into studies.
 
+Near-neighbor competition means that written signs sharing handshape, location, movement, or spatial-configuration features may compete during recognition in ways analogous to neighborhood effects in print reading.
+
 | Research area | Early task | Possible measures |
 | --- | --- | --- |
 | Unit recognition | Identify isolated written signs under controlled variation | Accuracy, latency, confidence |
@@ -220,6 +222,8 @@ A serious research series has to ask:
 The key point is not that signed language lacks syntax.
 
 The key point is that written signed language may not externalize syntax in exactly the same way alphabetic print often does.
+
+Sign-language linguistics already treats spatial grammar, reference, classifier constructions, role shift, and viewpoint as structured linguistic phenomena; the reading question is how those structures are preserved, conventionalized, or redistributed when signing becomes durable text.
 
 That is a research problem, not a reason to dismiss the writing.
 
@@ -252,11 +256,9 @@ Others are about representational convention.
 
 The current research series should make both visible.
 
-## What the current evidence does and does not support
+## What current evidence supports
 
-The strongest current claims are still limited.
-
-We can responsibly say:
+Current evidence supports several starting claims:
 
 - signed language can have durable written form
 - SignWriting preserves meaningful written structure rather than only glossing spoken language
@@ -264,14 +266,14 @@ We can responsibly say:
 - real readers and institutions already exist, especially in Brazil
 - current institutional case studies exist, including South Korea
 
-We cannot yet say, at large scale:
+The next research layer should measure:
 
 - exactly which recognition mechanisms dominate skilled reading
 - exactly how much vertical layout changes speed, comprehension, or processing load
 - exactly how syntax and spatial reference are processed in all reading contexts
 - exactly which text forms are easiest or hardest for different reader populations
 
-That is why the current task is framing the research question well, not pretending the experiments are already done.
+The current task is to frame the research question well enough that those experiments become easier to design.
 
 ## A research program that follows from this
 

@@ -387,7 +387,7 @@ Motivation may support learning, memory, or initial orientation.
 
 Those are plausible possibilities.
 
-But they require evidence.
+But they require evidence, and the learnability question belongs primarily in *Sutton SignWriting Language and Literacy Research* rather than in this writing-systems argument.
 
 The writing-systems claim is narrower and stronger:
 
@@ -502,7 +502,7 @@ The preceding paper, *Perspective and Authored Space*, argued that the writer au
 
 This paper explains why that authorship can be legible.
 
-Authored space does not mean private space.
+> Authored space does not mean private space.
 
 It does not mean the writer invents a visual solution from nothing each time.
 
@@ -561,23 +561,15 @@ Fourth, legibility depends on trained recognition, not raw resemblance.
 
 Fifth, convention makes authored spatial writing preservable, teachable, correctable, and technically supportable.
 
-## What this paper does not claim
+## Scope and next questions
 
-The paper does not claim that every SignWriting symbol is immediately transparent to novices.
+The claim here is about how visual motivation becomes readable writing through convention.
 
-It does not claim that iconicity automatically produces reading fluency.
+That scope leaves room for several necessary follow-up questions.
 
-It does not claim that all communities use or value the same conventions in exactly the same way.
+Novice transparency, reading fluency, community-specific conventions, handwriting practice, educational outcomes, and comparisons with pictograms, maps, diagrams, interface icons, and other spatial symbol systems all require their own evidence.
 
-It does not claim that every iconic or spatial symbol system is writing.
-
-It does not claim that pictograms, emoji, maps, diagrams, or interface icons become writing merely because they are conventional.
-
-It does not claim that the questions of handwriting, reader studies, or educational outcomes are already resolved.
-
-Those questions remain important.
-
-They should be handled in the writing-systems and research series where they belong.
+Those questions remain important, and they belong in the writing-systems, evidence, and research series where they can be handled directly.
 
 ## Conclusion
 
@@ -612,8 +604,8 @@ That is the bridge first to *Handwriting and Spatial Script Practice*, and then 
 - Goodman, N. (1976). *Languages of Art: An Approach to a Theory of Symbols* (2nd ed.). Hackett.
 - Meletis, D., & Dürscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
 - Sampson, G. (1985). *Writing Systems: A Linguistic Introduction*. Stanford University Press.
-- Slevinski, S. (2026). *Human Writing and Machine Encoding: Authorship, Serialization, and the Layers of Signed Text*. Writing and Representation in Sutton SignWriting.
-- Slevinski, S. (2026). *Perspective and Authored Space: Viewpoint, Placement, and the Authored Space of Signed Writing*. Writing and Representation in Sutton SignWriting.
-- Slevinski, S. (2026). *Plane-Based Writing and Script Typology: Where SignWriting Fits, and Where Existing Writing-System Categories Strain*. Writing and Representation in Sutton SignWriting.
+- Slevinski, S. (2026). *Human Writing and Machine Encoding: Authorship, Serialization, and the Layers of Signed Text*. In *Writing and Representation in Sutton SignWriting*.
+- Slevinski, S. (2026). *Perspective and Authored Space: Viewpoint, Placement, and the Authored Space of Signed Writing*. In *Writing and Representation in Sutton SignWriting*.
+- Slevinski, S. (2026). *Plane-Based Writing and Script Typology: Where SignWriting Fits, and Where Existing Writing-System Categories Strain*. In *Writing and Representation in Sutton SignWriting*.
 - Sutton, V. (1995). *Lessons in SignWriting*. Deaf Action Committee for SignWriting.
 - Sutton, V. (2010). *ISWA 2010: International SignWriting Alphabet*. Center for Sutton Movement Writing.

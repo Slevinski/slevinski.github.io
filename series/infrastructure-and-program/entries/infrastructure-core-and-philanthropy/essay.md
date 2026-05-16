@@ -8,6 +8,8 @@ It also requires continuity capacity that grants alone often do not provide.
 
 That is where an infrastructure core and philanthropy become useful.
 
+Status note: this entry describes possible stewardship and funding pathways. It does not announce a donation program, fiscal sponsor, host institution, gift policy, or legal receiving structure.
+
 The core idea is simple:
 
 > create a small, focused stewardship structure around existing SignWriting standards, software, data, public resources, translation needs, and international coordination
@@ -131,6 +133,8 @@ Gift acceptance policy, restricted versus unrestricted gift terms, reporting obl
 
 Donors should not control research conclusions, community review outcomes, technical validity, spelling or language authority, or the governance of affected communities.
 
+Donors should also not receive privileged access to data, corpora, signer media, or dataset exports as consideration for gifts.
+
 ## Relationship to grants
 
 The strongest funding model is layered.
@@ -159,11 +163,11 @@ Philanthropy can make grants more credible by keeping the infrastructure stable 
 
 Grants can make philanthropy more credible by showing concrete research outcomes.
 
-## What should stay modest
+## Practical first promise
 
-The infrastructure-core idea should not be oversold.
+The infrastructure-core idea should make a practical first promise before it makes larger claims.
 
-It should not promise:
+It is not a promise of:
 
 - universal adoption
 - immediate literacy outcomes
@@ -171,7 +175,7 @@ It should not promise:
 - full translation of all important materials
 - one permanent solution to all maintenance needs
 
-Its first promise is narrower:
+Its first promise is concrete:
 
 > make the existing infrastructure more stable and more usable for research, education, preservation, and international collaboration
 

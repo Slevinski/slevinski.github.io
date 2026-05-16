@@ -22,6 +22,8 @@ The Sutton SignWriting Resources currently hold that:
 
 The existing Sutton SignWriting ecosystem already carries too much real data, software, publishing, and international work to accept a nominal standard that breaks the ecosystem it claims to support.
 
+The compatibility line used here is a production-compatibility line: whether the model can carry current Sutton SignWriting data, tools, sorting, rendering, and publication practice without loss or redesign. Other observers may weight the character-layer achievement differently, but that does not remove the production gap.
+
 ## Why this issue keeps returning
 
 The issue keeps returning because many people reasonably assume that once Unicode encodes a script, the script problem is solved.
@@ -50,7 +52,7 @@ The official Unicode SignWriting block covers:
 - fill modifiers
 - rotation modifiers
 
-That means it can name much of the symbol inventory.
+That means it can name much of the symbol inventory at the base/fill/rotation character layer.
 
 It does not mean that the full symbol model remains stable and writer-selected across the whole system.
 
@@ -83,7 +85,7 @@ That question is where the gap between symbol encoding and writing support becom
 
 The difference can be stated simply:
 
-- **official Unicode SignWriting** names much of the symbol block, but does not preserve the full symbol model cleanly
+- **official Unicode SignWriting** names much of the symbol block at the character layer, but does not preserve the full symbol model cleanly
 - **Formal SignWriting** names and structures written signs
 
 The writing system in practice needs more than a symbol block.
@@ -120,6 +122,8 @@ It makes the two-part word highly visible in one-dimensional text:
 - followed by symbols with coordinates
 
 That representation is currently usable not only for interchange and inspection, but also for AI and dataset work when enough data is available.
+
+Its usefulness for AI and dataset work comes from preserving the Formal SignWriting two-part word structure in a Unicode-oriented form, with sign boundaries and symbol-coordinate structure still available for processing.
 
 This is also why SWU should not be confused with official Unicode SignWriting.
 

@@ -24,9 +24,7 @@ For SignWriting, this question is especially important because the technical rec
 
 That imbalance should be named clearly.
 
-It is not proof that handwriting is absent.
-
-It is a sign that handwriting needs better documentation.
+The imbalance points to a documentation gap, not to the absence of handwriting.
 
 ## The problem
 
@@ -173,7 +171,9 @@ An early SignWriting-positive comparison by Martin (2000) already warned that ma
 
 That assumption made the system look slower and more cumbersome than it needed to be.
 
-Martin's discussion is dated in its software context, but the writing-systems point remains useful: print clarity and handwriting fluency are different material goals.
+Martin's discussion is dated in its software context, and it is reviewed in detail in the *Signed Language Writing Critical Review Series*.
+
+Here, it is used narrowly for its historical handwriting and shorthand observation: print clarity and handwriting fluency are different material goals.
 
 The same source also treats shorthand as part of the SignWriting landscape rather than as a theoretical afterthought.
 
@@ -385,7 +385,7 @@ Martin's 2000 comparison also documents the importance of distinguishing printed
 
 It describes printed forms as designed for clarity in learning and reading, while treating shorthand as a faster practice with highly simplified symbols.
 
-That source is historically useful, especially because it notices a misconception that still matters: a reader who only sees polished printed forms may wrongly assume that hand production must reproduce those forms in full detail.
+That source is historically useful, especially because it notices a misconception that still matters: a reader who only sees polished printed forms may wrongly assume that hand production must reproduce those forms in full detail. It should not be read here as current evidence for software capability, adoption scale, or contemporary handwriting distribution.
 
 SignWriting has been taught, copied, practiced, and corrected in educational and community contexts.
 
@@ -429,6 +429,8 @@ Needed materials include:
 - dated examples from different periods
 - digital stylus samples
 - links between handwritten forms and formal encoded text
+
+A SignWriting handwriting corpus would also need a stewardship home. That practical question belongs with the infrastructure and program work: collection permissions, metadata, preservation, contributor credit, and long-term access are not only research-design details.
 
 Needed research questions include:
 
@@ -501,23 +503,15 @@ Fourth, variation is not a failure when it remains bounded by readable conventio
 
 Fifth, handwriting culture and technical infrastructure should support each other.
 
-## What this paper does not claim
+## Scope and next questions
 
-The paper does not claim that handwritten SignWriting is equally widespread in every community.
+The claim here is that handwriting belongs inside the theory of a mature spatial script.
 
-It does not claim that every handwritten variation is acceptable.
+The public record already supports that claim, while also showing where better documentation is needed.
 
-It does not claim that shorthand or cursive forms are fully documented in public sources.
+Future work should document how widespread handwritten SignWriting is across communities, which variations remain readable, how shorthand and cursive practices are currently used, how SignWriting and ASLwrite differ in handwriting ecology, and how handwriting relates to reading fluency, educational outcomes, and adoption scale.
 
-It does not claim that handwriting replaces Formal SignWriting, fonts, or rendering.
-
-It does not claim that ASLwrite and SignWriting have the same handwriting ecology.
-
-It does not claim that handwriting evidence by itself proves reading fluency, educational outcomes, or adoption scale.
-
-It does not claim that historical reports of shorthand establish current widespread shorthand use.
-
-Those questions require separate evidence.
+Formal SignWriting, fonts, and rendering remain complementary infrastructure rather than substitutes for human writing practice.
 
 ## Conclusion
 
@@ -553,7 +547,7 @@ This paper makes the human side explicit first:
 - Martin, J. (2000). *A Linguistic Comparison: Two Notation Systems for Signed Languages, Stokoe Notation and Sutton SignWriting*.
 - Meletis, D., & Dürscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
 - Sampson, G. (1985). *Writing Systems: A Linguistic Introduction*. Stanford University Press.
-- Slevinski, S. (2026). *Human Writing and Machine Encoding: Authorship, Serialization, and the Layers of Signed Text*. Writing and Representation in Sutton SignWriting.
-- Slevinski, S. (2026). *Iconicity, Convention, and Legibility: How Motivated Visual Form Becomes Disciplined Writing*. Writing and Representation in Sutton SignWriting.
+- Slevinski, S. (2026). *Human Writing and Machine Encoding: Authorship, Serialization, and the Layers of Signed Text*. In *Writing and Representation in Sutton SignWriting*.
+- Slevinski, S. (2026). *Iconicity, Convention, and Legibility: How Motivated Visual Form Becomes Disciplined Writing*. In *Writing and Representation in Sutton SignWriting*.
 - Sutton, V. (1995). *Lessons in SignWriting*. Deaf Action Committee for SignWriting.
 - Sutton, V. (2010). *ISWA 2010: International SignWriting Alphabet*. Center for Sutton Movement Writing.

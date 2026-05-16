@@ -7,7 +7,7 @@ Implementation reference only. Read the companion technical paper for the concep
 
 These technical notes are the implementation-oriented companion to the spatial model paper. They focus on symbol ranges, coordinate behavior, centering, and validation consequences that would crowd the main paper.
 
-## 0. Minimal spatial example
+## Minimal spatial example
 
 ```text
 M525x535S2e748483x510S10011501x466S2e704510x500S10019476x475
@@ -21,7 +21,7 @@ This example shows the spatial layer in compact form:
 
 That is enough to demonstrate that the signbox is a spatial arrangement encoded as text.
 
-## I. Symbol roles and ranges
+## Symbol roles and ranges
 
 Three broad ranges are especially important:
 
@@ -33,7 +33,7 @@ Three broad ranges are especially important:
 
 Those distinctions matter because later operations often need to isolate one kind of symbol from another.
 
-## II. Kinds, categories, groups, and named ranges
+## Kinds, categories, groups, and named ranges
 
 Implementations often expose the symbol inventory through explicit arrays and named ranges:
 
@@ -64,6 +64,8 @@ const isType = (key, type) => {
 };
 ```
 
+This minimal example assumes an FSW symbol key beginning with `S`. SWU symbol handling needs conversion to the same base-symbol value before this range logic is applied.
+
 The important point is not only the catalog.
 
 It is the type of symbol.
@@ -72,7 +74,7 @@ Type tests operate on the base symbol and let software ask whether a key belongs
 
 The `hcenter` and `vcenter` ranges are especially important because they determine which symbols anchor centering.
 
-## III. Coordinate pattern
+## Coordinate pattern
 
 Placed symbols follow a repeated pattern:
 
@@ -90,7 +92,7 @@ That repetition is the core spatial pattern of the signbox.
 
 The coordinate is the top-left of the symbol image.
 
-## IV. Tight bounding-box preprocessing
+## Tight bounding-box preprocessing
 
 The spatial model needs tight bounding-box preprocessing because symbols have different widths and heights, and that size information is not stored directly in the written sign.
 
@@ -118,7 +120,7 @@ Preprocessing looks up the symbol size, keeps the top-left coordinate, and tempo
 
 That temporary expansion is what makes later min/max calculations possible.
 
-## V. Centering with `hcenter` and `vcenter`
+## Centering with `hcenter` and `vcenter`
 
 Centering is not done from a vague overall shape.
 
@@ -135,7 +137,7 @@ The practical logic is:
 
 This matters because head symbols anchor horizontal centering, while head and trunk symbols together anchor vertical centering.
 
-## VI. Normalization output
+## Normalization output
 
 After centering:
 
@@ -146,7 +148,7 @@ After centering:
 
 So normalization depends on spatial measurements that are computed during preprocessing, not stored directly in the sign.
 
-## VII. Main technical areas
+## Main technical areas
 
 - symbol classes and ranges
 - coordinate restrictions and interpretation
@@ -154,7 +156,7 @@ So normalization depends on spatial measurements that are computed during prepro
 - maximum-coordinate calculations
 - normalized centering strategies
 
-## VIII. Why the spatial layer matters
+## Why the spatial layer matters
 
 The signbox needs its own conceptual center:
 
@@ -164,11 +166,11 @@ The signbox needs its own conceptual center:
 
 They are part of the technical architecture itself.
 
-## IX. Working aim
+## Working aim
 
 The aim is to make the spatial mechanics legible enough that later work on grammar, rendering, and implementation has a stable foundation.
 
-## X. Appendix note on normalization
+## Appendix note on normalization
 
 Normalization should be treated as a technical stabilizer, not as a cosmetic cleanup step.
 

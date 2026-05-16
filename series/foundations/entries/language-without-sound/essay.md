@@ -8,7 +8,9 @@ It does not.
 
 The human brain does not require speech in order to build language.
 
-It requires accessible linguistic input.
+A learner needs language input that can actually be perceived, used, and built on.
+
+In other words, language development requires accessible linguistic input.
 
 This does not mean that actual language use is disembodied or that modality makes no difference.
 
@@ -32,7 +34,7 @@ It is pathway type.
 
 This essay uses a four-pathway model to organize the argument.
 
-The model is a public-facing way to keep language access and literacy infrastructure separate. It is not meant to replace the more detailed developmental, linguistic, or educational categories used in specialist research.
+The model is a public-facing way to keep language access and literacy infrastructure separate. Specialist research can add more detailed developmental, linguistic, and educational categories.
 
 Human language and literacy depend on at least four kinds of pathways:
 
@@ -93,7 +95,7 @@ It is a full language pathway.
 
 #### Tactile language access
 
-Touch also matters, but careful distinctions are necessary.
+Touch also matters, but important distinctions apply.
 
 - **tactile signing** is a language-access pathway used by many DeafBlind people
 - **Braille** is typically a tactile writing system rather than a separate language
@@ -161,7 +163,7 @@ That is not a minor gap.
 
 It is a missing layer of language infrastructure.
 
-Without durable writable pathways, signed languages face extra friction in education, research, and technology, not because of the language itself, but because of missing technical and human infrastructure. This is not a claim of linguistic incompleteness; it is a claim about missing durable symbolic pathways.
+Without durable writable pathways, signed languages face extra friction in education, research, and technology, not because of the language itself, but because durable symbolic pathways and the technical and human infrastructure around them remain underdeveloped.
 
 ## Comparative cases
 
@@ -308,9 +310,9 @@ It provides:
 - shareable and revisable written forms
 - reusable representations for corpora, annotation, and computation
 
-The Evidence and Adoption series treats Brazil as the clearest empirical anchor for this claim.
+Brazil is mentioned here to anchor the claim in documented public use; the detailed evidence belongs in the Evidence and Adoption series.
 
-The public record documents SignWriting use across schools, universities, curricula, research activity, and reader-centered studies in Brazilian Libras contexts. That record should not be overstated as a complete current census or as proof of every literacy outcome, but it does show that SignWriting has functioned inside real educational and institutional settings rather than only as a theoretical proposal.
+The public record documents SignWriting use across schools, universities, curricula, research activity, and reader-centered studies in Brazilian Libras contexts. That record establishes real educational and institutional use while leaving a current census and specific literacy outcomes as separate evidence questions.
 
 The more technical scale-and-infrastructure side of that claim is developed in *Formal SignWriting: Plane Writing Technical Bridge*, especially its discussion of dictionary scale, dataset growth, authorship, and compatibility boundaries.
 

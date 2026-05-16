@@ -17,6 +17,8 @@ That word therefore contains:
 - an optional **temporal prefix**, which preserves a one-dimensional symbol sequence
 - a required **spatial signbox**, which preserves a two-dimensional arrangement of writing symbols
 
+The temporal prefix should be understood from the beginning as authored, theory-based sequence information. It is not derivative markup extracted automatically from the signbox.
+
 The opening task is to define the core model clearly enough that every later layer stays legible.
 
 The implementation history behind this model is documented in *From Experimental Encodings to Formal SignWriting*, a companion to *Formal SignWriting in Practice*. The encoding history is a practice and migration story.
@@ -40,7 +42,7 @@ The core vocabulary is small:
 | sign | a required spatial signbox, optionally preceded by a temporal prefix |
 | temporal prefix | the optional sequence-preserving part, used mainly for sorting and sometimes for analysis |
 | spatial signbox | the required composition-preserving part |
-| FSW or SWU | plain-text encodings of the model, with FSW commonly used as the canonical processing form and SWU supported for Unicode-oriented interchange |
+| FSW or SWU | plain-text encodings of the model; FSW is commonly used as the canonical processing form, while SWU may be primary in Unicode-native interchange or API contexts |
 | style string | optional presentation markup, not canonical sign text |
 
 If these definitions are clear, the rest of the model becomes much easier to hold in view.
@@ -95,9 +97,9 @@ This example is useful because it makes the architecture visible. The word is st
 
 ## Sequence, sorting, and theory
 
-The temporal prefix should not be described as derivative markup extracted automatically from the signbox.
+The early distinction between authored prefix and spatial signbox matters in practice.
 
-It is written by an author according to a theory of sorting or analysis.
+The prefix is written by an author according to a theory of sorting or analysis.
 
 In current practice, Val's Sign Spelling Guidelines is the most prevalent theory.
 

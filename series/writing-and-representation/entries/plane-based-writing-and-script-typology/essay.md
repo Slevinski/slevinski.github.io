@@ -2,35 +2,15 @@
 
 **Where SignWriting fits, and where existing writing-system categories strain**
 
-This paper is the typological anchor of *Writing and Representation in Sutton SignWriting*.
+This paper carries the typological claim for *Writing and Representation in Sutton SignWriting*: SignWriting requires writing-system analysis to ask not only what writing represents, but how the primary written unit is organized for reading.
 
-It follows *The Shape of Writing* and prepares the ground for *Perspective and Authored Space*.
+The signed writing system considered here is Sutton SignWriting. It is a strong case of plane-based writing because writers select symbols and compose them spatially inside a written sign.
 
-The earlier foundations paper makes a broad public claim:
+Existing typologies remain useful. They give the field important vocabulary for alphabetic, syllabic, morphographic, featural, notational, and mixed systems. SignWriting exposes a limit in the usual question because much of its written structure appears inside a composed spatial unit rather than only in a line of ordered marks.
 
-> writing does not have to be linear
-
-This paper asks the next, more technical writing-systems question:
+The central question is therefore:
 
 > if writing does not have to be linear, how should a plane-based signed writing system be placed in script typology?
-
-The answer is not that existing typologies are useless.
-
-The signed writing system considered here is Sutton SignWriting.
-
-Existing typologies are useful.
-
-They give the field important vocabulary for alphabetic, syllabic, morphographic, featural, notational, and mixed systems.
-
-But SignWriting exposes a limit in the usual question.
-
-Typologies often ask what linguistic unit a written mark represents.
-
-SignWriting also forces a second question:
-
-> how is the primary written unit organized for reading?
-
-That second question is the center of this paper.
 
 ## The typology problem
 
@@ -129,6 +109,12 @@ The claim is not:
 The claim is:
 
 > typology becomes more accurate when it asks not only what writing represents, but also how written units are organized
+
+That does not mean every SignWriting question is already settled.
+
+Adoption scale, handwriting practice, literacy outcomes, institutional continuity, and standards interoperability remain evidence and infrastructure questions for other parts of the platform.
+
+The narrower claim here is that existing typology needs an organizational axis to describe what SignWriting already does structurally.
 
 ## The missing axis: organization
 
@@ -539,35 +525,23 @@ The goal is not to replace alphabetic, syllabic, morphographic, featural, or not
 
 The goal is to avoid forcing signed writing into categories that were not built to see it clearly.
 
-## What this paper does not claim
+## Scope and next questions
 
-The paper does not claim that `plane-based writing` is already settled field terminology.
+`Plane-based writing` is a working analytic term offered for scrutiny and refinement.
 
-It is a platform analytic term offered for scrutiny and refinement.
+Its job is not to rank writing systems or make SignWriting the required model for all signed writing.
 
-The paper does not claim that all signed writing must be SignWriting.
+Its job is to make fair comparison possible by naming a structural fact: in Sutton SignWriting, authored spatial relation belongs to the written unit.
 
-Other systems may answer different questions or serve different communities.
+That claim leaves several questions for neighboring documents.
 
-The paper does not claim that SignWriting is superior to other writing systems because it is spatial.
+Reading fluency, educational effects, adoption patterns, and community use belong primarily in *Sutton SignWriting Language and Literacy Research* and *Sutton SignWriting Evidence and Adoption*.
 
-It claims that its spatial organization must be described accurately before fair comparison is possible.
+Comparative script design belongs in *Other Sign Language Scripts and Their Conceptions*.
 
-The paper does not claim that every spatial notation is language writing.
+Technical preservation of the signbox belongs in *Formal SignWriting*.
 
-Maps, diagrams, dance notation, mathematical notation, and musical notation all use space, but they do not all have the same relation to language.
-
-The paper does not claim that this typological argument proves literacy outcomes.
-
-Reading fluency, educational effects, adoption patterns, and community use require their own evidence.
-
-Those questions belong primarily in *Sutton SignWriting Language and Literacy Research* and *Sutton SignWriting Evidence and Adoption*.
-
-The paper also does not claim that the proposed two-axis account is final.
-
-It is a working typological proposal.
-
-Future papers on kinematic writing may refine the terms used here.
+Future work may refine the two-axis account and the terms used here.
 
 ## Why this belongs first in the writing-systems series
 
@@ -627,7 +601,7 @@ That is the point from which the rest of the writing-systems series can proceed.
 - Goodman, N. (1976). *Languages of Art: An Approach to a Theory of Symbols* (2nd ed.). Hackett.
 - Meletis, D., & Dürscheid, C. (2022). *Writing Systems and Their Use: An Overview of Grapholinguistics*. De Gruyter.
 - Sampson, G. (1985). *Writing Systems: A Linguistic Introduction*. Stanford University Press.
-- Slevinski, S. (2026). *Human Writing and Machine Encoding: Authorship, Serialization, and the Layers of Signed Text*. Writing and Representation in Sutton SignWriting.
-- Slevinski, S. (2026). *Perspective and Authored Space: Viewpoint, Placement, and the Authored Space of Signed Writing*. Writing and Representation in Sutton SignWriting.
+- Slevinski, S. (2026). *Human Writing and Machine Encoding: Authorship, Serialization, and the Layers of Signed Text*. In *Writing and Representation in Sutton SignWriting*.
+- Slevinski, S. (2026). *Perspective and Authored Space: Viewpoint, Placement, and the Authored Space of Signed Writing*. In *Writing and Representation in Sutton SignWriting*.
 - Sutton, V. (1995). *Lessons in SignWriting*. Deaf Action Committee for SignWriting.
 - Sutton, V. (2010). *ISWA 2010: International SignWriting Alphabet*. Center for Sutton Movement Writing.

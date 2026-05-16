@@ -22,6 +22,8 @@ From a stewardship perspective, the distinction should be stated plainly:
 - FSW is commonly used as the canonical processing form for storage, indexing, and validation
 - SWU is supported for input, output, conversion, and Unicode-oriented workflows
 
+That does not make SWU secondary in every environment. In Unicode-native workflows, web APIs, interchange formats, or systems that require Unicode scalar values throughout the pipeline, SWU may be the natural primary form while FSW remains a supported equivalent representation.
+
 ## Script code and language tags
 
 `Sgnw` is the ISO 15924 script code for SignWriting.
@@ -35,6 +37,8 @@ The language tag identifies **language plus script**.
 The encoding choice belongs in the surrounding format, schema, protocol, profile, or technical documentation.
 
 This is why both FSW and SWU can represent the same `ase-Sgnw` content.
+
+In BCP 47 terms, `ase-Sgnw` identifies American Sign Language written with the SignWriting script. A corpus may store that tag at the collection level, record level, or field level depending on whether all records share the same language and script. It should not be used as a substitute for documenting whether the stored text is FSW, SWU, or another supported representation.
 
 ## How an FSW symbol key works
 

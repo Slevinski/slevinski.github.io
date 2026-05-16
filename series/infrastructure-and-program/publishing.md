@@ -24,11 +24,17 @@
 
 ## Series Description
 
-`Sutton SignWriting Infrastructure and Program` is the stewardship and program-design series for Sutton SignWriting: existing infrastructure, continuity risks, host-structure requirements, international participation, coordination, AI/data governance boundaries, and the institutional structures that would make the work cumulative.
+`Sutton SignWriting Infrastructure and Program` carries the stewardship and program-design claim for Sutton SignWriting: existing infrastructure needs accountable continuity, support models, host requirements, international participation, and AI/data governance boundaries.
+
+## Claim Role
+
+- Primary claim lane: stewardship and program design.
+- Cite this series for existing assets, continuity risks, host requirements, international participation, funding pathways, AI/data stewardship, and operational models.
+- Route adoption evidence, technical specifications, writing-system theory, standards compatibility, and research outcomes to the companion series responsible for those claims.
 
 ## Repository Description
 
-Program briefs, white papers, and position notes on Sutton SignWriting infrastructure, stewardship, continuity, international coordination, AI/data governance, and institutional program design.
+Program briefs, white papers, and position notes on existing infrastructure, stewardship functions, continuity risks, support models, international coordination, AI/data governance, and institutional program design.
 
 ## Keywords
 

@@ -69,6 +69,8 @@ For an evidence-first reader who wants the anchors before the synthesis:
 
 ## Entry Roles
 
+The overview is the series entry point. The roles below describe the four substantive briefs in the evidence series.
+
 **Brazil as the Empirical Center of SignWriting**
 
 - presents the strongest documented case of institutional density, continuity, and scale

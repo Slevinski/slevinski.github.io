@@ -6,6 +6,8 @@ Status note: This is an author-stewardship technical position note prepared for 
 
 The Sutton SignWriting Resources regard the current official Unicode SignWriting encoding as insufficient for compatible production use within the established Sutton SignWriting ecosystem.
 
+Prior Unicode encoding work should be understood as a good-faith character-level effort. The critique here concerns production compatibility, symbol identity, spatial composition, sorting, and migration, not the sincerity of past participants.
+
 ## Summary
 
 The current official Unicode SignWriting encoding does not fully solve symbols cleanly, and it does not solve written signs.
@@ -15,7 +17,7 @@ The core distinction is this:
 - naming characters is not the same as preserving stable symbol identity
 - preserving stable symbol identity is not the same as encoding complete written signs
 
-The current official encoding can name much of the SignWriting character set.
+The current official encoding can name much of the SignWriting character set at the base/fill/rotation character layer.
 
 It does not provide a workable compatible solution for:
 
@@ -54,6 +56,8 @@ Under the production-compatibility criteria used here, it cannot.
 
 This is an interoperability judgment about what the current official encoding can carry in practice, not about the sincerity of past participants.
 
+The related production-encoding governance question is treated from the Formal SignWriting side in [Encoding Stewardship and Stability](/#series/formal-signwriting/encoding-authority-and-stability/primary).
+
 ## Character naming is not enough
 
 The official Unicode SignWriting block covers:
@@ -62,7 +66,7 @@ The official Unicode SignWriting block covers:
 - fill modifiers
 - rotation modifiers
 
-That means it can name much of the character set.
+That means it can name much of the character set at the base/fill/rotation character layer.
 
 That does not mean:
 

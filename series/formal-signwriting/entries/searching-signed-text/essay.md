@@ -59,6 +59,8 @@ The `T` marker makes temporal-prefix presence part of the query. `Q` finds all s
 
 When `T` follows an `A...` prefix pattern, it closes that temporal-prefix query. The pattern is prefix-initial: `QA...T` finds signs whose temporal prefix starts with the specified sequence pattern, not only signs whose entire temporal prefix is exactly that pattern.
 
+That is deliberate. Prefix-initial matching is useful for sorting-theory-based search because a query can ask for the opening sequence while still allowing more detailed sequence information to follow.
+
 ## Worked query examples
 
 Consider this FSW sign:
@@ -107,6 +109,8 @@ Formal SignWriting search therefore needs to support:
 - generalized forms for broader matching
 - symbol ranges for structured variation
 - coordinate ranges for bounded spatial search
+
+A coordinate-aware query might, for example, match a target handshape within a small tolerated coordinate range rather than requiring the handshape to appear at one exact pixel position.
 
 The goal is not uncontrolled fuzziness. The goal is flexibility that stays technical and reproducible.
 

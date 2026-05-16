@@ -2,15 +2,9 @@
 
 *Evidence briefs on documented use, institutional anchors, and adoption limits*
 
-This repository contains the empirical series of the Sutton SignWriting platform. It documents communities, institutions, case studies, and evidence boundaries without turning documented use into sweeping outcome claims.
+This repository carries the empirical claim for the Sutton SignWriting platform: SignWriting has documented use, institutional anchors, technical infrastructure, and country evidence strong enough to treat it as real practice rather than a hypothetical proposal.
 
-The direct skeptical question is:
-
-> is this real?
-
-The cleaner empirical question is:
-
-> what is already visible, documented, and strong enough to build from?
+The series also defines the evidence boundary. It documents what is visible and strong enough to build from while keeping global scale, community preference, resistance, and literacy outcomes in the right evidence lanes.
 
 ## Repository Details
 

@@ -24,11 +24,17 @@
 
 ## Series Description
 
-`Sutton SignWriting Evidence and Adoption` is the empirical series for documented use, institutional anchors, adoption lineages, and claim discipline around SignWriting in practice as documented in the v1.0.0 release.
+`Sutton SignWriting Evidence and Adoption` carries the empirical evidence and adoption claim for Sutton SignWriting: documented use, institutional anchors, country evidence, evidence boundaries, and adoption limits.
+
+## Claim Role
+
+- Primary claim lane: empirical evidence and adoption.
+- Cite this series for documented use, institutional anchors, country evidence, evidence boundaries, and adoption limits.
+- Route literacy-outcome study design to the language and literacy research series, stewardship needs to the infrastructure series, and writing-system theory to the writing and representation series.
 
 ## Repository Description
 
-Evidence briefs and synthesis documents on SignWriting adoption, documented use, institutional anchors, and evidence boundaries.
+Evidence briefs and synthesis documents on documented SignWriting use, institutional anchors, country evidence, adoption limits, and evidence boundaries.
 
 ## Keywords
 
@@ -69,7 +75,7 @@ Slevinski, S. (2026). Sutton SignWriting Evidence and Adoption (v1.0.0). Zenodo.
 
 Abstract:
 
-> This synthesis brief defines what the v1.0.0 public evidence base for SignWriting supports, what remains partial, and how adoption claims should be read. It argues that SignWriting should no longer be treated as a merely hypothetical proposal: documented educational, institutional, scholarly, and technical use, especially in Brazil and South Korea, establishes real-world relevance. At the same time, the evidence does not yet amount to a complete global census, broad population-scale outcome evidence, or a single adoption story across all communities. The brief therefore treats SignWriting as real infrastructure and research material while keeping claims about scale, generalization, and educational outcomes bounded.
+> This synthesis brief states what the v1.0.0 public evidence base for SignWriting supports, what remains partial, and how adoption claims should be read. Documented educational, institutional, scholarly, and technical use, especially in Brazil and South Korea, establishes real-world relevance. The evidence supports treating SignWriting as real infrastructure and research material while keeping claims about global scale, generalization, community preference, resistance, and educational outcomes bounded.
 
 Citation:
 

@@ -6,6 +6,8 @@ The review series has a diagnostic purpose, but diagnosis is not the end of the 
 
 If the series is right about the field's recurring problems, then the next task is not to repeat them more sharply. It is to identify what should actually be built, studied, stabilized, and compared next.
 
+One recurring problem is later over-reading: a source solves one layer, and later discussion treats that result as if it solved the whole signed-text path. Construction begins by preserving the solved layer while naming the layers that still need work.
+
 This paper therefore shifts the emphasis from critique to construction. It treats SignWriting and Formal SignWriting as the strongest currently documented path to durable signed-language text infrastructure, while also treating that position as the beginning of a serious program rather than its conclusion.
 
 For the broader theory-facing bridge behind this constructive agenda, see *Signed Writing as a Pressure Test for General Writing Theory*, the companion paper attached to the Meletis and Dürscheid review.
@@ -76,9 +78,7 @@ SignWriting plus Formal SignWriting currently appears to provide the broadest do
 - software workflows
 - and real institutional use
 
-That is not a claim of perfection.
-
-It is a claim about comparative completeness at present.
+The claim is comparative completeness at present.
 
 ### 4. Alternative systems still matter
 
@@ -138,9 +138,7 @@ The highest-value evidence priorities include:
 - adoption mapping across institutions and regions
 - comparative work against video-plus-gloss and bilingual baselines
 
-The point is not to put SignWriting on trial as though nothing has been shown.
-
-The point is to move from feasibility and existence arguments toward evidence about performance, uptake, and educational effect.
+The next step is to move from feasibility and existence arguments toward evidence about performance, uptake, and educational effect.
 
 ## Priority 2: Corpora and reusable signed text
 
@@ -275,7 +273,7 @@ If the field is to grow, it needs broader collaboration:
 - educators
 - and standards participants
 
-But collaboration should not require pretending that all approaches currently solve the same problem equally well.
+But collaboration works best when comparative asymmetries remain visible.
 
 A stronger collaborative posture is:
 
@@ -292,6 +290,8 @@ It should also make room for mixed programs. A field may reasonably use:
 - and local community experiments to study handwriting, fluency, and adoption
 
 That is not incoherence. It is division of labor.
+
+In practice, that division of labor would mean building workflows where authored SignWriting text can link to analytic notation, semantic representations, video evidence, dictionary records, and datasets without pretending those objects are interchangeable.
 
 That stance earns more trust than either triumphalism or false balance.
 

@@ -132,6 +132,8 @@ A credible academic setting would make several things easier at once:
 - grant coordination
 - interdisciplinary framing across literacy, linguistics, computer science, and neuroscience
 
+Those institutional needs connect directly to the host-structure and stewardship discussion in *Sutton SignWriting Infrastructure and Program*.
+
 That does not mean the program cannot begin without a host institution.
 
 It means the institution helps the program become stable and cumulative faster.
@@ -159,7 +161,7 @@ This program is a good idea if it remains:
 
 - SignWriting-centered
 - empirically grounded
-- modest enough to begin
+- focused enough to begin
 - infrastructure-aware
 - reusable in its outputs
 

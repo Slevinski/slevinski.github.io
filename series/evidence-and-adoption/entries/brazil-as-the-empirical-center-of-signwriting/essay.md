@@ -27,11 +27,11 @@ The public SignWriting record also shows that this did not appear suddenly.
 
 The Brazil archive on SignWriting.org links historical materials, classrooms, dictionaries, literature, courses, and university references, and the symposium archive preserves a long run of Brazil-centered presentations in education, research, software, and literacy.
 
-At the current public count, the symposium archive alone includes **37 Brazil-related presentations** from 2014 to 2024.
-
 For this count, "Brazil-related" means presentations in the public SignWriting Symposium archive whose title, abstract, presenter affiliation, or topic clearly identifies Brazilian SignWriting, Libras, Brazilian institutions, Brazilian education, or Brazilian research contexts.
 
-That count is a working count from the public SignWriting Symposium presentation archive. It should be treated as a transparent archive count, not as a bibliometric study or a deduplicated national publication dataset.
+Using that method, the current public count in the symposium archive alone is **37 Brazil-related presentations** from 2014 to 2024.
+
+This should be treated as a transparent archive count, not as a bibliometric study or a deduplicated national publication dataset.
 
 ## Why Brazil deserves separate treatment
 
@@ -163,7 +163,7 @@ It does show that adoption evidence should include resistance, not only favorabl
 
 The claim here is intentionally narrower than a full national history.
 
-It does **not** claim:
+The Brazil claim therefore does **not** claim:
 
 - that the 2018 accounting is complete
 - that the 2018 accounting proves the same programs remain active at the same scale today
@@ -197,6 +197,6 @@ For a narrower present-tense institutional companion, see *South Korea as a Curr
 
 - Slevinski, S. (2018). [Brazilian Sign Language Wikipedia Project](https://meta.wikimedia.org/wiki/Grants:Project/slevinski/Brazilian_Sign_Language_Wikipedia_Project). Wikimedia Meta-Wiki.
 - Stumpf, M. R., & Barreto, M. (2014). [*SignWriting in Brazilian Deaf Education: 1996 to present*](https://www.signwriting.org/symposium/presentation0024.html). SignWriting Symposium, Presentation 0024.
-- Gonçalves Filho, J. S. T., Stumpf, M. R., & Sousa, A. M. de. (2024). [*Leitura de Textos em Libras (SignWriting) por Surdos Acadêmicos: Conforto Linguístico e Identificação Cultural*](https://signwriting.com/symposium/presentation0092.html). SignWriting Symposium, Presentation 0092.
+- Gonçalves Filho, J. S. T., Stumpf, M. R., & Sousa, A. M. de. (2024). [*Leitura de Textos em Libras (SignWriting) por Surdos Acadêmicos: Conforto Linguístico e Identificação Cultural*](https://www.signwriting.org/symposium/presentation0092.html). SignWriting Symposium, Presentation 0092.
 - SignWriting Symposium. [List of presentations](https://www.signwriting.org/symposium/presentations.html).
 - SignWriting.org. [SignWriting in Brazil](https://www.signwriting.org/brazil/).

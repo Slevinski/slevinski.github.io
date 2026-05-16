@@ -4,7 +4,7 @@
 
 This paper develops the authored-space argument in *Writing and Representation in Sutton SignWriting*.
 
-It follows *Plane-Based Writing and Script Typology*, but it does not repeat that paper's main argument.
+It follows *Plane-Based Writing and Script Typology* and uses the first sections as a short bridge from that paper into the new question of authored space.
 
 The larger sequence begins with *The Shape of Writing*, which makes the broad claim:
 
@@ -380,7 +380,7 @@ This gives the writing-systems series a useful bridge:
 
 The formal details belong in *Sign Text Layout*. The conceptual importance belongs here too.
 
-## What this paper does and does not claim
+## What this paper establishes
 
 This paper claims:
 
@@ -391,17 +391,11 @@ This paper claims:
 - symbol placement and relation are semantically important
 - these facts prepare the ground for the signbox model
 
-This paper does not claim:
+The scope is conceptual rather than experimental or fully technical.
 
-- that every perceptual issue has already been scientifically resolved
-- that perspective conventions are culturally identical everywhere
-- that the writing-systems argument can replace the formal technical model
-- that spatial writing is simple merely because it is visible
-- that this paper replaces the need for rendered examples, reader studies, or fuller grapholinguistic treatment
+Rendered examples, reader studies, local variation in perspective conventions, and formal technical modeling remain separate tasks.
 
-Its purpose is narrower.
-
-It is meant to show that SignWriting inhabits authored space in a disciplined and writable way.
+This paper gives those tasks a stronger starting point by showing that SignWriting inhabits authored space in a disciplined and writable way.
 
 ## Why this paper belongs after typology
 

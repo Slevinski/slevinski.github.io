@@ -1,18 +1,20 @@
-# Encoding Authority and Stability
+# Encoding Stewardship and Stability
 
-**Computational validity, linguistic judgment, practical finality, and forkability**
+**Technical coherence, computational validity, linguistic judgment, practical finality, and forkability**
 
 Formal SignWriting is author-stewarded infrastructure.
 
-Its authority is formal and representational, not linguistic or communal.
+Steve Slevinski stewards the formal encoding he authored and maintains: the supported FSW/SWU path, its technical coherence, stability, documentation, compatibility, and reference behavior.
+
+That stewardship is real but bounded. It is not authority over signed languages, spelling preferences, education, corpora, datasets, community governance, or AI deployment.
 
 This note states the boundary clearly.
 
 ## Core Boundary
 
-I decide what is well-formed for the computer.
+The supported encoding defines what is well-formed for software.
 
-I do not decide what is well-written for the reader.
+It does not decide what is well-written for the reader.
 
 In formal terms:
 
@@ -24,9 +26,9 @@ The encoding can remain stable enough for software, archives, corpora, fonts, se
 
 Writers, readers, teachers, editors, researchers, and communities remain responsible for use, preference, pedagogy, interpretation, local norms, and judgment.
 
-## What Encoding Authority Covers
+## What Encoding Stewardship Covers
 
-Encoding authority covers the supported formal model.
+Encoding stewardship covers the supported formal model.
 
 That includes:
 
@@ -42,13 +44,13 @@ That includes:
 - lossless conversion between supported forms
 - compatibility boundaries for the Sutton SignWriting production ecosystem
 
-This authority is practical.
+This stewardship responsibility is practical.
 
 It lets implementers know what the supported model accepts, rejects, preserves, converts, searches, and renders.
 
-## What Encoding Authority Does Not Cover
+## What Encoding Stewardship Does Not Cover
 
-Encoding authority does not decide:
+Encoding stewardship does not decide:
 
 - whether a spelling is good
 - whether a spelling is preferred
@@ -63,7 +65,9 @@ Those questions belong to other layers.
 
 The technical model can preserve written distinctions.
 
-It cannot replace reader judgment, community use, corpus governance, educational practice, or evaluation by affected signers, signing communities, and local stakeholders where systems are deployed.
+It cannot replace reader judgment, community use, corpus governance, educational practice, or evaluation by relevant signers, signing communities, and local stakeholders where systems are deployed.
+
+That evaluation boundary is not an afterthought. Any tool, dataset, classroom deployment, AI system, or institutional workflow that affects people needs review at the layer where people are affected. Formal validity can say whether text is parseable and compatible; it cannot grant social legitimacy, pedagogical adequacy, community acceptance, or deployment permission.
 
 ## Stability and Practical Finality
 
@@ -152,9 +156,9 @@ If a system changes the signbox model, symbol inventory, coordinate assumptions,
 
 ## Representational Affordance
 
-Encoding authority is not linguistic authority.
+Encoding stewardship is not linguistic authority.
 
-It is still real authority over the representational affordances available to linguistic expression inside this technical model.
+It is still real responsibility for the representational affordances available to linguistic expression inside this technical model.
 
 That means the encoding must be maintained carefully.
 
@@ -170,7 +174,7 @@ That is why the boundary must be explicit:
 - writers and readers judge written use
 - communities and institutions guide local practice
 - corpus and dataset stewards govern records, permissions, metadata, and access
-- affected signer and community evaluation is required where tools affect people
+- relevant signer and community evaluation is required where tools affect people
 
 ## Bottom Line
 
@@ -179,6 +183,8 @@ Formal SignWriting is a stable supported encoding path for Sutton SignWriting.
 It defines computational well-formedness.
 
 It does not define linguistic worth, spelling preference, community authority, or deployment legitimacy.
+
+It is a stewardship boundary, not a claim of language or community control.
 
 Others may use it, critique it, reject it, or fork it under the applicable licenses.
 

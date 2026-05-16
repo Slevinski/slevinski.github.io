@@ -3,7 +3,7 @@
   "number": 5,
   "title": "Draft UTC-Facing Technical Note",
   "subtitle": "Technical note on compatibility, symbol identity, spatial composition, and next steps",
-  "summary": "Official Unicode SignWriting can name much of the character set, but it does not preserve stable symbol identity or provide compatible written-sign support.",
+  "summary": "Official Unicode SignWriting can name much of the character layer, but it does not preserve stable symbol identity or provide compatible written-sign support.",
   "synopsis": "The current technical position separates character naming from stable symbol identity and written-sign encoding. The facial-diacritic model shifts part of symbol formation into font behavior, spatial composition and collation remain unresolved, and any renewed Unicode-level discussion should begin from compatibility review rather than automatic migration pressure.",
   "essay": "essay.md",
   "primary_artifact": {
@@ -59,12 +59,12 @@
         "abstract": "Three technical questions separated for standards review"
       },
       "bullets": [
-        "The official model can name much of the character set",
+        "The official model can name much of the character layer",
         "That is not the same as preserving stable writer-selected symbols",
         "That is not the same as encoding complete written signs",
         "The current official model reaches the first point much more than the second or third"
       ],
-      "speech": "The core distinction should be stated directly. Naming characters is one question. Preserving stable writer-selected symbols is another. Encoding written signs is a third. The current official model can name much of the character set. That does not mean it preserves stable symbol identity across the full system, and it does not mean it provides a compatible written-sign model. Once these three questions are separated, the present compatibility critique becomes clearer and more precise.",
+      "speech": "The core distinction should be stated directly. Naming characters is one question. Preserving stable writer-selected symbols is another. Encoding written signs is a third. The current official model can name much of the character set at the base, fill, and rotation layer. That does not mean it preserves stable symbol identity across the full system, and it does not mean it provides a compatible written-sign model. Once these three questions are separated, the present compatibility critique becomes clearer and more precise.",
       "notes": "This replaces the older two-layer wording with the clearer three-part distinction.",
       "mermaid": "flowchart TD\n  A[Official Unicode SignWriting] --> B[Naming characters]\n  A --> C[Preserving writer-selected symbols]\n  A --> D[Encoding written signs]\n  B --> E[Largely advanced]\n  C --> F[Not preserved cleanly]\n  D --> G[Not compatibly solved]\n\n  classDef core fill:#f5f3ff,color:black,stroke:#7c3aed,stroke-width:3px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  classDef good fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  class A core;\n  class B,C,D node;\n  class E good;\n  class F,G risk;"
     },
@@ -122,7 +122,7 @@
         "Collation problems indicate a deeper model mismatch",
         "Restoring explicit F1 and R1 would move back toward compatibility"
       ],
-      "speech": "Collation should not be treated as a small follow-up detail. Dictionaries, corpora, search, and workflow all depend on stable ordering. In the current official model, the facial system already weakens stable symbol identity, and inherent first fill and first rotation values further complicate explicit ordering. This is why collation is best treated as a signal of deeper model mismatch. A cleaner path toward compatibility would restore explicit first fill and first rotation values rather than treating them as inherent.",
+      "speech": "Collation should not be treated as a small follow-up detail. Dictionaries, corpora, search, and workflow all depend on stable ordering. In the current official model, the facial system already weakens stable symbol identity, and inherent first fill and first rotation values further complicate explicit ordering. Explicit values would preserve the writer's selected symbol directly instead of inferring part of that identity from a canonical default. This is why collation is best treated as a signal of deeper model mismatch.",
       "notes": "This is where the F1/R1 point belongs.",
       "mermaid": "flowchart TD\n  A[Explicit symbol identity] --> B[Stable sorting]\n  C[Inherent values and facial ambiguity] --> D[Sorting instability]\n  B --> E[Dictionary and corpus workflows]\n  D --> F[Compatibility signal]\n\n  classDef good fill:#f0fdf4,color:black,stroke:#16a34a,stroke-width:2px;\n  classDef risk fill:#fef2f2,color:black,stroke:#dc2626,stroke-width:2px;\n  classDef node fill:#eff6ff,color:black,stroke:#2563eb,stroke-width:2px;\n  class A,C node;\n  class B,E good;\n  class D,F risk;"
     },

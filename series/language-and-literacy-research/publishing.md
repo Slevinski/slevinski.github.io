@@ -24,11 +24,17 @@
 
 ## Series Description
 
-`Sutton SignWriting Language and Literacy Research` is the research-facing series for developmental language pathways, literacy layering, reading questions, and research-program design around signed-language writing.
+`Sutton SignWriting Language and Literacy Research` carries the research-program claim for signed-language writing: it opens testable questions about language pathways, literacy pathways, reading signed text, study design, materials, corpora, and outcome evidence.
+
+## Claim Role
+
+- Primary claim lane: language and literacy research program.
+- Cite this series for developmental models, reading questions, study design, research agenda, hypotheses, materials, corpora, and outcome-study needs.
+- Route documented adoption evidence to the evidence series, writing-system theory to the writing and representation series, and stewardship requirements to the infrastructure series.
 
 ## Repository Description
 
-Research-facing papers on signed-language writing, developmental language pathways, literacy pathways, reading signed text, and research-program design for Sutton SignWriting.
+Research-facing papers on developmental language pathways, literacy layering, reading signed text, study design, materials, corpora, reusable research infrastructure, and outcome-study needs.
 
 ## Keywords
 
@@ -49,12 +55,14 @@ Slevinski, S. (2026). Sutton SignWriting Language and Literacy Research (v1.0.0)
 
 ## Artifact Register
 
-| Artifact | Source | Status | DOI | Companion Files | Notes |
-| --- | --- | --- | --- | --- | --- |
-| `Sutton SignWriting Language and Literacy Research Overview` | `entries/overview/essay.md` | series-only | none | none | Cite as part of the series release. |
-| `The Four Language Pathways` | `entries/the-four-language-pathways/essay.md` | artifact-doi-planned | pending | none | Strongest standalone working-paper candidate in this series. |
-| `Reading Signed Text` | `entries/reading-signed-text/essay.md` | artifact-doi-possible | pending decision | none | Plausible working-paper DOI candidate after maturity review. |
-| `Research Program for Literacy Without Sound` | `entries/research-program-for-literacy-without-sound/essay.md` | artifact-doi-possible | pending decision | `program-notes.md`, `evidence-and-model-notes.md` | Plausible working-paper DOI candidate after maturity review. |
+| Artifact | Source | Status | DOI | Notes |
+| --- | --- | --- | --- | --- |
+| `Sutton SignWriting Language and Literacy Research Overview` | `entries/overview/essay.md` | series-only | none | Cite as part of the series release. |
+| `The Four Language Pathways` | `entries/the-four-language-pathways/essay.md` | artifact-doi-planned | pending | Strongest standalone working-paper candidate in this series. |
+| `Reading Signed Text` | `entries/reading-signed-text/essay.md` | artifact-doi-possible | pending decision | Plausible working-paper DOI candidate after maturity review. |
+| `Research Program for Literacy Without Sound` | `entries/research-program-for-literacy-without-sound/essay.md` | artifact-doi-possible | pending decision | Plausible working-paper DOI candidate after maturity review. |
+| `Program Notes for Literacy Without Sound` | `entries/research-program-for-literacy-without-sound/program-notes.md` | series-only | none | Companion to `Research Program for Literacy Without Sound`; may be uploaded as supplement. |
+| `Evidence and Model Notes for Literacy Without Sound` | `entries/research-program-for-literacy-without-sound/evidence-and-model-notes.md` | series-only | none | Companion to `Research Program for Literacy Without Sound`; may be uploaded as supplement. |
 
 ## DOI Notes
 

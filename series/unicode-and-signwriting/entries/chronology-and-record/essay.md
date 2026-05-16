@@ -50,6 +50,7 @@ This early revision cycle already matters because later Sutton SignWriting accou
 
 - **2012-12-04** — Martin Hosken, *Encoding SignWriting Layout: An Initial Discussion*  
   - discussion document, not a submitted UTC proposal  
+  - no public UTC registry link has been identified for this discussion note in the release record  
   - important as evidence that layout and composition remained unresolved
 
 This discussion note matters even though it was not a formal UTC submission.
@@ -129,7 +130,7 @@ This mattered because it showed that a font could be produced for the official d
 
 - A brief Wikimedia-facing discussion showed that the Unicode issue can reappear when public-platform work runs into unresolved compatibility questions.
 
-No further public action is anticipated in the near future from that discussion.
+No formal UTC submission arose from that discussion, and no further public action is anticipated in the near future.
 
 The point for this release is modest:
 

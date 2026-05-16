@@ -2,13 +2,15 @@
 
 **Country-level outreach, translation, and local relationship-building**
 
-Country ambassadors give Sutton SignWriting a practical way to build international relationships without pretending that one central team can understand every local context.
+Country ambassadors give Sutton SignWriting a practical way to build international relationships while recognizing that one central team cannot understand every local context.
 
 Its core claim is simple:
 
 > international coordination depends on trusted local relationship capacity
 
 This entry defines a volunteer-first country ambassador, or local liaison, model for outreach, translation, documentation, and early partner development.
+
+Status note: this role model describes possible local coordination capacity. It does not announce formal appointments, employment, institutional representation, or authority to speak for a country or community.
 
 ## Why The Role Is Needed
 
@@ -38,6 +40,8 @@ The role should stay practical.
 It is a relationship, communication, and local-context role, not a prestige title.
 
 The title should never imply that one person represents an entire country, Deaf community, institution, or SignWriting user base.
+
+In formal or institutional settings, *local liaison* may be the better label because it describes the practical function without suggesting national representation.
 
 ## Core Responsibilities
 
@@ -147,6 +151,7 @@ They should also account for the fact that economic conditions differ widely acr
 Strong ambassadors are likely to have some combination of:
 
 - trusted standing in local SignWriting or Deaf education communities
+- familiarity with SignWriting use, Deaf education, or local signing-community contexts
 - strong communication skills
 - familiarity with universities, schools, or institutional networks
 - ability to work across language and cultural boundaries
@@ -162,7 +167,6 @@ The first priority is trustworthiness and follow-through.
 A practical first cohort could include:
 
 - Brazil
-- Mexico
 - South Korea
 - additional countries where active SignWriting use or institutional interest is already visible
 

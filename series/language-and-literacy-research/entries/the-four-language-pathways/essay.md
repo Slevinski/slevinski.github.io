@@ -2,28 +2,13 @@
 
 **A developmental model of language, literacy, and signed-language writing**
 
-This paper is the opening model paper of *Sutton SignWriting Language and Literacy Research*.
+This paper carries the opening model claim for *Sutton SignWriting Language and Literacy Research*: signed-language writing should be studied through distinct pathways for language input, language output, literacy input, and literacy output.
 
-It grows out of the public foundations argument in *Language Without Sound*, but it does not replace that piece.
+The model separates language development from literacy development. It treats accessible input and expressive output as developmental necessities, and it treats literacy as a durable symbolic layer that can be added after language begins.
 
-The purpose here is narrower and more research-facing.
+For signed languages, the research question is not only whether signing is language. It is what changes when a signed language also has durable readable and writable text.
 
-It aims to do several things clearly:
-
-- distinguish language development from literacy development
-- define the four pathway model explicitly
-- clarify why accessible input and expressive output matter developmentally
-- explain literacy as durable symbolic pathway layering rather than primary language creation
-- state why signed-language writing opens a real research space
-
-It is more explicit, more model-forward, and more evidence-disciplined than *Language Without Sound*.
-
-It does not try to be the public front door, the evidence brief, or the infrastructure case all at once.
-
-The intended relation is:
-
-- *Language Without Sound* as the public conceptual opening
-- *The Four Language Pathways* as the first research-facing model paper
+This paper turns the public foundations argument in *Language Without Sound* into a research-facing model. It defines the four pathways, explains why the distinctions matter, and identifies the research space opened by signed-language writing.
 
 ## Terminology note
 
@@ -60,11 +45,9 @@ If literacy is treated as equivalent to language, then early language access and
 
 If modality is treated as destiny, then questions about accessibility, deprivation, literacy, and writing are reduced to preference for one channel rather than analyzed as developmental pathway questions.
 
-The four-pathway model is meant to separate those issues.
+The four-pathway model separates those issues while preserving the importance of modality.
 
-It does not claim that all pathways are interchangeable or that modality is irrelevant.
-
-It claims something narrower:
+Its claim is narrower:
 
 > what matters developmentally is whether accessible pathways exist for language input, language output, literacy input, and literacy output
 
@@ -82,9 +65,7 @@ The present model asks a different question:
 
 ## Relation to existing research
 
-The four-pathway model does not claim that input, output, language, and literacy are new ideas by themselves.
-
-They are not.
+Input, output, language, and literacy are not new ideas by themselves.
 
 Language acquisition research has long shown that timing and accessibility of language input matter. Sign-language research has shown that signed languages are full natural languages and that delayed first-language access can have lasting consequences. Reading research has long distinguished language comprehension, decoding or recognition, and broader comprehension processes.
 
@@ -209,6 +190,8 @@ The point is to clarify that early language access and later literacy access are
 
 Language input pathways are primary because they nourish the formation of a language system.
 
+Here again, *pathway* is being used in the access-and-development sense defined above, not as a claim that each pathway is a discrete neural circuit.
+
 Examples include:
 
 - auditory speech for many hearing children
@@ -296,6 +279,8 @@ Writing, typing, editing, and revising should therefore be studied as part of th
 
 The model would be weakened if direct signed-language text did not produce distinctive affordances over video, gloss, or surrounding-language print in tasks where durability should matter.
 
+Those tasks include annotation, revision, search, comparison, reuse, citation, classroom return, and corpus study, especially when compared with video-only or gloss-only conditions.
+
 It would also need revision if reader experience, classroom use, corpus work, and recognition studies failed to show learnable regularities in signed text.
 
 That is why this paper is a model paper, not a proof that every empirical question is settled.
@@ -334,9 +319,9 @@ If expressive output is constrained, then the learner has less opportunity to pa
 
 If literacy pathways are missing, then language may still be fully linguistic, but it lacks durable symbolic routes that support revision, comparison, textual accumulation, and broader forms of educational and research reuse.
 
-So the model does not claim that all deficits are identical.
+Different pathway constraints have different effects.
 
-It claims that pathway configuration matters, that access matters, and that developmental timing matters.
+The model's central claim is that pathway configuration matters, that access matters, and that developmental timing matters.
 
 ## Signed-language writing as a new literacy condition
 
@@ -365,7 +350,7 @@ The question is what changes when signed language itself has durable symbolic pa
 
 That is the condition under which SignWriting becomes scientifically meaningful.
 
-## What this model does and does not claim
+## What this model establishes
 
 The model claims:
 
@@ -375,14 +360,11 @@ The model claims:
 - signed-language writing changes the literacy landscape in principle
 - that changed landscape opens real research questions
 
-The model does **not** claim:
+The model is a research framework, not an outcome claim.
 
-- that all mechanisms are already empirically settled
-- that every outcome advantage has already been demonstrated
-- that signed-language writing alone solves early language deprivation
-- that one paper can resolve reading, syntax, and educational questions in full
+Its value is that it separates questions that are often collapsed: early language access, later literacy, input, output, signed-language writing, reading, syntax, and educational outcomes.
 
-That distinction matters.
+Those distinctions make future empirical work easier to design and easier to interpret.
 
 The usefulness of the model lies partly in its ability to define a research space without pretending that the research space has already been exhausted.
 

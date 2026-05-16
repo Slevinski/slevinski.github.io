@@ -6,9 +6,7 @@ This entry compares several visible sign-language script conceptions within the 
 
 A small number of other sign-language script conceptions deserve acknowledgment because SignWriting belongs to a visible landscape of attempts to write, notate, teach, or represent signed languages.
 
-The point is not to produce a laundry list and not to turn every other system into an opponent.
-
-The point is simpler:
+The comparison has a simple purpose:
 
 - the field is not empty
 - different systems embody different conceptions of what signed writing is for
@@ -100,7 +98,7 @@ It also makes it a different kind of project from SignWriting.
 
 That community independence is part of what makes ASLwrite interesting.
 
-It is not trying to be a university notation system.
+Its purpose is different from a university notation system.
 
 ### SignWriting
 
@@ -163,7 +161,7 @@ ASLwrite is also valuable because it keeps the question of handwriting alive.
 
 It is useful to understand ASLwrite as a community-driven alternate spatial script design rather than merely as a technical curiosity.
 
-Its encoding approach is especially noteworthy:
+Its handling of written form and keyboardable representation is worth noting without turning it into a standards judgment:
 
 - the visible script is plane-based
 - some sign structure has been described through linearized or keyboardable forms
@@ -208,6 +206,8 @@ That balance can change in the future.
 `Sgnw` is the ISO 15924 script code for SignWriting.
 
 That fact matters here only as a reminder that script identity and encoding strategy are different layers.
+
+The official ISO 15924 numeric code list names SignWriting under `Sgnw`; the neighboring systems discussed here are treated as script conceptions and notation/writing projects rather than as ISO-coded scripts in this comparison.
 
 The detailed distinction between Sgnw, Formal SignWriting, FSW, and SWU belongs in *Formal SignWriting: FSW and SWU*.
 
@@ -280,4 +280,5 @@ From here, the strongest return path is back into the main writing-systems seque
 - Grushkin, D. A. (2017). [Writing Signed Languages: What For? What Form?](https://slla.lab.uconn.edu/wp-content/uploads/sites/1793/2017/06/Grushkin_2017.pdf)
 - Hanke, T. (2004). HamNoSys: Representing sign language data in language resources and language processing contexts. In *Workshop on the Representation and Processing of Sign Languages*.
 - Institute of German Sign Language and Communication of the Deaf, University of Hamburg. [HamNoSys](https://www.sign-lang.uni-hamburg.de/dgs-korpus/hamnosys-97.html).
+- Unicode, Inc. (n.d.). [ISO 15924 Numeric Code List](https://unicode.org/iso15924/iso15924-num.html).
 - Sutton, V. (2010). *ISWA 2010: International SignWriting Alphabet*. Center for Sutton Movement Writing.

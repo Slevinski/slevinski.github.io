@@ -117,7 +117,7 @@ That matters for:
 
 That is where the technical model becomes evidence-bearing. A format that supports corpora, lexicons, annotation, and retrieval is much more than a display convention.
 
-Current Sutton SignWriting data already gives that claim scale. The Brazilian Sign Language dictionary alone contains nearly **68,000 signs**, and the broader accumulated dataset across languages contains well over **one million unique signs**. These counts should be refreshed against the current SignPuddle and SignBank data exports before each formal release, but their order of magnitude is already part of the practical argument.
+Current Sutton SignWriting data already gives that claim scale. For the v1.0.0 release, the Brazilian Sign Language dictionary alone contains nearly **68,000 signs**, and the broader accumulated dataset across languages contains well over **one million unique signs**. These release-scoped order-of-magnitude counts are already part of the practical argument.
 
 Useful dataset practice usually needs:
 
@@ -125,6 +125,8 @@ Useful dataset practice usually needs:
 - derived search indexes
 - reproducible rendered output
 - enough metadata to track provenance and version changes
+
+Language-script tags such as `ase-Sgnw` may belong at the collection, record, or field level depending on the corpus design. A collection-level tag is appropriate only when the whole collection shares the same language and script; mixed corpora should tag closer to the record or field that contains the signed text. The tag should travel with separate metadata naming the serialization, such as FSW or SWU.
 
 If a corpus mixes temporal-prefix theories, the corpus should not pretend that all signs sort under one shared theory.
 
@@ -143,6 +145,8 @@ The grammar layer defines valid sign-level structure and names the main token ro
 Practice has a different question: what derived views should downstream tasks use?
 
 No single tokenization level should be treated as universally correct for every corpus, NLP, machine-learning, rendering, or translation task. A project may need sign-level tokens, symbol-level tokens, base-fill-rotation features, coordinate features, handshape-focused features, or task-specific derived indexes.
+
+The research questions that follow from those choices connect to *Sutton SignWriting Language and Literacy Research*, especially when tokenization is being used for corpus study, reading research, translation experiments, or AI-facing datasets.
 
 The practical rule is:
 

@@ -7,7 +7,7 @@ Implementation reference only. Read the companion technical paper for the concep
 
 These technical notes are the implementation-oriented companion to the grammar paper. They focus on validation boundaries, token roles, and the distinction between grammar and search.
 
-## 0. Minimal validation example
+## Minimal validation example
 
 A schematic full sign:
 
@@ -23,7 +23,7 @@ AS10011S10019
 
 The difference is grammatical, not aesthetic. The first pattern can match a full sign. The second example is only a prefix fragment.
 
-## I. Token families at a glance
+## Token families at a glance
 
 The grammar depends on four kinds of material:
 
@@ -34,7 +34,7 @@ The grammar depends on four kinds of material:
 
 Those four are enough to state the difference between a fragment and a full sign.
 
-## II. Grammar and search are related, but distinct
+## Grammar and search are related, but distinct
 
 Grammar answers whether text is well formed.
 
@@ -42,7 +42,7 @@ Search answers how well-formed text can be matched, filtered, and located.
 
 Those are closely connected technical questions, but they should not be collapsed into one artifact.
 
-## III. Order of technical dependence
+## Order of technical dependence
 
 The layer order is:
 
@@ -51,7 +51,7 @@ The layer order is:
 - grammar after that
 - search as a downstream use of the grammar
 
-## IV. Transformations remain cross-cutting
+## Transformations remain cross-cutting
 
 They belong naturally in multiple places:
 
@@ -61,7 +61,7 @@ They belong naturally in multiple places:
 - rendering pipelines
 - implementation workflows
 
-## V. What the grammar has to establish
+## What the grammar has to establish
 
 The grammar has to establish:
 
@@ -70,7 +70,7 @@ The grammar has to establish:
 - a clear relation between the two-part word and validation
 - enough rigor that later software work does not need to reinvent the layer
 
-## VI. Appendix note on token roles
+## Appendix note on token roles
 
 The grammar is easier to teach when token roles are kept explicit:
 

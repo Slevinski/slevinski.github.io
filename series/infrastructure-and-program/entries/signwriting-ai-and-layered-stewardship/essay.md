@@ -4,10 +4,12 @@
 
 This position note clarifies how Sutton SignWriting infrastructure relates to sign-language AI, data governance, affected-community review, and technical stewardship.
 
+Status note: this entry states a stewardship and governance posture. It does not grant legal permission, dataset permission, deployment approval, or community approval for any specific AI system.
+
 Its purpose is practical:
 
 - prevent individual written signs from being treated as privately owned data objects without regard to their status as reusable linguistic forms
-- prevent encoding authority from being mistaken for language authority
+- prevent encoding stewardship from being mistaken for language authority
 - prevent AI datasets, signer media, corpora, dictionaries, and deployments from being collapsed into one generic data-governance problem
 
 SignWriting can clarify AI governance because it separates layers that are often collapsed: reusable written signs, authored passages, lexical records, curated corpora, signer media, dataset exports, encodings, and deployments.
@@ -24,13 +26,13 @@ SignWriting can clarify AI governance because it separates layers that are often
 | Dictionary or corpus | Curated database or collection | Collection design, editorial work, metadata, and database rights may apply |
 | Video or media | Recording of a signer | Consent, likeness, privacy, context, and reuse rights matter |
 | Dataset export | Training, testing, benchmark, or evaluation data | Terms, provenance, permissions, and use restrictions matter |
-| AI deployment | Model, app, avatar, translation system, assessment tool | Affected signer and community evaluation, accountability, safety, and impact review are required |
+| AI deployment | Model, app, avatar, translation system, assessment tool | Relevant signer and community evaluation, accountability, safety, and impact review are required |
 
 This matrix does not settle legal questions by itself.
 
 It gives researchers, developers, stewards, and institutions a clearer map of where rights, responsibilities, review, and authority attach.
 
-This position note provides a stewardship and governance map, not legal advice. Copyright, database rights, privacy, consent, likeness, AI-training permissions, and institutional compliance require jurisdiction-specific and institution-specific review.
+This position note provides a stewardship and governance map, not legal advice. Copyright, database rights, privacy, consent, likeness, AI-training permissions, and institutional compliance require jurisdiction-specific and institution-specific review before acting on any specific layer's characterization.
 
 ## Individual Written Signs
 
@@ -146,6 +148,8 @@ The encoding determines whether a written sign is structurally valid for parsing
 
 It does not determine whether a spelling is good, preferred, readable, standard, local, poetic, or community-approved.
 
+For the technical side of this boundary, see *Formal SignWriting: Encoding Stewardship and Stability*.
+
 The supported Sutton SignWriting production path remains the established FSW/SWU model.
 
 Others may use it, critique it, reject it, or fork it under the applicable licenses.
@@ -175,15 +179,17 @@ Responsible AI and data work should:
 
 The dataset layer is where provenance, permissions, terms of use, filtering decisions, evaluation design, and community-review requirements must become explicit.
 
-## Deaf, Signing-Community, and Local-Stakeholder Review
+Synthetic signed text or generated signing output is a distinct downstream concern. Even when generated from written signs rather than copied from a signer video, deployment into education, translation, public communication, assessment, or community-facing tools still requires review at the affected layer.
+
+## Signing-Community and Local-Stakeholder Review
 
 Signed languages should not be treated as private property in the ordinary sense.
 
-Deaf signers and signing communities have legitimate governance interests where language access, education, public representation, AI deployment, institutional decisions, datasets, and media use affect them.
+Relevant signers and signing communities have legitimate governance interests where language access, education, public representation, AI deployment, institutional decisions, datasets, and media use affect them.
 
 Authority should follow the layer, the affected community, and the consequence.
 
-Deaf signers, signing communities, educators, readers, and affected local stakeholders should lead or materially shape decisions where AI systems affect people and communities.
+Relevant signers, signing communities, educators, readers, and local stakeholders should materially shape decisions where AI systems affect people and communities.
 
 That includes:
 
@@ -200,11 +206,13 @@ That includes:
 
 Encoding governance and dataset governance are different.
 
-The encoding can be author-stewarded and stable while AI use still requires review and influence from affected signers, signing communities, educators, local stakeholders, and accountable institutions at the appropriate layer.
+The encoding can be author-stewarded and stable while AI use still requires review and influence from relevant signers, signing communities, educators, local stakeholders, and accountable institutions at the appropriate layer.
 
 Community review should also be real, local, and bounded.
 
 One signer, one ambassador, one institution, or one country should not be treated as speaking for all Deaf people or all SignWriting users.
+
+The ambassador or local-liaison role described elsewhere in this series is designed for coordination and context gathering, not for total community representation.
 
 The goal is meaningful review, not symbolic representation.
 
@@ -220,4 +228,4 @@ Authored passages, curated dictionaries, corpora, media, metadata, and datasets 
 
 FSW and SWU are stable infrastructure encodings, not ownership claims.
 
-AI deployment must be evaluated with affected Deaf signers, relevant signing communities, local stakeholders, and accountable institutions because deployment affects people, institutions, access, education, and public trust.
+AI deployment must be evaluated with relevant signers, signing communities, local stakeholders, and accountable institutions because deployment affects people, institutions, access, education, and public trust.

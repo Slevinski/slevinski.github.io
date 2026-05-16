@@ -85,6 +85,7 @@ For most readers, this order works best:
 
 5. **Standards Review in the Critical Review Series**
    Use the review-series interpretation when you want the Unicode issue evaluated through the broader writing-system framework.
+   That review belongs to the separate Signed Language Writing Critical Review Series record, DOI `10.5281/zenodo.20042604`.
 
 ## Related series
 
@@ -98,3 +99,5 @@ Related work belongs in adjacent series:
 Start the foundations series with [Language Without Sound](/#series/foundations/language-without-sound/primary) and [The Shape of Writing](/#series/foundations/the-shape-of-writing/primary).
 
 For the review-series interpretation, see [Official Unicode SignWriting: The Character Problem and the Written-Sign Problem](/#series/signed-language-writing-critical-review/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/primary).
+
+For the complementary encoding-governance statement from the production-encoding side, see [Encoding Stewardship and Stability](/#series/formal-signwriting/encoding-authority-and-stability/primary) in the Formal SignWriting series.

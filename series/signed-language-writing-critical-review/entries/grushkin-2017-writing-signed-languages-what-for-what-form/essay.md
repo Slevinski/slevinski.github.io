@@ -13,6 +13,8 @@ Donald A. Grushkin's 2017 article asks an important question:
 
 > what is signed writing for, and what form should it take?
 
+The article should be read in its educational and practitioner-facing context. It is trying to answer institutional questions about Deaf education and biliteracy, not only to produce a detached writing-systems typology.
+
 Its lasting value comes from taking the need for signed writing seriously. Grushkin does not argue that signed languages merely could be written in some abstract sense. He argues that they should be written, that objections to signed writing are weak, and that writing would materially benefit signed language communities in pedagogy, preservation, communication, and literacy.
 
 That is the article's central contribution.
@@ -44,7 +46,7 @@ His project has two parts:
 
 The second goal matters because it shapes the whole article. This is not only an argument for writing as such. It is an argument for a particular kind of written signed language.
 
-The article should also be read in its educational and practitioner-facing context. It is trying to answer institutional questions about Deaf education and biliteracy, not only to produce a detached writing-systems typology. That context makes the English-biliteracy concern understandable, but it does not make it sufficient as the governing criterion for signed writing.
+That context makes the English-biliteracy concern understandable, but it does not make it sufficient as the governing criterion for signed writing.
 
 The article then moves through four main stages:
 
@@ -292,7 +294,7 @@ Its strongest responsible conclusions are:
 
 These are substantial contributions.
 
-What the article does not prove is:
+The article's limits are equally important:
 
 - that alphabetic signed writing is superior to SignWriting
 - that "iconographic" signed writing systems are structurally inferior
@@ -317,6 +319,8 @@ The article moves among:
 - educational prescription
 
 Those are not identical layers, and the article does not always keep them distinct. It tends to move from educational goals to writing-system judgment too quickly.
+
+Declared dependencies help separate the two claims. The necessity-of-writing argument solves a real advocacy and conceptual layer: it shows why signed languages need durable writing rather than gloss or video alone. The alphabetic orthographic recommendation, however, assumes layers that are not supplied: a primary written unit adequate to signed language, a text model, conventions, infrastructure, and evidence that alphabetic compatibility should govern the design. Those layers are not merely deferred; they are needed for the recommendation to carry the weight the article gives it.
 
 ### Representation model
 

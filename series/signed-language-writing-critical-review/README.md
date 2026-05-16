@@ -2,13 +2,13 @@
 
 *Critical reviews of signed-language writing scholarship, standards, notation, encoding, and representation*
 
-This repository contains the critical review series of the Sutton SignWriting platform. It reviews scholarship, standards, theses, and proposals about signed language writing.
+This repository carries the critical-method claim for the Sutton SignWriting platform: signed-language writing work should be evaluated at the layer it actually addresses.
 
 The recurring question is:
 
 > what level of the problem is this work actually solving?
 
-That question keeps the reviews disciplined. A proposal may solve a notation problem without solving a writing problem. A standard may encode characters without providing a complete written-sign model. A rendering system may display signs without preserving authored text. A dataset or dictionary may support important infrastructure without deciding community authority, data rights, or full-path adequacy.
+That question keeps the reviews disciplined. A proposal may solve notation without solving writing. A standard may encode characters without providing a complete written-sign model. A renderer may display signs without preserving authored text. A dataset or dictionary may support important infrastructure without deciding community authority, data rights, or full-path adequacy.
 
 ## Repository Details
 

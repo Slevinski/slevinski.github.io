@@ -2,6 +2,8 @@
 
 Use this worksheet when applying the framework.
 
+This is a working instrument for reviewers. It turns the framework and procedure into fields that can be filled out for a source, system, standard, tool, dataset, or infrastructure claim.
+
 ## A. Source Identification
 
 - Source title:
@@ -23,8 +25,12 @@ Use this worksheet when applying the framework.
 - Secondary layers:
 - Adjacent-purpose category, if any:
 - Layers explicitly addressed:
-- Layers assumed but not addressed:
-- Layers outside scope:
+- Solved layers:
+- Borrowed layers:
+- Externally supplied layers:
+- Assumed layers:
+- Deferred layers:
+- Not in scope layers:
 
 ## D. Primary Unit and Representational Target
 

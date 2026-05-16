@@ -57,6 +57,8 @@ That relationship matters most in this entry.
 
 Compatibility with FSW, SWU, and existing Sutton SignWriting data is therefore not presented as a neutral measure of all possible Unicode value. It is an infrastructure criterion: a standard intended to serve an existing writing ecosystem should be judged partly by whether it can preserve and migrate that ecosystem's authored text, symbol identity, sorting behavior, tools, and data.
 
+Another evaluator could reasonably give more weight to Unicode's standards-layer achievement as script recognition and character-repertoire stabilization. This review preserves that achievement while still treating production compatibility as unresolved.
+
 This review therefore separates two judgments:
 
 - official Unicode SignWriting has real value as a character-standardization outcome
@@ -93,6 +95,8 @@ It is a case of:
 - correct multi-layer awareness in principle
 - incomplete layer completion in practice
 - later public over-reading of what had actually been finished
+
+The declared-dependencies reading makes the problem more precise. The solved layer is character-repertoire standardization and script recognition. The externally supplied layer is the existing SignWriting practice, data, tools, and infrastructure the standard was meant to serve. The deferred or assumed layers are the compatible written-sign model, stable writer-selected symbol identity, sorting, migration, and production interoperability. The issue is not that every standards proposal must solve every layer alone. The issue is that later interpretation treated deferred or assumed layers as though they had been solved.
 
 ## II. Representation model
 

@@ -2,6 +2,8 @@
 
 This series reviews scholarship, standards, and proposals about signed language writing.
 
+Use this note if you are arriving cold and need the fastest orientation. The Overview gives the fuller scholarly map; this note gives the minimum terms, standpoint, and entry paths needed before reading the reviews.
+
 It is critical in the ordinary scholarly sense:
 
 - it reads sources carefully
@@ -13,7 +15,7 @@ It is neither a neutral bibliography nor a polemical archive.
 
 The goal is clear judgment, fair reading, and better discussion.
 
-The series does use a definite lens. It asks what signed-language writing work can support once writing, notation, encoding, rendering, infrastructure, evidence, authority, and data objects are kept distinct. It gives special weight to durable written form, written-unit structure, text-model adequacy, and full-path infrastructure. That is a comparative tool, not a claim that every question in the field is already closed.
+The series uses a definite lens. It asks what signed-language writing work can support once writing, notation, encoding, rendering, infrastructure, evidence, authority, and data objects are kept distinct. It gives special weight to durable written form, written-unit structure, text-model adequacy, and full-path infrastructure. The lens is a comparative tool for reading sources more clearly; it leaves narrower questions to the documents and communities responsible for them.
 
 The author of the series is also a developer and steward of Formal SignWriting and related Sutton SignWriting infrastructure. The series therefore does not pretend to be written from nowhere. It states its standpoint, applies the framework inward to Sutton SignWriting and Formal SignWriting, and separates layer-level judgment from full-path judgment so that readers can see where a source is strong, where it is incomplete, and where the review's own baseline matters.
 

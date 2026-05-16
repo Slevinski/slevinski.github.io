@@ -7,14 +7,14 @@ Implementation reference only. Read the companion technical paper for the concep
 
 These technical notes are the implementation-oriented companion to the opening paper. They avoid restating the whole argument and focus on validity boundaries, sequence-theory cautions, and downstream consequences.
 
-## 0. Minimal structure
+## Minimal structure
 
 The opening paper gives the worked example. The reference structure is:
 
 - `A...` for an optional temporal prefix
 - `[BLMR]nnnxnnn...` for the required spatial signbox
 
-## I. Minimal definitions
+## Minimal definitions
 
 The opening layer depends on a few stable definitions:
 
@@ -23,12 +23,12 @@ The opening layer depends on a few stable definitions:
 | sign | a required signbox with an optional temporal prefix |
 | temporal prefix | the optional sequence-preserving part of the word |
 | spatial signbox | the required composition-preserving part of the word |
-| FSW and SWU | plain-text encodings of the same model, with FSW commonly used as the canonical processing form and SWU supported for Unicode-oriented interchange |
+| FSW and SWU | plain-text encodings of the same model; FSW is commonly used as the canonical processing form, while SWU may be primary in Unicode-native interchange or API contexts |
 | style string | optional markup for presentation and customization |
 
 These definitions should remain stable even as later appendices and tools become more detailed.
 
-## II. Validity and sequence
+## Validity and sequence
 
 The validity boundary should stay explicit:
 
@@ -36,6 +36,7 @@ The validity boundary should stay explicit:
 - a sequence-only string is only a fragment
 - a signbox-only string is a valid sign
 - sequence-sensitive sorting is unavailable when no temporal prefix is present
+- a prefix and signbox do not have to contain identical symbol sets to be structurally parseable, because the prefix is theory-based sequence data rather than a mechanical mirror of the signbox
 
 The sequence should also be described carefully:
 
@@ -45,18 +46,20 @@ The sequence should also be described carefully:
 - Val's Sign Spelling Guidelines is the most prevalent current theory
 - Formal SignWriting stays theory agnostic, even though mixed theories reduce the value of shared sorting
 
-## III. Technical position
+Tools may choose to warn about prefix/signbox mismatches for corpus quality control, but that is an implementation or corpus-policy decision rather than the basic grammar boundary.
+
+## Technical position
 
 The technical position is:
 
 - Formal SignWriting is a stable technical model for written sign text
 - the visible writing and the computational representation are related but distinct layers
-- FSW and SWU are plain-text encodings of the same model, with FSW commonly used as the canonical processing form and SWU supported for Unicode-oriented interchange
+- FSW and SWU are plain-text encodings of the same model; FSW is commonly used as the canonical processing form, while SWU may be primary in Unicode-native interchange or API contexts
 - the style string is not canonical sign text and should be treated as optional markup for presentation
 - the two-part word is the core explanatory move
 - search, sorting, rendering, and transformation are consequences of that move
 
-## IV. Why the two-part word belongs first
+## Why the two-part word belongs first
 
 The two-part word is not only a definitional convenience.
 
@@ -70,7 +73,7 @@ It is the move that lets the rest of the architecture stay coherent:
 
 Without this opening move, later layers risk feeling like a loose collection of mechanisms.
 
-## V. Minimal structure broken apart
+## Minimal structure broken apart
 
 Any full sign with a prefix can be read as:
 
@@ -91,7 +94,7 @@ That is enough to show why later layers can treat the same sign as:
 - search target
 - rendering source
 
-## VI. Consequences of the opening move
+## Consequences of the opening move
 
 Once the two-part word is accepted, several consequences follow immediately:
 
@@ -103,7 +106,7 @@ Once the two-part word is accepted, several consequences follow immediately:
 - rendering can remain downstream from encoding
 - implementation can preserve the model across tools and workflows
 
-## VII. Small core, growing perimeter
+## Small core, growing perimeter
 
 The core of the model should stay small:
 

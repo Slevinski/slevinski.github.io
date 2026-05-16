@@ -121,6 +121,8 @@ The continuity risk is no longer only theoretical.
 
 Recent international dictionary and community use has exposed scaling, maintenance, and legacy-system risks.
 
+Public-facing characterization is enough here: the incidents involved service interruptions, high-traffic pressure, legacy maintenance, and recovery work that required direct maintainer attention.
+
 These incidents required direct maintainer intervention and demonstrate that the continuity risk is already practical rather than theoretical.
 
 Detailed incident records, security-sensitive information, and mitigation plans belong in internal due-diligence materials for host, grant, and migration planning rather than in the public release file.
@@ -279,6 +281,9 @@ Platform V3 means the next integrated web and application architecture for Sutto
 It is the next architectural layer, not the starting point.
 
 The existing infrastructure already includes domains, systems, code, data, and standards.
+
+In practical terms, Platform V3 would modernize the service layer around account and access patterns, shared data workflows, deployment reliability, public interfaces, and research-ready integration points. It is the place where old public resources, current libraries, dictionary workflows, and future AI or corpus-facing tools can be made easier to maintain together.
+
 Platform V3 is the opportunity to:
 
 - modernize the service layer

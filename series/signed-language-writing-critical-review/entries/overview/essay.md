@@ -18,28 +18,24 @@ The series exists because this literature repeatedly runs into a small set of pr
 - data-object collapse, where written signs, dictionary records, corpus items, media, datasets, rights, and permissions are treated as the same object
 - novelty claims that do not adequately engage existing work
 
-So this is not a neutral bibliography or a general catalog.
-
-It is a critical review series in the ordinary scholarly sense:
+This is a critical review series in the ordinary scholarly sense:
 
 - sources are read carefully
 - useful contributions are preserved
 - stronger and weaker claims are separated
 - conclusions are tested against evidence, structure, and actual practice
 
-The series is not offered as neutral arbitration from nowhere. It applies a coherent evaluative lens shaped by sustained work on signed writing as durable text: writing-system adequacy, written-form structure, text-model adequacy, and infrastructure viability. That lens is offered as a tool for comparison, not as a claim that all open questions are already settled.
+The series applies a coherent evaluative lens shaped by sustained work on signed writing as durable text: writing-system adequacy, written-form structure, text-model adequacy, and infrastructure viability. That lens is offered as a tool for comparison.
 
-That lens was not invented simply to ratify SignWriting. It emerged from repeated failures in the literature that become especially visible once signed writing is treated as writing, text, and infrastructure rather than as notation alone. For that reason, the series is strongest when the question is full-path adequacy for durable signed writing, and less final when the question is a narrower niche such as transcription, pedagogical bridge use, or semantic software.
+The lens emerged from repeated failures in the literature that become especially visible once signed writing is treated as writing, text, and infrastructure rather than as notation alone. For that reason, the series is strongest when the question is full-path adequacy for durable signed writing, and less final when the question is a narrower niche such as transcription, pedagogical bridge use, or semantic software.
 
-## Author position and methodological safeguards
+## Author position and method
 
 The author of this series is also a developer and steward of Formal SignWriting and related Sutton SignWriting infrastructure.
 
-That position matters.
+That position gives the series unusually close knowledge of the technical stack: symbol inventories, written signs, encodings, fonts, editors, dictionaries, corpora, rendering paths, search behavior, migration problems, public sites, Unicode-facing work, and stewardship requirements.
 
-It gives the series unusually close knowledge of the technical stack, but it also creates an obvious risk: the review method could appear to favor the system it knows best.
-
-The series handles that risk structurally rather than pretending it does not exist:
+The method is therefore structured for inspection:
 
 - the framework is applied to Sutton SignWriting and Formal SignWriting before it is used only on external work
 - review judgments distinguish layer-level success from full-path adequacy
@@ -47,9 +43,7 @@ The series handles that risk structurally rather than pretending it does not exi
 - standards success is separated from writing-system completeness and production compatibility
 - the constructive synthesis keeps alternative systems in view for transcription, pedagogy, handwriting, semantic modeling, data, tooling, and local practice
 
-The result is not a view from nowhere.
-
-It is a declared standpoint with a method that readers can inspect, challenge, and reuse.
+The result is a declared standpoint with a method that readers can inspect, challenge, and reuse.
 
 ## What this series reviews
 
@@ -102,9 +96,10 @@ In practice, that means each review asks:
 2. what layer or adjacent-purpose category it belongs to
 3. what primary unit and representational target it assumes
 4. how it handles space, sequence, text structure, and data objects
-5. what it accounts for in existing signed-writing practice and infrastructure
-6. what its evidence, maturity, authority, and prior-work engagement support
-7. what layer-level judgment and full-path judgment follow
+5. which layers it solves, borrows, receives from external practice or infrastructure, assumes, defers, or leaves outside its scope
+6. what it accounts for in existing signed-writing practice and infrastructure
+7. what its evidence, maturity, authority, and prior-work engagement support
+8. what layer-level judgment and full-path judgment follow
 
 Readers who want the full methodological version can begin with:
 
@@ -116,6 +111,8 @@ Most readers do not need to start there.
 ## Series structure
 
 The series has five main parts.
+
+In the complete PDF, these parts are the main navigation structure: method, internal baseline, core external reviews, outer theoretical horizon, and constructive synthesis.
 
 ### 1. Method entries
 

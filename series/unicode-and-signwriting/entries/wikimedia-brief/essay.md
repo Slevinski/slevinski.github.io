@@ -2,7 +2,7 @@
 
 **What Wikimedia needs to understand about Unicode and SignWriting**
 
-Status note: This is a Sutton SignWriting project briefing for Wikimedia-facing discussion. It is not an official Wikimedia position, not a Wikimedia community decision, and not a MediaWiki implementation plan.
+Status note: This is a Sutton SignWriting project briefing for Wikimedia-facing discussion. It is not an official Wikimedia position, not a Wikimedia community decision, not a MediaWiki implementation plan, not a Unicode Technical Committee document, and not an official Unicode publication.
 
 ## Short answer
 
@@ -53,7 +53,9 @@ Public Wikimedia records have documented a SignWriting footprint across Wikimedi
 - **Wikimedia Incubator** has maintained a sign-language gadget and a category of sign-language test wikis, including ASL, BSL, Libras, Tunisian Sign Language, Russian Sign Language, Italian Sign Language, and others over time
 - **Wikimedia Cloud VPS / Labs** has hosted SignWriting infrastructure such as `swserver.wmflabs.org` and `swis.wmflabs.org`, even though that stack is now deprecated and has drifted behind current production design
 
-The current state of individual properties, services, gadgets, and Cloud VPS resources should be verified before any operational planning.
+Because Wikimedia properties, services, gadgets, and Cloud VPS resources can change, any future operational planning should start from a fresh check of their current state.
+
+For this release, P14164 and its formatter URL were checked on 2026-05-15. Because Wikidata is editable, this statement should be treated as release-time documentation rather than a permanent claim about the property's future state.
 
 That matters because Wikimedia is not deciding whether SignWriting has ever touched its ecosystem.
 

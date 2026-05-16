@@ -4,6 +4,8 @@
 
 This series develops the research questions opened by signed-language writing. It asks how accessible language pathways, readable signed text, and reusable written corpora can support stronger developmental, literacy, cognitive, and language research.
 
+It establishes a research agenda and study-design surface; it does not report completed outcome studies.
+
 It is for:
 
 - psycholinguists
@@ -74,5 +76,6 @@ The clearest path through the series is:
 - *Sutton SignWriting Evidence and Adoption* shows that the space is real enough to study responsibly.
 - *Sutton SignWriting Infrastructure and Program* explains the stewardship structure needed for cumulative research.
 - *Writing and Representation in Sutton SignWriting* provides the writing-systems theory behind durable signed text.
+- *Formal SignWriting* provides the technical infrastructure for corpus search, grammar, encoding, rendering, and tokenization work.
 
 The immediate reader path is *Language Without Sound*, *The Four Language Pathways*, *Reading Signed Text*, and *Research Program for Literacy Without Sound*.

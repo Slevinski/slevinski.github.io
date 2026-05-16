@@ -17,9 +17,7 @@ Its core claim is simple:
 
 > signed-language literacy research needs real readers, real materials, reusable data, and disciplined early studies
 
-The point is not to defend signed-language writing in the abstract forever.
-
-The point is to turn the research series into a program that can begin.
+Its job is to turn the research series into a program that can begin.
 
 ## Why This Program Belongs Here
 
@@ -128,6 +126,8 @@ It asks:
 - what short passages and isolated signs can become reusable stimuli?
 - what annotation and search tools are needed?
 - what documentation lets later researchers understand and reuse the material?
+
+For the technical infrastructure behind corpus search, grammar, encoding, rendering, and tokenization, this strand should connect directly to the *Formal SignWriting* series.
 
 Without this research-infrastructure strand, each study risks becoming isolated.
 
@@ -330,17 +330,17 @@ That is why Brazil belongs inside the program design rather than only in the evi
 
 The first phase should treat Brazil as a strong empirical base and a limited generalization base.
 
-Early studies can responsibly ask:
+Early studies should ask:
 
 - what is true in the Brazilian settings studied?
 - which tasks and measures work with existing readers and materials?
 - which patterns look stable enough to test elsewhere?
 
-They should not immediately claim:
+Those studies prepare later claims about:
 
-- that Brazilian reader experience predicts all SignWriting communities
-- that Libras materials generalize automatically to other signed languages
-- that one institutional ecosystem settles the global literacy question
+- whether Brazilian reader experience predicts patterns elsewhere
+- how Libras materials compare with materials in other signed languages
+- how one institutional ecosystem informs the wider literacy question
 
 Later phases should therefore include cross-context replication:
 
@@ -350,9 +350,7 @@ Later phases should therefore include cross-context replication:
 - different levels of SignWriting exposure
 - different layout and text genres
 
-This does not weaken the Brazil-first strategy.
-
-It makes the scope of the strategy scientifically honest.
+That sequence makes the Brazil-first strategy scientifically useful beyond one setting.
 
 ## Phase-One Deliverables Checklist
 
@@ -368,9 +366,7 @@ That means:
 - [ ] clearer later-stage literacy and cognition questions
 - [ ] a stronger basis for grant proposals and ethics-ready study design
 
-The point is not to end the debate.
-
-The point is to make later work stronger, cheaper, and more cumulative.
+These deliverables make later work stronger, cheaper, and more cumulative.
 
 ## Relationship To Infrastructure
 
@@ -391,6 +387,8 @@ Research infrastructure includes:
 
 Those needs connect this entry to *Sutton SignWriting Infrastructure and Program*.
 
+They also connect to *Formal SignWriting* wherever research corpora need stable encoded text, searchable forms, reproducible rendering, and task-specific tokenization.
+
 But the research program should remain research-facing.
 
 Its job is to define what should be studied and what reusable assets the studies should produce.
@@ -403,9 +401,9 @@ This program is strong if it remains:
 
 - SignWriting-centered
 - empirically grounded
-- modest enough to begin
+- focused enough to begin
 - reusable in its outputs
-- clear about what evidence does and does not prove
+- clear about what evidence establishes and what the next study should test
 
 It becomes weaker if it drifts into:
 

@@ -81,6 +81,8 @@ Historically, this is one of the moments where the appearance of progress risked
 
 A brief Wikimedia-facing discussion in 2026 showed that the Unicode issue may reappear in practical public-platform contexts.
 
+No formal UTC submission arose from that discussion.
+
 No further action is anticipated in the near future from that discussion.
 
 The issue is no longer only about what happened.

@@ -158,6 +158,8 @@ It is not a stable present-tense argument.
 
 Claims about typing, software practicality, and script usability need contemporary updating before they can be used as current evidence.
 
+The software claims are therefore assessed against present-day capability, not treated as failures of the original 2000 paper.
+
 This is not really a fault of the paper itself.
 
 It is a reminder that a 2000 comparison cannot simply be imported unchanged into current technical discussions.

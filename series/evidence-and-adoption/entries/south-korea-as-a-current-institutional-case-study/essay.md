@@ -47,8 +47,10 @@ The strongest public documentation currently available for this brief includes:
 
 - the dictionary site itself
 - SignWriting.org's 2025 posting about the launch
-- public news coverage describing the National Institute of Korean Language announcement
+- public news coverage previewing the February 6 launch from the National Institute of Korean Language
 - National Institute of Korean Language pages listing the Korean Sign Language Nuri Dictionary among its dictionary work
+
+The Asia Business Daily article is dated February 5, 2025 and updated February 6, 2025; it is best read as an advance announcement and launch preview for the February 6 opening.
 
 The launch materials describe the dictionary as based on Korean Sign Language corpus data and designed to reflect actual sign language use.
 
@@ -60,7 +62,7 @@ The important point here is not only that a Korean Sign Language dictionary exis
 
 It is that the dictionary includes SignWriting in a public institutional setting.
 
-That gives the Korea case its present strategic weight.
+That gives the Korea case its present evidentiary value.
 
 The date also matters because the case is new.
 
@@ -123,7 +125,7 @@ In other words, Korea helps move the evidence conversation from abstract possibi
 
 The claim here is narrower than the Brazil case.
 
-It does **not** claim:
+This narrow claim does **not** claim:
 
 - that all of South Korea writes Korean Sign Language in SignWriting
 - that Korean educational use has already been mapped in full

@@ -8,7 +8,7 @@ Its core claim is simple:
 
 > shared language infrastructure requires shared stewardship
 
-This entry explains how institutional backing, international partner relationships, country-level coordination, and future funding pathways can work together without pretending that every country, institution, or collaborator has the same role.
+This entry explains how institutional backing, international partner relationships, country-level coordination, and future funding pathways can work together while recognizing that each country, institution, and collaborator has a different role.
 
 ## Why International Coordination Matters
 
@@ -60,7 +60,7 @@ International participation can strengthen the program in several ways:
 - it gives the central project better information about local needs and constraints
 - it creates a path for shared planning without requiring premature formal agreements
 
-Brazil remains the strongest documented empirical center. South Korea provides a current institutional case study through public dictionary infrastructure. Mexico and other countries may add different kinds of local relationship, educational, or community evidence.
+Brazil remains the strongest documented empirical center. South Korea provides a current institutional case study through public dictionary infrastructure. Other countries may add different kinds of local relationship, educational, or community evidence.
 
 Those examples should not be flattened into one generic adoption story. They matter because they show different parts of the stewardship case.
 
@@ -115,9 +115,7 @@ The most useful next actions are concrete:
 
 These actions keep the model practical.
 
-The goal is not to create a large organization before the stewardship structure exists.
-
-The goal is to make existing international value visible enough that stewardship, research, and coordination can grow responsibly.
+The near-term goal is to make existing international value visible enough that stewardship, research, and coordination can grow responsibly.
 
 ## Relationship To Country Ambassadors
 
