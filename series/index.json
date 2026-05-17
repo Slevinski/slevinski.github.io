@@ -74,7 +74,7 @@
       "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "evidence-series",
-      "doi": "10.5281/zenodo.20042446",
+      "doi": "https://doi.org/10.5281/zenodo.20042446",
       "version": "v1.0.0",
       "license": "CC BY 4.0",
       "creator": "Steve Slevinski",
@@ -211,7 +211,7 @@
       "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "technical-and-publication-series",
-      "doi": "10.5281/zenodo.20074767",
+      "doi": "https://doi.org/10.5281/zenodo.20074767",
       "version": "v1.0.0",
       "license": "CC BY 4.0",
       "creator": "Steve Slevinski",
@@ -570,7 +570,7 @@
       "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "public-conceptual-series",
-      "doi": "10.5281/zenodo.20041560",
+      "doi": "https://doi.org/10.5281/zenodo.20041560",
       "version": "v1.0.0",
       "license": "CC BY 4.0",
       "creator": "Steve Slevinski",
@@ -613,7 +613,7 @@
             "public_label": "Paper",
             "public_slug": "primary",
             "publication_designation": "Working Paper",
-            "doi": "10.5281/zenodo.20213918"
+            "doi": "https://doi.org/10.5281/zenodo.20213918"
           },
           "primaryArtifact": {
             "file": "essay.md",
@@ -621,7 +621,7 @@
             "public_label": "Paper",
             "public_slug": "primary",
             "publication_designation": "Working Paper",
-            "doi": "10.5281/zenodo.20213918"
+            "doi": "https://doi.org/10.5281/zenodo.20213918"
           },
           "slide_count": 14,
           "companion_documents": []
@@ -639,7 +639,7 @@
             "public_label": "Paper",
             "public_slug": "primary",
             "publication_designation": "Working Paper",
-            "doi": "10.5281/zenodo.20214678"
+            "doi": "https://doi.org/10.5281/zenodo.20214678"
           },
           "primaryArtifact": {
             "file": "essay.md",
@@ -647,7 +647,7 @@
             "public_label": "Paper",
             "public_slug": "primary",
             "publication_designation": "Working Paper",
-            "doi": "10.5281/zenodo.20214678"
+            "doi": "https://doi.org/10.5281/zenodo.20214678"
           },
           "slide_count": 12,
           "companion_documents": []
@@ -663,7 +663,7 @@
       "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "infrastructure-series",
-      "doi": "10.5281/zenodo.20075076",
+      "doi": "https://doi.org/10.5281/zenodo.20075076",
       "version": "v1.0.0",
       "license": "CC BY 4.0",
       "creator": "Steve Slevinski",
@@ -896,7 +896,7 @@
       "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "research-series",
-      "doi": "10.5281/zenodo.20074878",
+      "doi": "https://doi.org/10.5281/zenodo.20074878",
       "version": "v1.0.0",
       "license": "CC BY 4.0",
       "creator": "Steve Slevinski",
@@ -1084,12 +1084,12 @@
       "slug": "signed-language-writing-critical-review",
       "title": "Signed Language Writing Critical Review Series",
       "subtitle": "Writing systems, text infrastructure, and critical evaluation",
-      "description": "The critical-method and review series for signed-language writing: a full-path framework and structured reviews that evaluate scholarship, standards, tools, datasets, and infrastructure claims at the layer they actually address.",
+      "description": "The critical-method and review series for signed-language writing: a full-path framework and structured reviews that evaluate scholarship, standards, tools, datasets, and infrastructure claims at the layer they actually address and against the problem they actually claim to solve.",
       "accepting_entries": true,
       "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "literature-review-series",
-      "doi": "10.5281/zenodo.20042604",
+      "doi": "https://doi.org/10.5281/zenodo.20042604",
       "version": "v1.0.0",
       "license": "CC BY 4.0",
       "creator": "Steve Slevinski",
@@ -1409,7 +1409,7 @@
       "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "briefing-series",
-      "doi": "10.5281/zenodo.20075119",
+      "doi": "https://doi.org/10.5281/zenodo.20075119",
       "version": "v1.0.0",
       "license": "CC BY 4.0",
       "creator": "Steve Slevinski",
@@ -1737,7 +1737,7 @@
       "about_doc": "README.md",
       "home_doc": "README.md",
       "kind": "research-series",
-      "doi": "10.5281/zenodo.20070484",
+      "doi": "https://doi.org/10.5281/zenodo.20070484",
       "version": "v1.0.0",
       "license": "CC BY 4.0",
       "creator": "Steve Slevinski",

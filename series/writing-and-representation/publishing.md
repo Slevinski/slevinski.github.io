@@ -1,30 +1,26 @@
-# Publishing: Writing and Representation in Sutton SignWriting
+# Release Metadata: Writing and Representation in Sutton SignWriting
 
-## Series Record
+## Series
 
-- Series title: `Writing and Representation in Sutton SignWriting`
-- Series slug: `writing-and-representation`
-- Repository slug: `writing-and-representation`
-- GitHub repository: `https://github.com/sutton-signwriting/writing-and-representation`
-- Zenodo series record: reserved draft
-- Series DOI: `10.5281/zenodo.20070484`
-- Version: `v1.0.0`
-- License: `CC BY 4.0`
+- Title: `Writing and Representation in Sutton SignWriting`
 - Creator: `Steve Slevinski`
+- Version: `v1.0.0`
 - Publication year: `2026`
-- Publication date: `2026-__-__`
+- License: `CC BY 4.0`
 - Publisher: `Zenodo`
 - Resource type: `Publication`
 - Publication type: `Report`
 - Access: `Open`
 - Language: `English`
-- Release status: reserved draft
+- Series DOI: `https://doi.org/10.5281/zenodo.20070484`
+- GitHub repository: `https://github.com/sutton-signwriting/writing-and-representation`
 - Living site: `https://steveslevinski.me/#series/writing-and-representation`
+- Platform record: `https://doi.org/10.5281/zenodo.20041043`
 - Related identifiers: `isPartOf` `10.5281/zenodo.20041043`; `isDescribedBy` `https://steveslevinski.me/#series/writing-and-representation`
 
-## Series Description
+## Description
 
-`Writing and Representation in Sutton SignWriting` carries the writing-system theory claim for Sutton SignWriting: SignWriting is authored signed-language text organized through plane-based composition, conventional written practice, and durable technical preservation.
+The writing-system theory series for SignWriting: plane-based composition, authored space, iconicity, convention, legibility, handwriting, machine encoding, kinematography, and broader typological questions.
 
 ## Claim Role
 
@@ -55,24 +51,14 @@ Slevinski, S. (2026). Writing and Representation in Sutton SignWriting (v1.0.0).
 
 ## Artifact Register
 
-| Artifact | Source | Status | DOI | Notes |
-| --- | --- | --- | --- | --- |
-| `Writing and Representation in Sutton SignWriting Overview` | `entries/overview/essay.md` | series-only | none | Cite as part of the series release. |
-| `Plane-Based Writing and Script Typology` | `entries/plane-based-writing-and-script-typology/essay.md` | artifact-doi-planned | pending | Strong standalone writing-systems paper. |
-| `Point, Line, and Plane Evidence Notes` | `entries/plane-based-writing-and-script-typology/point-line-plane-evidence-notes.md` | series-only | none | May be uploaded as supplement to a DOI-bearing theory artifact. |
-| `Perspective and Authored Space` | `entries/perspective-and-authored-space/essay.md` | artifact-doi-possible | pending decision | Native anchor paper. |
-| `Iconicity, Convention, and Legibility` | `entries/iconicity-convention-and-legibility/essay.md` | artifact-doi-possible | pending decision | Native anchor paper. |
-| `Handwriting and Spatial Script Practice` | `entries/handwriting-and-spatial-script-practice/essay.md` | artifact-doi-possible | pending decision | Native anchor paper. |
-| `Human Writing and Machine Encoding` | `entries/human-writing-and-machine-encoding/essay.md` | artifact-doi-possible | pending decision | Native anchor paper. |
-| `Kinematography and the Limits of Writing-System Typology` | `entries/kinematography-and-the-limits-of-writing-system-typology/essay.md` | artifact-doi-planned | pending | Strong standalone theory capstone. |
-| `Other Sign Language Scripts and Their Conceptions` | `entries/other-sign-language-scripts-and-their-conceptions/essay.md` | artifact-doi-possible | pending decision | Comparative support; DOI only if stable enough to cite independently. |
-
-## DOI Notes
-
-`Plane-Based Writing and Script Typology` and `Kinematography and the Limits of Writing-System Typology` are planned for document-level DOIs.
-
-The other native anchor papers remain possible DOI candidates. Use document-level DOIs selectively for entries that are stable enough to cite independently.
-
-`Other Sign Language Scripts and Their Conceptions` is comparative support and should receive a separate DOI only if it is stable enough to cite independently.
-
-`point-line-plane-evidence-notes.md` carries writing-theory support for `The Shape of Writing` and `Plane-Based Writing and Script Typology`. It should be treated as support unless later revised into a standalone citable theory note.
+| Artifact | Type | Source | Release File | Citation Level | Identifier | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| `Writing and Representation in Sutton SignWriting Overview` | Series Overview | `entries/overview/essay.md` | `overview-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20070484 | Cite as part of the series release. |
+| `Plane-Based Writing and Script Typology` | Working Paper | `entries/plane-based-writing-and-script-typology/essay.md` | `plane-based-writing-and-script-typology-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20070484 | Strong standalone writing-systems paper. |
+| `Point, Line, and Plane Evidence Notes` | Evidence Notes | `entries/plane-based-writing-and-script-typology/point-line-plane-evidence-notes.md` | `plane-based-writing-and-script-typology-point-line-plane-evidence-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20070484 | . to a DOI-bearing theory artifact. |
+| `Perspective and Authored Space` | Working Paper | `entries/perspective-and-authored-space/essay.md` | `perspective-and-authored-space-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20070484 | Native anchor paper. |
+| `Iconicity, Convention, and Legibility` | Working Paper | `entries/iconicity-convention-and-legibility/essay.md` | `iconicity-convention-and-legibility-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20070484 | Native anchor paper. |
+| `Handwriting and Spatial Script Practice` | Working Paper | `entries/handwriting-and-spatial-script-practice/essay.md` | `handwriting-and-spatial-script-practice-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20070484 | Native anchor paper. |
+| `Human Writing and Machine Encoding` | Working Paper | `entries/human-writing-and-machine-encoding/essay.md` | `human-writing-and-machine-encoding-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20070484 | Native anchor paper. |
+| `Kinematography and the Limits of Writing-System Typology` | Working Paper | `entries/kinematography-and-the-limits-of-writing-system-typology/essay.md` | `kinematography-and-the-limits-of-writing-system-typology-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20070484 | Strong standalone theory capstone. |
+| `Other Sign Language Scripts and Their Conceptions` | Working Paper | `entries/other-sign-language-scripts-and-their-conceptions/essay.md` | `other-sign-language-scripts-and-their-conceptions-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20070484 | Comparative support; Comparative support. |

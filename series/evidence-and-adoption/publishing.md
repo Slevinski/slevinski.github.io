@@ -1,30 +1,26 @@
-# Publishing: Sutton SignWriting Evidence and Adoption
+# Release Metadata: Sutton SignWriting Evidence and Adoption
 
-## Series Record
+## Series
 
-- Series title: `Sutton SignWriting Evidence and Adoption`
-- Series slug: `evidence-and-adoption`
-- Repository slug: `evidence-and-adoption`
-- GitHub repository: `https://github.com/sutton-signwriting/evidence-and-adoption`
-- Zenodo series record: reserved draft
-- Series DOI: `10.5281/zenodo.20042446`
-- Version: `v1.0.0`
-- License: `CC BY 4.0`
+- Title: `Sutton SignWriting Evidence and Adoption`
 - Creator: `Steve Slevinski`
+- Version: `v1.0.0`
 - Publication year: `2026`
-- Publication date: `2026-__-__`
+- License: `CC BY 4.0`
 - Publisher: `Zenodo`
 - Resource type: `Publication`
 - Publication type: `Report`
 - Access: `Open`
 - Language: `English`
-- Release status: reserved draft
+- Series DOI: `https://doi.org/10.5281/zenodo.20042446`
+- GitHub repository: `https://github.com/sutton-signwriting/evidence-and-adoption`
 - Living site: `https://steveslevinski.me/#series/evidence-and-adoption`
+- Platform record: `https://doi.org/10.5281/zenodo.20041043`
 - Related identifiers: `isPartOf` `10.5281/zenodo.20041043`; `isDescribedBy` `https://steveslevinski.me/#series/evidence-and-adoption`
 
-## Series Description
+## Description
 
-`Sutton SignWriting Evidence and Adoption` carries the empirical evidence and adoption claim for Sutton SignWriting: documented use, institutional anchors, country evidence, evidence boundaries, and adoption limits.
+The empirical evidence and adoption series for Sutton SignWriting: documented use, institutional anchors, country evidence, and evidence boundaries that show where SignWriting is real in practice while keeping outcome and scale claims bounded.
 
 ## Claim Role
 
@@ -56,20 +52,21 @@ Slevinski, S. (2026). Sutton SignWriting Evidence and Adoption (v1.0.0). Zenodo.
 
 ## Artifact Register
 
-| Artifact | Source | Status | DOI | Release File | Notes |
-| --- | --- | --- | --- | --- | --- |
-| `Sutton SignWriting Evidence and Adoption Overview` | `entries/overview/essay.md` | series-only | none | `evidence-and-adoption-overview-v1.0.0.pdf` | Cite as part of the series release. |
-| `What the Current Evidence Base Shows` | `entries/what-the-current-evidence-base-shows/essay.md` | artifact-doi-planned | pending | `what-the-current-evidence-base-shows-synthesis-brief-v1.0.0.pdf` | Planned standalone synthesis brief. |
-| `Brazil as the Empirical Center of SignWriting` | `entries/brazil-as-the-empirical-center-of-signwriting/essay.md` | artifact-doi-possible | pending decision | `brazil-as-the-empirical-center-of-signwriting-research-brief-v1.0.0.pdf` | Source-current check complete; standalone DOI decision remains optional. |
-| `South Korea as a Current Institutional Case Study` | `entries/south-korea-as-a-current-institutional-case-study/essay.md` | artifact-doi-possible | pending decision | `south-korea-as-a-current-institutional-case-study-research-brief-v1.0.0.pdf` | Current-status check complete; standalone DOI decision remains optional. |
-| `Evidence Boundaries and Adoption Limits` | `entries/evidence-boundaries-and-adoption-limits/essay.md` | artifact-doi-possible | pending decision | `evidence-boundaries-and-adoption-limits-evidence-note-v1.0.0.pdf` | Strong claim-discipline note; may also remain a supplement to a DOI-bearing evidence artifact. |
+| Artifact | Type | Source | Release File | Citation Level | Identifier | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| `Sutton SignWriting Evidence and Adoption Overview` | Series Overview | `entries/overview/essay.md` | `evidence-and-adoption-overview-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042446 | Cite as part of the series release. |
+| `What the Current Evidence Base Shows` | Synthesis Brief | `entries/what-the-current-evidence-base-shows/essay.md` | `what-the-current-evidence-base-shows-synthesis-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042446 | Standalone synthesis brief. |
+| `Brazil as the Empirical Center of SignWriting` | Research Brief | `entries/brazil-as-the-empirical-center-of-signwriting/essay.md` | `brazil-as-the-empirical-center-of-signwriting-research-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042446 |  |
+| `South Korea as a Current Institutional Case Study` | Research Brief | `entries/south-korea-as-a-current-institutional-case-study/essay.md` | `south-korea-as-a-current-institutional-case-study-research-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042446 |  |
+| `Evidence Boundaries and Adoption Limits` | Evidence Note | `entries/evidence-boundaries-and-adoption-limits/essay.md` | `evidence-boundaries-and-adoption-limits-evidence-note-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042446 | Strong claim-discipline note; supports evidence-boundary citation. |
 
 ## Artifact Metadata
 
 ### What the Current Evidence Base Shows
 
 - Type: Synthesis Brief
-- DOI posture: separate artifact DOI planned
+- Citation level: Series DOI
+- Identifier: https://doi.org/10.5281/zenodo.20042446
 - Source path: `entries/what-the-current-evidence-base-shows/essay.md`
 - Living URL: `https://steveslevinski.me/#series/evidence-and-adoption/what-the-current-evidence-base-shows/primary`
 
@@ -80,7 +77,7 @@ Abstract:
 Citation:
 
 ```text
-Slevinski, S. (2026). What the Current Evidence Base Shows: Strong Evidence, Partial Evidence, and How to Read SignWriting Adoption Claims (Synthesis Brief, v1.0.0). Zenodo. DOI
+Slevinski, S. (2026). What the Current Evidence Base Shows: Strong Evidence, Partial Evidence, and How to Read SignWriting Adoption Claims (Synthesis Brief, v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20042446
 ```
 
 Source and citation notes:
@@ -92,18 +89,21 @@ Source and citation notes:
 ### Evidence Boundaries and Adoption Limits
 
 - Type: Evidence Note
-- DOI posture: possible separate artifact DOI; may remain series-contained or a supplement if the synthesis brief carries the evidence-boundary citation burden
+- Citation level: Series DOI
+- Identifier: https://doi.org/10.5281/zenodo.20042446
 - Source path: `entries/evidence-boundaries-and-adoption-limits/essay.md`
 - Relation: supports the evidence-boundary claims behind `Language Without Sound`, `What the Current Evidence Base Shows`, and the country briefs
 
 ### Brazil as the Empirical Center of SignWriting
 
 - Type: Research Brief
-- DOI posture: possible separate artifact DOI; source-current check complete
+- Citation level: Series DOI
+- Identifier: https://doi.org/10.5281/zenodo.20042446
 - Source path: `entries/brazil-as-the-empirical-center-of-signwriting/essay.md`
 
 ### South Korea as a Current Institutional Case Study
 
 - Type: Research Brief
-- DOI posture: possible separate artifact DOI; current-status check complete
+- Citation level: Series DOI
+- Identifier: https://doi.org/10.5281/zenodo.20042446
 - Source path: `entries/south-korea-as-a-current-institutional-case-study/essay.md`

@@ -1,10 +1,18 @@
 # Sutton SignWriting Language and Literacy Research
 
+[![Source](https://img.shields.io/badge/source-GitHub-lightgrey?logo=github)](https://github.com/sutton-signwriting/language-and-literacy-research)
+[![Read](https://img.shields.io/badge/read-steveslevinski.me-blue)](https://steveslevinski.me/#series/language-and-literacy-research)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20074878.svg)](https://doi.org/10.5281/zenodo.20074878)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Platform](https://img.shields.io/badge/platform-Sutton%20SignWriting-blueviolet)](https://doi.org/10.5281/zenodo.20041043)
+
 *Research-facing papers on developmental language pathways, literacy pathways, reading signed text, and study design*
 
 This repository carries the research-program claim for the Sutton SignWriting platform: signed-language writing opens testable questions about language pathways, literacy pathways, reading signed text, and reusable research infrastructure.
 
 The series turns the public foundations argument into models, study-design questions, materials work, corpora, and outcome-study needs.
+
+The cognitive motivation is a research claim, not a settled outcome claim. Durable signed text is important because it gives readers, writers, teachers, and researchers stable forms to recognize, compare, revise, revisit, cite, search, and study.
 
 ## Repository Details
 

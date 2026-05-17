@@ -1,30 +1,26 @@
-# Publishing: Sutton SignWriting Infrastructure and Program
+# Release Metadata: Sutton SignWriting Infrastructure and Program
 
-## Series Record
+## Series
 
-- Series title: `Sutton SignWriting Infrastructure and Program`
-- Series slug: `infrastructure-and-program`
-- Repository slug: `infrastructure-and-program`
-- GitHub repository: `https://github.com/sutton-signwriting/infrastructure-and-program`
-- Zenodo series record: reserved draft
-- Series DOI: `10.5281/zenodo.20075076`
-- Version: `v1.0.0`
-- License: `CC BY 4.0`
+- Title: `Sutton SignWriting Infrastructure and Program`
 - Creator: `Steve Slevinski`
+- Version: `v1.0.0`
 - Publication year: `2026`
-- Publication date: `2026-__-__`
+- License: `CC BY 4.0`
 - Publisher: `Zenodo`
 - Resource type: `Publication`
 - Publication type: `Report`
 - Access: `Open`
 - Language: `English`
-- Release status: reserved draft
+- Series DOI: `https://doi.org/10.5281/zenodo.20075076`
+- GitHub repository: `https://github.com/sutton-signwriting/infrastructure-and-program`
 - Living site: `https://steveslevinski.me/#series/infrastructure-and-program`
+- Platform record: `https://doi.org/10.5281/zenodo.20041043`
 - Related identifiers: `isPartOf` `10.5281/zenodo.20041043`; `isDescribedBy` `https://steveslevinski.me/#series/infrastructure-and-program`
 
-## Series Description
+## Description
 
-`Sutton SignWriting Infrastructure and Program` carries the stewardship and program-design claim for Sutton SignWriting: existing infrastructure needs accountable continuity, support models, host requirements, international participation, and AI/data governance boundaries.
+The stewardship and program-design series for Sutton SignWriting: existing infrastructure, continuity risks, host requirements, international participation, support models, AI/data governance, and operational stewardship.
 
 ## Claim Role
 
@@ -55,29 +51,14 @@ Slevinski, S. (2026). Sutton SignWriting Infrastructure and Program (v1.0.0). Ze
 
 ## Artifact Register
 
-| Artifact | Source | Status | DOI | Notes |
-| --- | --- | --- | --- | --- |
-| `Sutton SignWriting Infrastructure and Program Overview` | `entries/overview/essay.md` | series-only | none | Cite as part of the series release. |
-| `Executive Brief` | `entries/executive-brief/essay.md` | artifact-doi-planned | pending | Planned standalone white paper. |
-| `Infrastructure and Stewardship` | `entries/infrastructure-and-stewardship/essay.md` | artifact-doi-planned | pending | Planned standalone white paper. |
-| `International Shared Support` | `entries/international-shared-support/essay.md` | series-only | none | Operational program material; cite through the series DOI. |
-| `Country Ambassadors` | `entries/country-ambassadors/essay.md` | series-only | none | Operational program material; cite through the series DOI. |
-| `Host Structure and Stewardship Requirements` | `entries/host-structure-and-stewardship-requirements/essay.md` | artifact-doi-possible | pending decision | Generalized from institution-specific planning material; useful as a public stewardship brief. |
-| `Infrastructure Core and Philanthropy` | `entries/infrastructure-core-and-philanthropy/essay.md` | artifact-doi-possible | pending decision | Generalized development-facing brief; publish independently only when the stewardship model is stable. |
-| `Relevant Precedents for SignWriting Infrastructure` | `entries/relevant-precedents-for-signwriting-infrastructure/essay.md` | artifact-doi-possible | pending decision | Strong candidate for a companion brief because it supports the public infrastructure argument with analogs. |
-| `SignWriting, AI, and Layered Stewardship` | `entries/signwriting-ai-and-layered-stewardship/essay.md` | series-only | none | SLxAI-facing position note; cite through the series DOI unless it becomes a standalone outreach artifact. |
-
-## DOI Notes
-
-This series is stewardship-facing. It can be archived as a series, but individual document DOIs should be used selectively.
-
-The planned artifact DOIs are:
-
-- `Executive Brief`
-- `Infrastructure and Stewardship`
-
-`International Shared Support` and `Country Ambassadors` should remain series-contained operational documents. Here, series-contained means the document is included in the archived series release and citable through the series DOI, but does not receive a standalone DOI because it functions mainly as program support rather than an independent public white paper.
-
-`Host Structure and Stewardship Requirements`, `Infrastructure Core and Philanthropy`, and `Relevant Precedents for SignWriting Infrastructure` remain possible DOI candidates if they are stable enough to cite independently for an external audience.
-
-`SignWriting, AI, and Layered Stewardship` should remain series-contained for the first release. It supports AI, data-governance, and SLxAI outreach by mapping rights and responsibilities across written signs, records, corpora, media, datasets, encodings, and deployment.
+| Artifact | Type | Source | Release File | Citation Level | Identifier | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| `Sutton SignWriting Infrastructure and Program Overview` | Series Overview | `entries/overview/essay.md` | `overview-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Cite as part of the series release. |
+| `Executive Brief` | Research Brief | `entries/executive-brief/essay.md` | `executive-brief-research-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Standalone white paper. |
+| `Infrastructure and Stewardship` | White Paper | `entries/infrastructure-and-stewardship/essay.md` | `infrastructure-and-stewardship-white-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Standalone white paper. |
+| `International Shared Support` | Program Brief | `entries/international-shared-support/essay.md` | `international-shared-support-program-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Operational program material; cite through the series DOI. |
+| `Country Ambassadors` | Program Brief | `entries/country-ambassadors/essay.md` | `country-ambassadors-program-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Operational program material; cite through the series DOI. |
+| `Host Structure and Stewardship Requirements` | Program Brief | `entries/host-structure-and-stewardship-requirements/essay.md` | `host-structure-and-stewardship-requirements-program-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Generalized from institution-specific planning material; useful as a public stewardship brief. |
+| `Infrastructure Core and Philanthropy` | Program Brief | `entries/infrastructure-core-and-philanthropy/essay.md` | `infrastructure-core-and-philanthropy-program-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Generalized development-facing brief; public stewardship brief. |
+| `Relevant Precedents for SignWriting Infrastructure` | Program Brief | `entries/relevant-precedents-for-signwriting-infrastructure/essay.md` | `relevant-precedents-for-signwriting-infrastructure-program-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Companion brief supporting the public infrastructure argument with analogs. |
+| `SignWriting, AI, and Layered Stewardship` | Position Note | `entries/signwriting-ai-and-layered-stewardship/essay.md` | `signwriting-ai-and-layered-stewardship-position-note-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | SLxAI-facing position note; cite through the series DOI. |

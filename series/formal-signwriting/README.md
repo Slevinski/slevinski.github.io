@@ -1,5 +1,11 @@
 # Formal SignWriting
 
+[![Source](https://img.shields.io/badge/source-GitHub-lightgrey?logo=github)](https://github.com/sutton-signwriting/formal-signwriting)
+[![Read](https://img.shields.io/badge/read-steveslevinski.me-blue)](https://steveslevinski.me/#series/formal-signwriting)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20074767.svg)](https://doi.org/10.5281/zenodo.20074767)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Platform](https://img.shields.io/badge/platform-Sutton%20SignWriting-blueviolet)](https://doi.org/10.5281/zenodo.20041043)
+
 *Technical papers on sign text, FSW, SWU, signboxes, grammar, search, layout, rendering, styling, authority, and implementation practice*
 
 This repository contains the technical publication series for modeling sign text so that it can be stored, searched, checked, laid out, rendered, and processed by software without losing the written form. It also states the boundary between computational validity and linguistic judgment.

@@ -126,6 +126,8 @@ Literacy is therefore more than storage.
 
 It is the development of durable symbolic input and output.
 
+The cognitive-literacy motivation is functional and bounded. The claim is not that every educational or neurological outcome has already been demonstrated for SignWriting. The claim is that durable written form creates a different work surface for language: recognition, comparison, memory support, revision, citation, search, and return to the same text. Those are the kinds of operations that make signed-language literacy research possible.
+
 #### Print literacy
 
 Print adds:

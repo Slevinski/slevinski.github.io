@@ -8,7 +8,9 @@ It asks a direct question:
 
 what does a source actually establish once writing, notation, encoding, rendering, and signed-language structure are kept distinct?
 
-The series exists because this literature repeatedly runs into a small set of problems:
+The central review problem is signed-language literacy as durable written text. A source may be valuable as notation, transcription, semantic representation, corpus annotation, video-linked documentation, rendering, standards work, dataset infrastructure, or AI tooling. The review question is whether that value is being accurately located, or whether it is being treated as if it solved the writing and literacy problem.
+
+The series exists because this literature repeatedly runs into a small set of layer problems:
 
 - level confusion between language, writing, notation, and encoding
 - alphabetic bias in the evaluation of signed writing
@@ -25,9 +27,9 @@ This is a critical review series in the ordinary scholarly sense:
 - stronger and weaker claims are separated
 - conclusions are tested against evidence, structure, and actual practice
 
-The series applies a coherent evaluative lens shaped by sustained work on signed writing as durable text: writing-system adequacy, written-form structure, text-model adequacy, and infrastructure viability. That lens is offered as a tool for comparison.
+The series applies a coherent evaluative lens shaped by sustained work on signed writing as durable text: writing-system adequacy, written-form structure, text-model adequacy, and infrastructure viability. That lens is offered as a tool for comparison, not as a single global ranking of all signed-language systems.
 
-The lens emerged from repeated failures in the literature that become especially visible once signed writing is treated as writing, text, and infrastructure rather than as notation alone. For that reason, the series is strongest when the question is full-path adequacy for durable signed writing, and less final when the question is a narrower niche such as transcription, pedagogical bridge use, or semantic software.
+The lens emerged from recurring overextensions and unresolved layer mismatches that become especially visible once signed writing is treated as writing, text, and infrastructure rather than as notation alone. For that reason, the series is strongest when the question is full-path adequacy for durable signed writing, and less final when the question is a narrower niche such as transcription, pedagogical bridge use, semantic software, video access, or dataset construction.
 
 ## Author position and method
 
@@ -89,6 +91,8 @@ The reviews use a shared evaluative framework.
 Its governing principle is simple:
 
 > a system must be evaluated at the level it claims to operate on
+
+That principle is not a polite caveat. It is the method. A system that does not support readable, writable, revisitable signed text does not solve signed-language literacy as written language, even if it is strong and useful for another purpose.
 
 In practice, that means each review asks:
 
@@ -234,7 +238,7 @@ Its role is evaluative:
 
 ## Recurring critique categories
 
-Across the entries, recurring failure modes are named and reused so that the reviews can be compared without flattening their differences.
+Across the entries, recurring critique patterns are named and reused so that the reviews can be compared without flattening their differences.
 
 - **Level Confusion**
 - **Full-Path Overextension**

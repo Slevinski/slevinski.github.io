@@ -1,5 +1,11 @@
 # Sutton SignWriting Evidence and Adoption
 
+[![Source](https://img.shields.io/badge/source-GitHub-lightgrey?logo=github)](https://github.com/sutton-signwriting/evidence-and-adoption)
+[![Read](https://img.shields.io/badge/read-steveslevinski.me-blue)](https://steveslevinski.me/#series/evidence-and-adoption)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20042446.svg)](https://doi.org/10.5281/zenodo.20042446)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Platform](https://img.shields.io/badge/platform-Sutton%20SignWriting-blueviolet)](https://doi.org/10.5281/zenodo.20041043)
+
 *Evidence briefs on documented use, institutional anchors, and adoption limits*
 
 This repository carries the empirical claim for the Sutton SignWriting platform: SignWriting has documented use, institutional anchors, technical infrastructure, and country evidence strong enough to treat it as real practice rather than a hypothetical proposal.

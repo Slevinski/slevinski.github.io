@@ -179,7 +179,7 @@ So Grushkin's article is not best classified simply as misleading across the boa
 It is better described more carefully:
 
 - strong on why signed languages need writing
-- weak and biased on what kind of writing supposedly follows
+- less supported, and shaped by alphabetic bias, on what kind of writing follows
 
 The declared dependencies are therefore uneven. Grushkin solves a conceptual and advocacy layer by showing why signed languages need writing. The alphabetic recommendation assumes that transfer into English can govern orthographic design and leaves the signed written unit, spatial composition, text model, infrastructure, and comparative evidence unresolved.
 
@@ -218,7 +218,7 @@ The problem is where he places the top-level abstraction.
 
 Thiessen's main route into the problem is symbol-first. The thesis proceeds through symbol categories and only later reaches whole-sign structure and encoding. Even where Chapter 10 begins to move toward underlying sign structure, tree relations, attachment points, and relative positioning, this move remains late and explicitly preliminary.
 
-So Thiessen's mistake is not that he misses structure.
+So Thiessen's limitation is not that he misses structure.
 
 It is that he mislocates the strongest explanatory weight too low:
 

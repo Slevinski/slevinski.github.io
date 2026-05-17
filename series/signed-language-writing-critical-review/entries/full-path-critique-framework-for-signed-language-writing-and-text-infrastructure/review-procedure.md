@@ -16,6 +16,8 @@ Every review should keep two judgments separate:
 1. **Layer-level judgment:** Is the source adequate for its stated purpose at the layer where it actually operates?
 2. **Full-path judgment:** Is the source adequate as, or as part of, a durable signed-language writing and text-infrastructure path?
 
+Before applying either judgment, name the problem being evaluated. If the problem is signed-language literacy as durable written text, the review should ask whether the source supports a readable, writable, revisitable text pathway. If the source is instead solving notation, annotation, video access, semantic representation, rendering, dataset construction, AI infrastructure, or another adjacent purpose, evaluate it there and do not convert its narrower usefulness into a full-path writing claim.
+
 ## Layer Questions
 
 ### Layer 1. Language and Modality Target
@@ -51,6 +53,8 @@ Ask:
 A system may support analysis, annotation, display, or synthesis without being a human writing system. That does not make it useless. It means it belongs at a different layer or adjacent-purpose category.
 
 **Layer risk:** treating machine-readable representation, expert notation, gloss labels, videos, or display images as if they were ordinary written text.
+
+**Problem-specific test:** if the source is being proposed as a literacy-supporting writing system, can users read, write, revise, correct, cite, teach, archive, and revisit the text without relying on the adjacent system as the primary object?
 
 ### Layer 3. Orthographic / Written-Convention Layer
 

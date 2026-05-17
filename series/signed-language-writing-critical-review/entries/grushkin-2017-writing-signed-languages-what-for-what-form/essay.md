@@ -21,7 +21,7 @@ That is the article's central contribution.
 
 Its weakness appears later, when it moves from the general need for signed writing to a specific orthographic prescription. Grushkin concludes that alphabetic signed writing is the best option, especially where ASL-English biliteracy is a central goal. That recommendation is not supported as strongly as the preceding necessity-of-writing argument.
 
-So the article is strongest on why signed languages need writing and weakest on what kind of writing supposedly follows.
+So the article is strongest on why signed languages need writing and less well supported on what kind of writing follows.
 
 Framework judgment:
 
@@ -294,10 +294,10 @@ Its strongest responsible conclusions are:
 
 These are substantial contributions.
 
-The article's limits are equally important:
+The article does not establish the stronger claims that:
 
-- that alphabetic signed writing is superior to SignWriting
-- that "iconographic" signed writing systems are structurally inferior
+- that alphabetic signed writing should be preferred to SignWriting
+- that the "iconographic" label is enough to evaluate the structural adequacy of signed writing systems
 - that compatibility with English literacy should govern the design of signed writing
 - that visually organized signed writing systems are best understood through analogy with logography alone
 
@@ -350,7 +350,7 @@ The article acknowledges several actual signed writing systems, but gives too li
 
 This is the decisive issue.
 
-The necessity-of-writing argument is stronger than the alphabetic recommendation. The article's strongest pages justify writing. Its weakest pages prescribe a type of writing more confidently than the evidence allows.
+The necessity-of-writing argument is stronger than the alphabetic recommendation. The article's strongest pages justify writing. Its less-supported pages prescribe a type of writing more confidently than the evidence allows.
 
 ## Main critique categories
 

@@ -1,30 +1,26 @@
-# Publishing: Sutton SignWriting Foundations
+# Release Metadata: Sutton SignWriting Foundations
 
-## Series Record
+## Series
 
-- Series title: `Sutton SignWriting Foundations`
-- Series slug: `foundations`
-- Repository slug: `foundations`
-- GitHub repository: `https://github.com/sutton-signwriting/foundations`
-- Zenodo series record: reserved draft
-- Series DOI: `10.5281/zenodo.20041560`
-- Version: `v1.0.0`
-- License: `CC BY 4.0`
+- Title: `Sutton SignWriting Foundations`
 - Creator: `Steve Slevinski`
+- Version: `v1.0.0`
 - Publication year: `2026`
-- Publication date: `2026-__-__`
+- License: `CC BY 4.0`
 - Publisher: `Zenodo`
 - Resource type: `Publication`
 - Publication type: `Report`
 - Access: `Open`
 - Language: `English`
-- Release status: reserved draft
+- Series DOI: `https://doi.org/10.5281/zenodo.20041560`
+- GitHub repository: `https://github.com/sutton-signwriting/foundations`
 - Living site: `https://steveslevinski.me/#series/foundations`
+- Platform record: `https://doi.org/10.5281/zenodo.20041043`
 - Related identifiers: `isPartOf` `10.5281/zenodo.20041043`; `isDescribedBy` `https://steveslevinski.me/#series/foundations`
 
-## Series Description
+## Description
 
-`Sutton SignWriting Foundations` carries the conceptual foundation for Sutton SignWriting: language is not reducible to sound, writing is not inherently linear, and signed languages need durable read-write pathways of their own.
+The conceptual foundation for Sutton SignWriting: language is not reducible to sound, writing is not inherently linear, and signed languages need durable read-write pathways of their own.
 
 ## Claim Role
 
@@ -48,32 +44,25 @@ Public conceptual essays on language without sound, plane-based writing, literac
 
 ## Citation
 
-Series citation before DOI:
-
-```text
-Slevinski, S. (2026). Sutton SignWriting Foundations (v1.0.0).
-```
-
-Series citation after DOI:
-
 ```text
 Slevinski, S. (2026). Sutton SignWriting Foundations (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20041560
 ```
 
 ## Artifact Register
 
-| Artifact | Source | Status | DOI | Release File |
-| --- | --- | --- | --- | --- |
-| `Start Here` | `entries/start-here/orientation.md` | series-only | none | `start-here-orientation-v1.0.0.pdf` |
-| `Language Without Sound` | `entries/language-without-sound/essay.md` | artifact-doi-planned | `10.5281/zenodo.20213918` | `language-without-sound-working-paper-v1.0.0.pdf` |
-| `The Shape of Writing` | `entries/the-shape-of-writing/essay.md` | artifact-doi-planned | `10.5281/zenodo.20214678` | `the-shape-of-writing-working-paper-v1.0.0.pdf` |
+| Artifact | Type | Source | Release File | Citation Level | Identifier | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| `Start Here` | Orientation | `entries/start-here/orientation.md` | `start-here-orientation-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20041560 |  |
+| `Language Without Sound` | Working Paper | `entries/language-without-sound/essay.md` | `language-without-sound-working-paper-v1.0.0.pdf` | Artifact DOI | https://doi.org/10.5281/zenodo.20213918 |  |
+| `The Shape of Writing` | Working Paper | `entries/the-shape-of-writing/essay.md` | `the-shape-of-writing-working-paper-v1.0.0.pdf` | Artifact DOI | https://doi.org/10.5281/zenodo.20214678 |  |
 
 ## Artifact Metadata
 
 ### Start Here
 
 - Type: Orientation
-- DOI posture: cite as part of the series release
+- Citation level: Series DOI
+- Identifier: https://doi.org/10.5281/zenodo.20041560
 - Source path: `entries/start-here/orientation.md`
 - Citation:
 
@@ -84,7 +73,8 @@ Slevinski, S. (2026). Start Here: What Sutton SignWriting Is, Why It Matters, an
 ### Language Without Sound
 
 - Type: Working Paper
-- DOI posture: separate artifact DOI planned
+- Citation level: Artifact DOI
+- Identifier: https://doi.org/10.5281/zenodo.20213918
 - Source path: `entries/language-without-sound/essay.md`
 - Living URL: `https://steveslevinski.me/#series/foundations/language-without-sound/primary`
 
@@ -101,12 +91,13 @@ Slevinski, S. (2026). Language Without Sound: Brain Networks, Pathway Expansion,
 Source and citation notes:
 
 - Cite as a synthesis argument, not as a complete empirical review of Deaf education, language acquisition, tactile language access, Braille, or literacy outcomes.
-- Internal source basis includes `The Four Language Pathways`, `Reading Signed Text`, `What the Current Evidence Base Shows`, `Brazil as the Empirical Center of SignWriting`, `Formal SignWriting`, and `The Shape of a Sign`.
+- Source basis includes `The Four Language Pathways`, `Reading Signed Text`, `What the Current Evidence Base Shows`, `Brazil as the Empirical Center of SignWriting`, `Formal SignWriting`, and `The Shape of a Sign`.
 
 ### The Shape of Writing
 
 - Type: Working Paper
-- DOI posture: separate artifact DOI planned
+- Citation level: Artifact DOI
+- Identifier: https://doi.org/10.5281/zenodo.20214678
 - Source path: `entries/the-shape-of-writing/essay.md`
 - Living URL: `https://steveslevinski.me/#series/foundations/the-shape-of-writing/primary`
 
@@ -123,4 +114,4 @@ Slevinski, S. (2026). The Shape of Writing: Why Signed Writing Does Not Need to 
 Source and citation notes:
 
 - Cite as a conceptual and infrastructural argument about the shape of signed writing, not as a complete writing-systems typology or full empirical account of reading outcomes.
-- Internal source basis includes `Perspective and Authored Space`, `The Shape of a Sign`, `Formal SignWriting`, the Unicode review in the critical-review series, and `What the Current Evidence Base Shows`.
+- Source basis includes `Perspective and Authored Space`, `The Shape of a Sign`, `Formal SignWriting`, the Unicode review in the critical-review series, and `What the Current Evidence Base Shows`.

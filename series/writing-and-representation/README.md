@@ -1,5 +1,11 @@
 # Writing and Representation in Sutton SignWriting
 
+[![Source](https://img.shields.io/badge/source-GitHub-lightgrey?logo=github)](https://github.com/sutton-signwriting/writing-and-representation)
+[![Read](https://img.shields.io/badge/read-steveslevinski.me-blue)](https://steveslevinski.me/#series/writing-and-representation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20070484.svg)](https://doi.org/10.5281/zenodo.20070484)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Platform](https://img.shields.io/badge/platform-Sutton%20SignWriting-blueviolet)](https://doi.org/10.5281/zenodo.20041043)
+
 *Writing-systems essays on plane-based composition, authored space, convention, handwriting, machine encoding, and signed-writing typology*
 
 This repository carries the writing-system claim for the Sutton SignWriting platform: SignWriting is authored signed-language text organized through plane-based composition, conventional written practice, and durable technical preservation.

@@ -1,30 +1,26 @@
-# Publishing: Unicode and SignWriting
+# Release Metadata: Unicode and SignWriting
 
-## Series Record
+## Series
 
-- Series title: `Unicode and SignWriting`
-- Series slug: `unicode-and-signwriting`
-- Repository slug: `unicode-and-signwriting`
-- GitHub repository: `https://github.com/sutton-signwriting/unicode-and-signwriting`
-- Zenodo series record: reserved draft
-- Series DOI: `10.5281/zenodo.20075119`
-- Version: `v1.0.0`
-- License: `CC BY 4.0`
+- Title: `Unicode and SignWriting`
 - Creator: `Steve Slevinski`
+- Version: `v1.0.0`
 - Publication year: `2026`
-- Publication date: `2026-__-__`
+- License: `CC BY 4.0`
 - Publisher: `Zenodo`
 - Resource type: `Publication`
 - Publication type: `Report`
 - Access: `Open`
 - Language: `English`
-- Release status: reserved draft
+- Series DOI: `https://doi.org/10.5281/zenodo.20075119`
+- GitHub repository: `https://github.com/sutton-signwriting/unicode-and-signwriting`
 - Living site: `https://steveslevinski.me/#series/unicode-and-signwriting`
+- Platform record: `https://doi.org/10.5281/zenodo.20041043`
 - Related identifiers: `isPartOf` `10.5281/zenodo.20041043`; `isDescribedBy` `https://steveslevinski.me/#series/unicode-and-signwriting`
 
-## Series Description
+## Description
 
-`Unicode and SignWriting` carries the standards and compatibility claim for Sutton SignWriting: Unicode history, official encoding status, and current production compatibility must be distinguished from complete written-sign text modeling.
+The standards and compatibility series for Unicode and SignWriting: Unicode chronology, official encoding status, production-compatibility judgments, developer guidance, Wikimedia context, and UTC-facing technical notes.
 
 ## Claim Role
 
@@ -59,38 +55,18 @@ Slevinski, S. (2026). Unicode and SignWriting (v1.0.0). Zenodo. https://doi.org/
 
 ## Artifact Register
 
-| Artifact | Source | Status | DOI | Notes |
-| --- | --- | --- | --- | --- |
-| `Unicode and SignWriting Overview` | `entries/overview/essay.md` | series-only | none | Cite as part of the series release. |
-| `Unicode Overview` | `entries/unicode-overview/essay.md` | artifact-doi-possible | pending decision | Technical briefing candidate. |
-| `Position Notes` | `entries/unicode-overview/position-notes.md` | series-only | none | Companion to `Unicode Overview`; may be uploaded as supplement. |
-| `Developer Notes` | `entries/developer-notes/essay.md` | artifact-doi-possible | pending decision | Technical briefing candidate. |
-| `Package and Tooling Notes` | `entries/developer-notes/package-and-tooling.md` | series-only | none | Companion to `Developer Notes`; may be uploaded as supplement. |
-| `Chronology and Record` | `entries/chronology-and-record/essay.md` | artifact-doi-planned | pending | Strong standalone documentary technical briefing. |
-| `Historical Notes` | `entries/chronology-and-record/historical-notes.md` | series-only | none | Companion to `Chronology and Record`; may be uploaded as supplement. |
-| `Source Register` | `entries/chronology-and-record/source-register.md` | series-only | none | Companion to `Chronology and Record`; may be uploaded as supplement. |
-| `Wikimedia Brief` | `entries/wikimedia-brief/essay.md` | artifact-doi-possible | pending decision | Platform-facing technical briefing candidate. |
-| `Discussion Outline` | `entries/wikimedia-brief/meeting-notes.md` | series-only | none | Companion to `Wikimedia Brief`; may be uploaded as supplement. |
-| `Draft UTC-Facing Technical Note` | `entries/utc-technical-note/essay.md` | artifact-doi-planned | pending | Strongest standalone DOI candidate in this series. |
-| `Compatibility Matrix` | `entries/utc-technical-note/compatibility-matrix.md` | series-only | none | Companion to `Draft UTC-Facing Technical Note`; may be uploaded as supplement. |
-| `Requested Work` | `entries/utc-technical-note/requested-work.md` | series-only | none | Companion to `Draft UTC-Facing Technical Note`; may be uploaded as supplement. |
-
-## DOI Notes
-
-This series should receive a series DOI as an independent technical companion release.
-
-The strongest artifact DOI candidates are:
-
-- `Draft UTC-Facing Technical Note`
-- `Chronology and Record`
-
-Other technical briefings can remain series-contained unless a standards, developer, or platform audience needs a stable standalone citation.
-
-## Release-Time Status
-
-For `v1.0.0`, current official Unicode status and citations are treated as release-scoped status checks covering:
-
-- current Unicode version and Sutton SignWriting block documentation
-- current Unicode code charts and core specification language
-- current status of relevant SignWriting packages, fonts, and tooling
-- whether any new Unicode, UTC, Wikimedia, or public-platform activity changes the technical framing
+| Artifact | Type | Source | Release File | Citation Level | Identifier | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| `Unicode and SignWriting Overview` | Series Overview | `entries/overview/essay.md` | `overview-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Cite as part of the series release. |
+| `Unicode Overview` | Technical Note | `entries/unicode-overview/essay.md` | `unicode-overview-technical-note-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Technical briefing. |
+| `Position Notes` | Technical Notes | `entries/unicode-overview/position-notes.md` | `unicode-overview-position-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Companion to `Unicode Overview`. |
+| `Developer Notes` | Technical Note | `entries/developer-notes/essay.md` | `developer-notes-technical-note-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Technical briefing. |
+| `Package and Tooling Notes` | Technical Notes | `entries/developer-notes/package-and-tooling.md` | `developer-notes-package-and-tooling-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Companion to `Developer Notes`. |
+| `Chronology and Record` | Technical Briefing | `entries/chronology-and-record/essay.md` | `chronology-and-record-technical-briefing-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Strong standalone documentary technical briefing. |
+| `Historical Notes` | Historical Notes | `entries/chronology-and-record/historical-notes.md` | `chronology-and-record-historical-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Companion to `Chronology and Record`. |
+| `Source Register` | Source Register | `entries/chronology-and-record/source-register.md` | `chronology-and-record-source-register-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Companion to `Chronology and Record`. |
+| `Wikimedia Brief` | Technical Briefing | `entries/wikimedia-brief/essay.md` | `wikimedia-brief-technical-briefing-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Platform-facing technical briefing. |
+| `Discussion Outline` | Meeting Notes | `entries/wikimedia-brief/meeting-notes.md` | `wikimedia-brief-meeting-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Companion to `Wikimedia Brief`. |
+| `Draft UTC-Facing Technical Note` | Draft UTC-Facing Technical Note | `entries/utc-technical-note/essay.md` | `draft-utc-facing-technical-note-technical-briefing-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Standalone artifact in this series. |
+| `Compatibility Matrix` | Compatibility Matrix | `entries/utc-technical-note/compatibility-matrix.md` | `utc-technical-note-compatibility-matrix-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Companion to `Draft UTC-Facing Technical Note`. |
+| `Requested Work` | Requested Work | `entries/utc-technical-note/requested-work.md` | `utc-technical-note-requested-work-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075119 | Companion to `Draft UTC-Facing Technical Note`. |

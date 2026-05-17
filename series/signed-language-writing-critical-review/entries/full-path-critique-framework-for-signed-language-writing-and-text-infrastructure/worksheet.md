@@ -14,6 +14,8 @@ This is a working instrument for reviewers. It turns the framework and procedure
 
 ## B. Aim and Scope
 
+- Problem being evaluated:
+- Is the problem signed-language literacy as durable written text, or a narrower adjacent purpose?
 - What does the source explicitly claim?
 - What does it implicitly claim?
 - Does the source make a narrow claim, a full-path claim, or both?
@@ -71,6 +73,7 @@ This is a working instrument for reviewers. It turns the framework and procedure
 ## H. Judgment
 
 - Strongest contribution:
+- Adequate for which problem:
 - Main layer risk:
 - Relevant failure pattern, if any:
 - Layer-level classification:

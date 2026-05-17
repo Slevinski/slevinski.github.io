@@ -1,30 +1,26 @@
-# Publishing: Signed Language Writing Critical Review Series
+# Release Metadata: Signed Language Writing Critical Review Series
 
-## Series Record
+## Series
 
-- Series title: `Signed Language Writing Critical Review Series`
-- Series slug: `signed-language-writing-critical-review`
-- Repository slug: `signed-language-writing-critical-review`
-- GitHub repository: `https://github.com/sutton-signwriting/signed-language-writing-critical-review`
-- Zenodo series record: reserved draft
-- Series DOI: `10.5281/zenodo.20042604`
-- Version: `v1.0.0`
-- License: `CC BY 4.0`
+- Title: `Signed Language Writing Critical Review Series`
 - Creator: `Steve Slevinski`
+- Version: `v1.0.0`
 - Publication year: `2026`
-- Publication date: `2026-__-__`
+- License: `CC BY 4.0`
 - Publisher: `Zenodo`
 - Resource type: `Publication`
 - Publication type: `Report`
 - Access: `Open`
 - Language: `English`
-- Release status: reserved draft
+- Series DOI: `https://doi.org/10.5281/zenodo.20042604`
+- GitHub repository: `https://github.com/sutton-signwriting/signed-language-writing-critical-review`
 - Living site: `https://steveslevinski.me/#series/signed-language-writing-critical-review`
+- Platform record: `https://doi.org/10.5281/zenodo.20041043`
 - Related identifiers: `isPartOf` `10.5281/zenodo.20041043`; `isDescribedBy` `https://steveslevinski.me/#series/signed-language-writing-critical-review`
 
-## Series Description
+## Description
 
-`Signed Language Writing Critical Review Series` carries the critical-method claim for signed-language writing: systems, standards, tools, datasets, and proposals should be evaluated at the layer they actually address.
+The critical-method and review series for signed-language writing: a full-path framework and structured reviews that evaluate scholarship, standards, tools, datasets, and infrastructure claims at the layer they actually address and against the problem they actually claim to solve.
 
 ## Claim Role
 
@@ -34,18 +30,7 @@
 
 ## Repository Description
 
-Critical review series on signed-language writing, SignWriting, notation, encoding, standards, grapholinguistics, tools, datasets, layer-level success, full-path adequacy, and durable signed-text infrastructure.
-
-## Publication Direction
-
-The current publication direction for this series is:
-
-- `steveslevinski.me` as the living reading site
-- `Zenodo` as the preferred near-term archival and DOI record
-- one record per mature framework, review, or synthesis paper when a document is independently citable
-- selective later journal submission for condensed methodological, comparative, or synthesis articles
-
-The review series should become citable in public first, then selectively repackaged for journals rather than waiting for one journal submission to carry the whole program.
+Critical review series on signed-language writing, SignWriting, notation, encoding, standards, grapholinguistics, tools, datasets, problem-specific adequacy, layer-level success, full-path adequacy, and durable signed-text infrastructure.
 
 ## Keywords
 
@@ -68,41 +53,43 @@ Slevinski, S. (2026). Signed Language Writing Critical Review Series (v1.0.0). Z
 
 ## Artifact Register
 
-| Artifact | Source | Status | DOI | Notes |
-| --- | --- | --- | --- | --- |
-| `Overview` | `entries/overview/essay.md` | series-only | none | Series overview. |
-| `Start Here Note` | `entries/overview/start-here.md` | series-only | none | Companion to `Overview`; may be uploaded as supplement. |
-| `Full-Path Critique Framework` | `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md` | artifact-doi-planned | pending | Working framework. |
-| `Review Procedure for the Full-Path Critique Framework` | `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/review-procedure.md` | series-only | none | Companion to `Full-Path Critique Framework`; may be uploaded as supplement. |
-| `Reviewer Worksheet` | `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/worksheet.md` | series-only | none | Companion to `Full-Path Critique Framework`; may be uploaded as supplement. |
-| `Sutton SignWriting and Formal SignWriting Through the Framework` | `entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md` | artifact-doi-planned | pending | Working paper. |
-| `A Layer-Based Evaluation of Signed Language Writing Systems` | `entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md` | artifact-doi-planned | pending | Working paper. |
-| `Comparative Matrix` | `entries/a-layer-based-evaluation-of-signed-language-writing-systems/comparative-matrix.md` | series-only | none | Companion to `A Layer-Based Evaluation of Signed Language Writing Systems`; may be uploaded as supplement. |
-| `Official Unicode SignWriting` | `entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/essay.md` | artifact-doi-planned | pending | Review paper. |
-| `Grushkin (2017)` | `entries/grushkin-2017-writing-signed-languages-what-for-what-form/essay.md` | artifact-doi-possible | pending decision | Review-paper candidate. |
-| `Filhol (2020)` | `entries/filhol-2020-a-human-editable-sign-language-representation/essay.md` | artifact-doi-possible | pending decision | Review-paper candidate. |
-| `Thiessen (2011)` | `entries/thiessen-2011-a-grammar-of-signwriting/essay.md` | artifact-doi-possible | pending decision | Review-paper candidate. |
-| `Martin (2000)` | `entries/martin-2000-from-notation-to-writing/essay.md` | artifact-doi-possible | pending decision | Review-paper candidate. |
-| `Meletis and Dürscheid (2022)` | `entries/meletis-and-durscheid-2022-writing-systems-and-their-use/essay.md` | artifact-doi-possible | pending decision | Review-paper candidate. |
-| `Signed Writing as a Pressure Test for General Writing Theory` | `entries/meletis-and-durscheid-2022-writing-systems-and-their-use/signed-writing-as-a-pressure-test-for-general-writing-theory.md` | series-only | none | Companion to `Meletis and Dürscheid (2022)`; may be uploaded as supplement. |
-| `From Critique to Construction` | `entries/from-critique-to-construction-priorities-for-signed-language-writing-infrastructure/essay.md` | artifact-doi-planned | pending | Synthesis paper. |
+| Artifact | Type | Source | Release File | Citation Level | Identifier | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| `Overview` | Series Overview | `entries/overview/essay.md` | `overview-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Series overview. |
+| `Start Here Note` | Start Here Note | `entries/overview/start-here.md` | `overview-start-here-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Companion to `Overview`. |
+| `Full-Path Critique Framework` | Working Framework | `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md` | `full-path-critique-framework-for-signed-language-writing-and-text-infrastructure-working-framework-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Working framework. |
+| `Review Procedure for the Full-Path Critique Framework` | Companion Manual | `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/review-procedure.md` | `full-path-critique-framework-for-signed-language-writing-and-text-infrastructure-review-procedure-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Companion to `Full-Path Critique Framework`. |
+| `Reviewer Worksheet` | Companion Worksheet | `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/worksheet.md` | `full-path-critique-framework-for-signed-language-writing-and-text-infrastructure-worksheet-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Companion to `Full-Path Critique Framework`. |
+| `Sutton SignWriting and Formal SignWriting Through the Framework` | Working Paper | `entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md` | `sutton-signwriting-and-formal-signwriting-through-the-framework-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Working paper. |
+| `A Layer-Based Evaluation of Signed Language Writing Systems` | Working Paper | `entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md` | `a-layer-based-evaluation-of-signed-language-writing-systems-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Working paper. |
+| `Comparative Matrix` | Comparative Matrix | `entries/a-layer-based-evaluation-of-signed-language-writing-systems/comparative-matrix.md` | `a-layer-based-evaluation-of-signed-language-writing-systems-comparative-matrix-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Companion to `A Layer-Based Evaluation of Signed Language Writing Systems`. |
+| `Official Unicode SignWriting` | Working Review | `entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/essay.md` | `official-unicode-signwriting-the-character-problem-and-the-written-sign-problem-working-review-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Review paper. |
+| `Grushkin (2017)` | Working Review | `entries/grushkin-2017-writing-signed-languages-what-for-what-form/essay.md` | `grushkin-2017-writing-signed-languages-what-for-what-form-working-review-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Review paper. |
+| `Filhol (2020)` | Working Review | `entries/filhol-2020-a-human-editable-sign-language-representation/essay.md` | `filhol-2020-a-human-editable-sign-language-representation-working-review-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Review paper. |
+| `Thiessen (2011)` | Working Review | `entries/thiessen-2011-a-grammar-of-signwriting/essay.md` | `thiessen-2011-a-grammar-of-signwriting-working-review-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Review paper. |
+| `Martin (2000)` | Working Review | `entries/martin-2000-from-notation-to-writing/essay.md` | `martin-2000-from-notation-to-writing-working-review-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Review paper. |
+| `Meletis and Dürscheid (2022)` | Working Review | `entries/meletis-and-durscheid-2022-writing-systems-and-their-use/essay.md` | `meletis-and-durscheid-2022-writing-systems-and-their-use-working-review-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Review paper. |
+| `Signed Writing as a Pressure Test for General Writing Theory` | Companion Paper | `entries/meletis-and-durscheid-2022-writing-systems-and-their-use/signed-writing-as-a-pressure-test-for-general-writing-theory.md` | `meletis-and-durscheid-2022-writing-systems-and-their-use-signed-writing-as-a-pressure-test-for-general-writing-theory-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Companion to `Meletis and Dürscheid (2022)`. |
+| `From Critique to Construction` | Working Paper | `entries/from-critique-to-construction-priorities-for-signed-language-writing-infrastructure/essay.md` | `from-critique-to-construction-priorities-for-signed-language-writing-infrastructure-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042604 | Synthesis paper. |
 
 ## Artifact Metadata
 
 ### Full-Path Critique Framework
 
 - Type: Working Framework
-- DOI posture: separate artifact DOI planned
+- Citation level: Series DOI
+- Identifier: https://doi.org/10.5281/zenodo.20042604
 - Source path: `entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md`
 
 Abstract:
 
-> This framework provides a reusable method for evaluating signed-language writing systems, encodings, standards, tools, datasets, and representation proposals at the layer they actually address. It separates human writing, written convention, written units, spatial and compositional organization, technical text models, encoding, text operations, layout, rendering, tooling, literacy practice, governance, and stewardship, while treating notation, transcription, semantic representation, pedagogical bridge systems, corpus annotation, video records, character encodings, renderers, dictionary platforms, and AI datasets as adjacent-purpose systems. The framework preserves useful layer-level insights while identifying full-path overextension, evidence mismatch, authority conflation, data-object collapse, and unmet infrastructure requirements.
+> This framework provides a reusable method for evaluating signed-language writing systems, encodings, standards, tools, datasets, and representation proposals at the layer they actually address and against the problem they actually claim to solve. It separates human writing, written convention, written units, spatial and compositional organization, technical text models, encoding, text operations, layout, rendering, tooling, literacy practice, governance, and stewardship, while treating notation, transcription, semantic representation, pedagogical bridge systems, corpus annotation, video records, character encodings, renderers, dictionary platforms, and AI datasets as adjacent-purpose systems. The framework preserves useful layer-level insights while identifying full-path overextension, evidence mismatch, authority conflation, data-object collapse, and unmet infrastructure requirements.
 
 ### Sutton SignWriting and Formal SignWriting Through the Framework
 
 - Type: Working Paper
-- DOI posture: separate artifact DOI planned
+- Citation level: Series DOI
+- Identifier: https://doi.org/10.5281/zenodo.20042604
 - Source path: `entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md`
 
 Abstract:
@@ -112,7 +99,8 @@ Abstract:
 ### A Layer-Based Evaluation of Signed Language Writing Systems
 
 - Type: Working Paper
-- DOI posture: separate artifact DOI planned
+- Citation level: Series DOI
+- Identifier: https://doi.org/10.5281/zenodo.20042604
 - Source path: `entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md`
 - Companion: `entries/a-layer-based-evaluation-of-signed-language-writing-systems/comparative-matrix.md`
 

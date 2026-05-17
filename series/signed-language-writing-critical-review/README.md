@@ -1,12 +1,20 @@
 # Signed Language Writing Critical Review Series
 
+[![Source](https://img.shields.io/badge/source-GitHub-lightgrey?logo=github)](https://github.com/sutton-signwriting/signed-language-writing-critical-review)
+[![Read](https://img.shields.io/badge/read-steveslevinski.me-blue)](https://steveslevinski.me/#series/signed-language-writing-critical-review)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20042604.svg)](https://doi.org/10.5281/zenodo.20042604)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Platform](https://img.shields.io/badge/platform-Sutton%20SignWriting-blueviolet)](https://doi.org/10.5281/zenodo.20041043)
+
 *Critical reviews of signed-language writing scholarship, standards, notation, encoding, and representation*
 
-This repository carries the critical-method claim for the Sutton SignWriting platform: signed-language writing work should be evaluated at the layer it actually addresses.
+This repository carries the critical-method claim for the Sutton SignWriting platform: signed-language writing work should be evaluated at the layer it actually addresses and against the problem it actually claims to solve.
 
 The recurring question is:
 
 > what level of the problem is this work actually solving?
+
+The central problem for this series is signed-language literacy as durable written text. The reviews therefore ask whether a source supports a readable, writable, revisitable text pathway, or whether it solves a narrower adjacent problem such as notation, transcription, annotation, video access, semantic representation, rendering, character encoding, dictionary infrastructure, dataset construction, or AI tooling.
 
 That question keeps the reviews disciplined. A proposal may solve notation without solving writing. A standard may encode characters without providing a complete written-sign model. A renderer may display signs without preserving authored text. A dataset or dictionary may support important infrastructure without deciding community authority, data rights, or full-path adequacy.
 
@@ -55,6 +63,8 @@ Then read the individual reviews and the constructive synthesis.
 ## Review Commitments
 
 Each review distinguishes writing, notation, encoding, rendering, infrastructure, evidence, authority, and data objects; evaluates claims at the level where they operate; separates layer-level success from full-path adequacy; and connects review findings back to better research, standards, tools, data practice, and public explanation.
+
+The series does not rank all signed-language systems on a single scale. It credits systems for the purposes they actually serve while refusing to treat adjacent-purpose success as a solution to signed-language literacy as durable written text.
 
 ## Citation
 

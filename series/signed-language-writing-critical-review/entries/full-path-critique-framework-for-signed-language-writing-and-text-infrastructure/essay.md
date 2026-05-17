@@ -2,11 +2,13 @@
 
 **A methodological guide for evaluating writing systems, notation systems, encodings, standards, tools, datasets, research proposals, and infrastructure claims**
 
-This framework carries the critical-method claim for the review series: signed-language writing work should be evaluated at the layer it actually claims to solve.
+This framework carries the critical-method claim for the review series: signed-language writing work should be evaluated at the layer it actually claims to solve and against the problem it actually addresses.
 
 The governing principle is:
 
 > A system must be evaluated at the level it claims to operate on.
+
+For this framework, the central full-path problem is signed-language literacy as durable written text: a readable, writable, revisitable text pathway that can support composition, revision, correction, citation, search, teaching, publication, archiving, exchange, and long-term infrastructure. Systems for notation, transcription, semantic representation, corpus annotation, video access, rendering, standards work, datasets, or AI infrastructure may be useful without solving that problem.
 
 The purpose is direct:
 
@@ -49,11 +51,13 @@ Two companion documents support application of the method: *Review Procedure for
 
 This framework is not a neutral bibliography, a detached taxonomy, or a ranking of systems by preference. It is a critical method for evaluating candidate paths to durable signed-language writing and text infrastructure.
 
+Its judgments are problem-specific. A system can be strong for analysis, documentation, translation, synthesis, classroom scaffolding, or machine learning and still be inadequate as a solution to signed-language literacy as written text. That is not a dismissal of the narrower system. It is the reason the framework separates layer-level success from full-path adequacy.
+
 `Durable signed text` means signed text that persists across time and supports revisiting, revision, correction, citation, search, comparison, teaching, publication, archiving, exchange, and software processing. Durability does not make video, live performance, gloss, translation, or linguistic annotation obsolete. It means signed language also has a written pathway capable of functioning as text.
 
 `Full-path adequacy` means that a system, or a coordinated stack of systems, can plausibly support the path from human authorship to durable signed-text infrastructure. A full path includes human writing, written units, written convention, spatial and sequential organization, text modeling, encoding, text operations, layout, rendering, tooling, pedagogy, evidence, governance, and stewardship. A system does not have to solve every layer alone, but a claim that it solves signed-language writing must account for how those layers are handled.
 
-`Layer-level success` means that a system succeeds at a narrower purpose, for example as notation, semantic representation, character encoding, video annotation, rendering, corpus tagging, classroom scaffolding, dictionary infrastructure, or linguistic analysis, without thereby becoming a full writing system or full text infrastructure. Layer-level success is real success. It should be preserved in reviews, not treated as failure.
+`Layer-level success` means that a system succeeds at a narrower purpose, for example as notation, semantic representation, character encoding, video annotation, rendering, corpus tagging, classroom scaffolding, dictionary infrastructure, AI infrastructure, or linguistic analysis, without thereby becoming a full writing system or full text infrastructure. Layer-level success is real success. It should be preserved in reviews, not treated as failure.
 
 `Technical infrastructure` means alphabets, symbol inventories, character sets, encodings, fonts, editors, renderers, search systems, corpora, dictionaries, datasets, APIs, validators, converters, libraries, repositories, archives, and platforms.
 
@@ -253,6 +257,8 @@ A full signed-language writing and text-infrastructure path contains the followi
 
 A reviewed source may address one layer, several layers, or the whole path. It should not be credited with solving layers it does not address. It should also not be condemned for failing to solve layers it never claimed to address.
 
+When a source is discussed in relation to signed-language literacy, the decisive question is whether it supports a durable written text pathway. If it does not, the review should say so precisely and then credit the source at the layer or adjacent purpose where it actually works.
+
 | # | Layer | Core question |
 | ---: | --- | --- |
 | 1 | **Language and modality target** | What signed-language form, structure, or communicative object is being represented? |
@@ -305,6 +311,7 @@ A positive adjacent-purpose judgment should be explicit. Use phrases such as:
 - valuable as a pedagogical bridge
 - useful as a renderer but not a text model
 - promising as semantic representation but not public writing infrastructure
+- useful for AI or dataset work but not a literacy-supporting writing system
 
 ## Evaluation Axes
 

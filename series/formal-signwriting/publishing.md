@@ -1,30 +1,26 @@
-# Publishing: Formal SignWriting
+# Release Metadata: Formal SignWriting
 
-## Series Record
+## Series
 
-- Series title: `Formal SignWriting`
-- Series slug: `formal-signwriting`
-- Repository slug: `formal-signwriting`
-- GitHub repository: `https://github.com/sutton-signwriting/formal-signwriting`
-- Zenodo series record: reserved draft
-- Series DOI: `10.5281/zenodo.20074767`
-- Version: `v1.0.0`
-- License: `CC BY 4.0`
+- Title: `Formal SignWriting`
 - Creator: `Steve Slevinski`
+- Version: `v1.0.0`
 - Publication year: `2026`
-- Publication date: `2026-__-__`
+- License: `CC BY 4.0`
 - Publisher: `Zenodo`
 - Resource type: `Publication`
 - Publication type: `Report`
 - Access: `Open`
 - Language: `English`
-- Release status: reserved draft
+- Series DOI: `https://doi.org/10.5281/zenodo.20074767`
+- GitHub repository: `https://github.com/sutton-signwriting/formal-signwriting`
 - Living site: `https://steveslevinski.me/#series/formal-signwriting`
+- Platform record: `https://doi.org/10.5281/zenodo.20041043`
 - Related identifiers: `isPartOf` `10.5281/zenodo.20041043`; `isDescribedBy` `https://steveslevinski.me/#series/formal-signwriting`
 
-## Series Description
+## Description
 
-`Formal SignWriting` carries the technical text-model claim for Sutton SignWriting: signed text can be stored, searched, checked, laid out, rendered, styled, and processed by software without losing the written form.
+The technical text-model series for Formal SignWriting: FSW, SWU, signboxes, grammar, search, layout, rendering, styling, implementation practice, and the boundary between computational validity and linguistic judgment.
 
 ## Claim Role
 
@@ -55,54 +51,26 @@ Slevinski, S. (2026). Formal SignWriting (v1.0.0). Zenodo. https://doi.org/10.52
 
 ## Artifact Register
 
-| Artifact | Source | Status | DOI | Notes |
-| --- | --- | --- | --- | --- |
-| `Formal SignWriting Overview` | `entries/overview/essay.md` | series-only | none | Cite as part of the series release. |
-| `Formal SignWriting` | `entries/formal-signwriting/essay.md` | artifact-doi-possible | pending decision | Technical-paper DOI candidate. |
-| `Formal SignWriting Technical Notes` | `entries/formal-signwriting/technical-notes.md` | series-only | none | Companion to `Formal SignWriting`; may be uploaded as supplement. |
-| `FSW and SWU` | `entries/fsw-and-swu/essay.md` | artifact-doi-possible | pending decision | Technical-paper DOI candidate. |
-| `FSW and SWU Technical Notes` | `entries/fsw-and-swu/technical-notes.md` | series-only | none | Companion to `FSW and SWU`; may be uploaded as supplement. |
-| `The Shape of a Sign` | `entries/the-shape-of-a-sign/essay.md` | artifact-doi-planned | pending | Strong standalone technical-paper candidate. |
-| `Plane Writing Technical Bridge` | `entries/the-shape-of-a-sign/plane-writing-technical-bridge.md` | series-only | none | Companion to `The Shape of a Sign`; may be uploaded as supplement. |
-| `The Shape of a Sign Technical Notes` | `entries/the-shape-of-a-sign/technical-notes.md` | series-only | none | Companion to `The Shape of a Sign`; may be uploaded as supplement. |
-| `Grammar of Formal SignWriting` | `entries/grammar-of-formal-signwriting/essay.md` | artifact-doi-possible | pending decision | Technical-paper DOI candidate. |
-| `Grammar of Formal SignWriting Technical Notes` | `entries/grammar-of-formal-signwriting/technical-notes.md` | series-only | none | Companion to `Grammar of Formal SignWriting`; may be uploaded as supplement. |
-| `Searching Signed Text` | `entries/searching-signed-text/essay.md` | artifact-doi-planned | pending | Strong standalone technical-paper candidate. |
-| `Searching Signed Text Technical Notes` | `entries/searching-signed-text/technical-notes.md` | series-only | none | Companion to `Searching Signed Text`; may be uploaded as supplement. |
-| `Sign Text Layout` | `entries/sign-text-layout/essay.md` | artifact-doi-possible | pending decision | Technical-paper DOI candidate. |
-| `Rendering Formal SignWriting` | `entries/rendering-formal-signwriting/essay.md` | artifact-doi-possible | pending decision | Technical-paper DOI candidate. |
-| `Rendering Formal SignWriting Technical Notes` | `entries/rendering-formal-signwriting/technical-notes.md` | series-only | none | Companion to `Rendering Formal SignWriting`; may be uploaded as supplement. |
-| `Styling Signs` | `entries/styling-signs/essay.md` | artifact-doi-possible | pending decision | Technical-paper DOI candidate. |
-| `Styling Signs Technical Notes` | `entries/styling-signs/technical-notes.md` | series-only | none | Companion to `Styling Signs`; may be uploaded as supplement. |
-| `Formal SignWriting in Practice` | `entries/formal-signwriting-in-practice/essay.md` | artifact-doi-possible | pending decision | Technical-paper DOI candidate. |
-| `From Experimental Encodings to Formal SignWriting` | `entries/formal-signwriting-in-practice/encoding-history.md` | series-only | none | Companion to `Formal SignWriting in Practice`; may be uploaded as supplement. |
-| `Formal SignWriting in Practice Technical Notes` | `entries/formal-signwriting-in-practice/technical-notes.md` | series-only | none | Companion to `Formal SignWriting in Practice`; may be uploaded as supplement. |
-| `Encoding Stewardship and Stability` | `entries/encoding-authority-and-stability/essay.md` | series-only | none | Governance note defining technical coherence, computational validity, linguistic judgment, practical finality, voluntary adoption, and forkability. |
-
-## DOI Notes
-
-`The Shape of a Sign` and `Searching Signed Text` are planned for document-level DOIs.
-
-The other technical papers remain valid artifact DOI candidates, but the first release may choose either:
-
-- one series DOI plus selected technical-paper DOIs, or
-- one series DOI plus all technical papers as series-contained artifacts
-
-Technical notes, encoding history, technical bridges, and implementation examples should usually be supplements unless a specific companion document becomes independently citable.
-
-`plane-writing-technical-bridge.md` carries the named technical bridge from `The Shape of Writing` to `The Shape of a Sign`. It should be treated as a technical bridge supplement and may become independently citable if the release needs the authorship, compatibility, and dataset-scale argument to stand on its own.
-
-`encoding-history.md` belongs with `Formal SignWriting in Practice` because the encoding story is a practice, migration, and stewardship story.
-
-`Encoding Stewardship and Stability` should remain series-contained for the first release. It states the governance boundary around the stable FSW/SWU path without turning that boundary into a new technical-paper DOI.
-
-## File Naming
-
-Use:
-
-```text
-<entry-slug>-technical-paper-v1.0.0.pdf
-<entry-slug>-technical-notes-v1.0.0.pdf
-<entry-slug>-<companion-slug>-v1.0.0.pdf
-formal-signwriting-source-v1.0.0.zip
-```
+| Artifact | Type | Source | Release File | Citation Level | Identifier | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| `Formal SignWriting Overview` | Series Overview | `entries/overview/essay.md` | `overview-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Cite as part of the series release. |
+| `Formal SignWriting` | Technical Paper | `entries/formal-signwriting/essay.md` | `formal-signwriting-technical-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Technical paper. |
+| `Formal SignWriting Technical Notes` | Technical Notes | `entries/formal-signwriting/technical-notes.md` | `formal-signwriting-technical-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Companion to `Formal SignWriting`. |
+| `FSW and SWU` | Technical Paper | `entries/fsw-and-swu/essay.md` | `fsw-and-swu-technical-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Technical paper. |
+| `FSW and SWU Technical Notes` | Technical Notes | `entries/fsw-and-swu/technical-notes.md` | `fsw-and-swu-technical-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Companion to `FSW and SWU`. |
+| `The Shape of a Sign` | Technical Paper | `entries/the-shape-of-a-sign/essay.md` | `the-shape-of-a-sign-technical-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Standalone artifact. |
+| `Plane Writing Technical Bridge` | Technical Bridge | `entries/the-shape-of-a-sign/plane-writing-technical-bridge.md` | `the-shape-of-a-sign-plane-writing-technical-bridge-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Companion to `The Shape of a Sign`. |
+| `The Shape of a Sign Technical Notes` | Technical Notes | `entries/the-shape-of-a-sign/technical-notes.md` | `the-shape-of-a-sign-technical-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Companion to `The Shape of a Sign`. |
+| `Grammar of Formal SignWriting` | Technical Paper | `entries/grammar-of-formal-signwriting/essay.md` | `grammar-of-formal-signwriting-technical-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Technical paper. |
+| `Grammar of Formal SignWriting Technical Notes` | Technical Notes | `entries/grammar-of-formal-signwriting/technical-notes.md` | `grammar-of-formal-signwriting-technical-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Companion to `Grammar of Formal SignWriting`. |
+| `Searching Signed Text` | Technical Paper | `entries/searching-signed-text/essay.md` | `searching-signed-text-technical-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Standalone artifact. |
+| `Searching Signed Text Technical Notes` | Technical Notes | `entries/searching-signed-text/technical-notes.md` | `searching-signed-text-technical-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Companion to `Searching Signed Text`. |
+| `Sign Text Layout` | Technical Paper | `entries/sign-text-layout/essay.md` | `sign-text-layout-technical-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Technical paper. |
+| `Rendering Formal SignWriting` | Technical Paper | `entries/rendering-formal-signwriting/essay.md` | `rendering-formal-signwriting-technical-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Technical paper. |
+| `Rendering Formal SignWriting Technical Notes` | Technical Notes | `entries/rendering-formal-signwriting/technical-notes.md` | `rendering-formal-signwriting-technical-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Companion to `Rendering Formal SignWriting`. |
+| `Styling Signs` | Technical Paper | `entries/styling-signs/essay.md` | `styling-signs-technical-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Technical paper. |
+| `Styling Signs Technical Notes` | Technical Notes | `entries/styling-signs/technical-notes.md` | `styling-signs-technical-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Companion to `Styling Signs`. |
+| `Formal SignWriting in Practice` | Technical Paper | `entries/formal-signwriting-in-practice/essay.md` | `formal-signwriting-in-practice-technical-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Technical paper. |
+| `From Experimental Encodings to Formal SignWriting` | Historical Notes | `entries/formal-signwriting-in-practice/encoding-history.md` | `formal-signwriting-in-practice-encoding-history-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Companion to `Formal SignWriting in Practice`. |
+| `Formal SignWriting in Practice Technical Notes` | Technical Notes | `entries/formal-signwriting-in-practice/technical-notes.md` | `formal-signwriting-in-practice-technical-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Companion to `Formal SignWriting in Practice`. |
+| `Encoding Stewardship and Stability` | Governance Note | `entries/encoding-authority-and-stability/essay.md` | `encoding-authority-and-stability-governance-note-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074767 | Governance note defining technical coherence, computational validity, linguistic judgment, practical finality, voluntary adoption, and forkability. |

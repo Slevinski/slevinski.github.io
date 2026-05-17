@@ -1,5 +1,11 @@
 # Sutton SignWriting Infrastructure and Program
 
+[![Source](https://img.shields.io/badge/source-GitHub-lightgrey?logo=github)](https://github.com/sutton-signwriting/infrastructure-and-program)
+[![Read](https://img.shields.io/badge/read-steveslevinski.me-blue)](https://steveslevinski.me/#series/infrastructure-and-program)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20075076.svg)](https://doi.org/10.5281/zenodo.20075076)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Platform](https://img.shields.io/badge/platform-Sutton%20SignWriting-blueviolet)](https://doi.org/10.5281/zenodo.20041043)
+
 *Stewardship and program-design briefs for continuity, host-structure requirements, international participation, shared infrastructure, and layered AI/data governance*
 
 This repository contains the stewardship, continuity, and program-design series of the Sutton SignWriting platform. It distinguishes what already exists, what continuity risks remain, and what technical, human, institutional, data-governance, and funding structures would make the work durable, citable, maintainable, and cumulative.

@@ -4,7 +4,7 @@
   "title": "Signed Language Writing Critical Review Series Overview",
   "subtitle": "Scope, method, structure, reading paths, and future direction for the review series",
   "summary": "Full-path review of signed-language writing, notation, encoding, standards, tools, datasets, and infrastructure claims.",
-  "synopsis": "The review series asks what level of the signed-writing problem each source actually solves and separates layer-level success from full-path adequacy. Its method, structure, review set, reading paths, recurring critique categories, and future direction keep useful contributions separate from unresolved writing, encoding, rendering, data-governance, authority, and infrastructure gaps.",
+  "synopsis": "The review series asks what problem each source actually solves and separates layer-level success from full-path adequacy for signed-language literacy as durable written text. Its method, structure, review set, reading paths, recurring critique categories, and future direction keep useful contributions separate from unresolved writing, encoding, rendering, data-governance, authority, and infrastructure gaps.",
   "essay": "essay.md",
   "primary_artifact": {
     "file": "essay.md",
@@ -18,7 +18,7 @@
       "id": "what-this-series-reviews",
       "title": "What This Series Reviews",
       "kicker": "1",
-      "summary": "Writing, notation, encoding, standards, tools, datasets, and infrastructure claims can be reviewed through a shared full-path method.",
+      "summary": "Writing, notation, encoding, standards, tools, datasets, and infrastructure claims can be reviewed through a problem-specific full-path method.",
       "image_prompts": {
         "concrete": "Critical review overview slide showing literature, notation systems, encoding proposals, standards records, datasets, and SignWriting evaluated through layer-level and full-path judgments",
         "abstract": "A set of reviewed sources passing through a structured evaluation frame"
@@ -43,11 +43,11 @@
       },
       "bullets": [
         "Separate layer-level success from full-path adequacy",
-        "Name what each source is actually solving",
+        "Name what problem each source actually solves",
         "Credit strengths as well as limits",
         "Use critique constructively"
       ],
-      "speech": "The method is to separate layer-level success from full-path adequacy before judging claims. A source may be strong on notation and weak on writing. It may solve rendering without solving encoding. The review series credits strengths, names limits, and makes critique constructive.",
+      "speech": "The method is to separate layer-level success from full-path adequacy before judging claims. A source may be strong on notation without solving signed-language literacy as written text. It may solve rendering without solving encoding. The review series credits strengths, names limits, and makes critique constructive.",
       "notes": "This slide should make the series feel fair."
     },
     {

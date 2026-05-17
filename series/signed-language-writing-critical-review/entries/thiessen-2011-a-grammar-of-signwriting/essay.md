@@ -89,7 +89,7 @@ This comes through in several places:
 - the treatment of fills, rotations, reflections, and handedness
 - the later discussion of placement rules and encoding
 
-Even when Thiessen is still working at the symbol level, he is not blind to space. Many weaker accounts fail before analysis even begins by treating spatiality as secondary display rather than authored written structure.
+Even when Thiessen is still working at the symbol level, he is not blind to space. Many narrower accounts lose the analysis before it begins by treating spatiality as secondary display rather than authored written structure.
 
 ### 3. It does serious script-internal descriptive work
 
