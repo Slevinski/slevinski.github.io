@@ -40,6 +40,19 @@ This is why both FSW and SWU can represent the same `ase-Sgnw` content.
 
 In BCP 47 terms, `ase-Sgnw` identifies American Sign Language written with the SignWriting script. A corpus may store that tag at the collection level, record level, or field level depending on whether all records share the same language and script. It should not be used as a substitute for documenting whether the stored text is FSW, SWU, or another supported representation.
 
+## Standards references
+
+The script-code and language-tag discussion depends on the ISO 15924 code list, the IANA language subtag registry, and RFC 5646 / BCP 47 language tags.
+
+ISO 15924 code list. Unicode Consortium.  
+URL: https://unicode.org/iso15924/iso15924-codes.html
+
+IANA Language Subtag Registry. Internet Assigned Numbers Authority.  
+URL: https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
+
+RFC 5646 / BCP 47: Tags for Identifying Languages. RFC Editor.  
+URL: https://www.rfc-editor.org/rfc/rfc5646
+
 ## How an FSW symbol key works
 
 An FSW symbol key is not opaque.
@@ -178,9 +191,3 @@ That distinction protects the technical architecture from being flattened into d
 
 - **FSW and SWU** are core encodings of Formal SignWriting text, with FSW commonly used as the canonical processing form and SWU supported for Unicode-oriented interchange
 - **the style string** is an optional presentation layer and not part of the canonical encoding itself
-
-## Standards references
-
-- [ISO 15924 code list](https://unicode.org/iso15924/iso15924-codes.html)
-- [IANA language subtag registry](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
-- [RFC 5646 / BCP 47 language tags](https://www.rfc-editor.org/rfc/rfc5646)

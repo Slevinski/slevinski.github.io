@@ -54,7 +54,7 @@ Slevinski, S. (2026). Sutton SignWriting Language and Literacy Research (v1.0.0)
 | Artifact | Type | Source | Release File | Citation Level | Identifier | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | `Sutton SignWriting Language and Literacy Research Overview` | Series Overview | `entries/overview/essay.md` | `overview-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074878 | Cite as part of the series release. |
-| `The Four Language Pathways` | Working Paper | `entries/the-four-language-pathways/essay.md` | `the-four-language-pathways-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074878 | Standalone artifact in this series. |
+| `The Four Language Pathways` | Working Paper | `entries/the-four-language-pathways/essay.md` | `the-four-language-pathways-working-paper-v1.0.0.pdf` | Artifact DOI | https://doi.org/10.5281/zenodo.20275441 | Standalone artifact in this series. |
 | `Reading Signed Text` | Working Paper | `entries/reading-signed-text/essay.md` | `reading-signed-text-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074878 | Working paper. |
 | `Research Program for Literacy Without Sound` | Working Paper | `entries/research-program-for-literacy-without-sound/essay.md` | `research-program-for-literacy-without-sound-working-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074878 | Working paper. |
 | `Program Notes for Literacy Without Sound` | Program Notes | `entries/research-program-for-literacy-without-sound/program-notes.md` | `research-program-for-literacy-without-sound-program-notes-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20074878 | Companion to `Research Program for Literacy Without Sound`. |

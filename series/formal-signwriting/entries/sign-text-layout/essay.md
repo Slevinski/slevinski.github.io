@@ -145,9 +145,3 @@ Layout defines passage structure: writing direction, lanes, centering, and readi
 Rendering produces a visible output from that structure.
 
 The distinction matters because the same layout model can be realized through SVG, font-based output, web components, print layout, or other downstream presentation systems.
-
-## Related Platform Routes
-
-- `The Shape of a Sign` explains the signbox and symbol-coordinate model that layout depends on.
-- `Rendering Formal SignWriting` explains how layout becomes visible output.
-- *Formal SignWriting in Practice* connects these rules to libraries, components, and implementation pathways.

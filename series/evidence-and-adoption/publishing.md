@@ -55,7 +55,7 @@ Slevinski, S. (2026). Sutton SignWriting Evidence and Adoption (v1.0.0). Zenodo.
 | Artifact | Type | Source | Release File | Citation Level | Identifier | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | `Sutton SignWriting Evidence and Adoption Overview` | Series Overview | `entries/overview/essay.md` | `evidence-and-adoption-overview-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042446 | Cite as part of the series release. |
-| `What the Current Evidence Base Shows` | Synthesis Brief | `entries/what-the-current-evidence-base-shows/essay.md` | `what-the-current-evidence-base-shows-synthesis-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042446 | Standalone synthesis brief. |
+| `What the Current Evidence Base Shows` | Synthesis Brief | `entries/what-the-current-evidence-base-shows/essay.md` | `what-the-current-evidence-base-shows-synthesis-brief-v1.0.0.pdf` | Artifact DOI | https://doi.org/10.5281/zenodo.20271111 | Standalone synthesis brief. |
 | `Brazil as the Empirical Center of SignWriting` | Research Brief | `entries/brazil-as-the-empirical-center-of-signwriting/essay.md` | `brazil-as-the-empirical-center-of-signwriting-research-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042446 |  |
 | `South Korea as a Current Institutional Case Study` | Research Brief | `entries/south-korea-as-a-current-institutional-case-study/essay.md` | `south-korea-as-a-current-institutional-case-study-research-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042446 |  |
 | `Evidence Boundaries and Adoption Limits` | Evidence Note | `entries/evidence-boundaries-and-adoption-limits/essay.md` | `evidence-boundaries-and-adoption-limits-evidence-note-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20042446 | Strong claim-discipline note; supports evidence-boundary citation. |
@@ -65,8 +65,8 @@ Slevinski, S. (2026). Sutton SignWriting Evidence and Adoption (v1.0.0). Zenodo.
 ### What the Current Evidence Base Shows
 
 - Type: Synthesis Brief
-- Citation level: Series DOI
-- Identifier: https://doi.org/10.5281/zenodo.20042446
+- Citation level: Artifact DOI
+- Identifier: https://doi.org/10.5281/zenodo.20271111
 - Source path: `entries/what-the-current-evidence-base-shows/essay.md`
 - Living URL: `https://steveslevinski.me/#series/evidence-and-adoption/what-the-current-evidence-base-shows/primary`
 
@@ -77,7 +77,7 @@ Abstract:
 Citation:
 
 ```text
-Slevinski, S. (2026). What the Current Evidence Base Shows: Strong Evidence, Partial Evidence, and How to Read SignWriting Adoption Claims (Synthesis Brief, v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20042446
+Slevinski, S. (2026). What the Current Evidence Base Shows: Strong Evidence, Partial Evidence, and How to Read SignWriting Adoption Claims (Synthesis Brief, v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20271111
 ```
 
 Source and citation notes:

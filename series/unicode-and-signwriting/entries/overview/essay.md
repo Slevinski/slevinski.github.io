@@ -96,8 +96,8 @@ Related work belongs in adjacent series:
 - Brazil and South Korea as empirical and institutional cases belong in the Evidence and Adoption series
 - evaluative standards commentary belongs in the Critical Review series when the goal is to interpret the Unicode record rather than only document it
 
-Start the foundations series with [Language Without Sound](/#series/foundations/language-without-sound/primary) and [The Shape of Writing](/#series/foundations/the-shape-of-writing/primary).
+Start the foundations series with **Language Without Sound** and **The Shape of Writing**.
 
-For the review-series interpretation, see [Official Unicode SignWriting: The Character Problem and the Written-Sign Problem](/#series/signed-language-writing-critical-review/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/primary).
+For the review-series interpretation, see **Official Unicode SignWriting: The Character Problem and the Written-Sign Problem**.
 
-For the complementary encoding-governance statement from the production-encoding side, see [Encoding Stewardship and Stability](/#series/formal-signwriting/encoding-authority-and-stability/primary) in the Formal SignWriting series.
+For the complementary encoding-governance statement from the production-encoding side, see **Encoding Stewardship and Stability** in the Formal SignWriting series.

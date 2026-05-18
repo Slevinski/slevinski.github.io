@@ -174,10 +174,3 @@ The earlier formats remain historically valuable as documentation of the path th
 This history belongs with **Formal SignWriting in Practice** because the encoding story is fundamentally a practice story. It shows how implementation pressure, real datasets, and migration needs shaped the model more than abstract theory alone.
 
 That context helps future maintainers, implementers, and researchers understand both what the model is and why it earned its place as the durable foundation.
-
-## Related reading
-
-- [Formal SignWriting](/#series/formal-signwriting/formal-signwriting/primary)
-- [FSW and SWU](/#series/formal-signwriting/fsw-and-swu/primary)
-- [Formal SignWriting in Practice](/#series/formal-signwriting/formal-signwriting-in-practice/primary)
-- [Sutton SignWriting Foundations](/#series/foundations)

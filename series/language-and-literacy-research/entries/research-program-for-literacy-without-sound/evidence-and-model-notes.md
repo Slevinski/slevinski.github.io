@@ -668,7 +668,7 @@ It is:
 
 These roles can overlap, but they are not interchangeable.
 
-For a more focused comparison of ASL-phabet, HamNoSys, ASLwrite, and SignWriting, see [Other Sign Language Scripts and Their Conceptions](/#series/writing-and-representation/other-sign-language-scripts-and-their-conceptions/primary).
+For a more focused comparison of ASL-phabet, HamNoSys, ASLwrite, and SignWriting, see **Other Sign Language Scripts and Their Conceptions**.
 
 ### Why this matters
 
@@ -750,6 +750,8 @@ These questions are especially useful for future-facing framing:
 
 ## Selected APA-style references with links
 
+This reference set is selective rather than exhaustive. It identifies sources used to support the model and research program; it is not a systematic review or complete outcome-evidence synthesis.
+
 ### SignWriting and sign-language writing systems
 
 - Abushaira, M. M. (2007). [*The effect of SignWriting on the achievement and acquisition of vocabulary by deaf students at Al-Amal School for the Deaf in the City of Amman-Jordan*](https://www.signwriting.org/archive/docs5/sw0489-AbuShairaDissertation2007English.pdf) [Doctoral dissertation, King Abdulaziz University].
@@ -818,14 +820,3 @@ These questions are especially useful for future-facing framing:
 - Sandler, W., & Lillo-Martin, D. (2006). [*Sign language and linguistic universals*](https://doi.org/10.1017/CBO9781139163910). Cambridge University Press.
 - Senghas, A., & Coppola, M. (2001). [Children creating language: How Nicaraguan Sign Language acquired a spatial grammar](https://doi.org/10.1111/1467-9280.00359) *Psychological Science, 12*(4), 323-328.
 - Saur, D., Kreher, B. W., Schnell, S., Kummerer, D., Kellmeyer, P., Vry, M.-S., Umarova, R., Musso, M., Glauche, V., Abel, S., Huber, W., Rijntjes, M., & Weiller, C. (2008). [Ventral and dorsal pathways for language](https://doi.org/10.1073/pnas.0805234105) *Proceedings of the National Academy of Sciences, 105*(46), 18035-18040.
-
-## Use
-
-This reference set is strong enough to support:
-
-- PI conversations
-- collaborator outreach
-- scientific argument for **Language Without Sound**
-- grant-aligned discussion of SignWriting as shared research infrastructure
-
-This reference set is selective rather than exhaustive. It identifies sources used to support the model and research program; it is not a systematic review or complete outcome-evidence synthesis.

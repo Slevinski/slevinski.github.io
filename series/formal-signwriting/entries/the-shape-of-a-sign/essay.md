@@ -166,8 +166,3 @@ The conceptual point is then clear:
 Without this spatial layer, Formal SignWriting risks being misunderstood as only a string format.
 
 With it, the model becomes visibly coherent and usable in software.
-
-## Related Platform Routes
-
-- `Sign Text Layout` explains how centered signboxes become vertical and horizontal passages.
-- `Rendering Formal SignWriting` explains how that layout becomes visible output.

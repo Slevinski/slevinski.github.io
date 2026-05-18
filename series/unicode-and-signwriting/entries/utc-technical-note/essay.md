@@ -56,7 +56,7 @@ Under the production-compatibility criteria used here, it cannot.
 
 This is an interoperability judgment about what the current official encoding can carry in practice, not about the sincerity of past participants.
 
-The related production-encoding governance question is treated from the Formal SignWriting side in [Encoding Stewardship and Stability](/#series/formal-signwriting/encoding-authority-and-stability/primary).
+The related production-encoding governance question is treated from the Formal SignWriting side in **Encoding Stewardship and Stability**.
 
 ## Character naming is not enough
 

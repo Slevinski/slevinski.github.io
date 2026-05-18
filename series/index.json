@@ -188,14 +188,16 @@
             "artifact_type": "brief",
             "public_label": "Brief",
             "public_slug": "primary",
-            "publication_designation": "Synthesis Brief"
+            "publication_designation": "Synthesis Brief",
+            "doi": "https://doi.org/10.5281/zenodo.20271111"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "brief",
             "public_label": "Brief",
             "public_slug": "primary",
-            "publication_designation": "Synthesis Brief"
+            "publication_designation": "Synthesis Brief",
+            "doi": "https://doi.org/10.5281/zenodo.20271111"
           },
           "slide_count": 5,
           "companion_documents": []
@@ -253,14 +255,16 @@
             "artifact_type": "technical-paper",
             "public_label": "Technical Paper",
             "public_slug": "primary",
-            "publication_designation": "Technical Paper"
+            "publication_designation": "Technical Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20272661"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "technical-paper",
             "public_label": "Technical Paper",
             "public_slug": "primary",
-            "publication_designation": "Technical Paper"
+            "publication_designation": "Technical Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20272661"
           },
           "slide_count": 4,
           "companion_documents": [
@@ -285,14 +289,16 @@
             "artifact_type": "technical-paper",
             "public_label": "Technical Paper",
             "public_slug": "primary",
-            "publication_designation": "Technical Paper"
+            "publication_designation": "Technical Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20272667"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "technical-paper",
             "public_label": "Technical Paper",
             "public_slug": "primary",
-            "publication_designation": "Technical Paper"
+            "publication_designation": "Technical Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20272667"
           },
           "slide_count": 6,
           "companion_documents": [
@@ -317,14 +323,16 @@
             "artifact_type": "technical-paper",
             "public_label": "Technical Paper",
             "public_slug": "primary",
-            "publication_designation": "Technical Paper"
+            "publication_designation": "Technical Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20272678"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "technical-paper",
             "public_label": "Technical Paper",
             "public_slug": "primary",
-            "publication_designation": "Technical Paper"
+            "publication_designation": "Technical Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20272678"
           },
           "slide_count": 4,
           "companion_documents": [
@@ -356,14 +364,16 @@
             "artifact_type": "technical-paper",
             "public_label": "Technical Paper",
             "public_slug": "primary",
-            "publication_designation": "Technical Paper"
+            "publication_designation": "Technical Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20272691"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "technical-paper",
             "public_label": "Technical Paper",
             "public_slug": "primary",
-            "publication_designation": "Technical Paper"
+            "publication_designation": "Technical Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20272691"
           },
           "slide_count": 4,
           "companion_documents": [
@@ -388,14 +398,16 @@
             "artifact_type": "technical-paper",
             "public_label": "Technical Paper",
             "public_slug": "primary",
-            "publication_designation": "Technical Paper"
+            "publication_designation": "Technical Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20272703"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "technical-paper",
             "public_label": "Technical Paper",
             "public_slug": "primary",
-            "publication_designation": "Technical Paper"
+            "publication_designation": "Technical Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20272703"
           },
           "slide_count": 4,
           "companion_documents": [
@@ -705,14 +717,16 @@
             "artifact_type": "brief",
             "public_label": "Brief",
             "public_slug": "primary",
-            "publication_designation": "Research Brief"
+            "publication_designation": "Research Brief",
+            "doi": "https://doi.org/10.5281/zenodo.20275446"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "brief",
             "public_label": "Brief",
             "public_slug": "primary",
-            "publication_designation": "Research Brief"
+            "publication_designation": "Research Brief",
+            "doi": "https://doi.org/10.5281/zenodo.20275446"
           },
           "slide_count": 4,
           "companion_documents": []
@@ -938,14 +952,16 @@
             "artifact_type": "theoretical-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20275441"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "theoretical-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20275441"
           },
           "slide_count": 5,
           "companion_documents": []
@@ -1789,14 +1805,16 @@
             "artifact_type": "theoretical-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20271309"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "theoretical-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20271309"
           },
           "slide_count": 5,
           "companion_documents": [
@@ -1893,14 +1911,16 @@
             "artifact_type": "theoretical-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20271306"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "theoretical-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20271306"
           },
           "slide_count": 5,
           "companion_documents": []
@@ -1917,14 +1937,16 @@
             "artifact_type": "theoretical-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20271298"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "theoretical-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20271298"
           },
           "slide_count": 5,
           "companion_documents": []

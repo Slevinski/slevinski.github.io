@@ -54,7 +54,7 @@ Slevinski, S. (2026). Sutton SignWriting Infrastructure and Program (v1.0.0). Ze
 | Artifact | Type | Source | Release File | Citation Level | Identifier | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
 | `Sutton SignWriting Infrastructure and Program Overview` | Series Overview | `entries/overview/essay.md` | `overview-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Cite as part of the series release. |
-| `Executive Brief` | Research Brief | `entries/executive-brief/essay.md` | `executive-brief-research-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Standalone white paper. |
+| `Executive Brief` | Research Brief | `entries/executive-brief/essay.md` | `executive-brief-research-brief-v1.0.0.pdf` | Artifact DOI | https://doi.org/10.5281/zenodo.20275446 | Standalone white paper. |
 | `Infrastructure and Stewardship` | White Paper | `entries/infrastructure-and-stewardship/essay.md` | `infrastructure-and-stewardship-white-paper-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Standalone white paper. |
 | `International Shared Support` | Program Brief | `entries/international-shared-support/essay.md` | `international-shared-support-program-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Operational program material; cite through the series DOI. |
 | `Country Ambassadors` | Program Brief | `entries/country-ambassadors/essay.md` | `country-ambassadors-program-brief-v1.0.0.pdf` | Series DOI | https://doi.org/10.5281/zenodo.20075076 | Operational program material; cite through the series DOI. |

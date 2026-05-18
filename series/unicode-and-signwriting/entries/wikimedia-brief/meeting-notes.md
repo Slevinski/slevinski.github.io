@@ -90,11 +90,11 @@ Useful next steps may include:
 
 ## Documents to send or keep ready
 
-- [Wikimedia Brief](/#series/unicode-and-signwriting/wikimedia-brief/primary)
-- [Developer Notes](/#series/unicode-and-signwriting/developer-notes/primary)
-- [Unicode Overview](/#series/unicode-and-signwriting/unicode-overview/primary)
-- [Draft UTC-Facing Technical Note](/#series/unicode-and-signwriting/utc-technical-note/primary), if the discussion becomes concrete
-- [Chronology and Record](/#series/unicode-and-signwriting/chronology-and-record/primary), if history becomes relevant
+- **Wikimedia Brief**
+- **Developer Notes**
+- **Unicode Overview**
+- **Draft UTC-Facing Technical Note**, if the discussion becomes concrete
+- **Chronology and Record**, if history becomes relevant
 
 ## Useful outcome for an initial discussion
 
