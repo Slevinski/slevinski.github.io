@@ -95,7 +95,7 @@ The reviews preserve those terms when discussing the source directly, but the se
 
 1. The overview entry
 2. *Sutton SignWriting and Formal SignWriting Through the Framework*
-3. *Official Unicode SignWriting: The Character Problem and the Written-Sign Problem*
+3. *A Review of Official Unicode SignWriting*
 
 ### If you want the methodological version
 
@@ -105,7 +105,7 @@ The reviews preserve those terms when discussing the source directly, but the se
 ### If you want the forward-looking version
 
 1. *A Layer-Based Evaluation of Signed Language Writing Systems*
-2. *From Critique to Construction: Priorities for Signed Language Writing Infrastructure*
+2. *From Critique to Construction: Priorities for Signed-Language Writing Infrastructure*
 
 ## What to expect from the reviews
 

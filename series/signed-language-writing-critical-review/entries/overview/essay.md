@@ -140,11 +140,11 @@ These two pieces do different work:
 
 These are the main external review targets in the series:
 
-- *Official Unicode SignWriting: The Character Problem and the Written-Sign Problem*
-- *Grushkin (2017): Writing Signed Languages: What For? What Form?*
-- *Filhol (2020): A Human-Editable Sign Language Representation . . . and a Writing System?*
-- *Thiessen (2011): A Grammar of SignWriting*
-- *Martin (2000): From Notation to Writing*
+- *A Review of Official Unicode SignWriting*
+- *A Review of Grushkin (2017)*
+- *A Review of Filhol (2020)*
+- *A Review of Thiessen (2011)*
+- *A Review of Martin (2000)*
 
 These entries are where the recurring critique categories become concrete.
 
@@ -152,7 +152,7 @@ These entries are where the recurring critique categories become concrete.
 
 These entries widen the frame beyond the immediate SignWriting debate and ask whether broader writing theory can actually accommodate signed writing.
 
-- *Meletis and Dürscheid (2022): Writing Systems and Their Use*
+- *A Review of Meletis and Dürscheid (2022)*
 
 The Meletis and Dürscheid entry also includes a companion paper:
 
@@ -164,7 +164,7 @@ That companion does a different job from the review itself. It uses the review t
 
 This entry turns the review series toward next-step priorities rather than further diagnosis.
 
-- *From Critique to Construction: Priorities for Signed Language Writing Infrastructure*
+- *From Critique to Construction: Priorities for Signed-Language Writing Infrastructure*
 
 ## How to use this series
 
@@ -188,24 +188,24 @@ Use this path if you want the shortest route from method to comparative demonstr
 
 1. *Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure*
 2. *Sutton SignWriting and Formal SignWriting Through the Framework*
-3. *Official Unicode SignWriting: The Character Problem and the Written-Sign Problem*
+3. *A Review of Official Unicode SignWriting*
 
 Use this path if you want the internal conceptual and technical baseline before moving into external reviews.
 
 ### Best path for core literature review
 
 1. *A Layer-Based Evaluation of Signed Language Writing Systems*
-2. *Grushkin (2017): Writing Signed Languages: What For? What Form?*
-3. *Thiessen (2011): A Grammar of SignWriting*
-4. *Filhol (2020): A Human-Editable Sign Language Representation . . . and a Writing System?*
-5. *Martin (2000): From Notation to Writing*
+2. *A Review of Grushkin (2017)*
+3. *A Review of Thiessen (2011)*
+4. *A Review of Filhol (2020)*
+5. *A Review of Martin (2000)*
 
 Use this path if you want to move from the comparative overview into the main external review cases.
 
 ### Best path for broader theory
 
 1. *Full-Path Critique Framework for Signed-Language Writing and Text Infrastructure*
-2. *Meletis and Dürscheid (2022): Writing Systems and Their Use*
+2. *A Review of Meletis and Dürscheid (2022)*
 3. *Signed Writing as a Pressure Test for General Writing Theory*
 
 Use this path if your immediate question is how signed writing bears on general writing-system theory.
@@ -213,8 +213,8 @@ Use this path if your immediate question is how signed writing bears on general 
 ### Best path for next steps
 
 1. *A Layer-Based Evaluation of Signed Language Writing Systems*
-2. *Official Unicode SignWriting: The Character Problem and the Written-Sign Problem*
-3. *From Critique to Construction: Priorities for Signed Language Writing Infrastructure*
+2. *A Review of Official Unicode SignWriting*
+3. *From Critique to Construction: Priorities for Signed-Language Writing Infrastructure*
 
 Use this path if your immediate question is what the field most needs next in research, tooling, standards, and adoption.
 

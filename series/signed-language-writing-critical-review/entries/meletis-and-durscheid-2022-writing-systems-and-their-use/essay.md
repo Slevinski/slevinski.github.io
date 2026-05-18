@@ -1,6 +1,6 @@
-# Meletis and Dürscheid (2022): Writing Systems and Their Use
+# A Review of Meletis and Dürscheid (2022)
 
-**A review of a major comparative writing theory and its typological limit with signed language writing**
+**Writing Systems and Their Use and the typological limit of signed language writing**
 
 Reviewed source:
 

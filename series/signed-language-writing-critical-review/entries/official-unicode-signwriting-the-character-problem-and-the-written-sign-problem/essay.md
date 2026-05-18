@@ -1,6 +1,6 @@
-# Official Unicode SignWriting: The Character Problem and the Written-Sign Problem
+# A Review of Official Unicode SignWriting
 
-**A standards review of partial standardization, unresolved text structure, and later over-reading**
+**The Character Problem and the Written-Sign Problem**
 
 Reviewed sources:
 

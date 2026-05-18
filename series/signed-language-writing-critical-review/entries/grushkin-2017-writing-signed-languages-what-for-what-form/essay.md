@@ -1,6 +1,6 @@
-# Grushkin (2017): Writing Signed Languages: What For? What Form?
+# A Review of Grushkin (2017)
 
-**A review of the need for signed writing and the alphabetic-bias problem**
+**Writing Signed Languages: What For? What Form? and the question of signed-language writing purpose**
 
 Reviewed source:
 

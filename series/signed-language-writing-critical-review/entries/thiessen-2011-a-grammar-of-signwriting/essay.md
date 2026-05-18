@@ -1,6 +1,6 @@
-# Thiessen (2011): A Grammar of SignWriting
+# A Review of Thiessen (2011)
 
-**A review of real structural insight placed one level too low**
+**A Grammar of SignWriting and the boundary between writing practice and linguistic description**
 
 Reviewed source:
 

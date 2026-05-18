@@ -1,4 +1,4 @@
-# From Critique to Construction: Priorities for Signed Language Writing Infrastructure
+# From Critique to Construction: Priorities for Signed-Language Writing Infrastructure
 
 **A constructive synthesis for research, tooling, standards, and adoption**
 

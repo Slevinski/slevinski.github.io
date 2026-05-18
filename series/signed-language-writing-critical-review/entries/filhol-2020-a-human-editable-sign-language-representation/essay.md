@@ -1,6 +1,6 @@
-# Filhol (2020): A Human-Editable Sign Language Representation . . . and a Writing System?
+# A Review of Filhol (2020)
 
-**A review of semantic-layer insight, SignWriting misclassification, and overstated novelty claims**
+**A Human-Editable Sign Language Representation and the limits of representation as writing**
 
 Reviewed source:
 

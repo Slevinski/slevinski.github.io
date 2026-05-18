@@ -1,6 +1,6 @@
-# Martin (2000): From Notation to Writing
+# A Review of Martin (2000)
 
-**A review of an early SignWriting-positive comparison with real insight and overstated claims**
+**From Notation to Writing and the threshold between descriptive systems and written text**
 
 Reviewed source:
 

@@ -51,7 +51,7 @@ Then read the individual reviews and the constructive synthesis.
 - [Full-Path Critique Framework](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/essay.md) - reusable evaluation framework; companions: [Review Procedure](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/review-procedure.md), [Reviewer Worksheet](entries/full-path-critique-framework-for-signed-language-writing-and-text-infrastructure/worksheet.md)
 - [Sutton SignWriting and Formal SignWriting Through the Framework](entries/sutton-signwriting-and-formal-signwriting-through-the-framework/essay.md) - internal baseline review
 - [A Layer-Based Evaluation of Signed Language Writing Systems](entries/a-layer-based-evaluation-of-signed-language-writing-systems/essay.md) - bounded comparison across systems; companion: [Comparative Matrix](entries/a-layer-based-evaluation-of-signed-language-writing-systems/comparative-matrix.md)
-- [Official Unicode SignWriting](entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/essay.md) - standards review of official Unicode SignWriting
+- [A Review of Official Unicode SignWriting](entries/official-unicode-signwriting-the-character-problem-and-the-written-sign-problem/essay.md) - standards review of official Unicode SignWriting
 - [Grushkin 2017](entries/grushkin-2017-writing-signed-languages-what-for-what-form/essay.md) - review of writing-form arguments
 - [Filhol 2020](entries/filhol-2020-a-human-editable-sign-language-representation/essay.md) - review of AZee and editable representation
 - [Thiessen 2011](entries/thiessen-2011-a-grammar-of-signwriting/essay.md) - review of grammar and SignWriting description

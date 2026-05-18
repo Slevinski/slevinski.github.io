@@ -1139,14 +1139,16 @@
             "artifact_type": "framework-essay",
             "public_label": "Framework",
             "public_slug": "primary",
-            "publication_designation": "Working Framework"
+            "publication_designation": "Working Framework",
+            "doi": "https://doi.org/10.5281/zenodo.20262299"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "framework-essay",
             "public_label": "Framework",
             "public_slug": "primary",
-            "publication_designation": "Working Framework"
+            "publication_designation": "Working Framework",
+            "doi": "https://doi.org/10.5281/zenodo.20262299"
           },
           "slide_count": 5,
           "companion_documents": [
@@ -1178,14 +1180,16 @@
             "artifact_type": "framework-application-essay",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20262996"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "framework-application-essay",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20262996"
           },
           "slide_count": 4,
           "companion_documents": []
@@ -1202,14 +1206,16 @@
             "artifact_type": "comparative-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20263038"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "comparative-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20263038"
           },
           "slide_count": 4,
           "companion_documents": [
@@ -1225,8 +1231,8 @@
         {
           "slug": "official-unicode-signwriting-the-character-problem-and-the-written-sign-problem",
           "number": 4,
-          "title": "Official Unicode SignWriting: The Character Problem and the Written-Sign Problem",
-          "subtitle": "A standards review of partial standardization, unresolved text structure, and later over-reading",
+          "title": "A Review of Official Unicode SignWriting",
+          "subtitle": "The Character Problem and the Written-Sign Problem",
           "summary": "Official Unicode SignWriting is useful as character standardization but incomplete as a compatible written-sign production path.",
           "essay": "essay.md",
           "primary_artifact": {
@@ -1249,8 +1255,8 @@
         {
           "slug": "grushkin-2017-writing-signed-languages-what-for-what-form",
           "number": 5,
-          "title": "Grushkin (2017): Writing Signed Languages: What For? What Form?",
-          "subtitle": "A review of the need for signed writing and the alphabetic-bias problem",
+          "title": "A Review of Grushkin (2017)",
+          "subtitle": "Writing Signed Languages: What For? What Form? and the question of signed-language writing purpose",
           "summary": "Grushkin is correct and useful on the need for signed writing, but not full-path adequate as an alphabetic prescription.",
           "essay": "essay.md",
           "primary_artifact": {
@@ -1273,8 +1279,8 @@
         {
           "slug": "filhol-2020-a-human-editable-sign-language-representation",
           "number": 6,
-          "title": "Filhol (2020): A Human-Editable Sign Language Representation . . . and a Writing System?",
-          "subtitle": "A review of semantic-layer insight, SignWriting misclassification, and overstated novelty claims",
+          "title": "A Review of Filhol (2020)",
+          "subtitle": "A Human-Editable Sign Language Representation and the limits of representation as writing",
           "summary": "Filhol is useful as semantic and software representation, but misleading when overextended into a writing-system replacement claim.",
           "essay": "essay.md",
           "primary_artifact": {
@@ -1297,8 +1303,8 @@
         {
           "slug": "thiessen-2011-a-grammar-of-signwriting",
           "number": 7,
-          "title": "Thiessen (2011): A Grammar of SignWriting",
-          "subtitle": "A review of real structural insight placed one level too low",
+          "title": "A Review of Thiessen (2011)",
+          "subtitle": "A Grammar of SignWriting and the boundary between writing practice and linguistic description",
           "summary": "Thiessen is correct and useful as script-internal description, but structurally incomplete where symbols remain too central.",
           "essay": "essay.md",
           "primary_artifact": {
@@ -1321,8 +1327,8 @@
         {
           "slug": "martin-2000-from-notation-to-writing",
           "number": 8,
-          "title": "Martin (2000): From Notation to Writing",
-          "subtitle": "A review of an early SignWriting-positive comparison with real insight and overstated claims",
+          "title": "A Review of Martin (2000)",
+          "subtitle": "From Notation to Writing and the threshold between descriptive systems and written text",
           "summary": "Martin is correct and useful as an early SignWriting-positive comparison, but evidence-limited as a full-path claim.",
           "essay": "essay.md",
           "primary_artifact": {
@@ -1345,8 +1351,8 @@
         {
           "slug": "meletis-and-durscheid-2022-writing-systems-and-their-use",
           "number": 9,
-          "title": "Meletis and Dürscheid (2022): Writing Systems and Their Use",
-          "subtitle": "A review of a major comparative writing theory and its typological limit with signed language writing",
+          "title": "A Review of Meletis and Dürscheid (2022)",
+          "subtitle": "Writing Systems and Their Use and the typological limit of signed language writing",
           "summary": "Meletis and Dürscheid are strong at general grapholinguistics but typologically incomplete for signed-language writing.",
           "essay": "essay.md",
           "primary_artifact": {
@@ -1354,14 +1360,16 @@
             "artifact_type": "literature-review-essay",
             "public_label": "Review",
             "public_slug": "primary",
-            "publication_designation": "Working Review"
+            "publication_designation": "Working Review",
+            "doi": "https://doi.org/10.5281/zenodo.20263061"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "literature-review-essay",
             "public_label": "Review",
             "public_slug": "primary",
-            "publication_designation": "Working Review"
+            "publication_designation": "Working Review",
+            "doi": "https://doi.org/10.5281/zenodo.20263061"
           },
           "slide_count": 4,
           "companion_documents": [
@@ -1377,7 +1385,7 @@
         {
           "slug": "from-critique-to-construction-priorities-for-signed-language-writing-infrastructure",
           "number": 10,
-          "title": "From Critique to Construction: Priorities for Signed Language Writing Infrastructure",
+          "title": "From Critique to Construction: Priorities for Signed-Language Writing Infrastructure",
           "subtitle": "A constructive synthesis for research, tooling, standards, and adoption",
           "summary": "A forward-looking synthesis that turns critique toward evidence, tools, corpora, interoperability, data governance, and stewardship.",
           "essay": "essay.md",
@@ -1386,14 +1394,16 @@
             "artifact_type": "synthesis-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20263181"
           },
           "primaryArtifact": {
             "file": "essay.md",
             "artifact_type": "synthesis-paper",
             "public_label": "Paper",
             "public_slug": "primary",
-            "publication_designation": "Working Paper"
+            "publication_designation": "Working Paper",
+            "doi": "https://doi.org/10.5281/zenodo.20263181"
           },
           "slide_count": 4,
           "companion_documents": []
